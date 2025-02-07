@@ -1,25 +1,23 @@
 package main
 
 import (
+	"hse-results/routes"
 	"log"
-	"time"
 
-	"github.com/gofiber/fiber/v2"
+	"hse-results/database"
+
+	"github.com/joho/godotenv"
 )
 
 func main() {
-	app := fiber.New()
-
-	app.Static("/", "./public")
-
-	app.Get("/", func(c *fiber.Ctx) error {
-		return c.SendFile("./public/index.html")
-	})
-
-	app.Get("/hello", func(c *fiber.Ctx) error {
-		time.Sleep(2 * time.Second)
-		return c.SendString("<li>Hello World!</li>")
-	})
-
-	log.Fatal(app.Listen(":3000"))
+	err := godotenv.Load() // Load .env file
+	if err != nil {
+		log.Fatalf("Error loading .env file")
+	}
+	err = database.ConnectDB()
+	if err != nil {
+		log.Fatalf("Failed to connect to MongoDB: %v", err)
+	}
+	defer database.DisconnectDB()
+	routes.SetupRouter()
 }
