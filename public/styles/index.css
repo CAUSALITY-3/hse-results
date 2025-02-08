@@ -30,7 +30,7 @@ body {
     }
 }
 #available-results {
-    animation: fadeIn 1s ease-in-out;
+    animation: fadeIn .5s ease-in-out;
     display: flex;
     flex-direction: column;
     align-items: center;
