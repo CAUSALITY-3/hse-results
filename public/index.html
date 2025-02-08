@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HSE Results</title>
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" href="/styles/index.css">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 
 <body>
-    <h1>Welcome to Fiber with HTMX!</h1>
-    <button hx-get="/hello" hx-target="#response" hx-swap="beforeend" hx-indicator="#spinner" hx-push-url="/home">Click
-        Me!</button>
-    <img id="spinner" class="htmx-indicator" src="https://htmx.org/img/bars.svg" />
-    <div id="response"></div>
-
+    <div id="index-page">
+        <div id="available-results">
+            <h3 id="available-results-title">DHSE Plus Two Results May 2024</h3>
+        </div>
+    </div>
 </body>
 
 </html>
