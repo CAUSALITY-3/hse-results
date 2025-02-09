@@ -28,8 +28,8 @@ func (i *Injector) Get(name string) interface{} {
 	return nil
 }
 
-// Bind puts a singleton into memory
-func (i *Injector) Bind(singleton interface{}, name string) bool {
+// Bind puts a singleton into memorys
+func (i *Injector) Bind(name string, singleton interface{}) bool {
 	i.mu.Lock()
 	defer i.mu.Unlock()
 

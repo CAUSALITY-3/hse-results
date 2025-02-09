@@ -4,6 +4,8 @@ import (
 	"log"
 	"time"
 
+	"hse-results/services"
+
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/fiber/v2/middleware/logger"
@@ -22,6 +24,14 @@ func SetupRouter() {
 
 	app.Get("/search", func(c *fiber.Ctx) error {
 		return c.SendFile("./public/search.html")
+	})
+
+	app.Get("/search/indivitual", func(c *fiber.Ctx) error {
+		name := c.Query("name")
+
+		log.Println(name)
+		res, _ := services.SearchStudentByName(name)
+		return c.JSON(res)
 	})
 
 	app.Get("/hello", func(c *fiber.Ctx) error {

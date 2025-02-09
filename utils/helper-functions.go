@@ -1,7 +1,10 @@
 package utils
 
 import (
+	"encoding/json"
+	"io"
 	"log"
+	"os"
 
 	"github.com/gofiber/fiber/v2"
 )
@@ -60,4 +63,29 @@ func Includes[T any](slice []T, condition func(T) bool) bool {
 		}
 	}
 	return false
+}
+
+func ReadFile[T any](fileName string) (*T, error) {
+	jsonFile, err := os.Open(fileName)
+	if err != nil {
+		log.Fatal(err)
+		jsonFile.Close()
+		return nil, err
+	}
+	defer jsonFile.Close()
+
+	// Read the JSON file content into a byte array
+	byteValue, err := io.ReadAll(jsonFile)
+	if err != nil {
+		log.Fatal(err)
+		return nil, err
+	}
+
+	// Create a variable to hold the decoded data
+	var studentData T
+
+	// Decode the JSON data into the variable
+	json.Unmarshal(byteValue, &studentData)
+	return &studentData, nil
+
 }

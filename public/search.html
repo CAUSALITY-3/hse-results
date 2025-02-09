@@ -12,21 +12,81 @@
 
 <body>
     <div id="search-page">
-        <div id="search-by-student">
-            <label for="">Search Name or Roll No</label>
-            <input type="text">
 
+        <p>Search by Name or Roll No</p>
+        <style>
+            #search-page {
+                width: 720px;
+                height: 100vh;
+                padding: 50px 0;
+            }
+
+            #search-page p {
+                text-align: center;
+                color: #c0c0c0;
+            }
+
+            @media screen and (max-width: 800px) {
+                #search-page {
+                    width: 90vw;
+                }
+            }
+
+            .input-container {
+                background-color: #2b2b2b;
+                padding: 20px;
+                border-radius: 10px;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            }
+
+            .input-container label {
+                display: block;
+                margin-bottom: 8px;
+                color: #c0c0c0;
+            }
+
+            .input-container input[type="text"] {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 20px;
+                border: 1px solid #444;
+                border-radius: 5px;
+                box-sizing: border-box;
+                font-size: 16px;
+                background-color: #3b3b3b;
+                color: #f0f0f0;
+            }
+        </style>
+        <div class="input-container">
+            <form id="myForm">
+                <label for="nameOrRollNo">Name or RollNo</label>
+                <input type="text" id="nameOrRollNo" name="nameOrRollNo" placeholder="Enter your name or roll number">
+            </form>
         </div>
-        <div id="search-by-school">
-            <label for="">Search School Name or School Id</label>
-            <input type="text">
-        </div>
+
+        <script>
+            const inputField = document.getElementById('nameOrRollNo');
+            const submitBtn = document.getElementById('submitBtn');
+
+            inputField.addEventListener('input', function () {
+                if (inputField.value.length >= 3) {
+                    submitBtn.disabled = false;
+                } else {
+                    submitBtn.disabled = true;
+                }
+            });
+
+            document.getElementById('myForm').addEventListener('submit', function (event) {
+                event.preventDefault();
+                const inputValue = inputField.value.trim();
+                if (!isNaN(inputValue)) {
+                    console.log('Roll No:', Number(inputValue));
+                } else {
+                    console.log('Name:', inputValue);
+                }
+            });
+        </script>
     </div>
-
-    <!-- <button hx-get="/hello" hx-target="#response" hx-swap="beforeend" hx-indicator="#spinner" hx-push-url="/home">Click
-        Me!</button>
-    <img id="spinner" class="htmx-indicator" src="https://htmx.org/img/bars.svg" />
-    <div id="response"></div> -->
 </body>
 
 </html>
