@@ -47,14 +47,41 @@
 
             .input-container input[type="text"] {
                 width: 100%;
-                padding: 10px;
-                margin-bottom: 20px;
+                padding: 10px 30px 10px 10px;
                 border: 1px solid #444;
                 border-radius: 5px;
                 box-sizing: border-box;
                 font-size: 16px;
                 background-color: #3b3b3b;
                 color: #f0f0f0;
+            }
+
+            .input-div-container {
+                position: relative;
+                display: inline-block;
+                width: 100%;
+                height: 100%;
+            }
+
+            .spinner {
+                position: absolute;
+                right: 10px;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 20px;
+                height: 20px;
+                display: none;
+                filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%);
+            }
+
+            .user-query-no-result {
+                margin-top: 10px;
+                padding: 5px;
+                font-size: 16px;
+                color: #c7c7c7;
+                font-weight: 700;
+                text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+                animation: fadeIn 0.3s ease-in-out forwards;
             }
 
             .user-query-result {
@@ -65,27 +92,44 @@
                 margin: 5px 0;
                 background-color: #3d3d3d;
                 cursor: pointer;
-                /* display: -webkit-box;
-                -webkit-box-orient: vertical;
-                -webkit-line-clamp: 2; */
-                /* Limits text to 2 lines */
                 overflow: hidden;
                 text-overflow: ellipsis;
                 line-height: 16px;
-                /* Adjusted for readability */
-                /* max-height: 32px; */
-                /* 2 lines × 16px line-height */
                 font-size: 12px;
+                /* opacity: 0;
+                transform: translateY(10px);
+                animation: fadeIn 0.3s ease-in-out forwards; */
             }
 
             .user-query-result:hover {
                 background-color: #696969;
             }
+
+            @keyframes fadeIn {
+                from {
+                    opacity: 0;
+                    transform: translateY(10px);
+                }
+
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+
+            .hide {
+                opacity: 0;
+                transition: opacity 0.1s ease-in-out;
+            }
         </style>
         <div class="input-container">
             <form id="myForm">
                 <label for="nameOrRollNo">Name or RollNo</label>
-                <input type="text" id="nameOrRollNo" name="nameOrRollNo" placeholder="Enter your name or roll number">
+                <div class="input-div-container">
+                    <input type="text" id="nameOrRollNo" name="nameOrRollNo"
+                        placeholder="Enter your name or roll number">
+                    <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
+                </div>
             </form>
             <div id="search-response">
 
@@ -117,16 +161,57 @@
             function findPatternMatchingUserName(pattern, users) {
                 return users.filter(str => str.split("(")?.[0]?.includes(pattern))
             }
+            function delay(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            }
+
+            function removeUsers() {
+                const container = document.getElementById("search-response");
+                const items = document.querySelectorAll(".user-query-result");
+
+                items.forEach((item, index) => {
+                    setTimeout(() => {
+                        item.classList.add("hide"); // Add fade-out effect
+                        setTimeout(() => item.remove(), 100); // Remove after transition
+                    }, index * 50); // Delay each removal slightly
+                });
+            }
 
             async function getSearchResults(inputValue, slicedInputVal) {
+                let spinner = document.getElementById('spinner');
+                removeUsers()
+                spinner.style.display = 'inline';
                 const users = await getAndStoreQuery(`/static/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
                 console.log("users", users)
-                if (users.length) {
-                    document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
+
+                await delay(330)
+                if (users.length && users.length < 1000) {
+                    const container = document.getElementById("search-response");
+                    container.innerHTML = '';
+                    users.forEach((user, index) => {
+                        const div = document.createElement("div");
+                        div.className = "user-query-result";
+                        div.innerHTML = user;
+                        div.style.opacity = "0"; // Start hidden
+                        div.style.transform = "translateY(10px)";
+
+                        container.appendChild(div);
+
+                        setTimeout(() => {
+                            div.style.transition = "opacity 0.3s ease-in-out, transform 0.3s ease-in-out";
+                            div.style.opacity = "1";
+                            div.style.transform = "translateY(0)";
+                        }, index * 30); // Delays each item
+                    });
+                    // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
+                } else if (users.length && users.length > 100) {
+                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
                 } else {
-                    document.getElementById("search-response").innerText = "No Results";
+                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
                 }
                 htmx.process(document.getElementById("search-response"));
+
+                spinner.style.display = 'none';
             }
 
             async function getAndStoreQuery(url, lsKey, pattern) {
@@ -164,7 +249,7 @@
                 if (inputValue?.length >= 3) {
                     console.log("largeFiles", largeFileNames)
                     if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
-                        document.getElementById("search-response").innerText = "Too many users please type more";
+                        document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
                     } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
                         const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
 
@@ -185,6 +270,7 @@
                             }, 500);
                         }
                     }
+                    spinner.style.display = 'none';
                 } else {
                     document.getElementById("search-response").innerText = "";
                 }
