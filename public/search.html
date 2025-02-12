@@ -56,34 +56,139 @@
                 background-color: #3b3b3b;
                 color: #f0f0f0;
             }
+
+            .user-query-result {
+
+                border: 1px solid #444;
+                border-radius: 5px;
+                padding: 10px;
+                margin: 5px 0;
+                background-color: #3d3d3d;
+                cursor: pointer;
+                /* display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2; */
+                /* Limits text to 2 lines */
+                overflow: hidden;
+                text-overflow: ellipsis;
+                line-height: 16px;
+                /* Adjusted for readability */
+                /* max-height: 32px; */
+                /* 2 lines × 16px line-height */
+                font-size: 12px;
+            }
+
+            .user-query-result:hover {
+                background-color: #696969;
+            }
         </style>
         <div class="input-container">
             <form id="myForm">
                 <label for="nameOrRollNo">Name or RollNo</label>
                 <input type="text" id="nameOrRollNo" name="nameOrRollNo" placeholder="Enter your name or roll number">
             </form>
+            <div id="search-response">
+
+            </div>
         </div>
 
         <script>
+
             const inputField = document.getElementById('nameOrRollNo');
-            const submitBtn = document.getElementById('submitBtn');
 
-            inputField.addEventListener('input', function () {
-                if (inputField.value.length >= 3) {
-                    submitBtn.disabled = false;
-                } else {
-                    submitBtn.disabled = true;
+            let inputValStart;
+            let largeFileNames;
+
+            async function fetchData() {
+                try {
+                    const largeFileNamesLS = localStorage.getItem("largeFileNames");
+                    if (largeFileNamesLS) {
+                        largeFileNames = JSON.parse(largeFileNamesLS);
+                    } else {
+                        const largeFileNamesApi = await fetch(`/static/data/largeFileNames.json`);
+                        largeFileNames = await largeFileNamesApi.json()
+                        localStorage.setItem("largeFileNames", JSON.stringify(largeFileNames))
+                    }
+                } catch (error) {
+                    console.error("Error fetching data:", error);
                 }
-            });
+            }
 
-            document.getElementById('myForm').addEventListener('submit', function (event) {
-                event.preventDefault();
+            function findPatternMatchingUserName(pattern, users) {
+                return users.filter(str => str.split("(")?.[0]?.includes(pattern))
+            }
+
+            async function getSearchResults(inputValue, slicedInputVal) {
+                const users = await getAndStoreQuery(`/static/data/user-search/${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
+                console.log("users", users)
+                if (users.length) {
+                    document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
+                } else {
+                    document.getElementById("search-response").innerText = "No Results";
+                }
+                htmx.process(document.getElementById("search-response"));
+            }
+
+            async function getAndStoreQuery(url, lsKey, pattern) {
+                const lsValue = localStorage.getItem(lsKey)
+                if (lsValue) return findPatternMatchingUserName(pattern, JSON.parse(lsValue));
+                try {
+                    const apiRes = await fetch(url);
+                    const parsedData = await apiRes.json();
+                    localStorage.setItem(lsKey, JSON.stringify(parsedData))
+                    return findPatternMatchingUserName(pattern, parsedData);
+                } catch (err) {
+                    console.log(err)
+                    return []
+                }
+            }
+
+
+
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        fetchData(); // Call API when div is visible
+                        observer.disconnect(); // Stop observing after first load
+                    }
+                });
+            }, { threshold: 0.5 }); // 50% of the div must be visible
+
+            observer.observe(document.getElementById("myForm"));
+
+
+            let timeout = null;
+            inputField.addEventListener('input', async () => {
+                clearTimeout(timeout);
                 const inputValue = inputField.value.trim();
-                if (!isNaN(inputValue)) {
-                    console.log('Roll No:', Number(inputValue));
+                if (inputValue?.length >= 3) {
+                    console.log("largeFiles", largeFileNames)
+                    if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
+                        document.getElementById("search-response").innerText = "Too many users please type more";
+                    } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
+                        const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
+
+                        timeout = setTimeout(() => {
+                            getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                        }, 500);
+                    } else {
+                        if (!isNaN(inputValue)) {
+                            console.log('Roll No:', Number(inputValue));
+                        } else {
+                            console.log('Name:', inputValue);
+
+                            inputValStart = inputValue.slice(0, 3);
+                            const slicedInputVal = inputValStart.toUpperCase()
+
+                            timeout = setTimeout(() => {
+                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                            }, 500);
+                        }
+                    }
                 } else {
-                    console.log('Name:', inputValue);
+                    document.getElementById("search-response").innerText = "";
                 }
+
             });
         </script>
     </div>

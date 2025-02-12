@@ -4,7 +4,7 @@ import (
 	"hse-results/routes"
 	"log"
 
-	"hse-results/database"
+	// "hse-results/database"
 
 	"github.com/joho/godotenv"
 )
@@ -14,10 +14,10 @@ func main() {
 	if err != nil {
 		log.Fatalf("Error loading .env file")
 	}
-	err = database.ConnectDB()
-	if err != nil {
-		log.Fatalf("Failed to connect to MongoDB: %v", err)
-	}
-	defer database.DisconnectDB()
+	// err = database.ConnectDB()
+	// if err != nil {
+	// 	log.Fatalf("Failed to connect to MongoDB: %v", err)
+	// }
+	// defer database.DisconnectDB()
 	routes.SetupRouter()
 }
