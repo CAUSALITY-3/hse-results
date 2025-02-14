@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSE Results</title>
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+    <link rel="stylesheet" type="text/css" href="/static/styles/search.css">
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+</head>
+
+<body>
+    <div id="search-page">
+
+        <p>Search by Name or Roll No</p>
+        <style>
+            #search-page {
+                width: 720px;
+                height: 100vh;
+                /* padding: 50px 0; */
+            }
+
+            #search-page p {
+                text-align: center;
+                color: #c0c0c0;
+            }
+
+            @media screen and (max-width: 800px) {
+                #search-page {
+                    width: 90vw;
+                }
+            }
+
+            .input-container {
+                background-color: #2b2b2b;
+                padding: 20px;
+                border-radius: 10px;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            }
+
+            .input-container label {
+                display: block;
+                margin-bottom: 8px;
+                color: #c0c0c0;
+            }
+
+            .input-container input[type="text"] {
+                width: 100%;
+                padding: 10px 30px 10px 10px;
+                border: 1px solid #444;
+                border-radius: 5px;
+                box-sizing: border-box;
+                font-size: 16px;
+                background-color: #3b3b3b;
+                color: #f0f0f0;
+            }
+
+            .input-div-container {
+                position: relative;
+                display: inline-block;
+                width: 100%;
+                height: 100%;
+            }
+
+            .spinner {
+                position: absolute;
+                right: 10px;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 20px;
+                height: 20px;
+                display: none;
+                filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%);
+            }
+
+            #search-go {
+                position: absolute;
+                right: 10px;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 25px;
+                height: 25px;
+                padding: 5px;
+                border-radius: 3px;
+                display: none;
+                /* filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%); */
+            }
+
+            #search-go:hover {
+                background-color: #4e4e4e;
+            }
+
+            #search-response {
+                margin: 7px 0 0 0;
+                max-height: 80vh;
+                overflow-y: scroll;
+                scrollbar-width: none;
+                /* Firefox */
+                -ms-overflow-style: none;
+                /* IE/Edge */
+
+                /* Hide scrollbar for Webkit browsers */
+                &::-webkit-scrollbar {
+                    display: none;
+                }
+            }
+
+            .user-query-no-result {
+                margin-top: 10px;
+                padding: 5px;
+                font-size: 16px;
+                color: #c7c7c7;
+                font-weight: 700;
+                text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+                animation: fadeIn 0.3s ease-in-out forwards;
+            }
+
+            .user-query-result {
+
+                border: 1px solid #444;
+                border-radius: 5px;
+                padding: 10px;
+                margin: 5px 0;
+                background-color: #3d3d3d;
+                cursor: pointer;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                line-height: 16px;
+                font-size: 12px;
+                /* opacity: 0;
+                transform: translateY(10px);
+                animation: fadeIn 0.3s ease-in-out forwards; */
+            }
+
+            .user-query-result:hover {
+                background-color: #696969;
+            }
+
+            @keyframes fadeIn {
+                from {
+                    opacity: 0;
+                    transform: translateY(10px);
+                }
+
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+
+            .hide {
+                opacity: 0;
+                transition: opacity 0.1s ease-in-out;
+            }
+        </style>
+        <div class="input-container">
+            <form id="myForm">
+                <label for="nameOrRollNo">Name or RollNo</label>
+                <div class="input-div-container">
+                    <input type="text" id="nameOrRollNo" name="nameOrRollNo" hx-get="/hello"
+                        hx-target="#search-response" hx-swap="innerHTML"
+                        hx-trigger="keyup[keyCode==13 && this.value.length === 8 && !isNaN(this.value)]"
+                        placeholder="Enter your name or roll number">
+                    <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
+                    <img id="search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]" hx-swap="outerHTML"
+                        hx-select="#index-page" hx-target="#search-page"
+                        hx-vals='js:{ nameOrRollNo: document.getElementById("nameOrRollNo").value }'
+                        src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c0c0c0' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 12h12M12 6l6 6-6 6'/></svg>"
+                        alt="Right Arrow">
+
+
+                </div>
+            </form>
+            <div id="search-response">
+
+            </div>
+        </div>
+
+        <script>
+
+            const inputField = document.getElementById('nameOrRollNo');
+
+            let inputValStart;
+            let largeFileNames;
+
+            async function fetchData() {
+                try {
+                    const largeFileNamesLS = localStorage.getItem("largeFileNames");
+                    if (largeFileNamesLS) {
+                        largeFileNames = JSON.parse(largeFileNamesLS);
+                    } else {
+                        const largeFileNamesApi = await fetch(`/static/09052024P2/data/largeFileNames.json`);
+                        largeFileNames = await largeFileNamesApi.json()
+                        localStorage.setItem("largeFileNames", JSON.stringify(largeFileNames))
+                    }
+                } catch (error) {
+                    console.error("Error fetching data:", error);
+                }
+            }
+
+            function findPatternMatchingUserName(pattern, users) {
+                return users.filter(str => str.split("(")?.[0]?.includes(pattern))
+            }
+            function delay(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            }
+
+            function removeUsers() {
+                const container = document.getElementById("search-response");
+                const items = document.querySelectorAll(".user-query-result");
+
+                items.forEach((item, index) => {
+                    setTimeout(() => {
+                        item.classList.add("hide"); // Add fade-out effect
+                        setTimeout(() => item.remove(), 100); // Remove after transition
+                    }, index * 50); // Delay each removal slightly
+                });
+            }
+
+            async function getSearchResults(inputValue, slicedInputVal) {
+                let spinner = document.getElementById('spinner');
+                removeUsers()
+                spinner.style.display = 'inline';
+                const users = await getAndStoreQuery(`/static/09052024P2/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
+                console.log("users", users)
+
+                await delay(330)
+                if (users.length && users.length < 1000) {
+                    const container = document.getElementById("search-response");
+                    container.innerHTML = '';
+                    users.forEach((user, index) => {
+                        const div = document.createElement("div");
+                        div.className = "user-query-result";
+                        div.innerHTML = user;
+                        div.style.opacity = "0"; // Start hidden
+                        div.style.transform = "translateY(10px)";
+
+                        div.setAttribute("hx-get", "/hello"); // Example URL
+                        div.setAttribute("hx-trigger", "click");
+                        div.setAttribute("hx-swap", "innerHTML");
+
+                        container.appendChild(div);
+
+                        setTimeout(() => {
+                            div.style.transition = "opacity 0.3s ease-in-out, transform 0.3s ease-in-out";
+                            div.style.opacity = "1";
+                            div.style.transform = "translateY(0)";
+                        }, index * 30); // Delays each item
+                    });
+                    // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
+                } else if (users.length && users.length > 100) {
+                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
+                } else {
+                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
+                }
+                htmx.process(document.getElementById("search-response"));
+
+                spinner.style.display = 'none';
+            }
+
+            async function getAndStoreQuery(url, lsKey, pattern) {
+                const lsValue = localStorage.getItem(lsKey)
+                if (lsValue) return findPatternMatchingUserName(pattern, JSON.parse(lsValue));
+                try {
+                    const apiRes = await fetch(url);
+                    const parsedData = await apiRes.json();
+                    localStorage.setItem(lsKey, JSON.stringify(parsedData))
+                    return findPatternMatchingUserName(pattern, parsedData);
+                } catch (err) {
+                    console.log(err)
+                    return []
+                }
+            }
+
+
+
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        fetchData(); // Call API when div is visible
+                        observer.disconnect(); // Stop observing after first load
+                    }
+                });
+            }, { threshold: 0.5 }); // 50% of the div must be visible
+
+            observer.observe(document.getElementById("myForm"));
+
+            document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
+                if (event.key === "Enter") {
+                    event.preventDefault(); // Stop Enter key from submitting the form
+                }
+            });
+
+            let timeout = null;
+            inputField.addEventListener('input', async () => {
+                clearTimeout(timeout);
+
+                const inputValue = inputField.value.trim();
+                if (inputValue?.length >= 3) {
+                    if (!isNaN(inputValue)) {
+                        let startSearchBtn = document.getElementById('search-go');
+                        console.log('Roll No:', Number(inputValue), inputValue.length);
+                        if (inputValue.length === 8) {
+
+                            startSearchBtn.style.display = 'inline';
+                        } else {
+                            startSearchBtn.style.display = 'none';
+                        }
+
+                    } else {
+                        if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
+                            document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
+                        } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
+                            const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
+
+                            timeout = setTimeout(() => {
+                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                            }, 500);
+                        } else {
+                            console.log('Name:', inputValue);
+
+                            inputValStart = inputValue.slice(0, 3);
+                            const slicedInputVal = inputValStart.toUpperCase()
+
+                            timeout = setTimeout(() => {
+                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                            }, 500);
+
+                        }
+                    }
+                    spinner.style.display = 'none';
+                } else {
+                    document.getElementById("search-response").innerText = "";
+                }
+
+            });
+        </script>
+    </div>
+</body>
+
+</html>

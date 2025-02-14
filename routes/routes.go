@@ -22,8 +22,9 @@ func SetupRouter() {
 		return c.SendFile("./public/index.html")
 	})
 
-	app.Get("/search", func(c *fiber.Ctx) error {
-		return c.SendFile("./public/search.html")
+	app.Get("/:resultType/search", func(c *fiber.Ctx) error {
+		resultType := c.Params("resultType") // Get dynamic class name
+		return c.SendFile("./public/" + resultType + "/search.html")
 	})
 
 	app.Get("/search/indivitual", func(c *fiber.Ctx) error {
@@ -36,6 +37,9 @@ func SetupRouter() {
 
 	app.Get("/hello", func(c *fiber.Ctx) error {
 		time.Sleep(0 * time.Second)
+		searchText := c.Query("nameOrRollNo")
+
+		log.Println("query params : ", searchText)
 		// return c.SendString("<li>Hello World!</li>")
 		return c.SendFile("./public/index.html")
 	})
