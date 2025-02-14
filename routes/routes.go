@@ -35,7 +35,7 @@ func SetupRouter() {
 	})
 
 	app.Get("/hello", func(c *fiber.Ctx) error {
-		time.Sleep(2 * time.Second)
+		time.Sleep(0 * time.Second)
 		// return c.SendString("<li>Hello World!</li>")
 		return c.SendFile("./public/index.html")
 	})

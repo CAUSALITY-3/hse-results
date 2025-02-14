@@ -18,7 +18,7 @@
             #search-page {
                 width: 720px;
                 height: 100vh;
-                padding: 50px 0;
+                /* padding: 50px 0; */
             }
 
             #search-page p {
@@ -74,6 +74,38 @@
                 filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%);
             }
 
+            #search-go {
+                position: absolute;
+                right: 10px;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 25px;
+                height: 25px;
+                padding: 5px;
+                border-radius: 3px;
+                display: none;
+                /* filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%); */
+            }
+
+            #search-go:hover {
+                background-color: #4e4e4e;
+            }
+
+            #search-response {
+                margin: 7px 0 0 0;
+                max-height: 80vh;
+                overflow-y: scroll;
+                scrollbar-width: none;
+                /* Firefox */
+                -ms-overflow-style: none;
+                /* IE/Edge */
+
+                /* Hide scrollbar for Webkit browsers */
+                &::-webkit-scrollbar {
+                    display: none;
+                }
+            }
+
             .user-query-no-result {
                 margin-top: 10px;
                 padding: 5px;
@@ -126,9 +158,17 @@
             <form id="myForm">
                 <label for="nameOrRollNo">Name or RollNo</label>
                 <div class="input-div-container">
-                    <input type="text" id="nameOrRollNo" name="nameOrRollNo"
+                    <input type="text" id="nameOrRollNo" name="nameOrRollNo" hx-get="/search"
+                        hx-target="#search-response" hx-swap="innerHTML"
+                        hx-trigger="keyup[keyCode==13 && this.value.length === 8 && !isNaN(this.value)]"
                         placeholder="Enter your name or roll number">
                     <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
+                    <img id="search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]" hx-swap="outerHTML"
+                        hx-select="#index-page" hx-target="#search-page"
+                        src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c0c0c0' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 12h12M12 6l6 6-6 6'/></svg>"
+                        alt="Right Arrow">
+
+
                 </div>
             </form>
             <div id="search-response">
@@ -195,6 +235,10 @@
                         div.style.opacity = "0"; // Start hidden
                         div.style.transform = "translateY(10px)";
 
+                        div.setAttribute("hx-get", "/hello"); // Example URL
+                        div.setAttribute("hx-trigger", "click");
+                        div.setAttribute("hx-swap", "innerHTML");
+
                         container.appendChild(div);
 
                         setTimeout(() => {
@@ -241,24 +285,37 @@
 
             observer.observe(document.getElementById("myForm"));
 
+            document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
+                if (event.key === "Enter") {
+                    event.preventDefault(); // Stop Enter key from submitting the form
+                }
+            });
 
             let timeout = null;
             inputField.addEventListener('input', async () => {
                 clearTimeout(timeout);
+
                 const inputValue = inputField.value.trim();
                 if (inputValue?.length >= 3) {
-                    console.log("largeFiles", largeFileNames)
-                    if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
-                        document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
-                    } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
-                        const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
+                    if (!isNaN(inputValue)) {
+                        let startSearchBtn = document.getElementById('search-go');
+                        console.log('Roll No:', Number(inputValue), inputValue.length);
+                        if (inputValue.length === 8) {
 
-                        timeout = setTimeout(() => {
-                            getSearchResults(inputValue.toUpperCase(), slicedInputVal)
-                        }, 500);
+                            startSearchBtn.style.display = 'inline';
+                        } else {
+                            startSearchBtn.style.display = 'none';
+                        }
+
                     } else {
-                        if (!isNaN(inputValue)) {
-                            console.log('Roll No:', Number(inputValue));
+                        if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
+                            document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
+                        } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
+                            const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
+
+                            timeout = setTimeout(() => {
+                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                            }, 500);
                         } else {
                             console.log('Name:', inputValue);
 
@@ -268,6 +325,7 @@
                             timeout = setTimeout(() => {
                                 getSearchResults(inputValue.toUpperCase(), slicedInputVal)
                             }, 500);
+
                         }
                     }
                     spinner.style.display = 'none';
