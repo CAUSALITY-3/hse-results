@@ -11,41 +11,41 @@
 </head>
 
 <body>
-    <div id="search-page">
+    <div id="school-search-page">
 
         <p>Search by Name or Roll No</p>
         <style>
-            #search-page {
+            #school-search-page {
                 width: 720px;
                 height: 100vh;
                 /* padding: 50px 0; */
             }
 
-            #search-page p {
+            #school-search-page p {
                 text-align: center;
                 color: #c0c0c0;
             }
 
             @media screen and (max-width: 800px) {
-                #search-page {
+                #school-search-page {
                     width: 90vw;
                 }
             }
 
-            .input-container {
+            .school-search-input-container {
                 background-color: #2b2b2b;
                 padding: 20px;
                 border-radius: 10px;
                 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
             }
 
-            .input-container label {
+            .school-search-input-container label {
                 display: block;
                 margin-bottom: 8px;
                 color: #c0c0c0;
             }
 
-            .input-container input[type="text"] {
+            .school-search-input-container input[type="text"] {
                 width: 100%;
                 padding: 10px 30px 10px 10px;
                 border: 1px solid #444;
@@ -56,7 +56,7 @@
                 color: #f0f0f0;
             }
 
-            .input-div-container {
+            .school-search-input-div-container {
                 position: relative;
                 display: inline-block;
                 width: 100%;
@@ -74,7 +74,7 @@
                 filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%);
             }
 
-            #search-go {
+            #school-search-go {
                 position: absolute;
                 right: 10px;
                 top: 50%;
@@ -87,11 +87,11 @@
                 /* filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%); */
             }
 
-            #search-go:hover {
+            #school-search-go:hover {
                 background-color: #4e4e4e;
             }
 
-            #search-response {
+            #school-search-response {
                 margin: 7px 0 0 0;
                 max-height: 80vh;
                 overflow-y: scroll;
@@ -106,7 +106,7 @@
                 }
             }
 
-            .user-query-no-result {
+            .school-query-no-result {
                 margin-top: 10px;
                 padding: 5px;
                 font-size: 16px;
@@ -116,7 +116,7 @@
                 animation: fadeIn 0.3s ease-in-out forwards;
             }
 
-            .user-query-result {
+            .school-query-result {
 
                 border: 1px solid #444;
                 border-radius: 5px;
@@ -133,7 +133,7 @@
                 animation: fadeIn 0.3s ease-in-out forwards; */
             }
 
-            .user-query-result:hover {
+            .school-query-result:hover {
                 background-color: #696969;
             }
 
@@ -154,62 +154,62 @@
                 transition: opacity 0.1s ease-in-out;
             }
         </style>
-        <div class="input-container">
-            <form id="myForm">
-                <label for="nameOrRollNo" hx-get="/static/09052024P2/schoolSearch.html" hx-swap="outerHTML"
-                    hx-target="#search-page" hx-select="#school-search-page">Name or RollNo</label>
-                <div class="input-div-container">
-                    <input type="text" id="nameOrRollNo" name="nameOrRollNo" hx-get="/hello"
-                        hx-target="#search-response" hx-swap="innerHTML"
-                        hx-trigger="keyup[keyCode==13 && this.value.length === 8 && !isNaN(this.value)]"
-                        placeholder="Enter your name or roll number">
+        <div class="school-search-input-container">
+            <form id="school-search-myForm">
+                <label for="schoolNameOrCode">Name or RollNo</label>
+                <div class="school-search-input-div-container">
+                    <input type="text" id="schoolNameOrCode" name="schoolNameOrCode" hx-get="/hello"
+                        hx-target="#school-search-response" hx-swap="innerHTML"
+                        hx-trigger="keyup[keyCode==13 && (this.value.length === 4 || this.value.length === 5) && !isNaN(this.value)]"
+                        placeholder="Enter your School name or code ...">
                     <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
-                    <img id="search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]" hx-swap="outerHTML"
-                        hx-select="#index-page" hx-target="#search-page"
-                        hx-vals='js:{ nameOrRollNo: document.getElementById("nameOrRollNo").value }'
+                    <img id="school-search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]"
+                        hx-swap="outerHTML" hx-select="#index-page" hx-target="#school-search-page"
+                        hx-vals='js:{ schoolNameOrCode: document.getElementById("schoolNameOrCode").value }'
                         src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c0c0c0' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 12h12M12 6l6 6-6 6'/></svg>"
                         alt="Right Arrow">
 
 
                 </div>
             </form>
-            <div id="search-response">
+            <div id="school-search-response">
 
             </div>
         </div>
 
         <script>
 
-            const inputField = document.getElementById('nameOrRollNo');
+            const schoolInputField = document.getElementById('schoolNameOrCode');
 
-            let inputValStart;
-            let largeFileNames;
+            let schoolInputValStart;
+            let schoolCodeName;
 
             async function fetchData() {
                 try {
-                    const largeFileNamesLS = localStorage.getItem("09052024P2_" + "largeFileNames");
-                    if (largeFileNamesLS) {
-                        largeFileNames = JSON.parse(largeFileNamesLS);
+                    const schoolCodeNameMapping = localStorage.getItem("09052024P2_schoolCodeNameMapping");
+                    if (schoolCodeNameMapping) {
+                        schoolCodeName = JSON.parse(schoolCodeNameMapping);
                     } else {
-                        const largeFileNamesApi = await fetch(`/static/09052024P2/data/largeFileNames.json`);
-                        largeFileNames = await largeFileNamesApi.json()
-                        localStorage.setItem("09052024P2_" + "largeFileNames", JSON.stringify(largeFileNames))
+                        const schoolNamesApi = await fetch(`/static/09052024P2/schoolCodeName.json`);
+                        schoolCodeName = await schoolNamesApi.json()
+                        localStorage.setItem("09052024P2_schoolCodeNameMapping", JSON.stringify(schoolCodeName))
                     }
                 } catch (error) {
                     console.error("Error fetching data:", error);
                 }
             }
 
-            function findPatternMatchingUserName(pattern, users) {
-                return users.filter(str => str.split("(")?.[0]?.includes(pattern))
+            function findPatternMatchingSchoolName(pattern, schools) {
+                console.log(schools, "aaaaaaaaaaaaaaa")
+                return schools.filter(str => str?.toUpperCase()?.includes(pattern))
             }
             function delay(ms) {
                 return new Promise(resolve => setTimeout(resolve, ms));
             }
 
-            function removeUsers() {
-                const container = document.getElementById("search-response");
-                const items = document.querySelectorAll(".user-query-result");
+            function removeSchools() {
+                const container = document.getElementById("school-search-response");
+                const items = document.querySelectorAll(".school-query-result");
 
                 items.forEach((item, index) => {
                     setTimeout(() => {
@@ -219,21 +219,15 @@
                 });
             }
 
-            async function getSearchResults(inputValue, slicedInputVal) {
-                let spinner = document.getElementById('spinner');
-                removeUsers()
-                spinner.style.display = 'inline';
-                const users = await getAndStoreQuery(`/static/09052024P2/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
-                console.log("users", users)
-
+            async function loadResults(schools) {
                 await delay(330)
-                if (users.length && users.length < 1000) {
-                    const container = document.getElementById("search-response");
+                if (schools.length && schools.length < 1000) {
+                    const container = document.getElementById("school-search-response");
                     container.innerHTML = '';
-                    users.forEach((user, index) => {
+                    schools.forEach((school, index) => {
                         const div = document.createElement("div");
-                        div.className = "user-query-result";
-                        div.innerHTML = user;
+                        div.className = "school-query-result";
+                        div.innerHTML = school;
                         div.style.opacity = "0"; // Start hidden
                         div.style.transform = "translateY(10px)";
 
@@ -249,25 +243,58 @@
                             div.style.transform = "translateY(0)";
                         }, index * 30); // Delays each item
                     });
-                    // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
-                } else if (users.length && users.length > 100) {
-                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
+                    // document.getElementById("school-search-response").innerHTML = Schools.map(item => `<div class="school-query-result" hx-get="/search">${item}</div>`).join('');
+                } else if (schools.length && schools.length > 100) {
+                    document.getElementById("school-search-response").innerHTML = `<div class="school-query-no-result">Lots of results! Please type more to filter them.</div>`
                 } else {
-                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
+                    document.getElementById("school-search-response").innerHTML = `<div class="school-query-no-result">No matches! Give it another shot.</div>`;
                 }
-                htmx.process(document.getElementById("search-response"));
+                htmx.process(document.getElementById("school-search-response"));
+            }
+
+            async function getSearchResults(inputValue) {
+                let spinner = document.getElementById('spinner');
+                removeSchools()
+                spinner.style.display = 'inline';
+                const schools = await getAndStoreQuery(`/static/09052024P2/schoolCodeName.json`, "schoolCodeNameMapping", inputValue.toUpperCase());
+                console.log("schools", schools)
+
+                await loadResults(schools)
+
+                spinner.style.display = 'none';
+            }
+
+            async function getSearchByCode(code) {
+                let spinner = document.getElementById('spinner');
+                removeSchools()
+                let schools;
+                spinner.style.display = 'inline';
+                const lsValue = localStorage.getItem("09052024P2_schoolCodeNameMapping")
+                const parsedValue = JSON.parse(lsValue);
+                schools = parsedValue[code] ? [parsedValue[code]] : [];
+                try {
+                    const apiRes = await fetch("/static/09052024P2/schoolCodeName.json");
+                    const parsedData = await apiRes.json();
+                    localStorage.setItem("09052024P2_schoolCodeNameMapping", JSON.stringify(parsedData))
+                    schools = parsedData[code] ? [parsedData[code]] : [];
+                } catch (err) {
+                    console.log(err)
+                    schools = []
+                }
+
+                await loadResults(schools)
 
                 spinner.style.display = 'none';
             }
 
             async function getAndStoreQuery(url, lsKey, pattern) {
                 const lsValue = localStorage.getItem("09052024P2_" + lsKey)
-                if (lsValue) return findPatternMatchingUserName(pattern, JSON.parse(lsValue));
+                if (lsValue) return findPatternMatchingSchoolName(pattern, Object.values(JSON.parse(lsValue)));
                 try {
                     const apiRes = await fetch(url);
                     const parsedData = await apiRes.json();
                     localStorage.setItem("09052024P2_" + lsKey, JSON.stringify(parsedData))
-                    return findPatternMatchingUserName(pattern, parsedData);
+                    return findPatternMatchingSchoolName(pattern, Object.values(parsedData));
                 } catch (err) {
                     console.log(err)
                     return []
@@ -276,7 +303,7 @@
 
 
 
-            const observer = new IntersectionObserver((entries, observer) => {
+            const schoolObserver = new IntersectionObserver((entries, observer) => {
                 entries.forEach(entry => {
                     if (entry.isIntersecting) {
                         fetchData(); // Call API when div is visible
@@ -285,54 +312,58 @@
                 });
             }, { threshold: 0.5 }); // 50% of the div must be visible
 
-            observer.observe(document.getElementById("myForm"));
 
-            document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
+            schoolObserver.observe(document.getElementById("school-search-myForm"));
+
+            document.getElementById("schoolNameOrCode").addEventListener("keydown", function (event) {
                 if (event.key === "Enter") {
                     event.preventDefault(); // Stop Enter key from submitting the form
                 }
             });
 
-            let timeout = null;
-            inputField.addEventListener('input', async () => {
-                clearTimeout(timeout);
+            let schoolTimeout = null;
+            schoolInputField.addEventListener('input', async () => {
+                clearTimeout(schoolTimeout);
 
-                const inputValue = inputField.value.trim();
+                const inputValue = schoolInputField.value.trim();
                 if (inputValue?.length >= 3) {
                     if (!isNaN(inputValue)) {
-                        let startSearchBtn = document.getElementById('search-go');
+                        let startSearchBtn = document.getElementById('school-search-go');
                         console.log('Roll No:', Number(inputValue), inputValue.length);
-                        if (inputValue.length === 8) {
-
-                            startSearchBtn.style.display = 'inline';
+                        if (inputValue.length === 4 || inputValue.length === 5) {
+                            let code = +inputValue;
+                            if (inputValue.length === 5 && inputValue[0] == 0) {
+                                code = +inputValue.slice(1, 5)
+                            }
+                            await getSearchByCode(code)
                         } else {
                             startSearchBtn.style.display = 'none';
                         }
 
                     } else {
-                        if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
-                            document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
-                        } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
-                            const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
+                        // if (inputValue.length === 3 && schoolCodeName.includes(inputValue.toUpperCase())) {
+                        //     document.getElementById("school-search-response").innerHTML = `<div class="school-query-no-result">Lots of results! Please type more to filter them.</div>`;
+                        // } else if (inputValue.length > 3 && schoolCodeName.includes(inputValue.slice(0, 3).toUpperCase())) {
+                        //     const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
 
-                            timeout = setTimeout(() => {
-                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
-                            }, 500);
-                        } else {
-                            console.log('Name:', inputValue);
+                        //     schoolTimeout = setTimeout(() => {
+                        //         getSearchResults(inputValue.toUpperCase())
+                        //     }, 500);
+                        // } else {
+                        //     console.log('Name:', inputValue);
 
-                            inputValStart = inputValue.slice(0, 3);
-                            const slicedInputVal = inputValStart.toUpperCase()
+                        //     schoolInputValStart = inputValue.slice(0, 3);
+                        //     const slicedInputVal = schoolInputValStart.toUpperCase()
 
-                            timeout = setTimeout(() => {
-                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
-                            }, 500);
+                        schoolTimeout = setTimeout(() => {
+                            getSearchResults(inputValue.toUpperCase())
+                        }, 500);
 
-                        }
+                        // }
                     }
                     spinner.style.display = 'none';
                 } else {
-                    document.getElementById("search-response").innerText = "";
+                    document.getElementById("school-search-response").innerText = "";
                 }
 
             });
