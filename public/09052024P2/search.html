@@ -12,8 +12,6 @@
 
 <body>
     <div id="search-page">
-
-        <p>Search by Name or Roll No</p>
         <style>
             #search-page {
                 width: 720px;
@@ -153,11 +151,58 @@
                 opacity: 0;
                 transition: opacity 0.1s ease-in-out;
             }
+
+            #individual-school-route-container {
+                display: flex;
+                width: 100%;
+                align-items: center;
+                position: relative;
+                height: 100px;
+            }
+
+            #school-search-route {
+                position: absolute;
+                padding: 15px;
+                background-color: #3d3d3d;
+                border-radius: 5px;
+                background: linear-gradient(90deg,
+                        rgba(255, 255, 255, 0.1) 25%,
+                        rgba(255, 255, 255, 0.3) 50%,
+                        rgba(255, 255, 255, 0.1) 75%);
+                background-size: 200% 100%;
+                animation: shimmer 1.5s infinite linear;
+                right: 10px;
+                cursor: pointer;
+            }
+
+            @keyframes shimmer {
+                0% {
+                    background-position: -200% 0;
+                }
+
+                100% {
+                    background-position: 200% 0;
+                }
+            }
+
+            #school-search-route:hover {
+                background-color: rgb(7, 95, 7, .4);
+            }
+
+            #individual-route-title {
+                font-weight: 700;
+                font-size: larger;
+            }
         </style>
+        <div id="individual-school-route-container">
+            <div id="individual-route-title">Student Search</div>
+            <div id="school-search-route" hx-get="/static/09052024P2/schoolSearch.html" hx-swap="outerHTML"
+                hx-target="#search-page" hx-select="#school-search-page">School Wise 🡺</div>
+        </div>
+
         <div class="input-container">
             <form id="myForm">
-                <label for="nameOrRollNo" hx-get="/static/09052024P2/schoolSearch.html" hx-swap="outerHTML"
-                    hx-target="#search-page" hx-select="#school-search-page">Name or RollNo</label>
+                <label for="nameOrRollNo">Search Name or RollNo</label>
                 <div class="input-div-container">
                     <input type="text" id="nameOrRollNo" name="nameOrRollNo" hx-get="/hello"
                         hx-target="#search-response" hx-swap="innerHTML"
@@ -179,163 +224,170 @@
         </div>
 
         <script>
+            try {
+                // if (inputField) {
+                const inputField = document.getElementById('nameOrRollNo');
 
-            const inputField = document.getElementById('nameOrRollNo');
+                let inputValStart;
+                let largeFileNames;
 
-            let inputValStart;
-            let largeFileNames;
-
-            async function fetchData() {
-                try {
-                    const largeFileNamesLS = localStorage.getItem("09052024P2_" + "largeFileNames");
-                    if (largeFileNamesLS) {
-                        largeFileNames = JSON.parse(largeFileNamesLS);
-                    } else {
-                        const largeFileNamesApi = await fetch(`/static/09052024P2/data/largeFileNames.json`);
-                        largeFileNames = await largeFileNamesApi.json()
-                        localStorage.setItem("09052024P2_" + "largeFileNames", JSON.stringify(largeFileNames))
+                async function fetchData() {
+                    try {
+                        const largeFileNamesLS = localStorage.getItem("09052024P2_" + "largeFileNames");
+                        if (largeFileNamesLS) {
+                            largeFileNames = JSON.parse(largeFileNamesLS);
+                        } else {
+                            const largeFileNamesApi = await fetch(`/static/09052024P2/data/largeFileNames.json`);
+                            largeFileNames = await largeFileNamesApi.json()
+                            localStorage.setItem("09052024P2_" + "largeFileNames", JSON.stringify(largeFileNames))
+                        }
+                    } catch (error) {
+                        console.error("Error fetching data:", error);
                     }
-                } catch (error) {
-                    console.error("Error fetching data:", error);
                 }
-            }
 
-            function findPatternMatchingUserName(pattern, users) {
-                return users.filter(str => str.split("(")?.[0]?.includes(pattern))
-            }
-            function delay(ms) {
-                return new Promise(resolve => setTimeout(resolve, ms));
-            }
+                function findPatternMatchingUserName(pattern, users) {
+                    return users.filter(str => str.split("(")?.[0]?.includes(pattern))
+                }
+                function delay(ms) {
+                    return new Promise(resolve => setTimeout(resolve, ms));
+                }
 
-            function removeUsers() {
-                const container = document.getElementById("search-response");
-                const items = document.querySelectorAll(".user-query-result");
-
-                items.forEach((item, index) => {
-                    setTimeout(() => {
-                        item.classList.add("hide"); // Add fade-out effect
-                        setTimeout(() => item.remove(), 100); // Remove after transition
-                    }, index * 50); // Delay each removal slightly
-                });
-            }
-
-            async function getSearchResults(inputValue, slicedInputVal) {
-                let spinner = document.getElementById('spinner');
-                removeUsers()
-                spinner.style.display = 'inline';
-                const users = await getAndStoreQuery(`/static/09052024P2/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
-                console.log("users", users)
-
-                await delay(330)
-                if (users.length && users.length < 1000) {
+                function removeUsers() {
                     const container = document.getElementById("search-response");
-                    container.innerHTML = '';
-                    users.forEach((user, index) => {
-                        const div = document.createElement("div");
-                        div.className = "user-query-result";
-                        div.innerHTML = user;
-                        div.style.opacity = "0"; // Start hidden
-                        div.style.transform = "translateY(10px)";
+                    const items = document.querySelectorAll(".user-query-result");
 
-                        div.setAttribute("hx-get", "/hello"); // Example URL
-                        div.setAttribute("hx-trigger", "click");
-                        div.setAttribute("hx-swap", "innerHTML");
-
-                        container.appendChild(div);
-
+                    items.forEach((item, index) => {
                         setTimeout(() => {
-                            div.style.transition = "opacity 0.3s ease-in-out, transform 0.3s ease-in-out";
-                            div.style.opacity = "1";
-                            div.style.transform = "translateY(0)";
-                        }, index * 30); // Delays each item
+                            item.classList.add("hide"); // Add fade-out effect
+                            setTimeout(() => item.remove(), 100); // Remove after transition
+                        }, index * 50); // Delay each removal slightly
                     });
-                    // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
-                } else if (users.length && users.length > 100) {
-                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
-                } else {
-                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
                 }
-                htmx.process(document.getElementById("search-response"));
 
-                spinner.style.display = 'none';
-            }
+                async function getSearchResults(inputValue, slicedInputVal) {
+                    let spinner = document.getElementById('spinner');
+                    removeUsers()
+                    spinner.style.display = 'inline';
+                    const users = await getAndStoreQuery(`/static/09052024P2/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
+                    console.log("users", users)
 
-            async function getAndStoreQuery(url, lsKey, pattern) {
-                const lsValue = localStorage.getItem("09052024P2_" + lsKey)
-                if (lsValue) return findPatternMatchingUserName(pattern, JSON.parse(lsValue));
-                try {
-                    const apiRes = await fetch(url);
-                    const parsedData = await apiRes.json();
-                    localStorage.setItem("09052024P2_" + lsKey, JSON.stringify(parsedData))
-                    return findPatternMatchingUserName(pattern, parsedData);
-                } catch (err) {
-                    console.log(err)
-                    return []
+                    await delay(330)
+                    if (users.length && users.length < 1000) {
+                        const container = document.getElementById("search-response");
+                        container.innerHTML = '';
+                        users.forEach((user, index) => {
+                            const div = document.createElement("div");
+                            div.className = "user-query-result";
+                            div.innerHTML = user;
+                            div.style.opacity = "0"; // Start hidden
+                            div.style.transform = "translateY(10px)";
+
+                            div.setAttribute("hx-get", "/hello"); // Example URL
+                            div.setAttribute("hx-trigger", "click");
+                            div.setAttribute("hx-swap", "innerHTML");
+
+                            container.appendChild(div);
+
+                            setTimeout(() => {
+                                div.style.transition = "opacity 0.3s ease-in-out, transform 0.3s ease-in-out";
+                                div.style.opacity = "1";
+                                div.style.transform = "translateY(0)";
+                            }, index * 30); // Delays each item
+                        });
+                        // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
+                    } else if (users.length && users.length > 100) {
+                        document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
+                    } else {
+                        document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
+                    }
+                    htmx.process(document.getElementById("search-response"));
+
+                    spinner.style.display = 'none';
                 }
-            }
+
+                async function getAndStoreQuery(url, lsKey, pattern) {
+                    const lsValue = localStorage.getItem("09052024P2_" + lsKey)
+                    if (lsValue) return findPatternMatchingUserName(pattern, JSON.parse(lsValue));
+                    try {
+                        const apiRes = await fetch(url);
+                        const parsedData = await apiRes.json();
+                        localStorage.setItem("09052024P2_" + lsKey, JSON.stringify(parsedData))
+                        return findPatternMatchingUserName(pattern, parsedData);
+                    } catch (err) {
+                        console.log(err)
+                        return []
+                    }
+                }
 
 
 
-            const observer = new IntersectionObserver((entries, observer) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        fetchData(); // Call API when div is visible
-                        observer.disconnect(); // Stop observing after first load
+                const observer = new IntersectionObserver((entries, observer) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            fetchData(); // Call API when div is visible
+                            observer.disconnect(); // Stop observing after first load
+                        }
+                    });
+                }, { threshold: 0.5 }); // 50% of the div must be visible
+
+                observer.observe(document.getElementById("myForm"));
+
+                document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
+                    if (event.key === "Enter") {
+                        event.preventDefault(); // Stop Enter key from submitting the form
                     }
                 });
-            }, { threshold: 0.5 }); // 50% of the div must be visible
 
-            observer.observe(document.getElementById("myForm"));
+                let timeout = null;
+                inputField.addEventListener('input', async () => {
+                    clearTimeout(timeout);
 
-            document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
-                if (event.key === "Enter") {
-                    event.preventDefault(); // Stop Enter key from submitting the form
-                }
-            });
+                    const inputValue = inputField.value.trim();
+                    if (inputValue?.length >= 3) {
+                        if (!isNaN(inputValue)) {
+                            let startSearchBtn = document.getElementById('search-go');
+                            console.log('Roll No:', Number(inputValue), inputValue.length);
+                            if (inputValue.length === 8) {
 
-            let timeout = null;
-            inputField.addEventListener('input', async () => {
-                clearTimeout(timeout);
+                                startSearchBtn.style.display = 'inline';
+                            } else {
+                                startSearchBtn.style.display = 'none';
+                            }
 
-                const inputValue = inputField.value.trim();
-                if (inputValue?.length >= 3) {
-                    if (!isNaN(inputValue)) {
-                        let startSearchBtn = document.getElementById('search-go');
-                        console.log('Roll No:', Number(inputValue), inputValue.length);
-                        if (inputValue.length === 8) {
-
-                            startSearchBtn.style.display = 'inline';
                         } else {
-                            startSearchBtn.style.display = 'none';
-                        }
+                            if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
+                                document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
+                            } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
+                                const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
 
+                                timeout = setTimeout(() => {
+                                    getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                                }, 500);
+                            } else {
+                                console.log('Name:', inputValue);
+
+                                inputValStart = inputValue.slice(0, 3);
+                                const slicedInputVal = inputValStart.toUpperCase()
+
+                                timeout = setTimeout(() => {
+                                    getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                                }, 500);
+
+                            }
+                        }
+                        spinner.style.display = 'none';
                     } else {
-                        if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
-                            document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
-                        } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
-                            const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
-
-                            timeout = setTimeout(() => {
-                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
-                            }, 500);
-                        } else {
-                            console.log('Name:', inputValue);
-
-                            inputValStart = inputValue.slice(0, 3);
-                            const slicedInputVal = inputValStart.toUpperCase()
-
-                            timeout = setTimeout(() => {
-                                getSearchResults(inputValue.toUpperCase(), slicedInputVal)
-                            }, 500);
-
-                        }
+                        document.getElementById("search-response").innerText = "";
                     }
-                    spinner.style.display = 'none';
-                } else {
-                    document.getElementById("search-response").innerText = "";
-                }
 
-            });
+                });
+
+                // }
+            } catch (e) {
+                console.log(e)
+            }
+
         </script>
     </div>
 </body>
