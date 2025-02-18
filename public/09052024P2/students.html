@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSE Results</title>
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+    <link rel="stylesheet" href="/static/styles/index.css">
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+</head>
+
+<body>
+    <div id="students-page">
+        <div class="student-page-top-section">
+            <div class="student-name">{{ .Name}}</div>
+            <div class="student-rollno">{{ .RollNo}}</div>
+            <div class="student-school">{{ .SchoolName}} - {{ .SchoolCode}}</div>
+            <div class="student-grade">{{ .StudentGroup}}</div>
+        </div>
+        <div class="student-mark-section">
+            <div class="student-subject-container {{ .Hide1}}">
+                <div class="student-subject1">{{ .Subject1}}</div>
+                <div class="student-subject1-mark">{{ .Subject1Mark}}</div>
+            </div>
+            <div class="student-subject-container {{ .Hide2}}">
+                <div class="student-subject2">{{ .Subject2}}</div>
+                <div class="student-subject2-mark">{{ .Subject2Mark}}</div>
+            </div>
+            <div class="student-subject-container {{ .Hide3}}">
+                <div class="student-subject3">{{ .Subject3}}</div>
+                <div class="student-subject3-mark">{{ .Subject3Mark}}</div>
+            </div>
+            <div class="student-subject-container {{ .Hide4}}">
+                <div class="student-subject4">{{ .Subject4}}</div>
+                <div class="student-subject4-mark">{{ .Subject4Mark}}</div>
+            </div>
+            <div class="student-subject-container {{ .Hide5}}">
+                <div class="student-subject5">{{ .Subject5}}</div>
+                <div class="student-subject5-mark">{{ .Subject5Mark}}</div>
+            </div>
+            <div class="student-subject-container {{ .Hide6}}">
+                <div class="student-subject6">{{ .Subject6}}</div>
+                <div class="student-subject6-mark">{{ .Subject6Mark}}</div>
+            </div>
+            <script>
+                const fullAplus = "{{ .FullAplus }}"
+                console.log(fullAplus)
+
+                const xvg = JSON.parse("{{ .Xvg}}")
+
+                console.log("qwerty", xvg)
+            </script>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

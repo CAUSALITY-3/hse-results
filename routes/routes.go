@@ -35,6 +35,21 @@ func SetupRouter() {
 		return c.JSON(res)
 	})
 
+	app.Get("/:resultType/search/:rollno", func(c *fiber.Ctx) error {
+		resultType := c.Params("resultType")
+		rollNo := c.Params("rollno")
+		log.Println(resultType, rollNo)
+
+		err := services.GetStudentResults(c, resultType, "23007265")
+		if err != nil {
+			log.Println("Error executing template:", err)
+			return c.Status(500).SendString("Error rendering template")
+		}
+
+		return nil
+
+	})
+
 	app.Get("/hello", func(c *fiber.Ctx) error {
 		time.Sleep(0 * time.Second)
 		searchText := c.Query("nameOrRollNo")

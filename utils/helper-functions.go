@@ -82,10 +82,10 @@ func ReadFile[T any](fileName string) (*T, error) {
 	}
 
 	// Create a variable to hold the decoded data
-	var studentData T
+	var typeData T
 
 	// Decode the JSON data into the variable
-	json.Unmarshal(byteValue, &studentData)
-	return &studentData, nil
+	json.Unmarshal(byteValue, &typeData)
+	return &typeData, nil
 
 }
