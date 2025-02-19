@@ -177,7 +177,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 		return err
 	}
 	log.Println("FullAplus", studentTemplateMapping.FullAplus)
-
+	c.Set("Content-Type", "text/html")
 	err = tmpl.Execute(c.Response().BodyWriter(), studentTemplateMapping)
 	if err != nil {
 		log.Println("Error executing template:", err)

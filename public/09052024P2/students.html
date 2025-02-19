@@ -12,48 +12,202 @@
 
 <body>
     <div id="students-page">
+        <style>
+            /* General Page Styling */
+            /* body {
+                background-color: #1e1e1e;
+                color: #ffffff;
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 100vh;
+            } */
+
+            /* Student Page Container */
+            #students-page {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 20px;
+                width: 90%;
+                max-width: 800px;
+                padding: 20px;
+                background: #252525;
+                border-radius: 10px;
+                box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+            }
+
+            /* Student Information Section */
+            .student-page-top-section {
+                text-align: center;
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                padding: 15px;
+                border-bottom: 2px solid #444;
+            }
+
+            /* Student Details */
+            .student-name {
+                font-weight: 700;
+                font-size: 26px;
+                color: #ffcc00;
+            }
+
+            .student-rollno,
+            .student-school {
+                font-weight: 500;
+                font-size: 18px;
+                color: #cccccc;
+            }
+
+            /* Student Group - Positioned Above Table */
+            .student-group {
+                font-weight: 600;
+                font-size: 22px;
+                background-color: #333;
+                color: #ffcc00;
+                padding: 8px 15px;
+                border-radius: 6px;
+                text-align: center;
+                width: fit-content;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+            }
+
+            /* Marks Section */
+            .student-mark-section {
+                width: 100%;
+                padding: 15px 0;
+            }
+
+            /* Table Styling */
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                background-color: #333;
+                color: #ffffff;
+                border-radius: 8px;
+                overflow: hidden;
+                text-align: left;
+            }
+
+            /* Table Header */
+            thead {
+                background-color: #444;
+            }
+
+            th,
+            td {
+                padding: 12px;
+                border-bottom: 1px solid #555;
+            }
+
+            th {
+                font-weight: bold;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                color: #ffcc00;
+            }
+
+            /* Row Hover Effect */
+            tr:hover {
+                background-color: #2e2e2e;
+            }
+
+            /* Remove bottom border from last row */
+            tbody tr:last-child td {
+                border-bottom: none;
+            }
+
+            /* Responsive Styling */
+            @media (max-width: 800px) {
+                #students-page {
+                    width: 95%;
+                    padding: 15px;
+                }
+
+                .student-name {
+                    font-size: 22px;
+                }
+
+                .student-rollno,
+                .student-school {
+                    font-size: 16px;
+                }
+
+                .student-group {
+                    font-size: 18px;
+                    padding: 6px 12px;
+                }
+
+                table {
+                    font-size: 14px;
+                }
+
+                th,
+                td {
+                    padding: 8px;
+                }
+            }
+        </style>
         <div class="student-page-top-section">
-            <div class="student-name">{{ .Name}}</div>
-            <div class="student-rollno">{{ .RollNo}}</div>
-            <div class="student-school">{{ .SchoolName}} - {{ .SchoolCode}}</div>
-            <div class="student-grade">{{ .StudentGroup}}</div>
+            <div class="student-name">{{ .Name }}</div>
+            <div class="student-rollno">{{ .RollNo }}</div>
+            <div class="student-school">{{ .SchoolName }} - {{ .SchoolCode }}</div>
         </div>
+
+        <!-- Student Group Positioned Above Table -->
+        <div class="student-group">{{ .StudentGroup }}</div>
+
         <div class="student-mark-section">
-            <div class="student-subject-container {{ .Hide1}}">
-                <div class="student-subject1">{{ .Subject1}}</div>
-                <div class="student-subject1-mark">{{ .Subject1Mark}}</div>
-            </div>
-            <div class="student-subject-container {{ .Hide2}}">
-                <div class="student-subject2">{{ .Subject2}}</div>
-                <div class="student-subject2-mark">{{ .Subject2Mark}}</div>
-            </div>
-            <div class="student-subject-container {{ .Hide3}}">
-                <div class="student-subject3">{{ .Subject3}}</div>
-                <div class="student-subject3-mark">{{ .Subject3Mark}}</div>
-            </div>
-            <div class="student-subject-container {{ .Hide4}}">
-                <div class="student-subject4">{{ .Subject4}}</div>
-                <div class="student-subject4-mark">{{ .Subject4Mark}}</div>
-            </div>
-            <div class="student-subject-container {{ .Hide5}}">
-                <div class="student-subject5">{{ .Subject5}}</div>
-                <div class="student-subject5-mark">{{ .Subject5Mark}}</div>
-            </div>
-            <div class="student-subject-container {{ .Hide6}}">
-                <div class="student-subject6">{{ .Subject6}}</div>
-                <div class="student-subject6-mark">{{ .Subject6Mark}}</div>
-            </div>
-            <script>
-                const fullAplus = "{{ .FullAplus }}"
-                console.log(fullAplus)
-
-                const xvg = JSON.parse("{{ .Xvg}}")
-
-                console.log("qwerty", xvg)
-            </script>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Subject</th>
+                        <th>Mark</th>
+                        <th>Grade</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="{{ .Hide1 }}">
+                        <td>{{ .Subject1 }}</td>
+                        <td>{{ .Subject1Mark }}</td>
+                        <td>{{ .Subject1Grade }}</td>
+                    </tr>
+                    <tr class="{{ .Hide2 }}">
+                        <td>{{ .Subject2 }}</td>
+                        <td>{{ .Subject2Mark }}</td>
+                        <td>{{ .Subject2Grade }}</td>
+                    </tr>
+                    <tr class="{{ .Hide3 }}">
+                        <td>{{ .Subject3 }}</td>
+                        <td>{{ .Subject3Mark }}</td>
+                        <td>{{ .Subject3Grade }}</td>
+                    </tr>
+                    <tr class="{{ .Hide4 }}">
+                        <td>{{ .Subject4 }}</td>
+                        <td>{{ .Subject4Mark }}</td>
+                        <td>{{ .Subject4Grade }}</td>
+                    </tr>
+                    <tr class="{{ .Hide5 }}">
+                        <td>{{ .Subject5 }}</td>
+                        <td>{{ .Subject5Mark }}</td>
+                        <td>{{ .Subject5Grade }}</td>
+                    </tr>
+                    <tr class="{{ .Hide6 }}">
+                        <td>{{ .Subject6 }}</td>
+                        <td>{{ .Subject6Mark }}</td>
+                        <td>{{ .Subject6Grade }}</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
-    </div>
     </div>
 </body>
+
 
 </html>

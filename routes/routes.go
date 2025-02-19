@@ -59,5 +59,9 @@ func SetupRouter() {
 		return c.SendFile("./public/index.html")
 	})
 
+	app.Use(func(c *fiber.Ctx) error {
+		return c.Redirect("/", 302) // 302 Found (Temporary Redirect)
+	})
+
 	log.Fatal(app.Listen(":3000"))
 }
