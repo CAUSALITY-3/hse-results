@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Percentage Distribution</title>
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+
+<body>
+    <h2>Student Percentage Distribution</h2>
+    <div id="column_chart" style="width: 1000px; height: 500px;"></div>
+    <div id="chart_div"></div>
+    <style>
+        #chart_div {
+            width: 80vw;
+            /* Full viewport width */
+            height: 40vh;
+            /* Adjust height as needed */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+
+    <script>
+        // Load Google Charts
+        google.charts.load('current', { packages: ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('number', 'Percentage');
+            data.addColumn('number', 'Number of Students');
+            data.addColumn({ type: 'string', role: 'style' }); // Custom bar color
+            data.addColumn({ type: 'string', role: 'tooltip' }); // Custom tooltip
+
+            var studentData = [
+                [0, 2], [1, 1], [2, 3], [3, 5], [4, 4], [5, 8], [6, 7], [7, 10],
+                [8, 15], [9, 13], [10, 12], [11, 10], [12, 9], [13, 15], [14, 16],
+                [15, 20], [16, 18], [17, 22], [18, 25], [19, 27], [20, 30], [21, 28],
+                [22, 35], [23, 38], [24, 40], [25, 42], [26, 41], [27, 45], [28, 50],
+                [29, 48], [30, 55], [31, 53], [32, 58], [33, 60], [34, 65], [35, 63],
+                [36, 70], [37, 72], [38, 74], [39, 75], [40, 78], [41, 79], [42, 80],
+                [43, 82], [44, 85], [45, 88], [46, 90], [47, 92], [48, 94], [49, 95],
+                [50, 97], [51, 98], [52, 100], [53, 102], [54, 105], [55, 108],
+                [56, 110], [57, 112], [58, 115], [59, 118], [60, 120], [61, 122],
+                [62, 125], [63, 128], [64, 130], [65, 133], [66, 135], [67, 138],
+                [68, 140], [69, 143], [70, 145], [71, 147], [72, 150], [73, 153],
+                [74, 155], [75, 157], // <- 75% (Highlighted Green, Custom Tooltip)
+                [76, 160], [77, 162], [78, 165], [79, 167], [80, 170], [81, 172],
+                [82, 175], [83, 177], [84, 180], [85, 182], [86, 185], [87, 188],
+                [88, 190], [89, 192], [90, 195], [91, 197], [92, 200], [93, 202],
+                [94, 205], [95, 208], [96, 210], [97, 212], [98, 215], [99, 218],
+                [100, 220]
+            ];
+
+            // Add data and set green for 75%, blue for others, custom tooltip for 75%
+            studentData.forEach(([percentage, students]) => {
+                let color = (percentage === 75) ? '#34A853' : "gray"; // Green for 75%, Blue otherwise
+                let tooltip = (percentage === 75)
+                    ? `🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} 🎉 75% Achieved! 🎉\nTotal Students: ${students} `
+                    : `Percentage: ${percentage}%\nTotal Students: ${students}`;
+                data.addRow([percentage, students, `color: ${color}`, tooltip]);
+            });
+
+            // var options = {
+            // title: 'Student Percentage Distribution',
+            // legend: { position: 'none' },
+            // hAxis: {
+            //     title: 'Total Percentage (%)',
+            //     minValue: 0,
+            //     maxValue: 100,
+            //     gridlines: { count: 10 }
+            // },
+            // vAxis: {
+            //     title: 'Total Students',
+            //     minValue: 0
+            // },
+            // bar: { groupWidth: '75%' }
+            // };
+
+            var options = {
+                width: '900%', // Allows dynamic resizing
+                height: window.innerHeight * 0.8, // Adjust height dynamically
+                chartArea: {
+                    width: '80%', // Ensures bars are not cut off
+                    height: '50%'
+                },
+                title: 'Student Percentage Distribution',
+                legend: { position: 'none' },
+                hAxis: {
+                    title: 'Total Percentage (%)',
+                    minValue: 0,
+                    maxValue: 100,
+                    gridlines: { count: 10 }
+                },
+                vAxis: {
+                    title: 'Total Students',
+                    minValue: 0
+                },
+                bar: { groupWidth: '75%' }
+            };
+
+            var chart = new google.visualization.ColumnChart(document.getElementById('column_chart'));
+            chart.draw(data, options);
+        }
+    </script>
+</body>
+
+</html>
