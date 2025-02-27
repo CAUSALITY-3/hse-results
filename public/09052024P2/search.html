@@ -281,15 +281,15 @@
                             div.className = "user-query-result";
                             div.innerHTML = user;
                             const rollno = user.split("(")[1].split(")")[0]
-                            div.style.opacity = "0"; // Start hidden
+                            div.style.opacity = "0";
                             div.style.transform = "translateY(10px)";
 
-                            div.setAttribute("hx-get", `/09052024P2/search/${rollno}`); // Example URL
+                            div.setAttribute("hx-get", `/09052024P2/search/student/${rollno}`);
                             div.setAttribute("hx-trigger", "click");
                             div.setAttribute("hx-swap", "outerHTML");
                             div.setAttribute("hx-target", "#search-page");
                             div.setAttribute("hx-select", "#students-page");
-                            div.setAttribute("hx-push-url", `/09052024P2/search/${rollno}`);
+                            div.setAttribute("hx-push-url", `/09052024P2/search/student/${rollno}`);
 
                             container.appendChild(div);
 

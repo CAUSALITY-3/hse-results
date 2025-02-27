@@ -58,3 +58,19 @@ type TemplateMappedStudentData struct {
 	Result        string
 	Xvg           string
 }
+
+type SchoolResult []SchoolResultElement
+
+type SchoolResultElement struct {
+	RollNo   string  `json:"rollNo"`
+	Regular  bool    `json:"regular"`
+	Name     string  `json:"name"`
+	Group    string  `json:"group"`
+	Subject1 Subject `json:"subject1"`
+	Subject2 Subject `json:"subject2"`
+	Subject3 Subject `json:"subject3"`
+	Subject4 Subject `json:"subject4"`
+	Subject5 Subject `json:"subject5"`
+	Subject6 Subject `json:"subject6"`
+	Result   string  `json:"result"`
+}

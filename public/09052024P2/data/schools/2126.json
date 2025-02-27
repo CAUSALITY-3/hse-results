@@ -1,0 +1,964 @@
+[
+  {
+    "rollNo": "23060298",
+    "regular": true,
+    "name": "ALTHAF N",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 87
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 115
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "C+",
+      "marks": 103
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 84
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C",
+      "marks": 99
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 104
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060299",
+    "regular": true,
+    "name": "ALTHAF S",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 90
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 130
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "C+",
+      "marks": 110
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 98
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C+",
+      "marks": 106
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C",
+      "marks": 95
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23060300",
+    "regular": true,
+    "name": "ANAND S.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 61
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "D",
+      "marks": 70
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 63
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 87
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 56
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 84
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060301",
+    "regular": true,
+    "name": "ASIF. B",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 69
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 119
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "C+",
+      "marks": 114
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C+",
+      "marks": 103
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C",
+      "marks": 90
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 102
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060302",
+    "regular": true,
+    "name": "ERFAN E",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 82
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 147
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "B+",
+      "marks": 152
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C+",
+      "marks": 102
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "B",
+      "marks": 137
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "B",
+      "marks": 127
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060304",
+    "regular": true,
+    "name": "MAHEEN A",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 60
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "D",
+      "marks": 81
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 67
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 80
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 62
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C",
+      "marks": 85
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060305",
+    "regular": true,
+    "name": "MUHAMMED AFZAL.N",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 89
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "B+",
+      "marks": 142
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 89
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C+",
+      "marks": 106
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 117
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23060306",
+    "regular": true,
+    "name": "MUHAMMED ANAS. H",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 115
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 145
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "B+",
+      "marks": 143
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C+",
+      "marks": 100
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C+",
+      "marks": 111
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 107
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23060307",
+    "regular": true,
+    "name": "MUHAMMED ASLAM N",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 62
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 122
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "C+",
+      "marks": 109
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 77
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C",
+      "marks": 86
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 64
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060308",
+    "regular": true,
+    "name": "MUHAMMED BILAL N",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 62
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "D",
+      "marks": 81
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 83
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 73
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 62
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 64
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060309",
+    "regular": true,
+    "name": "MUHAMMED FOUZAN N.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 80
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C",
+      "marks": 90
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "C",
+      "marks": 93
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 92
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 65
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 75
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060310",
+    "regular": true,
+    "name": "MUHAMMED SAALIM A",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 80
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 101
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 79
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 94
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 66
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C",
+      "marks": 96
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060311",
+    "regular": true,
+    "name": "MUHAMMED SHAFI A.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 89
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 108
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "C+",
+      "marks": 101
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 87
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C",
+      "marks": 99
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 104
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23060312",
+    "regular": true,
+    "name": "MUHAMMED SHAFI.M",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 50
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "D",
+      "marks": 85
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 68
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 65
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 63
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 62
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060313",
+    "regular": true,
+    "name": "RAMEES .N",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 42
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 110
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 67
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 55
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 66
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 59
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060314",
+    "regular": true,
+    "name": "SALMAN UL FARIZI . A",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 120
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 154
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 99
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "B",
+      "marks": 128
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "B",
+      "marks": 121
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23060315",
+    "regular": true,
+    "name": "SHEHINSHA S.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 86
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C",
+      "marks": 97
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "C+",
+      "marks": 101
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 65
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 62
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 74
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060316",
+    "regular": true,
+    "name": "SHINAS I.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 81
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C",
+      "marks": 89
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 68
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 64
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 62
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 69
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060317",
+    "regular": true,
+    "name": "SHINAS M",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 65
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C",
+      "marks": 91
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 84
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 61
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 79
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 77
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060318",
+    "regular": true,
+    "name": "SHINAS S.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 64
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C",
+      "marks": 93
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 75
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 53
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 81
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "D",
+      "marks": 65
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060319",
+    "regular": true,
+    "name": "SINAN SALIM",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 84
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C",
+      "marks": 90
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "D",
+      "marks": 78
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 61
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "D",
+      "marks": 80
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C",
+      "marks": 86
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060320",
+    "regular": true,
+    "name": "MUHSINA M.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 114
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A",
+      "marks": 175
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "B+",
+      "marks": 143
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 82
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C+",
+      "marks": 100
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 115
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060321",
+    "regular": true,
+    "name": "NAISHANA N.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 117
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A",
+      "marks": 170
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "B",
+      "marks": 120
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 84
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C+",
+      "marks": 109
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 106
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23060322",
+    "regular": true,
+    "name": "SHABANA K.",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 93
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 155
+    },
+    "subject3": {
+      "name": "HISTORY",
+      "grade": "B",
+      "marks": 134
+    },
+    "subject4": {
+      "name": "ECONOMICS",
+      "grade": "D",
+      "marks": 69
+    },
+    "subject5": {
+      "name": "POLITICAL SCIENCE",
+      "grade": "C+",
+      "marks": 110
+    },
+    "subject6": {
+      "name": "SOCIOLOGY",
+      "grade": "C+",
+      "marks": 106
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23500669",
+    "regular": true,
+    "name": "MARSELIN ISAC VAIDYAN",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "subject2": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "C+",
+      "marks": 116
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "D",
+      "marks": 85
+    },
+    "subject5": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "B+",
+      "marks": 148
+    },
+    "result": "NHS"
+  },
+  {
+    "rollNo": "23500670",
+    "regular": true,
+    "name": "RASHID .R",
+    "group": "HUMANITIES",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D",
+      "marks": 77
+    },
+    "subject2": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "subject3": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "subject4": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "subject5": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "subject6": {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    "result": "NHS"
+  }
+]

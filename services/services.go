@@ -185,3 +185,28 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	}
 	return nil
 }
+
+// func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
+
+// 	student, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/data/schools/" + schoolCode + ".json")
+// 	if err != nil {
+// 		log.Println("Error Reading student data:", err)
+// 		return err
+// 	}
+
+// 	var studentTemplateMapping types.TemplateMappedStudentData
+
+// 	tmpl, err := template.ParseFiles("./public/" + requestType + "/students.html")
+// 	if err != nil {
+// 		log.Println("Error loading template:", err)
+// 		return err
+// 	}
+// 	log.Println("FullAplus", studentTemplateMapping.FullAplus)
+// 	c.Set("Content-Type", "text/html")
+// 	err = tmpl.Execute(c.Response().BodyWriter(), studentTemplateMapping)
+// 	if err != nil {
+// 		log.Println("Error executing template:", err)
+// 		return c.Status(500).SendString("Error rendering template")
+// 	}
+// 	return nil
+// }

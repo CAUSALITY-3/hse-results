@@ -1,0 +1,927 @@
+[
+  {
+    "rollNo": "23070481",
+    "regular": true,
+    "name": "ABISHEK. S",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 134
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "C+",
+      "marks": 105
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B",
+      "marks": 123
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "B+",
+      "marks": 140
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070482",
+    "regular": true,
+    "name": "ALEN V RAJU",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A",
+      "marks": 161
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B",
+      "marks": 125
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B+",
+      "marks": 144
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B+",
+      "marks": 141
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "A",
+      "marks": 162
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070483",
+    "regular": true,
+    "name": "ASHISH K. LIJU",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 144
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B+",
+      "marks": 141
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B+",
+      "marks": 145
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "A+",
+      "marks": 180
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070484",
+    "regular": true,
+    "name": "JITHIN JAMES",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 157
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B+",
+      "marks": 141
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B+",
+      "marks": 147
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "A",
+      "marks": 174
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "B+",
+      "marks": 150
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070485",
+    "regular": true,
+    "name": "MANOJ M.S",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 100
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B",
+      "marks": 120
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B",
+      "marks": 130
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "B",
+      "marks": 123
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070486",
+    "regular": true,
+    "name": "SIVADEV M.",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 145
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B",
+      "marks": 127
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "A",
+      "marks": 161
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B+",
+      "marks": 153
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "A",
+      "marks": 170
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070487",
+    "regular": true,
+    "name": "ADITHYA ANIL",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B+",
+      "marks": 141
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A+",
+      "marks": 180
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B+",
+      "marks": 141
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "A",
+      "marks": 161
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "A+",
+      "marks": 180
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "A+",
+      "marks": 183
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070488",
+    "regular": true,
+    "name": "ANASWARA BABU",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B+",
+      "marks": 142
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A",
+      "marks": 169
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B+",
+      "marks": 142
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "A",
+      "marks": 164
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "A",
+      "marks": 166
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "A+",
+      "marks": 180
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070489",
+    "regular": true,
+    "name": "ANJANAMOL AJAYAN",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 104
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 122
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "C+",
+      "marks": 104
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B",
+      "marks": 122
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "B+",
+      "marks": 141
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070490",
+    "regular": true,
+    "name": "ANU SHIJI",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 123
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A",
+      "marks": 162
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B+",
+      "marks": 142
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "A",
+      "marks": 169
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "A+",
+      "marks": 180
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "A+",
+      "marks": 197
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070491",
+    "regular": true,
+    "name": "MALAVIKA MADHU",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B+",
+      "marks": 143
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A",
+      "marks": 170
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B+",
+      "marks": 143
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "A",
+      "marks": 167
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "A",
+      "marks": 166
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "A+",
+      "marks": 180
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070492",
+    "regular": true,
+    "name": "SARANYA B.T",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 101
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B",
+      "marks": 125
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "B+",
+      "marks": 149
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070493",
+    "regular": true,
+    "name": "SHEBA MOLE S.P",
+    "group": "SCIENCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 107
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 123
+    },
+    "subject3": {
+      "name": "PHYSICS",
+      "grade": "C+",
+      "marks": 107
+    },
+    "subject4": {
+      "name": "CHEMISTRY",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject5": {
+      "name": "COMPUTER SCIENCE",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject6": {
+      "name": "MATHEMATICS-SCI",
+      "grade": "B",
+      "marks": 132
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070494",
+    "regular": true,
+    "name": "ABHILASH S K",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 141
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "B+",
+      "marks": 141
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "A",
+      "marks": 166
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "B+",
+      "marks": 149
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B+",
+      "marks": 147
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070495",
+    "regular": true,
+    "name": "ANANDU B",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A+",
+      "marks": 180
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "B+",
+      "marks": 149
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "A+",
+      "marks": 188
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "A",
+      "marks": 160
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070496",
+    "regular": true,
+    "name": "BABUJI P",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 122
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 148
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "B",
+      "marks": 126
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "A",
+      "marks": 167
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "B+",
+      "marks": 146
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B+",
+      "marks": 144
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070497",
+    "regular": true,
+    "name": "NANDU ANILKUMAR",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "D+",
+      "marks": 79
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 102
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "C",
+      "marks": 94
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "C",
+      "marks": 99
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "C",
+      "marks": 96
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "C+",
+      "marks": 110
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070498",
+    "regular": true,
+    "name": "TALLU P.T",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 134
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "B",
+      "marks": 123
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "B",
+      "marks": 128
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B+",
+      "marks": 142
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070499",
+    "regular": true,
+    "name": "AJITHA SUNIL",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 96
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 119
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "C+",
+      "marks": 102
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "C+",
+      "marks": 103
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "C+",
+      "marks": 108
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B+",
+      "marks": 141
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070500",
+    "regular": true,
+    "name": "BUSHRA N.S",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B+",
+      "marks": 145
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "A",
+      "marks": 172
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "A",
+      "marks": 169
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "A+",
+      "marks": 182
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "A+",
+      "marks": 182
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "A+",
+      "marks": 193
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070501",
+    "regular": true,
+    "name": "EXIBA JACOB",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "B",
+      "marks": 121
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 146
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "B",
+      "marks": 120
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "B+",
+      "marks": 156
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "B+",
+      "marks": 147
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B+",
+      "marks": 157
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070502",
+    "regular": true,
+    "name": "HASNA BADARUDEEN",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C+",
+      "marks": 100
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B+",
+      "marks": 147
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "B",
+      "marks": 120
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "A",
+      "marks": 160
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "B+",
+      "marks": 140
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "A",
+      "marks": 160
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070503",
+    "regular": true,
+    "name": "NISHANA NISHAD",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 89
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 113
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "C",
+      "marks": 93
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "C+",
+      "marks": 102
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "C+",
+      "marks": 102
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B",
+      "marks": 122
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070504",
+    "regular": true,
+    "name": "SUMAYYA S.",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 97
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "C+",
+      "marks": 115
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "C+",
+      "marks": 101
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "C+",
+      "marks": 111
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "C+",
+      "marks": 111
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B",
+      "marks": 137
+    },
+    "result": "EHS"
+  },
+  {
+    "rollNo": "23070505",
+    "regular": true,
+    "name": "SURABHI S.",
+    "group": "COMMERCE",
+    "subject1": {
+      "name": "ENGLISH",
+      "grade": "C",
+      "marks": 99
+    },
+    "subject2": {
+      "name": "MALAYALAM",
+      "grade": "B",
+      "marks": 131
+    },
+    "subject3": {
+      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
+      "grade": "C+",
+      "marks": 116
+    },
+    "subject4": {
+      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+      "grade": "B+",
+      "marks": 147
+    },
+    "subject5": {
+      "name": "ECONOMICS",
+      "grade": "B",
+      "marks": 132
+    },
+    "subject6": {
+      "name": "COMPUTER APPLICATION-COM",
+      "grade": "B+",
+      "marks": 159
+    },
+    "result": "EHS"
+  }
+]

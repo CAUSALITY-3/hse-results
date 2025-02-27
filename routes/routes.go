@@ -39,7 +39,7 @@ func SetupRouter() {
 		return c.JSON(res)
 	})
 
-	app.Get("/:resultType/search/:rollno", func(c *fiber.Ctx) error {
+	app.Get("/:resultType/search/student/:rollno", func(c *fiber.Ctx) error {
 		resultType := c.Params("resultType")
 		rollNo := c.Params("rollno")
 		log.Println(resultType, rollNo)
@@ -51,6 +51,13 @@ func SetupRouter() {
 		}
 
 		return nil
+
+	})
+
+	app.Get("/:resultType/search/school/:schoolCode", func(c *fiber.Ctx) error {
+		resultType := c.Params("resultType")
+		// rollNo := c.Params("schoolCode")
+		return c.SendFile("./public/" + resultType + "/school.html")
 
 	})
 
