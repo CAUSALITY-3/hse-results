@@ -7,19 +7,28 @@
     <title>Exam Results</title>
     <style>
         body {
+            padding: 0;
+            margin: 0;
             background-color: #1e1e1e;
             color: #ffffff;
             font-family: Arial, sans-serif;
-            padding: 20px;
+            /* padding: 20px; */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100vw;
+            height: 100vh;
         }
 
         .container {
             max-width: 800px;
-            margin: auto;
-            background: #2e2e2e;
+            /* margin: auto; */
+            /* background: #2e2e2e; */
             padding: 20px;
+            background: #252525;
             border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+            height: auto;
         }
 
         h1,
@@ -75,42 +84,16 @@
     <script>
         const schoolData = {
             name: "XYZ Public School",
-            schoolCode: 1234,
-            result: [
-                {
-                    rollNo: "001",
-                    regular: true,
-                    name: "John Doe",
-                    group: "Science",
-                    subject1: { name: "Math", grade: "A", marks: 95 },
-                    subject2: { name: "Physics", grade: "B", marks: 85 },
-                    subject3: { name: "Chemistry", grade: "A", marks: 90 },
-                    subject4: { name: "Biology", grade: "A", marks: 88 },
-                    subject5: { name: "English", grade: "B", marks: 80 },
-                    subject6: { name: "Computer", grade: "A", marks: 92 },
-                    result: "Pass"
-                },
-                {
-                    rollNo: "002",
-                    regular: true,
-                    name: "Jane Smith",
-                    group: "Commerce",
-                    subject1: { name: "Accounts", grade: "C", marks: 65 },
-                    subject2: { name: "Economics", grade: "B", marks: 75 },
-                    subject3: { name: "Business Studies", grade: "A", marks: 88 },
-                    subject4: { name: "Math", grade: "C", marks: 60 },
-                    subject5: { name: "English", grade: "B", marks: 70 },
-                    subject6: { name: "Statistics", grade: "B", marks: 78 },
-                    result: "Pass"
-                }
-            ]
-        };
+            schoolCode: 1234
+        }
+
+        const schoolResult = JSON.parse('{{ .SchoolResult }}');
 
         document.getElementById("schoolName").innerText = schoolData.name;
         document.getElementById("schoolCode").innerText = schoolData.schoolCode;
 
         const tableBody = document.getElementById("resultTableBody");
-        schoolData.result.forEach(student => {
+        schoolResult.forEach(student => {
             const row = document.createElement("tr");
             row.innerHTML = `
                 <td>${student.rollNo}</td>
@@ -124,7 +107,7 @@
                     ${student.subject5.name}: ${student.subject5.marks} (${student.subject5.grade})<br>
                     ${student.subject6.name}: ${student.subject6.marks} (${student.subject6.grade})
                 </td>
-                <td class="${student.result === 'Pass' ? 'pass' : 'fail'}">${student.result}</td>
+                <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
             `;
             tableBody.appendChild(row);
         });

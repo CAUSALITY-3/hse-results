@@ -95,7 +95,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 
 	var studentTemplateMapping types.TemplateMappedStudentData
 
-	sub1, _ := json.Marshal(student.Subject1)
+	// sub1, _ := json.Marshal(student.Subject1)
 	studentTemplateMapping.Name = student.Name
 	studentTemplateMapping.RollNo = student.RollNo
 	studentTemplateMapping.Regular = student.Regular
@@ -103,7 +103,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	studentTemplateMapping.SchoolName = student.SchoolName
 	studentTemplateMapping.SchoolCode = student.SchoolCode
 	studentTemplateMapping.FullAplus = true
-	studentTemplateMapping.Xvg = string(sub1)
+	// studentTemplateMapping.Xvg = string(sub1)
 	if student.Subject1.Name != "" {
 		studentTemplateMapping.Subject1 = student.Subject1.Name
 		studentTemplateMapping.Subject1Mark = student.Subject1.Marks
@@ -176,7 +176,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 		log.Println("Error loading template:", err)
 		return err
 	}
-	log.Println("FullAplus", studentTemplateMapping.FullAplus)
+	log.Println("FullAplus", tmpl)
 	c.Set("Content-Type", "text/html")
 	err = tmpl.Execute(c.Response().BodyWriter(), studentTemplateMapping)
 	if err != nil {
@@ -184,6 +184,40 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 		return c.Status(500).SendString("Error rendering template")
 	}
 	return nil
+}
+
+func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
+	school, err := utils.ReadFile[types.SchoolResults]("./public/" + requestType + "/data/schools/" + schoolCode + ".json")
+	if err != nil {
+		log.Println("Error Reading student data:", err)
+		return err
+	}
+
+	// var schoolTemplateMapping types.SchoolResults
+	tmpl, err := template.ParseFiles("./public/" + requestType + "/school.html")
+	if err != nil {
+		log.Println("Error loading template:", err)
+		return err
+	}
+	var temp struct {
+		SchoolResult string
+	}
+
+	SchoolResult, err := json.Marshal(school)
+	if err != nil {
+		fmt.Println("Error:", err)
+		return err
+	}
+	temp.SchoolResult = string(SchoolResult)
+	log.Println("FullAplus", temp)
+	c.Set("Content-Type", "text/html")
+	err = tmpl.Execute(c.Response().BodyWriter(), temp)
+	if err != nil {
+		log.Println("Error executing template:", err)
+		return c.Status(500).SendString("Error rendering template")
+	}
+	return nil
+
 }
 
 // func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {

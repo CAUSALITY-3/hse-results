@@ -56,8 +56,16 @@ func SetupRouter() {
 
 	app.Get("/:resultType/search/school/:schoolCode", func(c *fiber.Ctx) error {
 		resultType := c.Params("resultType")
-		// rollNo := c.Params("schoolCode")
-		return c.SendFile("./public/" + resultType + "/school.html")
+		schoolCode := c.Params("schoolCode")
+		log.Println(resultType, schoolCode)
+
+		err := services.GetSchoolResults(c, resultType, schoolCode)
+		if err != nil {
+			log.Println("Error executing template:", err)
+			return c.Status(500).SendString("Error rendering template")
+		}
+
+		return nil
 
 	})
 

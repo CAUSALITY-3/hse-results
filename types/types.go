@@ -59,9 +59,9 @@ type TemplateMappedStudentData struct {
 	Xvg           string
 }
 
-type SchoolResult []SchoolResultElement
+type SchoolResults []SchoolResult
 
-type SchoolResultElement struct {
+type SchoolResult struct {
 	RollNo   string  `json:"rollNo"`
 	Regular  bool    `json:"regular"`
 	Name     string  `json:"name"`
@@ -73,4 +73,10 @@ type SchoolResultElement struct {
 	Subject5 Subject `json:"subject5"`
 	Subject6 Subject `json:"subject6"`
 	Result   string  `json:"result"`
+}
+
+type TemplateMappedSchoolResult struct {
+	Name       string        `json:"name"`
+	SchoolCode string        `json:"schoolCode"`
+	Result     SchoolResults `json:"result"`
 }
