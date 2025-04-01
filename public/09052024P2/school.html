@@ -5,172 +5,156 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exam Results</title>
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
 
-            /* display: flex;
-            justify-content: center;
-
-            align-items: center; */
-        }
-
-
-        /* WebKit Browsers (Chrome, Edge, Safari) */
-        ::-webkit-scrollbar {
-            width: 8px;
-            height: 8px;
-        }
-
-        ::-webkit-scrollbar-track {
-            background: #252525;
-            border-radius: 10px;
-        }
-
-        ::-webkit-scrollbar-thumb {
-            background: linear-gradient(180deg, #444, #666);
-            border-radius: 10px;
-            border: 2px solid #252525;
-        }
-
-        ::-webkit-scrollbar-thumb:hover {
-            background: linear-gradient(180deg, #555, #777);
-        }
-
-        /* Firefox */
-        * {
-            scrollbar-width: thin;
-            scrollbar-color: #444 #252525;
-        }
-
-
-        html {
-            display: flex;
-            justify-content: center;
-
-            align-items: center;
-        }
-
-        body {
-            display: flex;
-            justify-content: center;
-
-            align-items: center;
-            /* height: 100vh; */
-            width: fit-content;
-            /* width: auto; */
-            background-color: #1e1e1e;
-            color: #ffffff;
-            font-family: Arial, sans-serif;
-            overflow: hidden;
-            transform-origin: top left;
-        }
-
-        .container {
-            /* width: 1200px;
-            max-width: 1200px; */
-            width: 1400px;
-            padding: 20px;
-            background: #252525;
-            border-radius: 10px;
-            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
-            overflow: hidden;
-        }
-
-        h1,
-        h2 {
-            text-align: center;
-            margin-bottom: 15px;
-        }
-
-        .result-section {
-            max-height: 85vh;
-            overflow-y: auto;
-            border-radius: 5px;
-            border: 1px solid #444;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            table-layout: fixed;
-            background: #333;
-        }
-
-        thead {
-            position: sticky;
-            top: 0;
-            background: #3e3e3e;
-            z-index: 100;
-        }
-
-        th,
-        td {
-            padding: 12px;
-            text-align: center;
-            border: 1px solid #444;
-        }
-
-        th {
-            background: #3e3e3e;
-            font-weight: bold;
-        }
-
-        .pass {
-            color: #4caf50;
-            font-weight: bold;
-        }
-
-        .fail {
-            color: #ff5252;
-            font-weight: bold;
-        }
-
-        .marks {
-            color: #ffd700;
-            font-weight: bold;
-        }
-
-        .grade {
-            color: #00bcd4;
-            font-weight: bold;
-        }
-
-
-
-
-        /* @media (max-width: 1200px) {
-            body {
-                zoom: 0.9;
-            }
-        }
-
-        @media (max-width: 1024px) {
-            body {
-                zoom: 0.8;
-            }
-        }
-
-        @media (max-width: 768px) {
-            body {
-                zoom: 0.7;
-            }
-        }
-
-        @media (max-width: 600px) {
-            body {
-                zoom: 0.6;
-            }
-        }
-
-         */
-    </style>
 </head>
 
 <body>
-    <div class="container">
+    <div id="school-page" class="container">
+        <style>
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+
+                /* display: flex;
+                justify-content: center;
+    
+                align-items: center; */
+            }
+
+
+            /* WebKit Browsers (Chrome, Edge, Safari) */
+            ::-webkit-scrollbar {
+                width: 8px;
+                height: 8px;
+            }
+
+            ::-webkit-scrollbar-track {
+                background: #252525;
+                border-radius: 10px;
+            }
+
+            ::-webkit-scrollbar-thumb {
+                background: linear-gradient(180deg, #444, #666);
+                border-radius: 10px;
+                border: 2px solid #252525;
+            }
+
+            ::-webkit-scrollbar-thumb:hover {
+                background: linear-gradient(180deg, #555, #777);
+            }
+
+            /* Firefox */
+            * {
+                scrollbar-width: thin;
+                scrollbar-color: #444 #252525;
+            }
+
+
+            html {
+                display: flex;
+                justify-content: center;
+
+                align-items: center;
+            }
+
+            body {
+                display: flex;
+                justify-content: center;
+
+                align-items: center;
+                /* height: 100vh; */
+                width: fit-content;
+                /* width: auto; */
+                background-color: #1e1e1e;
+                color: #ffffff;
+                font-family: Arial, sans-serif;
+                overflow: hidden;
+                transform-origin: top left;
+                height: auto;
+            }
+
+            .container {
+                /* width: 1200px;
+                max-width: 1200px; */
+                /* width: 1400px; */
+                padding: 20px;
+                background: #252525;
+                border-radius: 10px;
+                box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
+                overflow: hidden;
+            }
+
+            h1,
+            h2 {
+                text-align: center;
+                margin-bottom: 15px;
+            }
+
+            .result-section {
+                max-height: 85vh;
+                overflow-y: auto;
+                border-radius: 5px;
+                border: 1px solid #444;
+            }
+
+            @media (max-width: 600px) {
+                .result-section {
+                    overflow-y: scroll;
+                    border-radius: 5px;
+                    border: 1px solid #444;
+                    max-height: 300vh;
+                }
+
+
+            }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                table-layout: fixed;
+                background: #333;
+            }
+
+            thead {
+                position: sticky;
+                top: 0;
+                background: #3e3e3e;
+                z-index: 100;
+            }
+
+            th,
+            td {
+                padding: 12px;
+                text-align: center;
+                border: 1px solid #444;
+            }
+
+            th {
+                background: #3e3e3e;
+                font-weight: bold;
+            }
+
+            .pass {
+                color: #4caf50;
+                font-weight: bold;
+            }
+
+            .fail {
+                color: #ff5252;
+                font-weight: bold;
+            }
+
+            .marks {
+                color: #ffd700;
+                font-weight: bold;
+            }
+
+            .grade {
+                color: #00bcd4;
+                font-weight: bold;
+            }
+        </style>
         <h1>School Exam Results</h1>
         <h2>School Name: <span id="schoolName"></span> (Code: <span id="schoolCode"></span>)</h2>
         <div class="result-section">
@@ -192,55 +176,57 @@
                 <tbody id="resultTableBody"></tbody>
             </table>
         </div>
+        <script>
+            const schoolData = {
+                name: "XYZ Public School",
+                schoolCode: 1234
+            };
+
+            function adjustZoom() {
+                let pageWidth = 1400;
+                let screenWidth = window.innerWidth;
+
+                console.log(pageWidth, screenWidth, window)
+                if (screenWidth < pageWidth) {
+                    let scaleFactor = screenWidth / pageWidth;
+                    document.body.style.zoom = scaleFactor;
+                    console.log(scaleFactor)
+                    // document.body.style.transformOrigin = 'top left';
+                } else {
+                    document.body.style.zoom = 1;
+                }
+            }
+
+            window.onload = adjustZoom;
+            window.onresize = adjustZoom;
+            adjustZoom()
+
+            const schoolResult = JSON.parse('{{ .SchoolResult }}');
+
+            document.getElementById("schoolName").innerText = schoolData.name;
+            document.getElementById("schoolCode").innerText = schoolData.schoolCode;
+
+            const tableBody = document.getElementById("resultTableBody");
+            schoolResult.forEach(student => {
+                const row = document.createElement("tr");
+                row.innerHTML = `
+                    <td>${student.rollNo}</td>
+                    <td>${student.name}</td>
+                    <td>${student.group}</td>
+                    <td>${student.subject1.name ? `${student.subject1.name}: <span class='marks'>${!student.subject1.marks ? "" : student.subject1.marks}</span> (<span class='grade'>${student.subject1.grade}</span>)` : ''}</td>
+                    <td>${student.subject2.name ? `${student.subject2.name}: <span class='marks'>${!student.subject2.marks ? "" : student.subject2.marks}</span> (<span class='grade'>${student.subject2.grade}</span>)` : ''}</td>
+                    <td>${student.subject3.name ? `${student.subject3.name}: <span class='marks'>${!student.subject3.marks ? "" : student.subject3.marks}</span> (<span class='grade'>${student.subject3.grade}</span>)` : ''}</td>
+                    <td>${student.subject4.name ? `${student.subject4.name}: <span class='marks'>${!student.subject4.marks ? "" : student.subject4.marks}</span> (<span class='grade'>${student.subject4.grade}</span>)` : ''}</td>
+                    <td>${student.subject5.name ? `${student.subject5.name}: <span class='marks'>${!student.subject5.marks ? "" : student.subject5.marks}</span> (<span class='grade'>${student.subject5.grade}</span>)` : ''}</td>
+                    <td>${student.subject6.name ? `${student.subject6.name}: <span class='marks'>${!student.subject6.marks ? "" : student.subject6.marks}</span> (<span class='grade'>${student.subject6.grade}</span>)` : ''}</td>
+                    <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
+                `;
+                tableBody.appendChild(row);
+            });
+        </script>
     </div>
 
-    <script>
-        const schoolData = {
-            name: "XYZ Public School",
-            schoolCode: 1234
-        };
 
-        function adjustZoom() {
-            let pageWidth = 1400;
-            let screenWidth = window.innerWidth;
-
-            console.log(pageWidth, screenWidth, window)
-            if (screenWidth < pageWidth) {
-                let scaleFactor = screenWidth / pageWidth;
-                document.body.style.zoom = scaleFactor;
-                console.log(scaleFactor)
-                // document.body.style.transformOrigin = 'top left';
-            } else {
-                document.body.style.zoom = 1;
-            }
-        }
-
-        window.onload = adjustZoom;
-        window.onresize = adjustZoom;
-
-        const schoolResult = JSON.parse('{{ .SchoolResult }}');
-
-        document.getElementById("schoolName").innerText = schoolData.name;
-        document.getElementById("schoolCode").innerText = schoolData.schoolCode;
-
-        const tableBody = document.getElementById("resultTableBody");
-        schoolResult.forEach(student => {
-            const row = document.createElement("tr");
-            row.innerHTML = `
-                <td>${student.rollNo}</td>
-                <td>${student.name}</td>
-                <td>${student.group}</td>
-                <td>${student.subject1.name ? `${student.subject1.name}: <span class='marks'>${!student.subject1.marks ? "" : student.subject1.marks}</span> (<span class='grade'>${student.subject1.grade}</span>)` : ''}</td>
-                <td>${student.subject2.name ? `${student.subject2.name}: <span class='marks'>${!student.subject2.marks ? "" : student.subject2.marks}</span> (<span class='grade'>${student.subject2.grade}</span>)` : ''}</td>
-                <td>${student.subject3.name ? `${student.subject3.name}: <span class='marks'>${!student.subject3.marks ? "" : student.subject3.marks}</span> (<span class='grade'>${student.subject3.grade}</span>)` : ''}</td>
-                <td>${student.subject4.name ? `${student.subject4.name}: <span class='marks'>${!student.subject4.marks ? "" : student.subject4.marks}</span> (<span class='grade'>${student.subject4.grade}</span>)` : ''}</td>
-                <td>${student.subject5.name ? `${student.subject5.name}: <span class='marks'>${!student.subject5.marks ? "" : student.subject5.marks}</span> (<span class='grade'>${student.subject5.grade}</span>)` : ''}</td>
-                <td>${student.subject6.name ? `${student.subject6.name}: <span class='marks'>${!student.subject6.marks ? "" : student.subject6.marks}</span> (<span class='grade'>${student.subject6.grade}</span>)` : ''}</td>
-                <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
-            `;
-            tableBody.appendChild(row);
-        });
-    </script>
 </body>
 
 </html>

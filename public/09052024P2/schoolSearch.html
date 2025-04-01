@@ -244,8 +244,16 @@
                 }
 
                 function findPatternMatchingSchoolName(pattern, schools) {
-                    console.log(schools, "aaaaaaaaaaaaaaa")
-                    return schools.filter(str => str?.toUpperCase()?.includes(pattern))
+                    const filteredSchools = []
+                    for (const code in schools) {
+                        if (schools[code]?.toUpperCase()?.includes(pattern)) {
+                            filteredSchools.push({
+                                name: schools[code],
+                                code
+                            })
+                        }
+                    }
+                    return filteredSchools;
                 }
                 function delay(ms) {
                     return new Promise(resolve => setTimeout(resolve, ms));
@@ -271,13 +279,15 @@
                         schools.forEach((school, index) => {
                             const div = document.createElement("div");
                             div.className = "school-query-result";
-                            div.innerHTML = school;
+                            div.innerHTML = school.name;
                             div.style.opacity = "0"; // Start hidden
                             div.style.transform = "translateY(10px)";
-
-                            div.setAttribute("hx-get", "/hello"); // Example URL
+                            div.setAttribute("hx-get", `/09052024P2/search/school/${school.code}`); // Example URL
                             div.setAttribute("hx-trigger", "click");
-                            div.setAttribute("hx-swap", "innerHTML");
+                            div.setAttribute("hx-swap", "outerHTML");
+                            div.setAttribute("hx-target", "body");
+                            div.setAttribute("hx-select", "#school-page");
+                            div.setAttribute("hx-push-url", `/09052024P2/search/school/${school.code}`);
 
                             container.appendChild(div);
 
@@ -333,12 +343,12 @@
 
                 async function getAndStoreQuery(url, lsKey, pattern) {
                     const lsValue = localStorage.getItem("09052024P2_" + lsKey)
-                    if (lsValue) return findPatternMatchingSchoolName(pattern, Object.values(JSON.parse(lsValue)));
+                    if (lsValue) return findPatternMatchingSchoolName(pattern, JSON.parse(lsValue));
                     try {
                         const apiRes = await fetch(url);
                         const parsedData = await apiRes.json();
                         localStorage.setItem("09052024P2_" + lsKey, JSON.stringify(parsedData))
-                        return findPatternMatchingSchoolName(pattern, Object.values(parsedData));
+                        return findPatternMatchingSchoolName(pattern, parsedData);
                     } catch (err) {
                         console.log(err)
                         return []
