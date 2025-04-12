@@ -12,7 +12,7 @@ type Student struct {
 	SchoolName string    `json:"schoolName"`
 	SchoolCode string    `json:"schoolCode"`
 	TotalMarks int16     `json:"totalMarks"`
-	FullAplus  bool      `json:"fullAplus"`
+	FullAp     bool      `json:"fullAplus"`
 }
 type Subject struct {
 	Name  string `json:"name"`
@@ -25,52 +25,65 @@ type TemplateMappedStudentData struct {
 	Regular      bool
 	Name         string
 	StudentGroup string
-	// Subject1      string
-	// Subject2      string
-	// Subject3      string
-	// Subject4      string
-	// Subject5      string
-	// Subject6      string
-	// Subject1Mark  *int16
-	// Subject2Mark  *int16
-	// Subject3Mark  *int16
-	// Subject4Mark  *int16
-	// Subject5Mark  *int16
-	// Subject6Mark  *int16
-	// Subject1Grade string
-	// Subject2Grade string
-	// Subject3Grade string
-	// Subject4Grade string
-	// Subject5Grade string
-	// Subject6Grade string
-	// Hide1         string
-	// Hide2         string
-	// Hide3         string
-	// Hide4         string
-	// Hide5         string
-	// Hide6         string
-	Subjects   template.HTML
-	SchoolName string
-	SchoolCode string
-	FullAplus  bool
-	TotalMarks int16
-	Result     string
-	Xvg        string
+	Subjects     template.HTML
+	SchoolName   string
+	SchoolCode   string
+	FullAp       bool
+	TotalMarks   int16
+	Result       string
+	Xvg          string
 }
 
 type SchoolResults []SchoolResult
 
 type SchoolResult struct {
-	RollNo   string    `json:"rollNo"`
-	Regular  bool      `json:"regular"`
-	Name     string    `json:"name"`
-	Group    string    `json:"group"`
-	Subjects []Subject `json:"subjects"`
-	Result   string    `json:"result"`
+	SchoolName           string     `json:"schoolName"`
+	SchoolCode           string     `json:"schoolCode"`
+	PhoneNo              string     `json:"phoneNo"`
+	EmailId              string     `json:"emailId"`
+	SchoolType           string     `json:"schoolType"`
+	LocalBody            string     `json:"localBody"`
+	EduDistrict          string     `json:"eduDistrict"`
+	AssemblyConstituency string     `json:"assemblyConstituency"`
+	SchoolGender         string     `json:"schoolGender"`
+	SecondLanguage       string     `json:"secondLanguage"`
+	CourseCode           string     `json:"courseCode"`
+	District             string     `json:"district"`
+	Results              []Student  `json:"results"`
+	PassPercentage       float64    `json:"passPercentage"`
+	TotalFullAp          int        `json:"totalFullAp"`
+	TotalFullMarks       int        `json:"totalFullMarks"`
+	FullApStudents       []string   `json:"fullApStudents"`
+	FullMarkStudents     []string   `json:"fullMarkStudents"`
+	RankList             []RankList `json:"rankList"`
+}
+
+type RankList struct {
+	RollNo     string `json:"rollNo"`
+	Name       string `json:"name"`
+	Group      string `json:"group"`
+	TotalMarks int16  `json:"totalMarks"`
+	Rank       int16  `json:"rank"`
 }
 
 type TemplateMappedSchoolResult struct {
-	Name       string        `json:"name"`
-	SchoolCode string        `json:"schoolCode"`
-	Result     SchoolResults `json:"result"`
+	SchoolName           string        `json:"schoolName"`
+	SchoolCode           string        `json:"schoolCode"`
+	PhoneNo              string        `json:"phoneNo"`
+	EmailId              string        `json:"emailId"`
+	SchoolType           string        `json:"schoolType"`
+	LocalBody            string        `json:"localBody"`
+	EduDistrict          string        `json:"eduDistrict"`
+	AssemblyConstituency string        `json:"assemblyConstituency"`
+	SchoolGender         string        `json:"schoolGender"`
+	SecondLanguage       string        `json:"secondLanguage"`
+	CourseCode           string        `json:"courseCode"`
+	District             string        `json:"district"`
+	Results              SchoolResults `json:"results"`
+	PassPercentage       float64       `json:"passPercentage"`
+	TotalFullAp          int           `json:"totalFullAp"`
+	TotalFullMarks       int           `json:"totalFullMarks"`
+	FullApStudents       []string      `json:"fullApStudents"`
+	FullMarkStudents     []string      `json:"fullMarkStudents"`
+	RankList             []RankList    `json:"rankList"`
 }

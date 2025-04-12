@@ -156,7 +156,8 @@
             }
         </style>
         <h1>School Exam Results</h1>
-        <h2>School Name: <span id="schoolName"></span> (Code: <span id="schoolCode"></span>)</h2>
+        <h2>School Name: {{ .Name }} (Code: {{ .SchoolCode }})
+        </h2>
         <div class="result-section">
             <table>
                 <thead>
@@ -178,10 +179,6 @@
         </div>
         <script>
             (function () {
-                const schoolData = {
-                    name: "XYZ Public School",
-                    schoolCode: 1234
-                };
 
                 function adjustZoom() {
                     let pageWidth = 1400;
@@ -204,9 +201,6 @@
 
                 const schoolResult = JSON.parse('{{ .SchoolResult }}');
 
-                document.getElementById("schoolName").innerText = schoolData.name;
-                document.getElementById("schoolCode").innerText = schoolData.schoolCode;
-
                 const tableBody = document.getElementById("resultTableBody");
                 schoolResult.forEach(student => {
                     const row = document.createElement("tr");
@@ -214,12 +208,9 @@
                     <td>${student.rollNo}</td>
                     <td>${student.name}</td>
                     <td>${student.group}</td>
-                    <td>${student.subject1.name ? `${student.subject1.name}: <span class='marks'>${!student.subject1.marks ? "" : student.subject1.marks}</span> (<span class='grade'>${student.subject1.grade}</span>)` : ''}</td>
-                    <td>${student.subject2.name ? `${student.subject2.name}: <span class='marks'>${!student.subject2.marks ? "" : student.subject2.marks}</span> (<span class='grade'>${student.subject2.grade}</span>)` : ''}</td>
-                    <td>${student.subject3.name ? `${student.subject3.name}: <span class='marks'>${!student.subject3.marks ? "" : student.subject3.marks}</span> (<span class='grade'>${student.subject3.grade}</span>)` : ''}</td>
-                    <td>${student.subject4.name ? `${student.subject4.name}: <span class='marks'>${!student.subject4.marks ? "" : student.subject4.marks}</span> (<span class='grade'>${student.subject4.grade}</span>)` : ''}</td>
-                    <td>${student.subject5.name ? `${student.subject5.name}: <span class='marks'>${!student.subject5.marks ? "" : student.subject5.marks}</span> (<span class='grade'>${student.subject5.grade}</span>)` : ''}</td>
-                    <td>${student.subject6.name ? `${student.subject6.name}: <span class='marks'>${!student.subject6.marks ? "" : student.subject6.marks}</span> (<span class='grade'>${student.subject6.grade}</span>)` : ''}</td>
+                    ${student.subjects.map((subject, index) => {
+                        return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
+                    }).join('')}
                     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
                 `;
                     tableBody.appendChild(row);

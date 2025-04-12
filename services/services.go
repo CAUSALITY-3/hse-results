@@ -101,7 +101,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	studentTemplateMapping.StudentGroup = student.Group
 	studentTemplateMapping.SchoolName = student.SchoolName
 	studentTemplateMapping.SchoolCode = student.SchoolCode
-	studentTemplateMapping.FullAplus = student.FullAplus
+	studentTemplateMapping.FullAp = student.FullAp
 	studentTemplateMapping.Result = student.Result
 	studentTemplateMapping.TotalMarks = student.TotalMarks
 	// studentTemplateMapping.Xvg = string(sub1)
@@ -132,7 +132,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 }
 
 func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
-	school, err := utils.ReadFile[types.SchoolResults]("./public/" + requestType + "/data/schools/" + schoolCode + ".json")
+	school, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/data/schools/" + schoolCode + ".json")
 	if err != nil {
 		log.Println("Error Reading student data:", err)
 		return err
@@ -150,13 +150,22 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 		SchoolCode   string
 	}
 
-	SchoolResult, err := json.Marshal(school)
+	// SchoolResult, err := json.Marshal(school)
+	// if err != nil {
+	// 	fmt.Println("Error:", err)
+	// 	return err
+	// }
+	// fmt.Println("SchoolResult", string(SchoolResult))
+
+	SchoolResultJSON, err := json.Marshal(school.Results)
 	if err != nil {
-		fmt.Println("Error:", err)
-		return err
+		log.Println("Error marshaling school results:", err)
+		return c.Status(500).SendString("Error processing school results")
 	}
-	temp.SchoolResult = string(SchoolResult)
-	log.Println("FullAplus", temp)
+	fmt.Println("SchoolResult", string(SchoolResultJSON))
+	temp.SchoolResult = string(SchoolResultJSON)
+	temp.Name = school.SchoolName
+	temp.SchoolCode = school.SchoolCode
 	c.Set("Content-Type", "text/html")
 	err = tmpl.Execute(c.Response().BodyWriter(), temp)
 	if err != nil {

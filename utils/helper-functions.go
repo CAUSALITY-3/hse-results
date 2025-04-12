@@ -2,6 +2,7 @@ package utils
 
 import (
 	"encoding/json"
+	"fmt"
 	"io"
 	"log"
 	"os"
@@ -67,6 +68,7 @@ func Includes[T any](slice []T, condition func(T) bool) bool {
 
 func ReadFile[T any](fileName string) (*T, error) {
 	jsonFile, err := os.Open(fileName)
+	fmt.Println("Successfully Opened ", fileName)
 	if err != nil {
 		log.Fatal(err)
 		jsonFile.Close()

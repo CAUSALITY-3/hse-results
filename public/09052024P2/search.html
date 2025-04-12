@@ -393,12 +393,13 @@
                 console.log(e)
             }
             document.body.addEventListener("htmx:afterSwap", function (evt) {
-                // Only act on a specific target if needed
                 if (evt.target.id === "search-page") {
                     const currentURL = window.location.pathname;
-                    const newURL = currentURL.substring(0, currentURL.lastIndexOf("/search/")) + "/search";
-                    // Update the URL in the address bar without reloading the page
-                    window.history.pushState({}, "", newURL);
+                    console.log("currentURL", currentURL)
+                    if (currentURL.includes("/search")) {
+                        const newURL = currentURL.split("/search")[0] + "/search";
+                        window.history.pushState({}, "", newURL);
+                    }
                 }
             });
         </script>
