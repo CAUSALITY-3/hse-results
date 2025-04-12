@@ -1,2444 +1,3309 @@
-[
-  {
-    "rollNo": "22424381",
-    "regular": false,
-    "name": "VISHNUPRIYA P S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 55
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22424396",
-    "regular": false,
-    "name": "MUHAMMED ADHIL K P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 104
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424753",
-    "regular": true,
-    "name": "AJAL RAMESAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "E",
-      "marks": 36
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 73
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424754",
-    "regular": true,
-    "name": "AJESH BIJU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 99
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424755",
-    "regular": true,
-    "name": "AJIN SHAJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424756",
-    "regular": true,
-    "name": "AKHILESH P K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424757",
-    "regular": true,
-    "name": "AKSHAY KRISHNAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 49
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424758",
-    "regular": true,
-    "name": "ANAND C K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424759",
-    "regular": true,
-    "name": "ANANDHU C",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424760",
-    "regular": true,
-    "name": "ANANDU P M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 52
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424762",
-    "regular": true,
-    "name": "ANIL KUMAR",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424763",
-    "regular": true,
-    "name": "ASIF KANHIRANDI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424764",
-    "regular": true,
-    "name": "DEEPESH SUNNY",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424765",
-    "regular": true,
-    "name": "GOKUL S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 44
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424766",
-    "regular": true,
-    "name": "JISHNU RAJU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 60
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 93
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424768",
-    "regular": true,
-    "name": "MUHAMMAD FAHAD P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424770",
-    "regular": true,
-    "name": "PRAVEEN A K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 105
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424773",
-    "regular": true,
-    "name": "SANGEETH V K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 90
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424774",
-    "regular": true,
-    "name": "SREEKUTTAN M R",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 51
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 55
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424775",
-    "regular": true,
-    "name": "SREERAGH M S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 104
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424776",
-    "regular": true,
-    "name": "SYMESH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "E",
-      "marks": 39
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424777",
-    "regular": true,
-    "name": "VAISAK GOPALAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424778",
-    "regular": true,
-    "name": "VIJITH B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 48
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424779",
-    "regular": true,
-    "name": "AISWARYA MANJU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424780",
-    "regular": true,
-    "name": "ANEESHA K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424781",
-    "regular": true,
-    "name": "ANUSREE JANAKI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 107
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424783",
-    "regular": true,
-    "name": "AYANA C",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424784",
-    "regular": true,
-    "name": "CHINJU MOHANAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 42
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424785",
-    "regular": true,
-    "name": "DEEPA SUNNY",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 105
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424786",
-    "regular": true,
-    "name": "HARITHA B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424787",
-    "regular": true,
-    "name": "JISHNA.M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424788",
-    "regular": true,
-    "name": "LISHAMOL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424790",
-    "regular": true,
-    "name": "MATHU A B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 54
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 88
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424791",
-    "regular": true,
-    "name": "MRIDULA REGHU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424793",
-    "regular": true,
-    "name": "RAHNA K K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424794",
-    "regular": true,
-    "name": "REMYA MOL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B",
-      "marks": 126
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424795",
-    "regular": true,
-    "name": "REMYA RAVI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 48
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 87
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424796",
-    "regular": true,
-    "name": "RESHMA SANTHOSH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "D",
-      "marks": 104
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424797",
-    "regular": true,
-    "name": "SNEHA MOL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424798",
-    "regular": true,
-    "name": "THARA KUMAR P K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424799",
-    "regular": true,
-    "name": "VAISHNAVI RAVEENDRAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424800",
-    "regular": true,
-    "name": "VISMAYA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424801",
-    "regular": true,
-    "name": "ABHIJITH BABU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 94
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 93
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424802",
-    "regular": true,
-    "name": "ABHINAV K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424804",
-    "regular": true,
-    "name": "AKSHAY D",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 133
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424805",
-    "regular": true,
-    "name": "ANANDU SURESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424808",
-    "regular": true,
-    "name": "ARJUN P B",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 106
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424809",
-    "regular": true,
-    "name": "ARUNKUMAR P K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 98
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424810",
-    "regular": true,
-    "name": "ATHUL KRISHNAN M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 91
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 111
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424811",
-    "regular": true,
-    "name": "JIBIN P M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 93
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424814",
-    "regular": true,
-    "name": "MUHAMMED SALEEL K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424815",
-    "regular": true,
-    "name": "MUHAMMED SHAMIL P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424817",
-    "regular": true,
-    "name": "RAFSHAD P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424818",
-    "regular": true,
-    "name": "RAZAL K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424820",
-    "regular": true,
-    "name": "SREENATH.S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "E",
-      "marks": 37
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 49
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 43
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 44
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 68
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424822",
-    "regular": true,
-    "name": "ALEENA SIBI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424825",
-    "regular": true,
-    "name": "MANYA C",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424827",
-    "regular": true,
-    "name": "PUNNYA K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424828",
-    "regular": true,
-    "name": "SHIJINA SURESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424829",
-    "regular": true,
-    "name": "SIJINA P K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 47
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 55
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 69
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424830",
-    "regular": true,
-    "name": "SIJITHA P K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "E",
-      "marks": 36
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "E",
-      "marks": 39
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 48
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 64
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424833",
-    "regular": true,
-    "name": "SWATHI KRISHNA C",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 133
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424834",
-    "regular": true,
-    "name": "VEENA KUMAR P K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23424835",
-    "regular": true,
-    "name": "VIJINA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 91
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23503581",
-    "regular": true,
-    "name": "ABHISHEK P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23503582",
-    "regular": true,
-    "name": "ATHULYA C L",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "13182",
+  "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+  "phoneNo": "9745302240",
+  "emailId": "aralamfarmghss@gmail.com",
+  "schoolType": "Government",
+  "localBody": "AralamIritty",
+  "eduDistrict": "Thalasserry",
+  "assemblyConstituency": "Peravoor",
+  "courseCode": "10,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "KANNUR",
+  "results": [
+    {
+      "rollNo": "23424753",
+      "regular": true,
+      "name": "AJAL RAMESAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "E",
+          "marks": 36
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 73
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 371,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424754",
+      "regular": true,
+      "name": "AJESH BIJU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 99
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 584,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424755",
+      "regular": true,
+      "name": "AJIN SHAJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 573,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424756",
+      "regular": true,
+      "name": "AKHILESH P K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "HISTORY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 455,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424757",
+      "regular": true,
+      "name": "AKSHAY KRISHNAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 49
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 624,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424758",
+      "regular": true,
+      "name": "ANAND C K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 751,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424759",
+      "regular": true,
+      "name": "ANANDHU C",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 147
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 745,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424760",
+      "regular": true,
+      "name": "ANANDU P M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 359,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424762",
+      "regular": true,
+      "name": "ANIL KUMAR",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 711,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424763",
+      "regular": true,
+      "name": "ASIF KANHIRANDI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 600,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424764",
+      "regular": true,
+      "name": "DEEPESH SUNNY",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 539,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424765",
+      "regular": true,
+      "name": "GOKUL S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 44
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 462,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424766",
+      "regular": true,
+      "name": "JISHNU RAJU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 60
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 93
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 541,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424768",
+      "regular": true,
+      "name": "MUHAMMAD FAHAD P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 681,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424770",
+      "regular": true,
+      "name": "PRAVEEN A K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 105
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 547,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424773",
+      "regular": true,
+      "name": "SANGEETH V K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 90
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 516,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424774",
+      "regular": true,
+      "name": "SREEKUTTAN M R",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 51
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 55
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 375,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424775",
+      "regular": true,
+      "name": "SREERAGH M S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 104
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 654,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424776",
+      "regular": true,
+      "name": "SYMESH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "E",
+          "marks": 39
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "HISTORY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 230,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424777",
+      "regular": true,
+      "name": "VAISAK GOPALAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 558,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424778",
+      "regular": true,
+      "name": "VIJITH B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 48
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 436,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424779",
+      "regular": true,
+      "name": "AISWARYA MANJU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 769,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424780",
+      "regular": true,
+      "name": "ANEESHA K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "HISTORY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 0,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424781",
+      "regular": true,
+      "name": "ANUSREE JANAKI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 107
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 613,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424783",
+      "regular": true,
+      "name": "AYANA C",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 819,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424784",
+      "regular": true,
+      "name": "CHINJU MOHANAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 42
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "HISTORY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 300,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424785",
+      "regular": true,
+      "name": "DEEPA SUNNY",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 105
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 638,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424786",
+      "regular": true,
+      "name": "HARITHA B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 832,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424787",
+      "regular": true,
+      "name": "JISHNA.M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 940,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424788",
+      "regular": true,
+      "name": "LISHAMOL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 547,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424790",
+      "regular": true,
+      "name": "MATHU A B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 54
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 88
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 502,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424791",
+      "regular": true,
+      "name": "MRIDULA REGHU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 789,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424793",
+      "regular": true,
+      "name": "RAHNA K K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 754,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424794",
+      "regular": true,
+      "name": "REMYA MOL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B",
+          "marks": 126
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 727,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424795",
+      "regular": true,
+      "name": "REMYA RAVI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 48
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 476,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424796",
+      "regular": true,
+      "name": "RESHMA SANTHOSH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "D",
+          "marks": 104
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 588,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424797",
+      "regular": true,
+      "name": "SNEHA MOL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "C+",
+          "marks": 116
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424798",
+      "regular": true,
+      "name": "THARA KUMAR P K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 967,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424799",
+      "regular": true,
+      "name": "VAISHNAVI RAVEENDRAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 703,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424800",
+      "regular": true,
+      "name": "VISMAYA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 783,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424801",
+      "regular": true,
+      "name": "ABHIJITH BABU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 94
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 93
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 595,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424802",
+      "regular": true,
+      "name": "ABHINAV K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 542,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424804",
+      "regular": true,
+      "name": "AKSHAY D",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 133
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 719,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424805",
+      "regular": true,
+      "name": "ANANDU SURESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 803,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424808",
+      "regular": true,
+      "name": "ARJUN P B",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 106
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 593,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424809",
+      "regular": true,
+      "name": "ARUNKUMAR P K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 98
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 512,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424810",
+      "regular": true,
+      "name": "ATHUL KRISHNAN M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 91
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 111
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 599,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424811",
+      "regular": true,
+      "name": "JIBIN P M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 93
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 528,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424814",
+      "regular": true,
+      "name": "MUHAMMED SALEEL K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 672,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424815",
+      "regular": true,
+      "name": "MUHAMMED SHAMIL P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 624,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424817",
+      "regular": true,
+      "name": "RAFSHAD P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 601,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424818",
+      "regular": true,
+      "name": "RAZAL K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 770,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424820",
+      "regular": true,
+      "name": "SREENATH.S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "E",
+          "marks": 37
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 49
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 43
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 44
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 68
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 308,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424822",
+      "regular": true,
+      "name": "ALEENA SIBI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 706,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424825",
+      "regular": true,
+      "name": "MANYA C",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 893,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424827",
+      "regular": true,
+      "name": "PUNNYA K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 920,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424828",
+      "regular": true,
+      "name": "SHIJINA SURESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 730,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424829",
+      "regular": true,
+      "name": "SIJINA P K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 47
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 55
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 69
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 386,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424830",
+      "regular": true,
+      "name": "SIJITHA P K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "E",
+          "marks": 36
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "E",
+          "marks": 39
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 48
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 64
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 317,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424833",
+      "regular": true,
+      "name": "SWATHI KRISHNA C",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 133
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 894,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424834",
+      "regular": true,
+      "name": "VEENA KUMAR P K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 662,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23424835",
+      "regular": true,
+      "name": "VIJINA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 91
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 517,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23503581",
+      "regular": true,
+      "name": "ABHISHEK P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 63,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23503582",
+      "regular": true,
+      "name": "ATHULYA C L",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 85,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22424381",
+      "regular": false,
+      "name": "VISHNUPRIYA P S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 55
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 147,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22424396",
+      "regular": false,
+      "name": "MUHAMMED ADHIL K P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 104
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS, ARALAM FARM, KANNUR",
+      "schoolCode": "13182",
+      "totalMarks": 254,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 25,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "THARA KUMAR P K",
+      "rollNo": "23424798",
+      "group": "HUMANITIES",
+      "totalMarks": 967,
+      "rank": 1
+    },
+    {
+      "name": "JISHNA.M",
+      "rollNo": "23424787",
+      "group": "HUMANITIES",
+      "totalMarks": 940,
+      "rank": 2
+    },
+    {
+      "name": "PUNNYA K",
+      "rollNo": "23424827",
+      "group": "COMMERCE",
+      "totalMarks": 920,
+      "rank": 3
+    },
+    {
+      "name": "SWATHI KRISHNA C",
+      "rollNo": "23424833",
+      "group": "COMMERCE",
+      "totalMarks": 894,
+      "rank": 4
+    },
+    {
+      "name": "MANYA C",
+      "rollNo": "23424825",
+      "group": "COMMERCE",
+      "totalMarks": 893,
+      "rank": 5
+    },
+    {
+      "name": "HARITHA B",
+      "rollNo": "23424786",
+      "group": "HUMANITIES",
+      "totalMarks": 832,
+      "rank": 6
+    },
+    {
+      "name": "AYANA C",
+      "rollNo": "23424783",
+      "group": "HUMANITIES",
+      "totalMarks": 819,
+      "rank": 7
+    },
+    {
+      "name": "ANANDU SURESH",
+      "rollNo": "23424805",
+      "group": "COMMERCE",
+      "totalMarks": 803,
+      "rank": 8
+    },
+    {
+      "name": "MRIDULA REGHU",
+      "rollNo": "23424791",
+      "group": "HUMANITIES",
+      "totalMarks": 789,
+      "rank": 9
+    },
+    {
+      "name": "VISMAYA",
+      "rollNo": "23424800",
+      "group": "HUMANITIES",
+      "totalMarks": 783,
+      "rank": 10
+    },
+    {
+      "name": "RAZAL K",
+      "rollNo": "23424818",
+      "group": "COMMERCE",
+      "totalMarks": 770,
+      "rank": 11
+    },
+    {
+      "name": "AISWARYA MANJU",
+      "rollNo": "23424779",
+      "group": "HUMANITIES",
+      "totalMarks": 769,
+      "rank": 12
+    },
+    {
+      "name": "RAHNA K K",
+      "rollNo": "23424793",
+      "group": "HUMANITIES",
+      "totalMarks": 754,
+      "rank": 13
+    },
+    {
+      "name": "ANAND C K",
+      "rollNo": "23424758",
+      "group": "HUMANITIES",
+      "totalMarks": 751,
+      "rank": 14
+    },
+    {
+      "name": "ANANDHU C",
+      "rollNo": "23424759",
+      "group": "HUMANITIES",
+      "totalMarks": 745,
+      "rank": 15
+    },
+    {
+      "name": "SHIJINA SURESH",
+      "rollNo": "23424828",
+      "group": "COMMERCE",
+      "totalMarks": 730,
+      "rank": 16
+    },
+    {
+      "name": "REMYA MOL",
+      "rollNo": "23424794",
+      "group": "HUMANITIES",
+      "totalMarks": 727,
+      "rank": 17
+    },
+    {
+      "name": "AKSHAY D",
+      "rollNo": "23424804",
+      "group": "COMMERCE",
+      "totalMarks": 719,
+      "rank": 18
+    },
+    {
+      "name": "ANIL KUMAR",
+      "rollNo": "23424762",
+      "group": "HUMANITIES",
+      "totalMarks": 711,
+      "rank": 19
+    },
+    {
+      "name": "ALEENA SIBI",
+      "rollNo": "23424822",
+      "group": "COMMERCE",
+      "totalMarks": 706,
+      "rank": 20
+    },
+    {
+      "name": "VAISHNAVI RAVEENDRAN",
+      "rollNo": "23424799",
+      "group": "HUMANITIES",
+      "totalMarks": 703,
+      "rank": 21
+    },
+    {
+      "name": "SNEHA MOL",
+      "rollNo": "23424797",
+      "group": "HUMANITIES",
+      "totalMarks": 697,
+      "rank": 22
+    },
+    {
+      "name": "MUHAMMAD FAHAD P",
+      "rollNo": "23424768",
+      "group": "HUMANITIES",
+      "totalMarks": 681,
+      "rank": 23
+    },
+    {
+      "name": "MUHAMMED SALEEL K",
+      "rollNo": "23424814",
+      "group": "COMMERCE",
+      "totalMarks": 672,
+      "rank": 24
+    },
+    {
+      "name": "VEENA KUMAR P K",
+      "rollNo": "23424834",
+      "group": "COMMERCE",
+      "totalMarks": 662,
+      "rank": 25
+    },
+    {
+      "name": "SREERAGH M S",
+      "rollNo": "23424775",
+      "group": "HUMANITIES",
+      "totalMarks": 654,
+      "rank": 26
+    },
+    {
+      "name": "DEEPA SUNNY",
+      "rollNo": "23424785",
+      "group": "HUMANITIES",
+      "totalMarks": 638,
+      "rank": 27
+    },
+    {
+      "name": "MUHAMMED SHAMIL P",
+      "rollNo": "23424815",
+      "group": "COMMERCE",
+      "totalMarks": 624,
+      "rank": 28
+    },
+    {
+      "name": "AKSHAY KRISHNAN",
+      "rollNo": "23424757",
+      "group": "HUMANITIES",
+      "totalMarks": 624,
+      "rank": 28
+    },
+    {
+      "name": "ANUSREE JANAKI",
+      "rollNo": "23424781",
+      "group": "HUMANITIES",
+      "totalMarks": 613,
+      "rank": 30
+    },
+    {
+      "name": "RAFSHAD P",
+      "rollNo": "23424817",
+      "group": "COMMERCE",
+      "totalMarks": 601,
+      "rank": 31
+    },
+    {
+      "name": "ASIF KANHIRANDI",
+      "rollNo": "23424763",
+      "group": "HUMANITIES",
+      "totalMarks": 600,
+      "rank": 32
+    },
+    {
+      "name": "ATHUL KRISHNAN M",
+      "rollNo": "23424810",
+      "group": "COMMERCE",
+      "totalMarks": 599,
+      "rank": 33
+    },
+    {
+      "name": "ABHIJITH BABU",
+      "rollNo": "23424801",
+      "group": "COMMERCE",
+      "totalMarks": 595,
+      "rank": 34
+    },
+    {
+      "name": "ARJUN P B",
+      "rollNo": "23424808",
+      "group": "COMMERCE",
+      "totalMarks": 593,
+      "rank": 35
+    },
+    {
+      "name": "RESHMA SANTHOSH",
+      "rollNo": "23424796",
+      "group": "HUMANITIES",
+      "totalMarks": 588,
+      "rank": 36
+    },
+    {
+      "name": "AJESH BIJU",
+      "rollNo": "23424754",
+      "group": "HUMANITIES",
+      "totalMarks": 584,
+      "rank": 37
+    },
+    {
+      "name": "AJIN SHAJI",
+      "rollNo": "23424755",
+      "group": "HUMANITIES",
+      "totalMarks": 573,
+      "rank": 38
+    },
+    {
+      "name": "VAISAK GOPALAN",
+      "rollNo": "23424777",
+      "group": "HUMANITIES",
+      "totalMarks": 558,
+      "rank": 39
+    },
+    {
+      "name": "LISHAMOL",
+      "rollNo": "23424788",
+      "group": "HUMANITIES",
+      "totalMarks": 547,
+      "rank": 40
+    },
+    {
+      "name": "PRAVEEN A K",
+      "rollNo": "23424770",
+      "group": "HUMANITIES",
+      "totalMarks": 547,
+      "rank": 40
+    },
+    {
+      "name": "ABHINAV K S",
+      "rollNo": "23424802",
+      "group": "COMMERCE",
+      "totalMarks": 542,
+      "rank": 42
+    },
+    {
+      "name": "JISHNU RAJU",
+      "rollNo": "23424766",
+      "group": "HUMANITIES",
+      "totalMarks": 541,
+      "rank": 43
+    },
+    {
+      "name": "DEEPESH SUNNY",
+      "rollNo": "23424764",
+      "group": "HUMANITIES",
+      "totalMarks": 539,
+      "rank": 44
+    },
+    {
+      "name": "JIBIN P M",
+      "rollNo": "23424811",
+      "group": "COMMERCE",
+      "totalMarks": 528,
+      "rank": 45
+    },
+    {
+      "name": "VIJINA",
+      "rollNo": "23424835",
+      "group": "COMMERCE",
+      "totalMarks": 517,
+      "rank": 46
+    },
+    {
+      "name": "SANGEETH V K",
+      "rollNo": "23424773",
+      "group": "HUMANITIES",
+      "totalMarks": 516,
+      "rank": 47
+    },
+    {
+      "name": "ARUNKUMAR P K",
+      "rollNo": "23424809",
+      "group": "COMMERCE",
+      "totalMarks": 512,
+      "rank": 48
+    },
+    {
+      "name": "MATHU A B",
+      "rollNo": "23424790",
+      "group": "HUMANITIES",
+      "totalMarks": 502,
+      "rank": 49
+    },
+    {
+      "name": "REMYA RAVI",
+      "rollNo": "23424795",
+      "group": "HUMANITIES",
+      "totalMarks": 476,
+      "rank": 50
+    },
+    {
+      "name": "GOKUL S",
+      "rollNo": "23424765",
+      "group": "HUMANITIES",
+      "totalMarks": 462,
+      "rank": 51
+    },
+    {
+      "name": "AKHILESH P K",
+      "rollNo": "23424756",
+      "group": "HUMANITIES",
+      "totalMarks": 455,
+      "rank": 52
+    },
+    {
+      "name": "VIJITH B",
+      "rollNo": "23424778",
+      "group": "HUMANITIES",
+      "totalMarks": 436,
+      "rank": 53
+    },
+    {
+      "name": "SIJINA P K",
+      "rollNo": "23424829",
+      "group": "COMMERCE",
+      "totalMarks": 386,
+      "rank": 54
+    },
+    {
+      "name": "SREEKUTTAN M R",
+      "rollNo": "23424774",
+      "group": "HUMANITIES",
+      "totalMarks": 375,
+      "rank": 55
+    },
+    {
+      "name": "AJAL RAMESAN",
+      "rollNo": "23424753",
+      "group": "HUMANITIES",
+      "totalMarks": 371,
+      "rank": 56
+    },
+    {
+      "name": "ANANDU P M",
+      "rollNo": "23424760",
+      "group": "HUMANITIES",
+      "totalMarks": 359,
+      "rank": 57
+    },
+    {
+      "name": "SIJITHA P K",
+      "rollNo": "23424830",
+      "group": "COMMERCE",
+      "totalMarks": 317,
+      "rank": 58
+    },
+    {
+      "name": "SREENATH.S",
+      "rollNo": "23424820",
+      "group": "COMMERCE",
+      "totalMarks": 308,
+      "rank": 59
+    },
+    {
+      "name": "CHINJU MOHANAN",
+      "rollNo": "23424784",
+      "group": "HUMANITIES",
+      "totalMarks": 300,
+      "rank": 60
+    },
+    {
+      "name": "SYMESH",
+      "rollNo": "23424776",
+      "group": "HUMANITIES",
+      "totalMarks": 230,
+      "rank": 61
+    },
+    {
+      "name": "ATHULYA C L",
+      "rollNo": "23503582",
+      "group": "HUMANITIES",
+      "totalMarks": 85,
+      "rank": 62
+    },
+    {
+      "name": "ABHISHEK P",
+      "rollNo": "23503581",
+      "group": "HUMANITIES",
+      "totalMarks": 63,
+      "rank": 63
+    },
+    {
+      "name": "ANEESHA K",
+      "rollNo": "23424780",
+      "group": "HUMANITIES",
+      "totalMarks": 0,
+      "rank": 64
+    }
+  ]
+}

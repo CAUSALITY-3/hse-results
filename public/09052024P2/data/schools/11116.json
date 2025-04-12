@@ -1,1001 +1,1373 @@
-[
-  {
-    "rollNo": "23320782",
-    "regular": true,
-    "name": "MUHAMMED RIFAN E",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 82
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320784",
-    "regular": true,
-    "name": "NASEEM ALI .KT",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 103
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320785",
-    "regular": true,
-    "name": "FATHIMA MINHA.N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320786",
-    "regular": true,
-    "name": "FATHIMA SHAHANA .M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 89
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320787",
-    "regular": true,
-    "name": "ANSHAD ALI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 78
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320788",
-    "regular": true,
-    "name": "MOHAMED FAISAN K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 66
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320789",
-    "regular": true,
-    "name": "MOHAMED SALIH T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320791",
-    "regular": true,
-    "name": "MOHAMMED FASIL T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320792",
-    "regular": true,
-    "name": "MOHAMMED SAFVAN. M.A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 81
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320793",
-    "regular": true,
-    "name": "MUHAMMED AFSAL.T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320794",
-    "regular": true,
-    "name": "MUHAMMED ASLAM.P.P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320795",
-    "regular": true,
-    "name": "MUHAMMED NIYAD P P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320796",
-    "regular": true,
-    "name": "MUHAMMED SAHAL T P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 71
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320797",
-    "regular": true,
-    "name": "MUHAMMED SINAN K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320798",
-    "regular": true,
-    "name": "MURSHID",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320799",
-    "regular": true,
-    "name": "SHABEEB RAHMAN.K.P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 101
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320800",
-    "regular": true,
-    "name": "FADIYA. E",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320801",
-    "regular": true,
-    "name": "FATHIMA RIYA.T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320802",
-    "regular": true,
-    "name": "FATHIMMA HAYFA N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 90
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320803",
-    "regular": true,
-    "name": "JAMSHIYA M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320804",
-    "regular": true,
-    "name": "MINSHA SHANI.O",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320805",
-    "regular": true,
-    "name": "NUSAIBA.O",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 78
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23320806",
-    "regular": true,
-    "name": "SAHDATH KV",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320807",
-    "regular": true,
-    "name": "SAMEEYA.P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320808",
-    "regular": true,
-    "name": "SAYYIDATH NIHALA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23320809",
-    "regular": true,
-    "name": "SHIBILI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23504109",
-    "regular": true,
-    "name": "SAHLA SHIRIN. P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "11116",
+  "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+  "phoneNo": "04942588080",
+  "emailId": "mtihss@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "CheriyamundamThirur",
+  "eduDistrict": "Tirurangadi",
+  "assemblyConstituency": "Tanur",
+  "courseCode": "39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,3",
+  "district": "MALAPPURAM",
+  "results": [
+    {
+      "rollNo": "23320782",
+      "regular": true,
+      "name": "MUHAMMED RIFAN E",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 82
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 486,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320784",
+      "regular": true,
+      "name": "NASEEM ALI .KT",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 103
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 655,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320785",
+      "regular": true,
+      "name": "FATHIMA MINHA.N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 673,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320786",
+      "regular": true,
+      "name": "FATHIMA SHAHANA .M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 89
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 633,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320787",
+      "regular": true,
+      "name": "ANSHAD ALI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 78
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 564,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320788",
+      "regular": true,
+      "name": "MOHAMED FAISAN K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 66
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 479,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320789",
+      "regular": true,
+      "name": "MOHAMED SALIH T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 597,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320791",
+      "regular": true,
+      "name": "MOHAMMED FASIL T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 116
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 656,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320792",
+      "regular": true,
+      "name": "MOHAMMED SAFVAN. M.A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 81
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 535,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320793",
+      "regular": true,
+      "name": "MUHAMMED AFSAL.T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 786,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320794",
+      "regular": true,
+      "name": "MUHAMMED ASLAM.P.P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 585,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320795",
+      "regular": true,
+      "name": "MUHAMMED NIYAD P P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 796,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320796",
+      "regular": true,
+      "name": "MUHAMMED SAHAL T P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 71
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 447,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320797",
+      "regular": true,
+      "name": "MUHAMMED SINAN K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 614,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320798",
+      "regular": true,
+      "name": "MURSHID",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 657,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320799",
+      "regular": true,
+      "name": "SHABEEB RAHMAN.K.P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 101
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 628,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320800",
+      "regular": true,
+      "name": "FADIYA. E",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 887,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320801",
+      "regular": true,
+      "name": "FATHIMA RIYA.T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 816,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320802",
+      "regular": true,
+      "name": "FATHIMMA HAYFA N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 90
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 624,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320803",
+      "regular": true,
+      "name": "JAMSHIYA M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 595,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320804",
+      "regular": true,
+      "name": "MINSHA SHANI.O",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 659,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320805",
+      "regular": true,
+      "name": "NUSAIBA.O",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 78
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 518,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320806",
+      "regular": true,
+      "name": "SAHDATH KV",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 834,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320807",
+      "regular": true,
+      "name": "SAMEEYA.P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 638,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320808",
+      "regular": true,
+      "name": "SAYYIDATH NIHALA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 713,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23320809",
+      "regular": true,
+      "name": "SHIBILI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 614,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23504109",
+      "regular": true,
+      "name": "SAHLA SHIRIN. P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MTI HSS, THALAKADATHUR, 676103",
+      "schoolCode": "11116",
+      "totalMarks": 210,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 55.56,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "FADIYA. E",
+      "rollNo": "23320800",
+      "group": "COMMERCE",
+      "totalMarks": 887,
+      "rank": 1
+    },
+    {
+      "name": "SAHDATH KV",
+      "rollNo": "23320806",
+      "group": "COMMERCE",
+      "totalMarks": 834,
+      "rank": 2
+    },
+    {
+      "name": "FATHIMA RIYA.T",
+      "rollNo": "23320801",
+      "group": "COMMERCE",
+      "totalMarks": 816,
+      "rank": 3
+    },
+    {
+      "name": "MUHAMMED NIYAD P P",
+      "rollNo": "23320795",
+      "group": "COMMERCE",
+      "totalMarks": 796,
+      "rank": 4
+    },
+    {
+      "name": "MUHAMMED AFSAL.T",
+      "rollNo": "23320793",
+      "group": "COMMERCE",
+      "totalMarks": 786,
+      "rank": 5
+    },
+    {
+      "name": "SAYYIDATH NIHALA",
+      "rollNo": "23320808",
+      "group": "COMMERCE",
+      "totalMarks": 713,
+      "rank": 6
+    },
+    {
+      "name": "FATHIMA MINHA.N",
+      "rollNo": "23320785",
+      "group": "COMMERCE",
+      "totalMarks": 673,
+      "rank": 7
+    },
+    {
+      "name": "MINSHA SHANI.O",
+      "rollNo": "23320804",
+      "group": "COMMERCE",
+      "totalMarks": 659,
+      "rank": 8
+    },
+    {
+      "name": "MURSHID",
+      "rollNo": "23320798",
+      "group": "COMMERCE",
+      "totalMarks": 657,
+      "rank": 9
+    },
+    {
+      "name": "MOHAMMED FASIL T",
+      "rollNo": "23320791",
+      "group": "COMMERCE",
+      "totalMarks": 656,
+      "rank": 10
+    },
+    {
+      "name": "NASEEM ALI .KT",
+      "rollNo": "23320784",
+      "group": "COMMERCE",
+      "totalMarks": 655,
+      "rank": 11
+    },
+    {
+      "name": "SAMEEYA.P",
+      "rollNo": "23320807",
+      "group": "COMMERCE",
+      "totalMarks": 638,
+      "rank": 12
+    },
+    {
+      "name": "FATHIMA SHAHANA .M",
+      "rollNo": "23320786",
+      "group": "COMMERCE",
+      "totalMarks": 633,
+      "rank": 13
+    },
+    {
+      "name": "SHABEEB RAHMAN.K.P",
+      "rollNo": "23320799",
+      "group": "COMMERCE",
+      "totalMarks": 628,
+      "rank": 14
+    },
+    {
+      "name": "FATHIMMA HAYFA N",
+      "rollNo": "23320802",
+      "group": "COMMERCE",
+      "totalMarks": 624,
+      "rank": 15
+    },
+    {
+      "name": "MUHAMMED SINAN K",
+      "rollNo": "23320797",
+      "group": "COMMERCE",
+      "totalMarks": 614,
+      "rank": 16
+    },
+    {
+      "name": "SHIBILI",
+      "rollNo": "23320809",
+      "group": "COMMERCE",
+      "totalMarks": 614,
+      "rank": 16
+    },
+    {
+      "name": "MOHAMED SALIH T",
+      "rollNo": "23320789",
+      "group": "COMMERCE",
+      "totalMarks": 597,
+      "rank": 18
+    },
+    {
+      "name": "JAMSHIYA M",
+      "rollNo": "23320803",
+      "group": "COMMERCE",
+      "totalMarks": 595,
+      "rank": 19
+    },
+    {
+      "name": "MUHAMMED ASLAM.P.P",
+      "rollNo": "23320794",
+      "group": "COMMERCE",
+      "totalMarks": 585,
+      "rank": 20
+    },
+    {
+      "name": "ANSHAD ALI",
+      "rollNo": "23320787",
+      "group": "COMMERCE",
+      "totalMarks": 564,
+      "rank": 21
+    },
+    {
+      "name": "MOHAMMED SAFVAN. M.A",
+      "rollNo": "23320792",
+      "group": "COMMERCE",
+      "totalMarks": 535,
+      "rank": 22
+    },
+    {
+      "name": "NUSAIBA.O",
+      "rollNo": "23320805",
+      "group": "COMMERCE",
+      "totalMarks": 518,
+      "rank": 23
+    },
+    {
+      "name": "MUHAMMED RIFAN E",
+      "rollNo": "23320782",
+      "group": "COMMERCE",
+      "totalMarks": 486,
+      "rank": 24
+    },
+    {
+      "name": "MOHAMED FAISAN K",
+      "rollNo": "23320788",
+      "group": "COMMERCE",
+      "totalMarks": 479,
+      "rank": 25
+    },
+    {
+      "name": "MUHAMMED SAHAL T P",
+      "rollNo": "23320796",
+      "group": "COMMERCE",
+      "totalMarks": 447,
+      "rank": 26
+    },
+    {
+      "name": "SAHLA SHIRIN. P",
+      "rollNo": "23504109",
+      "group": "COMMERCE",
+      "totalMarks": 210,
+      "rank": 27
+    }
+  ]
+}

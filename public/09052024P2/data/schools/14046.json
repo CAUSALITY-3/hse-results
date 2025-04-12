@@ -1,3332 +1,4488 @@
-[
-  {
-    "rollNo": "22414145",
-    "regular": false,
-    "name": "MOIDEEN JAZEEL.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 80
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 94
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22414179",
-    "regular": false,
-    "name": "AFSAL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "22414180",
-    "regular": false,
-    "name": "AHAMMAD MURTHALLA N K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22414184",
-    "regular": false,
-    "name": "IBRAHIM KHALEEL M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22414199",
-    "regular": false,
-    "name": "NOUSHAD",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413802",
-    "regular": true,
-    "name": "ABDUL KHADAR BASIL . A . B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413803",
-    "regular": true,
-    "name": "ABDUL SAHEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413804",
-    "regular": true,
-    "name": "ABOOBACKER SHAHID",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 102
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 78
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413806",
-    "regular": true,
-    "name": "AHAMMED SUHAIB",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413807",
-    "regular": true,
-    "name": "HABEEB RAHIMAN. V.A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413808",
-    "regular": true,
-    "name": "IBRAHIM BADSHA M A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 76
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413809",
-    "regular": true,
-    "name": "IRFAN ABDUL LATHEEF KADER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 68
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413810",
-    "regular": true,
-    "name": "MOHAMMED ANSEEF",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 68
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413811",
-    "regular": true,
-    "name": "MOHAMMED NAFIH PA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413812",
-    "regular": true,
-    "name": "MOHAMMED NIZAM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 60
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 73
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413813",
-    "regular": true,
-    "name": "MOHAMMED SHAHIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C",
-      "marks": 82
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 73
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413814",
-    "regular": true,
-    "name": "MOHAMMED SHAHIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 67
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413815",
-    "regular": true,
-    "name": "MUHAMMAD SINAN A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 67
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413816",
-    "regular": true,
-    "name": "MUHAMMED RAHEES K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 60
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 72
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413817",
-    "regular": true,
-    "name": "MUHAMMED THABSHEER B N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 67
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413818",
-    "regular": true,
-    "name": "MURSEED",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 67
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413819",
-    "regular": true,
-    "name": "SAHABAZ RASHEEQ A M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 69
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413820",
-    "regular": true,
-    "name": "AYISHATH RAZINA A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 76
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413821",
-    "regular": true,
-    "name": "FATHIMATH HAFIZA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413822",
-    "regular": true,
-    "name": "HIMMATH FAHMA . M . I",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413823",
-    "regular": true,
-    "name": "MARIYAM SHADIYA A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 91
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413824",
-    "regular": true,
-    "name": "RAMLATH AFEEFA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 102
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413826",
-    "regular": true,
-    "name": "JITHESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413827",
-    "regular": true,
-    "name": "PREETHESH N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413828",
-    "regular": true,
-    "name": "ASIYATH SHABANA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413829",
-    "regular": true,
-    "name": "AYSHATH SHAHAMA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413830",
-    "regular": true,
-    "name": "RAKSHITHA T",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413831",
-    "regular": true,
-    "name": "SUPREETHA M S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413832",
-    "regular": true,
-    "name": "ABDUL GAFFOOR",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413833",
-    "regular": true,
-    "name": "ABDUL KHADAR",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413834",
-    "regular": true,
-    "name": "ABDUL RAFATH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 88
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413835",
-    "regular": true,
-    "name": "ABDUL SAMAD",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413836",
-    "regular": true,
-    "name": "AHMMED ASHIQ.P.H",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413837",
-    "regular": true,
-    "name": "HABEEB RAHMAN N",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413838",
-    "regular": true,
-    "name": "IRFANUL HAKK G H",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413839",
-    "regular": true,
-    "name": "JAWAD P A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413840",
-    "regular": true,
-    "name": "MOHAMMED ISHAK",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413841",
-    "regular": true,
-    "name": "MOHAMMED SAHAL P. K.",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413842",
-    "regular": true,
-    "name": "MOHAMMED SAJJAD",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 105
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413843",
-    "regular": true,
-    "name": "MUHAMMED RAIZ",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413844",
-    "regular": true,
-    "name": "MUHAMMED SALI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 96
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413845",
-    "regular": true,
-    "name": "MUHAMMED TAMEEM",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413846",
-    "regular": true,
-    "name": "NISHANTH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413847",
-    "regular": true,
-    "name": "NITHIN RAJ",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413849",
-    "regular": true,
-    "name": "RIZWAN . B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 102
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413850",
-    "regular": true,
-    "name": "SAAHAD MOHAMMED",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413851",
-    "regular": true,
-    "name": "SANESH B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413852",
-    "regular": true,
-    "name": "SHINE RAJ",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413855",
-    "regular": true,
-    "name": "ZUBAIR",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413856",
-    "regular": true,
-    "name": "ASIYATH MUNEERA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413857",
-    "regular": true,
-    "name": "ASWINI C S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413858",
-    "regular": true,
-    "name": "AVVAMATH HISHANA M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413859",
-    "regular": true,
-    "name": "AYSHATH FAMEENA.P.H",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413860",
-    "regular": true,
-    "name": "AYSHATH FASEELA N A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413861",
-    "regular": true,
-    "name": "AYSHATH RAFIDA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413862",
-    "regular": true,
-    "name": "AYSHATH SAFEEDA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413863",
-    "regular": true,
-    "name": "FATHIMATH  SHAHANA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413864",
-    "regular": true,
-    "name": "FATHIMATH AFREEDA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413866",
-    "regular": true,
-    "name": "FATHIMATH HANNA SHIRIN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413867",
-    "regular": true,
-    "name": "FATHIMATH SABURA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 87
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 96
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413868",
-    "regular": true,
-    "name": "FATHIMATH SAFURA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 87
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413869",
-    "regular": true,
-    "name": "FATHIMATH SAHLA A N",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413870",
-    "regular": true,
-    "name": "FATHIMATH SUMAYYA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 102
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413871",
-    "regular": true,
-    "name": "KADEEJATH SHIFA P I",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 96
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413872",
-    "regular": true,
-    "name": "KHADEEJATH AFNA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413873",
-    "regular": true,
-    "name": "KHADEEJATH LUBAIBA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413874",
-    "regular": true,
-    "name": "M C RAMLATH NIHALA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413875",
-    "regular": true,
-    "name": "MARIYAM NOORIYA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413876",
-    "regular": true,
-    "name": "MUSRIFA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413877",
-    "regular": true,
-    "name": "N A RAHMATHUL MUBASHEERA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413878",
-    "regular": true,
-    "name": "SAFWANATH BEEVI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413879",
-    "regular": true,
-    "name": "SANUSHA K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413880",
-    "regular": true,
-    "name": "SHUHAYIMA SIRI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413881",
-    "regular": true,
-    "name": "ZAINABATH SHAZIYA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413882",
-    "regular": true,
-    "name": "ASHWITH M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 54
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 58
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413883",
-    "regular": true,
-    "name": "DHANARAJ",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 72
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413884",
-    "regular": true,
-    "name": "NISHANTH G",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413885",
-    "regular": true,
-    "name": "RAJESH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 93
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413886",
-    "regular": true,
-    "name": "SHREYAS K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 50
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 65
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413887",
-    "regular": true,
-    "name": "DEEKSHITHA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413888",
-    "regular": true,
-    "name": "HARSHITHA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 105
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23413889",
-    "regular": true,
-    "name": "KIRTHANA A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413890",
-    "regular": true,
-    "name": "SOUMYASHREE",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23413891",
-    "regular": true,
-    "name": "SUSHMITHA .A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "KANNADA",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23425516",
-    "regular": true,
-    "name": "MOHAMMED RAHIS K M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 102
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "14046",
+  "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+  "phoneNo": "04994262955",
+  "emailId": "principalghssbelluru@gmail.com",
+  "schoolType": "Government",
+  "localBody": "BelurKasaragod",
+  "eduDistrict": "Kasargode",
+  "assemblyConstituency": "Kasaragod",
+  "courseCode": "1,11",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,5",
+  "district": "KASARAGOD",
+  "results": [
+    {
+      "rollNo": "23413802",
+      "regular": true,
+      "name": "ABDUL KHADAR BASIL . A . B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 919,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413803",
+      "regular": true,
+      "name": "ABDUL SAHEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 1076,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413804",
+      "regular": true,
+      "name": "ABOOBACKER SHAHID",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 102
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 88
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 78
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 544,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413806",
+      "regular": true,
+      "name": "AHAMMED SUHAIB",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 88
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 491,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413807",
+      "regular": true,
+      "name": "HABEEB RAHIMAN. V.A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 0,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413808",
+      "regular": true,
+      "name": "IBRAHIM BADSHA M A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 76
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 477,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413809",
+      "regular": true,
+      "name": "IRFAN ABDUL LATHEEF KADER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 68
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 487,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413810",
+      "regular": true,
+      "name": "MOHAMMED ANSEEF",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 90
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 68
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 502,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413811",
+      "regular": true,
+      "name": "MOHAMMED NAFIH PA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 1005,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413812",
+      "regular": true,
+      "name": "MOHAMMED NIZAM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 60
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 73
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 482,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413813",
+      "regular": true,
+      "name": "MOHAMMED SHAHIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C",
+          "marks": 82
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 73
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 574,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413814",
+      "regular": true,
+      "name": "MOHAMMED SHAHIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 88
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 67
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 430,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413815",
+      "regular": true,
+      "name": "MUHAMMAD SINAN A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 94
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 67
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 499,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413816",
+      "regular": true,
+      "name": "MUHAMMED RAHEES K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 60
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 72
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 441,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413817",
+      "regular": true,
+      "name": "MUHAMMED THABSHEER B N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 67
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 503,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413818",
+      "regular": true,
+      "name": "MURSEED",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 67
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 498,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413819",
+      "regular": true,
+      "name": "SAHABAZ RASHEEQ A M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 69
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 564,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413820",
+      "regular": true,
+      "name": "AYISHATH RAZINA A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 76
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 576,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413821",
+      "regular": true,
+      "name": "FATHIMATH HAFIZA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 864,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413822",
+      "regular": true,
+      "name": "HIMMATH FAHMA . M . I",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 961,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413823",
+      "regular": true,
+      "name": "MARIYAM SHADIYA A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 91
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 729,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413824",
+      "regular": true,
+      "name": "RAMLATH AFEEFA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 102
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 594,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413826",
+      "regular": true,
+      "name": "JITHESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "KANNADA",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 734,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413827",
+      "regular": true,
+      "name": "PREETHESH N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "KANNADA",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 669,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413828",
+      "regular": true,
+      "name": "ASIYATH SHABANA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "KANNADA",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 1072,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413829",
+      "regular": true,
+      "name": "AYSHATH SHAHAMA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "KANNADA",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 940,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413830",
+      "regular": true,
+      "name": "RAKSHITHA T",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "KANNADA",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 88
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 609,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413831",
+      "regular": true,
+      "name": "SUPREETHA M S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "KANNADA",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 741,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413832",
+      "regular": true,
+      "name": "ABDUL GAFFOOR",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 623,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413833",
+      "regular": true,
+      "name": "ABDUL KHADAR",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 685,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413834",
+      "regular": true,
+      "name": "ABDUL RAFATH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 88
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 593,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413835",
+      "regular": true,
+      "name": "ABDUL SAMAD",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 573,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413836",
+      "regular": true,
+      "name": "AHMMED ASHIQ.P.H",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 536,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413837",
+      "regular": true,
+      "name": "HABEEB RAHMAN N",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 606,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413838",
+      "regular": true,
+      "name": "IRFANUL HAKK G H",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 601,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413839",
+      "regular": true,
+      "name": "JAWAD P A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 691,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413840",
+      "regular": true,
+      "name": "MOHAMMED ISHAK",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 794,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413841",
+      "regular": true,
+      "name": "MOHAMMED SAHAL P. K.",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 611,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413842",
+      "regular": true,
+      "name": "MOHAMMED SAJJAD",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 105
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 611,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413843",
+      "regular": true,
+      "name": "MUHAMMED RAIZ",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 650,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413844",
+      "regular": true,
+      "name": "MUHAMMED SALI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 96
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 572,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413845",
+      "regular": true,
+      "name": "MUHAMMED TAMEEM",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 109
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 589,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413846",
+      "regular": true,
+      "name": "NISHANTH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 629,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413847",
+      "regular": true,
+      "name": "NITHIN RAJ",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 651,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413849",
+      "regular": true,
+      "name": "RIZWAN . B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 102
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 598,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413850",
+      "regular": true,
+      "name": "SAAHAD MOHAMMED",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 651,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413851",
+      "regular": true,
+      "name": "SANESH B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 590,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413852",
+      "regular": true,
+      "name": "SHINE RAJ",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 712,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413855",
+      "regular": true,
+      "name": "ZUBAIR",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 739,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413856",
+      "regular": true,
+      "name": "ASIYATH MUNEERA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 792,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413857",
+      "regular": true,
+      "name": "ASWINI C S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 634,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413858",
+      "regular": true,
+      "name": "AVVAMATH HISHANA M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 846,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413859",
+      "regular": true,
+      "name": "AYSHATH FAMEENA.P.H",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 767,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413860",
+      "regular": true,
+      "name": "AYSHATH FASEELA N A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 772,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413861",
+      "regular": true,
+      "name": "AYSHATH RAFIDA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 746,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413862",
+      "regular": true,
+      "name": "AYSHATH SAFEEDA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 765,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413863",
+      "regular": true,
+      "name": "FATHIMATH SHAHANA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 837,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413864",
+      "regular": true,
+      "name": "FATHIMATH AFREEDA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 813,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413866",
+      "regular": true,
+      "name": "FATHIMATH HANNA SHIRIN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 831,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413867",
+      "regular": true,
+      "name": "FATHIMATH SABURA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 96
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 559,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413868",
+      "regular": true,
+      "name": "FATHIMATH SAFURA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 730,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413869",
+      "regular": true,
+      "name": "FATHIMATH SAHLA A N",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 1092,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413870",
+      "regular": true,
+      "name": "FATHIMATH SUMAYYA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 102
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 630,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413871",
+      "regular": true,
+      "name": "KADEEJATH SHIFA P I",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 96
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 611,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413872",
+      "regular": true,
+      "name": "KHADEEJATH AFNA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 640,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413873",
+      "regular": true,
+      "name": "KHADEEJATH LUBAIBA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 1131,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413874",
+      "regular": true,
+      "name": "M C RAMLATH NIHALA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 855,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413875",
+      "regular": true,
+      "name": "MARIYAM NOORIYA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 801,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413876",
+      "regular": true,
+      "name": "MUSRIFA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 666,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413877",
+      "regular": true,
+      "name": "N A RAHMATHUL MUBASHEERA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 746,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413878",
+      "regular": true,
+      "name": "SAFWANATH BEEVI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 745,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413879",
+      "regular": true,
+      "name": "SANUSHA K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 724,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413880",
+      "regular": true,
+      "name": "SHUHAYIMA SIRI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 853,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413881",
+      "regular": true,
+      "name": "ZAINABATH SHAZIYA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 608,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413882",
+      "regular": true,
+      "name": "ASHWITH M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 54
+        },
+        {
+          "name": "KANNADA",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 58
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 432,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413883",
+      "regular": true,
+      "name": "DHANARAJ",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "KANNADA",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 72
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 536,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413884",
+      "regular": true,
+      "name": "NISHANTH G",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "KANNADA",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 770,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413885",
+      "regular": true,
+      "name": "RAJESH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "KANNADA",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 93
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 595,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413886",
+      "regular": true,
+      "name": "SHREYAS K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 50
+        },
+        {
+          "name": "KANNADA",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 65
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 433,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413887",
+      "regular": true,
+      "name": "DEEKSHITHA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "KANNADA",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 599,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413888",
+      "regular": true,
+      "name": "HARSHITHA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "KANNADA",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 105
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 675,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413889",
+      "regular": true,
+      "name": "KIRTHANA A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "KANNADA",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 579,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413890",
+      "regular": true,
+      "name": "SOUMYASHREE",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "KANNADA",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 656,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23413891",
+      "regular": true,
+      "name": "SUSHMITHA .A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "KANNADA",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 682,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23425516",
+      "regular": true,
+      "name": "MOHAMMED RAHIS K M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 102
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 593,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22414145",
+      "regular": false,
+      "name": "MOIDEEN JAZEEL.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 80
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 94
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 444,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22414179",
+      "regular": false,
+      "name": "AFSAL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 87,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22414180",
+      "regular": false,
+      "name": "AHAMMAD MURTHALLA N K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 61,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22414184",
+      "regular": false,
+      "name": "IBRAHIM KHALEEL M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 66,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22414199",
+      "regular": false,
+      "name": "NOUSHAD",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. HSS, BELLURU, KASARGODE",
+      "schoolCode": "14046",
+      "totalMarks": 175,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 45.88,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "KHADEEJATH LUBAIBA",
+      "rollNo": "23413873",
+      "group": "HUMANITIES",
+      "totalMarks": 1131,
+      "rank": 1
+    },
+    {
+      "name": "FATHIMATH SAHLA A N",
+      "rollNo": "23413869",
+      "group": "HUMANITIES",
+      "totalMarks": 1092,
+      "rank": 2
+    },
+    {
+      "name": "ABDUL SAHEER",
+      "rollNo": "23413803",
+      "group": "SCIENCE",
+      "totalMarks": 1076,
+      "rank": 3
+    },
+    {
+      "name": "ASIYATH SHABANA",
+      "rollNo": "23413828",
+      "group": "SCIENCE",
+      "totalMarks": 1072,
+      "rank": 4
+    },
+    {
+      "name": "MOHAMMED NAFIH PA",
+      "rollNo": "23413811",
+      "group": "SCIENCE",
+      "totalMarks": 1005,
+      "rank": 5
+    },
+    {
+      "name": "HIMMATH FAHMA . M . I",
+      "rollNo": "23413822",
+      "group": "SCIENCE",
+      "totalMarks": 961,
+      "rank": 6
+    },
+    {
+      "name": "AYSHATH SHAHAMA",
+      "rollNo": "23413829",
+      "group": "SCIENCE",
+      "totalMarks": 940,
+      "rank": 7
+    },
+    {
+      "name": "ABDUL KHADAR BASIL . A . B",
+      "rollNo": "23413802",
+      "group": "SCIENCE",
+      "totalMarks": 919,
+      "rank": 8
+    },
+    {
+      "name": "FATHIMATH HAFIZA",
+      "rollNo": "23413821",
+      "group": "SCIENCE",
+      "totalMarks": 864,
+      "rank": 9
+    },
+    {
+      "name": "M C RAMLATH NIHALA",
+      "rollNo": "23413874",
+      "group": "HUMANITIES",
+      "totalMarks": 855,
+      "rank": 10
+    },
+    {
+      "name": "SHUHAYIMA SIRI",
+      "rollNo": "23413880",
+      "group": "HUMANITIES",
+      "totalMarks": 853,
+      "rank": 11
+    },
+    {
+      "name": "AVVAMATH HISHANA M",
+      "rollNo": "23413858",
+      "group": "HUMANITIES",
+      "totalMarks": 846,
+      "rank": 12
+    },
+    {
+      "name": "FATHIMATH SHAHANA",
+      "rollNo": "23413863",
+      "group": "HUMANITIES",
+      "totalMarks": 837,
+      "rank": 13
+    },
+    {
+      "name": "FATHIMATH HANNA SHIRIN",
+      "rollNo": "23413866",
+      "group": "HUMANITIES",
+      "totalMarks": 831,
+      "rank": 14
+    },
+    {
+      "name": "FATHIMATH AFREEDA",
+      "rollNo": "23413864",
+      "group": "HUMANITIES",
+      "totalMarks": 813,
+      "rank": 15
+    },
+    {
+      "name": "MARIYAM NOORIYA",
+      "rollNo": "23413875",
+      "group": "HUMANITIES",
+      "totalMarks": 801,
+      "rank": 16
+    },
+    {
+      "name": "MOHAMMED ISHAK",
+      "rollNo": "23413840",
+      "group": "HUMANITIES",
+      "totalMarks": 794,
+      "rank": 17
+    },
+    {
+      "name": "ASIYATH MUNEERA",
+      "rollNo": "23413856",
+      "group": "HUMANITIES",
+      "totalMarks": 792,
+      "rank": 18
+    },
+    {
+      "name": "AYSHATH FASEELA N A",
+      "rollNo": "23413860",
+      "group": "HUMANITIES",
+      "totalMarks": 772,
+      "rank": 19
+    },
+    {
+      "name": "NISHANTH G",
+      "rollNo": "23413884",
+      "group": "HUMANITIES",
+      "totalMarks": 770,
+      "rank": 20
+    },
+    {
+      "name": "AYSHATH FAMEENA.P.H",
+      "rollNo": "23413859",
+      "group": "HUMANITIES",
+      "totalMarks": 767,
+      "rank": 21
+    },
+    {
+      "name": "AYSHATH SAFEEDA",
+      "rollNo": "23413862",
+      "group": "HUMANITIES",
+      "totalMarks": 765,
+      "rank": 22
+    },
+    {
+      "name": "AYSHATH RAFIDA",
+      "rollNo": "23413861",
+      "group": "HUMANITIES",
+      "totalMarks": 746,
+      "rank": 23
+    },
+    {
+      "name": "N A RAHMATHUL MUBASHEERA",
+      "rollNo": "23413877",
+      "group": "HUMANITIES",
+      "totalMarks": 746,
+      "rank": 23
+    },
+    {
+      "name": "SAFWANATH BEEVI",
+      "rollNo": "23413878",
+      "group": "HUMANITIES",
+      "totalMarks": 745,
+      "rank": 25
+    },
+    {
+      "name": "SUPREETHA M S",
+      "rollNo": "23413831",
+      "group": "SCIENCE",
+      "totalMarks": 741,
+      "rank": 26
+    },
+    {
+      "name": "ZUBAIR",
+      "rollNo": "23413855",
+      "group": "HUMANITIES",
+      "totalMarks": 739,
+      "rank": 27
+    },
+    {
+      "name": "JITHESH",
+      "rollNo": "23413826",
+      "group": "SCIENCE",
+      "totalMarks": 734,
+      "rank": 28
+    },
+    {
+      "name": "FATHIMATH SAFURA",
+      "rollNo": "23413868",
+      "group": "HUMANITIES",
+      "totalMarks": 730,
+      "rank": 29
+    },
+    {
+      "name": "MARIYAM SHADIYA A",
+      "rollNo": "23413823",
+      "group": "SCIENCE",
+      "totalMarks": 729,
+      "rank": 30
+    },
+    {
+      "name": "SANUSHA K",
+      "rollNo": "23413879",
+      "group": "HUMANITIES",
+      "totalMarks": 724,
+      "rank": 31
+    },
+    {
+      "name": "SHINE RAJ",
+      "rollNo": "23413852",
+      "group": "HUMANITIES",
+      "totalMarks": 712,
+      "rank": 32
+    },
+    {
+      "name": "JAWAD P A",
+      "rollNo": "23413839",
+      "group": "HUMANITIES",
+      "totalMarks": 691,
+      "rank": 33
+    },
+    {
+      "name": "ABDUL KHADAR",
+      "rollNo": "23413833",
+      "group": "HUMANITIES",
+      "totalMarks": 685,
+      "rank": 34
+    },
+    {
+      "name": "SUSHMITHA .A",
+      "rollNo": "23413891",
+      "group": "HUMANITIES",
+      "totalMarks": 682,
+      "rank": 35
+    },
+    {
+      "name": "HARSHITHA",
+      "rollNo": "23413888",
+      "group": "HUMANITIES",
+      "totalMarks": 675,
+      "rank": 36
+    },
+    {
+      "name": "PREETHESH N",
+      "rollNo": "23413827",
+      "group": "SCIENCE",
+      "totalMarks": 669,
+      "rank": 37
+    },
+    {
+      "name": "MUSRIFA",
+      "rollNo": "23413876",
+      "group": "HUMANITIES",
+      "totalMarks": 666,
+      "rank": 38
+    },
+    {
+      "name": "SOUMYASHREE",
+      "rollNo": "23413890",
+      "group": "HUMANITIES",
+      "totalMarks": 656,
+      "rank": 39
+    },
+    {
+      "name": "SAAHAD MOHAMMED",
+      "rollNo": "23413850",
+      "group": "HUMANITIES",
+      "totalMarks": 651,
+      "rank": 40
+    },
+    {
+      "name": "NITHIN RAJ",
+      "rollNo": "23413847",
+      "group": "HUMANITIES",
+      "totalMarks": 651,
+      "rank": 40
+    },
+    {
+      "name": "MUHAMMED RAIZ",
+      "rollNo": "23413843",
+      "group": "HUMANITIES",
+      "totalMarks": 650,
+      "rank": 42
+    },
+    {
+      "name": "KHADEEJATH AFNA",
+      "rollNo": "23413872",
+      "group": "HUMANITIES",
+      "totalMarks": 640,
+      "rank": 43
+    },
+    {
+      "name": "ASWINI C S",
+      "rollNo": "23413857",
+      "group": "HUMANITIES",
+      "totalMarks": 634,
+      "rank": 44
+    },
+    {
+      "name": "FATHIMATH SUMAYYA",
+      "rollNo": "23413870",
+      "group": "HUMANITIES",
+      "totalMarks": 630,
+      "rank": 45
+    },
+    {
+      "name": "NISHANTH",
+      "rollNo": "23413846",
+      "group": "HUMANITIES",
+      "totalMarks": 629,
+      "rank": 46
+    },
+    {
+      "name": "ABDUL GAFFOOR",
+      "rollNo": "23413832",
+      "group": "HUMANITIES",
+      "totalMarks": 623,
+      "rank": 47
+    },
+    {
+      "name": "MOHAMMED SAHAL P. K.",
+      "rollNo": "23413841",
+      "group": "HUMANITIES",
+      "totalMarks": 611,
+      "rank": 48
+    },
+    {
+      "name": "KADEEJATH SHIFA P I",
+      "rollNo": "23413871",
+      "group": "HUMANITIES",
+      "totalMarks": 611,
+      "rank": 48
+    },
+    {
+      "name": "MOHAMMED SAJJAD",
+      "rollNo": "23413842",
+      "group": "HUMANITIES",
+      "totalMarks": 611,
+      "rank": 48
+    },
+    {
+      "name": "RAKSHITHA T",
+      "rollNo": "23413830",
+      "group": "SCIENCE",
+      "totalMarks": 609,
+      "rank": 51
+    },
+    {
+      "name": "ZAINABATH SHAZIYA",
+      "rollNo": "23413881",
+      "group": "HUMANITIES",
+      "totalMarks": 608,
+      "rank": 52
+    },
+    {
+      "name": "HABEEB RAHMAN N",
+      "rollNo": "23413837",
+      "group": "HUMANITIES",
+      "totalMarks": 606,
+      "rank": 53
+    },
+    {
+      "name": "IRFANUL HAKK G H",
+      "rollNo": "23413838",
+      "group": "HUMANITIES",
+      "totalMarks": 601,
+      "rank": 54
+    },
+    {
+      "name": "DEEKSHITHA",
+      "rollNo": "23413887",
+      "group": "HUMANITIES",
+      "totalMarks": 599,
+      "rank": 55
+    },
+    {
+      "name": "RIZWAN . B",
+      "rollNo": "23413849",
+      "group": "HUMANITIES",
+      "totalMarks": 598,
+      "rank": 56
+    },
+    {
+      "name": "RAJESH",
+      "rollNo": "23413885",
+      "group": "HUMANITIES",
+      "totalMarks": 595,
+      "rank": 57
+    },
+    {
+      "name": "RAMLATH AFEEFA",
+      "rollNo": "23413824",
+      "group": "SCIENCE",
+      "totalMarks": 594,
+      "rank": 58
+    },
+    {
+      "name": "MOHAMMED RAHIS K M",
+      "rollNo": "23425516",
+      "group": "HUMANITIES",
+      "totalMarks": 593,
+      "rank": 59
+    },
+    {
+      "name": "ABDUL RAFATH",
+      "rollNo": "23413834",
+      "group": "HUMANITIES",
+      "totalMarks": 593,
+      "rank": 59
+    },
+    {
+      "name": "SANESH B",
+      "rollNo": "23413851",
+      "group": "HUMANITIES",
+      "totalMarks": 590,
+      "rank": 61
+    },
+    {
+      "name": "MUHAMMED TAMEEM",
+      "rollNo": "23413845",
+      "group": "HUMANITIES",
+      "totalMarks": 589,
+      "rank": 62
+    },
+    {
+      "name": "KIRTHANA A",
+      "rollNo": "23413889",
+      "group": "HUMANITIES",
+      "totalMarks": 579,
+      "rank": 63
+    },
+    {
+      "name": "AYISHATH RAZINA A",
+      "rollNo": "23413820",
+      "group": "SCIENCE",
+      "totalMarks": 576,
+      "rank": 64
+    },
+    {
+      "name": "MOHAMMED SHAHIL",
+      "rollNo": "23413813",
+      "group": "SCIENCE",
+      "totalMarks": 574,
+      "rank": 65
+    },
+    {
+      "name": "ABDUL SAMAD",
+      "rollNo": "23413835",
+      "group": "HUMANITIES",
+      "totalMarks": 573,
+      "rank": 66
+    },
+    {
+      "name": "MUHAMMED SALI",
+      "rollNo": "23413844",
+      "group": "HUMANITIES",
+      "totalMarks": 572,
+      "rank": 67
+    },
+    {
+      "name": "SAHABAZ RASHEEQ A M",
+      "rollNo": "23413819",
+      "group": "SCIENCE",
+      "totalMarks": 564,
+      "rank": 68
+    },
+    {
+      "name": "FATHIMATH SABURA",
+      "rollNo": "23413867",
+      "group": "HUMANITIES",
+      "totalMarks": 559,
+      "rank": 69
+    },
+    {
+      "name": "ABOOBACKER SHAHID",
+      "rollNo": "23413804",
+      "group": "SCIENCE",
+      "totalMarks": 544,
+      "rank": 70
+    },
+    {
+      "name": "DHANARAJ",
+      "rollNo": "23413883",
+      "group": "HUMANITIES",
+      "totalMarks": 536,
+      "rank": 71
+    },
+    {
+      "name": "AHMMED ASHIQ.P.H",
+      "rollNo": "23413836",
+      "group": "HUMANITIES",
+      "totalMarks": 536,
+      "rank": 71
+    },
+    {
+      "name": "MUHAMMED THABSHEER B N",
+      "rollNo": "23413817",
+      "group": "SCIENCE",
+      "totalMarks": 503,
+      "rank": 73
+    },
+    {
+      "name": "MOHAMMED ANSEEF",
+      "rollNo": "23413810",
+      "group": "SCIENCE",
+      "totalMarks": 502,
+      "rank": 74
+    },
+    {
+      "name": "MUHAMMAD SINAN A",
+      "rollNo": "23413815",
+      "group": "SCIENCE",
+      "totalMarks": 499,
+      "rank": 75
+    },
+    {
+      "name": "MURSEED",
+      "rollNo": "23413818",
+      "group": "SCIENCE",
+      "totalMarks": 498,
+      "rank": 76
+    },
+    {
+      "name": "AHAMMED SUHAIB",
+      "rollNo": "23413806",
+      "group": "SCIENCE",
+      "totalMarks": 491,
+      "rank": 77
+    },
+    {
+      "name": "IRFAN ABDUL LATHEEF KADER",
+      "rollNo": "23413809",
+      "group": "SCIENCE",
+      "totalMarks": 487,
+      "rank": 78
+    },
+    {
+      "name": "MOHAMMED NIZAM",
+      "rollNo": "23413812",
+      "group": "SCIENCE",
+      "totalMarks": 482,
+      "rank": 79
+    },
+    {
+      "name": "IBRAHIM BADSHA M A",
+      "rollNo": "23413808",
+      "group": "SCIENCE",
+      "totalMarks": 477,
+      "rank": 80
+    },
+    {
+      "name": "MUHAMMED RAHEES K",
+      "rollNo": "23413816",
+      "group": "SCIENCE",
+      "totalMarks": 441,
+      "rank": 81
+    },
+    {
+      "name": "SHREYAS K",
+      "rollNo": "23413886",
+      "group": "HUMANITIES",
+      "totalMarks": 433,
+      "rank": 82
+    },
+    {
+      "name": "ASHWITH M",
+      "rollNo": "23413882",
+      "group": "HUMANITIES",
+      "totalMarks": 432,
+      "rank": 83
+    },
+    {
+      "name": "MOHAMMED SHAHIN",
+      "rollNo": "23413814",
+      "group": "SCIENCE",
+      "totalMarks": 430,
+      "rank": 84
+    },
+    {
+      "name": "HABEEB RAHIMAN. V.A",
+      "rollNo": "23413807",
+      "group": "SCIENCE",
+      "totalMarks": 0,
+      "rank": 85
+    }
+  ]
+}

@@ -1,1001 +1,1375 @@
-[
-  {
-    "rollNo": "23160487",
-    "regular": true,
-    "name": "ALEENA RAJESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160490",
-    "regular": true,
-    "name": "BINS JOSE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160491",
-    "regular": true,
-    "name": "LOYD BIJU KURUVILA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160492",
-    "regular": true,
-    "name": "ANDRIYA SUSSAN BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160493",
-    "regular": true,
-    "name": "ANJANA BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 100
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23160494",
-    "regular": true,
-    "name": "ASHNA N SHIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 95
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23160495",
-    "regular": true,
-    "name": "GOURIKRISHNA K S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 134
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160496",
-    "regular": true,
-    "name": "GOWRY NANDA PRADEEP",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160497",
-    "regular": true,
-    "name": "NAKSHATHRA BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160498",
-    "regular": true,
-    "name": "ABIJITH BIJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160499",
-    "regular": true,
-    "name": "ADITHYAN P S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160500",
-    "regular": true,
-    "name": "ARAVIND K.R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 95
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23160501",
-    "regular": true,
-    "name": "ASWIN REGHU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23160502",
-    "regular": true,
-    "name": "ELBY JOHNY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160503",
-    "regular": true,
-    "name": "ELDHO JOSHI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 109
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160504",
-    "regular": true,
-    "name": "MUHAMMAD ASHIQ K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160505",
-    "regular": true,
-    "name": "NIVED RAJESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23160506",
-    "regular": true,
-    "name": "TOMY SHAJI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 75
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23160507",
-    "regular": true,
-    "name": "MANYA MADHU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 134
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160508",
-    "regular": true,
-    "name": "ADITHYAN SIJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160509",
-    "regular": true,
-    "name": "ANANTHA KRISHNAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160510",
-    "regular": true,
-    "name": "ASWIN PRASAD",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160511",
-    "regular": true,
-    "name": "SACHU LALICHAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D+",
-      "marks": 79
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23160512",
-    "regular": true,
-    "name": "ALENCIA SUNNY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23501382",
-    "regular": true,
-    "name": "AJMAL ASHRAF",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23501383",
-    "regular": true,
-    "name": "ANANDHU KRISHNA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23501384",
-    "regular": true,
-    "name": "HARI PRESANNAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "7209",
+  "schoolName": "GVHSS, Maradi, Muvattupuzha",
+  "phoneNo": "04852832948",
+  "emailId": "7209ghssmarady@gmail.com",
+  "schoolType": "Government",
+  "localBody": "MaradiMoovattupuzha",
+  "eduDistrict": "Muvattupuzha",
+  "assemblyConstituency": "Muvattupuzha",
+  "courseCode": "1,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "ERNAKULAM",
+  "results": [
+    {
+      "rollNo": "23160487",
+      "regular": true,
+      "name": "ALEENA RAJESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 709,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160490",
+      "regular": true,
+      "name": "BINS JOSE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 773,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160491",
+      "regular": true,
+      "name": "LOYD BIJU KURUVILA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 969,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160492",
+      "regular": true,
+      "name": "ANDRIYA SUSSAN BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 840,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160493",
+      "regular": true,
+      "name": "ANJANA BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 100
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 761,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160494",
+      "regular": true,
+      "name": "ASHNA N SHIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 106
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 95
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 678,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160495",
+      "regular": true,
+      "name": "GOURIKRISHNA K S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 134
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 949,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160496",
+      "regular": true,
+      "name": "GOWRY NANDA PRADEEP",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 1147,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23160497",
+      "regular": true,
+      "name": "NAKSHATHRA BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 1009,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160498",
+      "regular": true,
+      "name": "ABIJITH BIJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 764,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160499",
+      "regular": true,
+      "name": "ADITHYAN P S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 584,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160500",
+      "regular": true,
+      "name": "ARAVIND K.R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 95
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 566,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160501",
+      "regular": true,
+      "name": "ASWIN REGHU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 597,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160502",
+      "regular": true,
+      "name": "ELBY JOHNY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 703,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160503",
+      "regular": true,
+      "name": "ELDHO JOSHI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 109
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 706,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160504",
+      "regular": true,
+      "name": "MUHAMMAD ASHIQ K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 671,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160505",
+      "regular": true,
+      "name": "NIVED RAJESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 112
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 666,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160506",
+      "regular": true,
+      "name": "TOMY SHAJI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 75
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 473,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160507",
+      "regular": true,
+      "name": "MANYA MADHU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 134
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 788,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160508",
+      "regular": true,
+      "name": "ADITHYAN SIJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 855,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160509",
+      "regular": true,
+      "name": "ANANTHA KRISHNAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 1000,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160510",
+      "regular": true,
+      "name": "ASWIN PRASAD",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 917,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160511",
+      "regular": true,
+      "name": "SACHU LALICHAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D+",
+          "marks": 79
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 632,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23160512",
+      "regular": true,
+      "name": "ALENCIA SUNNY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 674,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23501382",
+      "regular": true,
+      "name": "AJMAL ASHRAF",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 109,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23501383",
+      "regular": true,
+      "name": "ANANDHU KRISHNA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 105,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23501384",
+      "regular": true,
+      "name": "HARI PRESANNAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GVHSS, Maradi, Muvattupuzha",
+      "schoolCode": "7209",
+      "totalMarks": 81,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 70.37,
+  "totalFullAp": 1,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "GOWRY NANDA PRADEEP (23160496) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "GOWRY NANDA PRADEEP",
+      "rollNo": "23160496",
+      "group": "SCIENCE",
+      "totalMarks": 1147,
+      "rank": 1
+    },
+    {
+      "name": "NAKSHATHRA BIJU",
+      "rollNo": "23160497",
+      "group": "SCIENCE",
+      "totalMarks": 1009,
+      "rank": 2
+    },
+    {
+      "name": "ANANTHA KRISHNAN",
+      "rollNo": "23160509",
+      "group": "COMMERCE",
+      "totalMarks": 1000,
+      "rank": 3
+    },
+    {
+      "name": "LOYD BIJU KURUVILA",
+      "rollNo": "23160491",
+      "group": "SCIENCE",
+      "totalMarks": 969,
+      "rank": 4
+    },
+    {
+      "name": "GOURIKRISHNA K S",
+      "rollNo": "23160495",
+      "group": "SCIENCE",
+      "totalMarks": 949,
+      "rank": 5
+    },
+    {
+      "name": "ASWIN PRASAD",
+      "rollNo": "23160510",
+      "group": "COMMERCE",
+      "totalMarks": 917,
+      "rank": 6
+    },
+    {
+      "name": "ADITHYAN SIJU",
+      "rollNo": "23160508",
+      "group": "COMMERCE",
+      "totalMarks": 855,
+      "rank": 7
+    },
+    {
+      "name": "ANDRIYA SUSSAN BIJU",
+      "rollNo": "23160492",
+      "group": "SCIENCE",
+      "totalMarks": 840,
+      "rank": 8
+    },
+    {
+      "name": "MANYA MADHU",
+      "rollNo": "23160507",
+      "group": "COMMERCE",
+      "totalMarks": 788,
+      "rank": 9
+    },
+    {
+      "name": "BINS JOSE",
+      "rollNo": "23160490",
+      "group": "SCIENCE",
+      "totalMarks": 773,
+      "rank": 10
+    },
+    {
+      "name": "ABIJITH BIJU",
+      "rollNo": "23160498",
+      "group": "COMMERCE",
+      "totalMarks": 764,
+      "rank": 11
+    },
+    {
+      "name": "ANJANA BIJU",
+      "rollNo": "23160493",
+      "group": "SCIENCE",
+      "totalMarks": 761,
+      "rank": 12
+    },
+    {
+      "name": "ALEENA RAJESH",
+      "rollNo": "23160487",
+      "group": "SCIENCE",
+      "totalMarks": 709,
+      "rank": 13
+    },
+    {
+      "name": "ELDHO JOSHI",
+      "rollNo": "23160503",
+      "group": "COMMERCE",
+      "totalMarks": 706,
+      "rank": 14
+    },
+    {
+      "name": "ELBY JOHNY",
+      "rollNo": "23160502",
+      "group": "COMMERCE",
+      "totalMarks": 703,
+      "rank": 15
+    },
+    {
+      "name": "ASHNA N SHIJU",
+      "rollNo": "23160494",
+      "group": "SCIENCE",
+      "totalMarks": 678,
+      "rank": 16
+    },
+    {
+      "name": "ALENCIA SUNNY",
+      "rollNo": "23160512",
+      "group": "COMMERCE",
+      "totalMarks": 674,
+      "rank": 17
+    },
+    {
+      "name": "MUHAMMAD ASHIQ K S",
+      "rollNo": "23160504",
+      "group": "COMMERCE",
+      "totalMarks": 671,
+      "rank": 18
+    },
+    {
+      "name": "NIVED RAJESH",
+      "rollNo": "23160505",
+      "group": "COMMERCE",
+      "totalMarks": 666,
+      "rank": 19
+    },
+    {
+      "name": "SACHU LALICHAN",
+      "rollNo": "23160511",
+      "group": "COMMERCE",
+      "totalMarks": 632,
+      "rank": 20
+    },
+    {
+      "name": "ASWIN REGHU",
+      "rollNo": "23160501",
+      "group": "COMMERCE",
+      "totalMarks": 597,
+      "rank": 21
+    },
+    {
+      "name": "ADITHYAN P S",
+      "rollNo": "23160499",
+      "group": "COMMERCE",
+      "totalMarks": 584,
+      "rank": 22
+    },
+    {
+      "name": "ARAVIND K.R",
+      "rollNo": "23160500",
+      "group": "COMMERCE",
+      "totalMarks": 566,
+      "rank": 23
+    },
+    {
+      "name": "TOMY SHAJI",
+      "rollNo": "23160506",
+      "group": "COMMERCE",
+      "totalMarks": 473,
+      "rank": 24
+    },
+    {
+      "name": "AJMAL ASHRAF",
+      "rollNo": "23501382",
+      "group": "COMMERCE",
+      "totalMarks": 109,
+      "rank": 25
+    },
+    {
+      "name": "ANANDHU KRISHNA",
+      "rollNo": "23501383",
+      "group": "COMMERCE",
+      "totalMarks": 105,
+      "rank": 26
+    },
+    {
+      "name": "HARI PRESANNAN",
+      "rollNo": "23501384",
+      "group": "COMMERCE",
+      "totalMarks": 81,
+      "rank": 27
+    }
+  ]
+}

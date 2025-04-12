@@ -1,2703 +1,3661 @@
-[
-  {
-    "rollNo": "22357455",
-    "regular": false,
-    "name": "ABDUL HASEEB. P. K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 49
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 65
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22518012",
-    "regular": false,
-    "name": "MUHAMMED ASLAM.P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 47
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357381",
-    "regular": true,
-    "name": "ABDUL ELAH BIN ALIKUTTY PARAMBADAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357382",
-    "regular": true,
-    "name": "ABDUL KADHIR A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357383",
-    "regular": true,
-    "name": "AHAMMED YASEEN . H",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357384",
-    "regular": true,
-    "name": "JASEEM U",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357385",
-    "regular": true,
-    "name": "MOHAMMED LUKHMANUL HAKEEM",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357386",
-    "regular": true,
-    "name": "MOHAMMED MUHSIN C K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357387",
-    "regular": true,
-    "name": "MUHAMMAD ABDUL GANI K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357388",
-    "regular": true,
-    "name": "MUHAMMAD HASHIR C",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357389",
-    "regular": true,
-    "name": "MUHAMMAD MISBAH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357390",
-    "regular": true,
-    "name": "MUHAMMAD SHAHID .M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357391",
-    "regular": true,
-    "name": "MUHAMMED AJMAL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357392",
-    "regular": true,
-    "name": "MUHAMMED AJMAL.P.K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357393",
-    "regular": true,
-    "name": "MUHAMMED ANAS T M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357394",
-    "regular": true,
-    "name": "MUHAMMED BADUSHA.K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357395",
-    "regular": true,
-    "name": "MUHAMMED FARHAN K K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357396",
-    "regular": true,
-    "name": "MUHAMMED HISAN.K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357397",
-    "regular": true,
-    "name": "MUHAMMED HUBAIB",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357398",
-    "regular": true,
-    "name": "MUHAMMED JUNAID.P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357399",
-    "regular": true,
-    "name": "MUHAMMED JURAIJ",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357400",
-    "regular": true,
-    "name": "MUHAMMED MASHOOD KANHIRAPPOKIL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357401",
-    "regular": true,
-    "name": "MUHAMMED MURSHID M P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357402",
-    "regular": true,
-    "name": "MUHAMMED NASWIH. V",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357403",
-    "regular": true,
-    "name": "MUHAMMED RABEEH M P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 118
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357404",
-    "regular": true,
-    "name": "MUHAMMED SAEED M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357405",
-    "regular": true,
-    "name": "MUHAMMED SAHAL K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357406",
-    "regular": true,
-    "name": "MUHAMMED SHAMEEM. A.P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357407",
-    "regular": true,
-    "name": "MUHAMMED SINAN K K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357408",
-    "regular": true,
-    "name": "MUHAMMED SINAN M P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357409",
-    "regular": true,
-    "name": "MUHAMMED SINAN P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357410",
-    "regular": true,
-    "name": "MUHAMMED SINAN P C",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357411",
-    "regular": true,
-    "name": "MUHAMMED SINAN P K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357412",
-    "regular": true,
-    "name": "MUHAMMED SWABAH. C.K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357413",
-    "regular": true,
-    "name": "MUHAMMED THASNEEM K P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357414",
-    "regular": true,
-    "name": "MUHAMMED UNAIS",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357415",
-    "regular": true,
-    "name": "MUSHTHAK MUHEENUDDEEN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357416",
-    "regular": true,
-    "name": "SUHAILA.K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357417",
-    "regular": true,
-    "name": "M A MUHAMMAD MUBEEN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357418",
-    "regular": true,
-    "name": "MUHAMMED FUHAD K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 101
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357419",
-    "regular": true,
-    "name": "MUHAMMED RASHID T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 60
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 80
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357420",
-    "regular": true,
-    "name": "MUHAMMED SAHAL K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 44
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 62
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357421",
-    "regular": true,
-    "name": "ABDUL SALAM P S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357422",
-    "regular": true,
-    "name": "HABEEB RAHMAN .K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357423",
-    "regular": true,
-    "name": "ISMAYEEL RAYEES A K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357424",
-    "regular": true,
-    "name": "KABEER ISMAIL K C",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357425",
-    "regular": true,
-    "name": "MIDULAJUL AMAN K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357426",
-    "regular": true,
-    "name": "MOHAMMED ANEEZ KHAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357427",
-    "regular": true,
-    "name": "MOHAMMED DILSHAD KV",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357428",
-    "regular": true,
-    "name": "MOHAMMED FAVAS K V",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357429",
-    "regular": true,
-    "name": "MOHAMMED NIHAD. K. T.",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357430",
-    "regular": true,
-    "name": "MOHAMMED RABEEH M P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357431",
-    "regular": true,
-    "name": "MOHAMMED SAJADH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357432",
-    "regular": true,
-    "name": "MOHAMMED SINAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357433",
-    "regular": true,
-    "name": "MOHAMMED SINAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357434",
-    "regular": true,
-    "name": "MUHAMMED ANSIF",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357435",
-    "regular": true,
-    "name": "MUHAMMED FADHIL . V . S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357436",
-    "regular": true,
-    "name": "MUHAMMED FAZIL K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 77
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357437",
-    "regular": true,
-    "name": "MUHAMMED IMRAN C. A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 104
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357438",
-    "regular": true,
-    "name": "MUHAMMED JUNAID",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357439",
-    "regular": true,
-    "name": "MUHAMMED LABEEB K.T.",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357440",
-    "regular": true,
-    "name": "MUHAMMED LUTHUFULLA C",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357442",
-    "regular": true,
-    "name": "MUHAMMED SHAFI M S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 90
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357443",
-    "regular": true,
-    "name": "MUHAMMED SHAMEEM . K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 95
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357444",
-    "regular": true,
-    "name": "MUHAMMED SHIBILI. AT",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 136
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357445",
-    "regular": true,
-    "name": "MUHAMMED SINAN T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357446",
-    "regular": true,
-    "name": "MUHAMMED SINAN V K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357447",
-    "regular": true,
-    "name": "MUHAMMED SINAN VETTIYADAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 159
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23357448",
-    "regular": true,
-    "name": "MUHAMMED THWAYYIB.T.P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 143
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357449",
-    "regular": true,
-    "name": "MUHAMMED YASEEN. PC",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357450",
-    "regular": true,
-    "name": "MUHAMMED ZIYAD V",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357451",
-    "regular": true,
-    "name": "MUNAWARALI P C",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23357452",
-    "regular": true,
-    "name": "SALMANUL FARIS P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 50
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 55
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 67
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "11305",
+  "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+  "phoneNo": "0483-2773542",
+  "emailId": "ummulqurahssmongam@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "MorayoorEranad",
+  "eduDistrict": "Malappuram",
+  "assemblyConstituency": "Kondotty",
+  "courseCode": "11,38",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "3,2",
+  "district": "MALAPPURAM",
+  "results": [
+    {
+      "rollNo": "23357381",
+      "regular": true,
+      "name": "ABDUL ELAH BIN ALIKUTTY PARAMBADAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 988,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357382",
+      "regular": true,
+      "name": "ABDUL KADHIR A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 940,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357383",
+      "regular": true,
+      "name": "AHAMMED YASEEN . H",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 796,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357384",
+      "regular": true,
+      "name": "JASEEM U",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1147,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357385",
+      "regular": true,
+      "name": "MOHAMMED LUKHMANUL HAKEEM",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 895,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357386",
+      "regular": true,
+      "name": "MOHAMMED MUHSIN C K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 818,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357387",
+      "regular": true,
+      "name": "MUHAMMAD ABDUL GANI K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 736,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357388",
+      "regular": true,
+      "name": "MUHAMMAD HASHIR C",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1112,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357389",
+      "regular": true,
+      "name": "MUHAMMAD MISBAH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 838,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357390",
+      "regular": true,
+      "name": "MUHAMMAD SHAHID .M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 177
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1049,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357391",
+      "regular": true,
+      "name": "MUHAMMED AJMAL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 820,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357392",
+      "regular": true,
+      "name": "MUHAMMED AJMAL.P.K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1082,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357393",
+      "regular": true,
+      "name": "MUHAMMED ANAS T M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1157,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23357394",
+      "regular": true,
+      "name": "MUHAMMED BADUSHA.K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1102,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357395",
+      "regular": true,
+      "name": "MUHAMMED FARHAN K K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1004,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357396",
+      "regular": true,
+      "name": "MUHAMMED HISAN.K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1022,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357397",
+      "regular": true,
+      "name": "MUHAMMED HUBAIB",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 788,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357398",
+      "regular": true,
+      "name": "MUHAMMED JUNAID.P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1005,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357399",
+      "regular": true,
+      "name": "MUHAMMED JURAIJ",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 835,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357400",
+      "regular": true,
+      "name": "MUHAMMED MASHOOD KANHIRAPPOKIL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 932,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357401",
+      "regular": true,
+      "name": "MUHAMMED MURSHID M P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1058,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357402",
+      "regular": true,
+      "name": "MUHAMMED NASWIH. V",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 843,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357403",
+      "regular": true,
+      "name": "MUHAMMED RABEEH M P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 118
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 886,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357404",
+      "regular": true,
+      "name": "MUHAMMED SAEED M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1106,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357405",
+      "regular": true,
+      "name": "MUHAMMED SAHAL K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 986,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357406",
+      "regular": true,
+      "name": "MUHAMMED SHAMEEM. A.P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1127,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357407",
+      "regular": true,
+      "name": "MUHAMMED SINAN K K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 844,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357408",
+      "regular": true,
+      "name": "MUHAMMED SINAN M P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 765,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357409",
+      "regular": true,
+      "name": "MUHAMMED SINAN P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 913,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357410",
+      "regular": true,
+      "name": "MUHAMMED SINAN P C",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1114,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357411",
+      "regular": true,
+      "name": "MUHAMMED SINAN P K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1015,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357412",
+      "regular": true,
+      "name": "MUHAMMED SWABAH. C.K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 171
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1032,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357413",
+      "regular": true,
+      "name": "MUHAMMED THASNEEM K P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 741,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357414",
+      "regular": true,
+      "name": "MUHAMMED UNAIS",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 101
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357415",
+      "regular": true,
+      "name": "MUSHTHAK MUHEENUDDEEN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1006,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357416",
+      "regular": true,
+      "name": "SUHAILA.K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 822,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357417",
+      "regular": true,
+      "name": "M A MUHAMMAD MUBEEN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1074,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357418",
+      "regular": true,
+      "name": "MUHAMMED FUHAD K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 101
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 662,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357419",
+      "regular": true,
+      "name": "MUHAMMED RASHID T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 60
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 80
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 535,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357420",
+      "regular": true,
+      "name": "MUHAMMED SAHAL K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 44
+        },
+        {
+          "name": "HINDI",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 62
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 386,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357421",
+      "regular": true,
+      "name": "ABDUL SALAM P S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1150,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357422",
+      "regular": true,
+      "name": "HABEEB RAHMAN .K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 843,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357423",
+      "regular": true,
+      "name": "ISMAYEEL RAYEES A K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 699,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357424",
+      "regular": true,
+      "name": "KABEER ISMAIL K C",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 722,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357425",
+      "regular": true,
+      "name": "MIDULAJUL AMAN K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 950,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357426",
+      "regular": true,
+      "name": "MOHAMMED ANEEZ KHAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1086,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357427",
+      "regular": true,
+      "name": "MOHAMMED DILSHAD KV",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1054,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357428",
+      "regular": true,
+      "name": "MOHAMMED FAVAS K V",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 675,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357429",
+      "regular": true,
+      "name": "MOHAMMED NIHAD. K. T.",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1097,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357430",
+      "regular": true,
+      "name": "MOHAMMED RABEEH M P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 946,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357431",
+      "regular": true,
+      "name": "MOHAMMED SAJADH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 877,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357432",
+      "regular": true,
+      "name": "MOHAMMED SINAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 818,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357433",
+      "regular": true,
+      "name": "MOHAMMED SINAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 856,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357434",
+      "regular": true,
+      "name": "MUHAMMED ANSIF",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 839,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357435",
+      "regular": true,
+      "name": "MUHAMMED FADHIL . V . S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 885,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357436",
+      "regular": true,
+      "name": "MUHAMMED FAZIL K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 77
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 551,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357437",
+      "regular": true,
+      "name": "MUHAMMED IMRAN C. A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 104
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 698,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357438",
+      "regular": true,
+      "name": "MUHAMMED JUNAID",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 816,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357439",
+      "regular": true,
+      "name": "MUHAMMED LABEEB K.T.",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 933,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357440",
+      "regular": true,
+      "name": "MUHAMMED LUTHUFULLA C",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 762,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357442",
+      "regular": true,
+      "name": "MUHAMMED SHAFI M S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 90
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 586,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357443",
+      "regular": true,
+      "name": "MUHAMMED SHAMEEM . K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 95
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 690,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357444",
+      "regular": true,
+      "name": "MUHAMMED SHIBILI. AT",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 136
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 838,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357445",
+      "regular": true,
+      "name": "MUHAMMED SINAN T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1087,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357446",
+      "regular": true,
+      "name": "MUHAMMED SINAN V K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 822,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357447",
+      "regular": true,
+      "name": "MUHAMMED SINAN VETTIYADAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 159
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 800,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357448",
+      "regular": true,
+      "name": "MUHAMMED THWAYYIB.T.P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 143
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 897,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357449",
+      "regular": true,
+      "name": "MUHAMMED YASEEN. PC",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1058,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357450",
+      "regular": true,
+      "name": "MUHAMMED ZIYAD V",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 1025,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357451",
+      "regular": true,
+      "name": "MUNAWARALI P C",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 976,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23357452",
+      "regular": true,
+      "name": "SALMANUL FARIS P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 50
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 55
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 67
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 461,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22357455",
+      "regular": false,
+      "name": "ABDUL HASEEB. P. K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 49
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 65
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 299,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22518012",
+      "regular": false,
+      "name": "MUHAMMED ASLAM.P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 47
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 96
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Ummul Qura Higher Secondary School, Mongam. P.O",
+      "schoolCode": "11305",
+      "totalMarks": 207,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 77.46,
+  "totalFullAp": 1,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "MUHAMMED ANAS T M (23357393) - HUMANITIES"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "MUHAMMED ANAS T M",
+      "rollNo": "23357393",
+      "group": "HUMANITIES",
+      "totalMarks": 1157,
+      "rank": 1
+    },
+    {
+      "name": "ABDUL SALAM P S",
+      "rollNo": "23357421",
+      "group": "COMMERCE",
+      "totalMarks": 1150,
+      "rank": 2
+    },
+    {
+      "name": "JASEEM U",
+      "rollNo": "23357384",
+      "group": "HUMANITIES",
+      "totalMarks": 1147,
+      "rank": 3
+    },
+    {
+      "name": "MUHAMMED SHAMEEM. A.P",
+      "rollNo": "23357406",
+      "group": "HUMANITIES",
+      "totalMarks": 1127,
+      "rank": 4
+    },
+    {
+      "name": "MUHAMMED SINAN P C",
+      "rollNo": "23357410",
+      "group": "HUMANITIES",
+      "totalMarks": 1114,
+      "rank": 5
+    },
+    {
+      "name": "MUHAMMAD HASHIR C",
+      "rollNo": "23357388",
+      "group": "HUMANITIES",
+      "totalMarks": 1112,
+      "rank": 6
+    },
+    {
+      "name": "MUHAMMED SAEED M",
+      "rollNo": "23357404",
+      "group": "HUMANITIES",
+      "totalMarks": 1106,
+      "rank": 7
+    },
+    {
+      "name": "MUHAMMED BADUSHA.K",
+      "rollNo": "23357394",
+      "group": "HUMANITIES",
+      "totalMarks": 1102,
+      "rank": 8
+    },
+    {
+      "name": "MOHAMMED NIHAD. K. T.",
+      "rollNo": "23357429",
+      "group": "COMMERCE",
+      "totalMarks": 1097,
+      "rank": 9
+    },
+    {
+      "name": "MUHAMMED SINAN T",
+      "rollNo": "23357445",
+      "group": "COMMERCE",
+      "totalMarks": 1087,
+      "rank": 10
+    },
+    {
+      "name": "MOHAMMED ANEEZ KHAN",
+      "rollNo": "23357426",
+      "group": "COMMERCE",
+      "totalMarks": 1086,
+      "rank": 11
+    },
+    {
+      "name": "MUHAMMED AJMAL.P.K",
+      "rollNo": "23357392",
+      "group": "HUMANITIES",
+      "totalMarks": 1082,
+      "rank": 12
+    },
+    {
+      "name": "M A MUHAMMAD MUBEEN",
+      "rollNo": "23357417",
+      "group": "COMMERCE",
+      "totalMarks": 1074,
+      "rank": 13
+    },
+    {
+      "name": "MUHAMMED YASEEN. PC",
+      "rollNo": "23357449",
+      "group": "COMMERCE",
+      "totalMarks": 1058,
+      "rank": 14
+    },
+    {
+      "name": "MUHAMMED MURSHID M P",
+      "rollNo": "23357401",
+      "group": "HUMANITIES",
+      "totalMarks": 1058,
+      "rank": 14
+    },
+    {
+      "name": "MOHAMMED DILSHAD KV",
+      "rollNo": "23357427",
+      "group": "COMMERCE",
+      "totalMarks": 1054,
+      "rank": 16
+    },
+    {
+      "name": "MUHAMMAD SHAHID .M",
+      "rollNo": "23357390",
+      "group": "HUMANITIES",
+      "totalMarks": 1049,
+      "rank": 17
+    },
+    {
+      "name": "MUHAMMED SWABAH. C.K",
+      "rollNo": "23357412",
+      "group": "HUMANITIES",
+      "totalMarks": 1032,
+      "rank": 18
+    },
+    {
+      "name": "MUHAMMED ZIYAD V",
+      "rollNo": "23357450",
+      "group": "COMMERCE",
+      "totalMarks": 1025,
+      "rank": 19
+    },
+    {
+      "name": "MUHAMMED HISAN.K",
+      "rollNo": "23357396",
+      "group": "HUMANITIES",
+      "totalMarks": 1022,
+      "rank": 20
+    },
+    {
+      "name": "MUHAMMED SINAN P K",
+      "rollNo": "23357411",
+      "group": "HUMANITIES",
+      "totalMarks": 1015,
+      "rank": 21
+    },
+    {
+      "name": "MUSHTHAK MUHEENUDDEEN",
+      "rollNo": "23357415",
+      "group": "HUMANITIES",
+      "totalMarks": 1006,
+      "rank": 22
+    },
+    {
+      "name": "MUHAMMED JUNAID.P",
+      "rollNo": "23357398",
+      "group": "HUMANITIES",
+      "totalMarks": 1005,
+      "rank": 23
+    },
+    {
+      "name": "MUHAMMED FARHAN K K",
+      "rollNo": "23357395",
+      "group": "HUMANITIES",
+      "totalMarks": 1004,
+      "rank": 24
+    },
+    {
+      "name": "ABDUL ELAH BIN ALIKUTTY PARAMBADAN",
+      "rollNo": "23357381",
+      "group": "HUMANITIES",
+      "totalMarks": 988,
+      "rank": 25
+    },
+    {
+      "name": "MUHAMMED SAHAL K",
+      "rollNo": "23357405",
+      "group": "HUMANITIES",
+      "totalMarks": 986,
+      "rank": 26
+    },
+    {
+      "name": "MUNAWARALI P C",
+      "rollNo": "23357451",
+      "group": "COMMERCE",
+      "totalMarks": 976,
+      "rank": 27
+    },
+    {
+      "name": "MIDULAJUL AMAN K",
+      "rollNo": "23357425",
+      "group": "COMMERCE",
+      "totalMarks": 950,
+      "rank": 28
+    },
+    {
+      "name": "MOHAMMED RABEEH M P",
+      "rollNo": "23357430",
+      "group": "COMMERCE",
+      "totalMarks": 946,
+      "rank": 29
+    },
+    {
+      "name": "ABDUL KADHIR A",
+      "rollNo": "23357382",
+      "group": "HUMANITIES",
+      "totalMarks": 940,
+      "rank": 30
+    },
+    {
+      "name": "MUHAMMED LABEEB K.T.",
+      "rollNo": "23357439",
+      "group": "COMMERCE",
+      "totalMarks": 933,
+      "rank": 31
+    },
+    {
+      "name": "MUHAMMED MASHOOD KANHIRAPPOKIL",
+      "rollNo": "23357400",
+      "group": "HUMANITIES",
+      "totalMarks": 932,
+      "rank": 32
+    },
+    {
+      "name": "MUHAMMED SINAN P",
+      "rollNo": "23357409",
+      "group": "HUMANITIES",
+      "totalMarks": 913,
+      "rank": 33
+    },
+    {
+      "name": "MUHAMMED THWAYYIB.T.P",
+      "rollNo": "23357448",
+      "group": "COMMERCE",
+      "totalMarks": 897,
+      "rank": 34
+    },
+    {
+      "name": "MOHAMMED LUKHMANUL HAKEEM",
+      "rollNo": "23357385",
+      "group": "HUMANITIES",
+      "totalMarks": 895,
+      "rank": 35
+    },
+    {
+      "name": "MUHAMMED RABEEH M P",
+      "rollNo": "23357403",
+      "group": "HUMANITIES",
+      "totalMarks": 886,
+      "rank": 36
+    },
+    {
+      "name": "MUHAMMED FADHIL . V . S",
+      "rollNo": "23357435",
+      "group": "COMMERCE",
+      "totalMarks": 885,
+      "rank": 37
+    },
+    {
+      "name": "MOHAMMED SAJADH",
+      "rollNo": "23357431",
+      "group": "COMMERCE",
+      "totalMarks": 877,
+      "rank": 38
+    },
+    {
+      "name": "MOHAMMED SINAN",
+      "rollNo": "23357433",
+      "group": "COMMERCE",
+      "totalMarks": 856,
+      "rank": 39
+    },
+    {
+      "name": "MUHAMMED SINAN K K",
+      "rollNo": "23357407",
+      "group": "HUMANITIES",
+      "totalMarks": 844,
+      "rank": 40
+    },
+    {
+      "name": "HABEEB RAHMAN .K",
+      "rollNo": "23357422",
+      "group": "COMMERCE",
+      "totalMarks": 843,
+      "rank": 41
+    },
+    {
+      "name": "MUHAMMED NASWIH. V",
+      "rollNo": "23357402",
+      "group": "HUMANITIES",
+      "totalMarks": 843,
+      "rank": 41
+    },
+    {
+      "name": "MUHAMMED ANSIF",
+      "rollNo": "23357434",
+      "group": "COMMERCE",
+      "totalMarks": 839,
+      "rank": 43
+    },
+    {
+      "name": "MUHAMMED SHIBILI. AT",
+      "rollNo": "23357444",
+      "group": "COMMERCE",
+      "totalMarks": 838,
+      "rank": 44
+    },
+    {
+      "name": "MUHAMMAD MISBAH",
+      "rollNo": "23357389",
+      "group": "HUMANITIES",
+      "totalMarks": 838,
+      "rank": 44
+    },
+    {
+      "name": "MUHAMMED JURAIJ",
+      "rollNo": "23357399",
+      "group": "HUMANITIES",
+      "totalMarks": 835,
+      "rank": 46
+    },
+    {
+      "name": "MUHAMMED SINAN V K",
+      "rollNo": "23357446",
+      "group": "COMMERCE",
+      "totalMarks": 822,
+      "rank": 47
+    },
+    {
+      "name": "SUHAILA.K",
+      "rollNo": "23357416",
+      "group": "HUMANITIES",
+      "totalMarks": 822,
+      "rank": 47
+    },
+    {
+      "name": "MUHAMMED AJMAL",
+      "rollNo": "23357391",
+      "group": "HUMANITIES",
+      "totalMarks": 820,
+      "rank": 49
+    },
+    {
+      "name": "MOHAMMED MUHSIN C K",
+      "rollNo": "23357386",
+      "group": "HUMANITIES",
+      "totalMarks": 818,
+      "rank": 50
+    },
+    {
+      "name": "MOHAMMED SINAN",
+      "rollNo": "23357432",
+      "group": "COMMERCE",
+      "totalMarks": 818,
+      "rank": 50
+    },
+    {
+      "name": "MUHAMMED JUNAID",
+      "rollNo": "23357438",
+      "group": "COMMERCE",
+      "totalMarks": 816,
+      "rank": 52
+    },
+    {
+      "name": "MUHAMMED SINAN VETTIYADAN",
+      "rollNo": "23357447",
+      "group": "COMMERCE",
+      "totalMarks": 800,
+      "rank": 53
+    },
+    {
+      "name": "AHAMMED YASEEN . H",
+      "rollNo": "23357383",
+      "group": "HUMANITIES",
+      "totalMarks": 796,
+      "rank": 54
+    },
+    {
+      "name": "MUHAMMED HUBAIB",
+      "rollNo": "23357397",
+      "group": "HUMANITIES",
+      "totalMarks": 788,
+      "rank": 55
+    },
+    {
+      "name": "MUHAMMED SINAN M P",
+      "rollNo": "23357408",
+      "group": "HUMANITIES",
+      "totalMarks": 765,
+      "rank": 56
+    },
+    {
+      "name": "MUHAMMED LUTHUFULLA C",
+      "rollNo": "23357440",
+      "group": "COMMERCE",
+      "totalMarks": 762,
+      "rank": 57
+    },
+    {
+      "name": "MUHAMMED THASNEEM K P",
+      "rollNo": "23357413",
+      "group": "HUMANITIES",
+      "totalMarks": 741,
+      "rank": 58
+    },
+    {
+      "name": "MUHAMMAD ABDUL GANI K",
+      "rollNo": "23357387",
+      "group": "HUMANITIES",
+      "totalMarks": 736,
+      "rank": 59
+    },
+    {
+      "name": "KABEER ISMAIL K C",
+      "rollNo": "23357424",
+      "group": "COMMERCE",
+      "totalMarks": 722,
+      "rank": 60
+    },
+    {
+      "name": "ISMAYEEL RAYEES A K",
+      "rollNo": "23357423",
+      "group": "COMMERCE",
+      "totalMarks": 699,
+      "rank": 61
+    },
+    {
+      "name": "MUHAMMED IMRAN C. A",
+      "rollNo": "23357437",
+      "group": "COMMERCE",
+      "totalMarks": 698,
+      "rank": 62
+    },
+    {
+      "name": "MUHAMMED UNAIS",
+      "rollNo": "23357414",
+      "group": "HUMANITIES",
+      "totalMarks": 697,
+      "rank": 63
+    },
+    {
+      "name": "MUHAMMED SHAMEEM . K",
+      "rollNo": "23357443",
+      "group": "COMMERCE",
+      "totalMarks": 690,
+      "rank": 64
+    },
+    {
+      "name": "MOHAMMED FAVAS K V",
+      "rollNo": "23357428",
+      "group": "COMMERCE",
+      "totalMarks": 675,
+      "rank": 65
+    },
+    {
+      "name": "MUHAMMED FUHAD K",
+      "rollNo": "23357418",
+      "group": "COMMERCE",
+      "totalMarks": 662,
+      "rank": 66
+    },
+    {
+      "name": "MUHAMMED SHAFI M S",
+      "rollNo": "23357442",
+      "group": "COMMERCE",
+      "totalMarks": 586,
+      "rank": 67
+    },
+    {
+      "name": "MUHAMMED FAZIL K",
+      "rollNo": "23357436",
+      "group": "COMMERCE",
+      "totalMarks": 551,
+      "rank": 68
+    },
+    {
+      "name": "MUHAMMED RASHID T",
+      "rollNo": "23357419",
+      "group": "COMMERCE",
+      "totalMarks": 535,
+      "rank": 69
+    },
+    {
+      "name": "SALMANUL FARIS P",
+      "rollNo": "23357452",
+      "group": "COMMERCE",
+      "totalMarks": 461,
+      "rank": 70
+    },
+    {
+      "name": "MUHAMMED SAHAL K",
+      "rollNo": "23357420",
+      "group": "COMMERCE",
+      "totalMarks": 386,
+      "rank": 71
+    }
+  ]
+}

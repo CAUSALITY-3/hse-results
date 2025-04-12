@@ -1,1852 +1,2549 @@
-[
-  {
-    "rollNo": "23123949",
-    "regular": true,
-    "name": "AHISHORE V.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123950",
-    "regular": true,
-    "name": "ANANTHAKRISHNAN I B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123951",
-    "regular": true,
-    "name": "ASWIN SURESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123952",
-    "regular": true,
-    "name": "JIBIN BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123953",
-    "regular": true,
-    "name": "ROSHIN REJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123954",
-    "regular": true,
-    "name": "AKSHARA A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123955",
-    "regular": true,
-    "name": "ALEENA SABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123956",
-    "regular": true,
-    "name": "ALONA BINU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123957",
-    "regular": true,
-    "name": "ALONA MARIA TOMY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123958",
-    "regular": true,
-    "name": "ANAHA SHAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123959",
-    "regular": true,
-    "name": "FARHANA FATHIMA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123960",
-    "regular": true,
-    "name": "GAYATHRI BIPIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123961",
-    "regular": true,
-    "name": "JESMI SIBY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123962",
-    "regular": true,
-    "name": "JOMY ANN JOSE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123963",
-    "regular": true,
-    "name": "JULIET DAVID",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123964",
-    "regular": true,
-    "name": "MEENAKSHY SANKAR RAJ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123965",
-    "regular": true,
-    "name": "MITHRA P NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 149
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123966",
-    "regular": true,
-    "name": "NIDHI RAJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123967",
-    "regular": true,
-    "name": "SAYANA SEBASTIAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123968",
-    "regular": true,
-    "name": "TRESA DEVASIA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123969",
-    "regular": true,
-    "name": "AARON BENOY KOTTARATHIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123970",
-    "regular": true,
-    "name": "AATHIL S IBRAHIM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123971",
-    "regular": true,
-    "name": "ALBIN KURIAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123972",
-    "regular": true,
-    "name": "ALEN VARGHESE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123973",
-    "regular": true,
-    "name": "AMAL JOE BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123974",
-    "regular": true,
-    "name": "BIBIN VARKEY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123975",
-    "regular": true,
-    "name": "CHACKOCHI ROBIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123976",
-    "regular": true,
-    "name": "FADHIL FAISEL K M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123977",
-    "regular": true,
-    "name": "SAM C THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123978",
-    "regular": true,
-    "name": "TINUBIN GEORGE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123979",
-    "regular": true,
-    "name": "AKSA KURIAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123980",
-    "regular": true,
-    "name": "ANDRIA SUMESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123981",
-    "regular": true,
-    "name": "ARSHADHA FATHIMA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123982",
-    "regular": true,
-    "name": "DAIONA MATHEW",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123983",
-    "regular": true,
-    "name": "DEVANANDHANA L",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123984",
-    "regular": true,
-    "name": "DEVIKA SAJEEV",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123985",
-    "regular": true,
-    "name": "KRISHNENDHU V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123986",
-    "regular": true,
-    "name": "M.SWALIHA HIDAYETH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123987",
-    "regular": true,
-    "name": "MALAVIKA ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123988",
-    "regular": true,
-    "name": "NIMISHA SHIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 175
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123989",
-    "regular": true,
-    "name": "NIMMYMOL SAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123990",
-    "regular": true,
-    "name": "NIRANJANA JEYAPRAKASH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123991",
-    "regular": true,
-    "name": "PARVATHY RAJESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123992",
-    "regular": true,
-    "name": "POOJA LAKSHMI SEN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123993",
-    "regular": true,
-    "name": "RIAH MARIA HAPPY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123994",
-    "regular": true,
-    "name": "RIDA FATHIMA SALAM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123995",
-    "regular": true,
-    "name": "SAIRA ANNA DAWN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123996",
-    "regular": true,
-    "name": "SARA ELSA MATHEW",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123997",
-    "regular": true,
-    "name": "THEERTHA SURESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23123998",
-    "regular": true,
-    "name": "VISMAYA DAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "6044",
+  "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+  "phoneNo": "04869-223291",
+  "emailId": "stemhssattappallam@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "KumiliPeerumedu",
+  "eduDistrict": "Kattappana",
+  "assemblyConstituency": "Peerumade",
+  "courseCode": "1",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "IDUKKY",
+  "results": [
+    {
+      "rollNo": "23123949",
+      "regular": true,
+      "name": "AHISHORE V.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1086,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123950",
+      "regular": true,
+      "name": "ANANTHAKRISHNAN I B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 948,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123951",
+      "regular": true,
+      "name": "ASWIN SURESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 926,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123952",
+      "regular": true,
+      "name": "JIBIN BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 978,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123953",
+      "regular": true,
+      "name": "ROSHIN REJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 996,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123954",
+      "regular": true,
+      "name": "AKSHARA A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1178,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123955",
+      "regular": true,
+      "name": "ALEENA SABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1166,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123956",
+      "regular": true,
+      "name": "ALONA BINU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1122,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123957",
+      "regular": true,
+      "name": "ALONA MARIA TOMY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1118,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123958",
+      "regular": true,
+      "name": "ANAHA SHAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1131,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123959",
+      "regular": true,
+      "name": "FARHANA FATHIMA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1116,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123960",
+      "regular": true,
+      "name": "GAYATHRI BIPIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1108,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123961",
+      "regular": true,
+      "name": "JESMI SIBY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1050,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123962",
+      "regular": true,
+      "name": "JOMY ANN JOSE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1175,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123963",
+      "regular": true,
+      "name": "JULIET DAVID",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1056,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123964",
+      "regular": true,
+      "name": "MEENAKSHY SANKAR RAJ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1165,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123965",
+      "regular": true,
+      "name": "MITHRA P NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 149
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1052,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123966",
+      "regular": true,
+      "name": "NIDHI RAJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1188,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123967",
+      "regular": true,
+      "name": "SAYANA SEBASTIAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1101,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123968",
+      "regular": true,
+      "name": "TRESA DEVASIA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1194,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123969",
+      "regular": true,
+      "name": "AARON BENOY KOTTARATHIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1160,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123970",
+      "regular": true,
+      "name": "AATHIL S IBRAHIM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1086,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123971",
+      "regular": true,
+      "name": "ALBIN KURIAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1079,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123972",
+      "regular": true,
+      "name": "ALEN VARGHESE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1151,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123973",
+      "regular": true,
+      "name": "AMAL JOE BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1000,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123974",
+      "regular": true,
+      "name": "BIBIN VARKEY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 987,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123975",
+      "regular": true,
+      "name": "CHACKOCHI ROBIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1063,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123976",
+      "regular": true,
+      "name": "FADHIL FAISEL K M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1106,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123977",
+      "regular": true,
+      "name": "SAM C THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1152,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123978",
+      "regular": true,
+      "name": "TINUBIN GEORGE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1116,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123979",
+      "regular": true,
+      "name": "AKSA KURIAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1125,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123980",
+      "regular": true,
+      "name": "ANDRIA SUMESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1166,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123981",
+      "regular": true,
+      "name": "ARSHADHA FATHIMA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1135,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123982",
+      "regular": true,
+      "name": "DAIONA MATHEW",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1111,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123983",
+      "regular": true,
+      "name": "DEVANANDHANA L",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1123,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123984",
+      "regular": true,
+      "name": "DEVIKA SAJEEV",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1051,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123985",
+      "regular": true,
+      "name": "KRISHNENDHU V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1187,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123986",
+      "regular": true,
+      "name": "M.SWALIHA HIDAYETH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1004,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123987",
+      "regular": true,
+      "name": "MALAVIKA ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1166,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123988",
+      "regular": true,
+      "name": "NIMISHA SHIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 175
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1042,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123989",
+      "regular": true,
+      "name": "NIMMYMOL SAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1086,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123990",
+      "regular": true,
+      "name": "NIRANJANA JEYAPRAKASH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1122,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123991",
+      "regular": true,
+      "name": "PARVATHY RAJESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1038,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123992",
+      "regular": true,
+      "name": "POOJA LAKSHMI SEN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1018,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123993",
+      "regular": true,
+      "name": "RIAH MARIA HAPPY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1079,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123994",
+      "regular": true,
+      "name": "RIDA FATHIMA SALAM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1134,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123995",
+      "regular": true,
+      "name": "SAIRA ANNA DAWN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1102,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123996",
+      "regular": true,
+      "name": "SARA ELSA MATHEW",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1132,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23123997",
+      "regular": true,
+      "name": "THEERTHA SURESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1075,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23123998",
+      "regular": true,
+      "name": "VISMAYA DAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. THOMAS EM HSS, ATTAPPALLAM, KUMILY, 685509",
+      "schoolCode": "6044",
+      "totalMarks": 1048,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 100,
+  "totalFullAp": 25,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "AKSHARA A S (23123954) - SCIENCE",
+    "ALEENA SABU (23123955) - SCIENCE",
+    "ALONA BINU (23123956) - SCIENCE",
+    "ALONA MARIA TOMY (23123957) - SCIENCE",
+    "ANAHA SHAJI (23123958) - SCIENCE",
+    "FARHANA FATHIMA (23123959) - SCIENCE",
+    "GAYATHRI BIPIN (23123960) - SCIENCE",
+    "JOMY ANN JOSE (23123962) - SCIENCE",
+    "MEENAKSHY SANKAR RAJ (23123964) - SCIENCE",
+    "NIDHI RAJU (23123966) - SCIENCE",
+    "TRESA DEVASIA (23123968) - SCIENCE",
+    "AARON BENOY KOTTARATHIL (23123969) - SCIENCE",
+    "ALEN VARGHESE (23123972) - SCIENCE",
+    "FADHIL FAISEL K M (23123976) - SCIENCE",
+    "SAM C THOMAS (23123977) - SCIENCE",
+    "TINUBIN GEORGE (23123978) - SCIENCE",
+    "AKSA KURIAN (23123979) - SCIENCE",
+    "ANDRIA SUMESH (23123980) - SCIENCE",
+    "ARSHADHA FATHIMA (23123981) - SCIENCE",
+    "DAIONA MATHEW (23123982) - SCIENCE",
+    "KRISHNENDHU V (23123985) - SCIENCE",
+    "MALAVIKA ANIL (23123987) - SCIENCE",
+    "NIRANJANA JEYAPRAKASH (23123990) - SCIENCE",
+    "RIDA FATHIMA SALAM (23123994) - SCIENCE",
+    "SARA ELSA MATHEW (23123996) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "TRESA DEVASIA",
+      "rollNo": "23123968",
+      "group": "SCIENCE",
+      "totalMarks": 1194,
+      "rank": 1
+    },
+    {
+      "name": "NIDHI RAJU",
+      "rollNo": "23123966",
+      "group": "SCIENCE",
+      "totalMarks": 1188,
+      "rank": 2
+    },
+    {
+      "name": "KRISHNENDHU V",
+      "rollNo": "23123985",
+      "group": "SCIENCE",
+      "totalMarks": 1187,
+      "rank": 3
+    },
+    {
+      "name": "AKSHARA A S",
+      "rollNo": "23123954",
+      "group": "SCIENCE",
+      "totalMarks": 1178,
+      "rank": 4
+    },
+    {
+      "name": "JOMY ANN JOSE",
+      "rollNo": "23123962",
+      "group": "SCIENCE",
+      "totalMarks": 1175,
+      "rank": 5
+    },
+    {
+      "name": "ALEENA SABU",
+      "rollNo": "23123955",
+      "group": "SCIENCE",
+      "totalMarks": 1166,
+      "rank": 6
+    },
+    {
+      "name": "MALAVIKA ANIL",
+      "rollNo": "23123987",
+      "group": "SCIENCE",
+      "totalMarks": 1166,
+      "rank": 6
+    },
+    {
+      "name": "ANDRIA SUMESH",
+      "rollNo": "23123980",
+      "group": "SCIENCE",
+      "totalMarks": 1166,
+      "rank": 6
+    },
+    {
+      "name": "MEENAKSHY SANKAR RAJ",
+      "rollNo": "23123964",
+      "group": "SCIENCE",
+      "totalMarks": 1165,
+      "rank": 9
+    },
+    {
+      "name": "AARON BENOY KOTTARATHIL",
+      "rollNo": "23123969",
+      "group": "SCIENCE",
+      "totalMarks": 1160,
+      "rank": 10
+    },
+    {
+      "name": "SAM C THOMAS",
+      "rollNo": "23123977",
+      "group": "SCIENCE",
+      "totalMarks": 1152,
+      "rank": 11
+    },
+    {
+      "name": "ALEN VARGHESE",
+      "rollNo": "23123972",
+      "group": "SCIENCE",
+      "totalMarks": 1151,
+      "rank": 12
+    },
+    {
+      "name": "ARSHADHA FATHIMA",
+      "rollNo": "23123981",
+      "group": "SCIENCE",
+      "totalMarks": 1135,
+      "rank": 13
+    },
+    {
+      "name": "RIDA FATHIMA SALAM",
+      "rollNo": "23123994",
+      "group": "SCIENCE",
+      "totalMarks": 1134,
+      "rank": 14
+    },
+    {
+      "name": "SARA ELSA MATHEW",
+      "rollNo": "23123996",
+      "group": "SCIENCE",
+      "totalMarks": 1132,
+      "rank": 15
+    },
+    {
+      "name": "ANAHA SHAJI",
+      "rollNo": "23123958",
+      "group": "SCIENCE",
+      "totalMarks": 1131,
+      "rank": 16
+    },
+    {
+      "name": "AKSA KURIAN",
+      "rollNo": "23123979",
+      "group": "SCIENCE",
+      "totalMarks": 1125,
+      "rank": 17
+    },
+    {
+      "name": "DEVANANDHANA L",
+      "rollNo": "23123983",
+      "group": "SCIENCE",
+      "totalMarks": 1123,
+      "rank": 18
+    },
+    {
+      "name": "ALONA BINU",
+      "rollNo": "23123956",
+      "group": "SCIENCE",
+      "totalMarks": 1122,
+      "rank": 19
+    },
+    {
+      "name": "NIRANJANA JEYAPRAKASH",
+      "rollNo": "23123990",
+      "group": "SCIENCE",
+      "totalMarks": 1122,
+      "rank": 19
+    },
+    {
+      "name": "ALONA MARIA TOMY",
+      "rollNo": "23123957",
+      "group": "SCIENCE",
+      "totalMarks": 1118,
+      "rank": 21
+    },
+    {
+      "name": "FARHANA FATHIMA",
+      "rollNo": "23123959",
+      "group": "SCIENCE",
+      "totalMarks": 1116,
+      "rank": 22
+    },
+    {
+      "name": "TINUBIN GEORGE",
+      "rollNo": "23123978",
+      "group": "SCIENCE",
+      "totalMarks": 1116,
+      "rank": 22
+    },
+    {
+      "name": "DAIONA MATHEW",
+      "rollNo": "23123982",
+      "group": "SCIENCE",
+      "totalMarks": 1111,
+      "rank": 24
+    },
+    {
+      "name": "GAYATHRI BIPIN",
+      "rollNo": "23123960",
+      "group": "SCIENCE",
+      "totalMarks": 1108,
+      "rank": 25
+    },
+    {
+      "name": "FADHIL FAISEL K M",
+      "rollNo": "23123976",
+      "group": "SCIENCE",
+      "totalMarks": 1106,
+      "rank": 26
+    },
+    {
+      "name": "SAIRA ANNA DAWN",
+      "rollNo": "23123995",
+      "group": "SCIENCE",
+      "totalMarks": 1102,
+      "rank": 27
+    },
+    {
+      "name": "SAYANA SEBASTIAN",
+      "rollNo": "23123967",
+      "group": "SCIENCE",
+      "totalMarks": 1101,
+      "rank": 28
+    },
+    {
+      "name": "NIMMYMOL SAJI",
+      "rollNo": "23123989",
+      "group": "SCIENCE",
+      "totalMarks": 1086,
+      "rank": 29
+    },
+    {
+      "name": "AATHIL S IBRAHIM",
+      "rollNo": "23123970",
+      "group": "SCIENCE",
+      "totalMarks": 1086,
+      "rank": 29
+    },
+    {
+      "name": "AHISHORE V.",
+      "rollNo": "23123949",
+      "group": "SCIENCE",
+      "totalMarks": 1086,
+      "rank": 29
+    },
+    {
+      "name": "ALBIN KURIAN",
+      "rollNo": "23123971",
+      "group": "SCIENCE",
+      "totalMarks": 1079,
+      "rank": 32
+    },
+    {
+      "name": "RIAH MARIA HAPPY",
+      "rollNo": "23123993",
+      "group": "SCIENCE",
+      "totalMarks": 1079,
+      "rank": 32
+    },
+    {
+      "name": "THEERTHA SURESH",
+      "rollNo": "23123997",
+      "group": "SCIENCE",
+      "totalMarks": 1075,
+      "rank": 34
+    },
+    {
+      "name": "CHACKOCHI ROBIN",
+      "rollNo": "23123975",
+      "group": "SCIENCE",
+      "totalMarks": 1063,
+      "rank": 35
+    },
+    {
+      "name": "JULIET DAVID",
+      "rollNo": "23123963",
+      "group": "SCIENCE",
+      "totalMarks": 1056,
+      "rank": 36
+    },
+    {
+      "name": "MITHRA P NAIR",
+      "rollNo": "23123965",
+      "group": "SCIENCE",
+      "totalMarks": 1052,
+      "rank": 37
+    },
+    {
+      "name": "DEVIKA SAJEEV",
+      "rollNo": "23123984",
+      "group": "SCIENCE",
+      "totalMarks": 1051,
+      "rank": 38
+    },
+    {
+      "name": "JESMI SIBY",
+      "rollNo": "23123961",
+      "group": "SCIENCE",
+      "totalMarks": 1050,
+      "rank": 39
+    },
+    {
+      "name": "VISMAYA DAS",
+      "rollNo": "23123998",
+      "group": "SCIENCE",
+      "totalMarks": 1048,
+      "rank": 40
+    },
+    {
+      "name": "NIMISHA SHIJU",
+      "rollNo": "23123988",
+      "group": "SCIENCE",
+      "totalMarks": 1042,
+      "rank": 41
+    },
+    {
+      "name": "PARVATHY RAJESH",
+      "rollNo": "23123991",
+      "group": "SCIENCE",
+      "totalMarks": 1038,
+      "rank": 42
+    },
+    {
+      "name": "POOJA LAKSHMI SEN",
+      "rollNo": "23123992",
+      "group": "SCIENCE",
+      "totalMarks": 1018,
+      "rank": 43
+    },
+    {
+      "name": "M.SWALIHA HIDAYETH",
+      "rollNo": "23123986",
+      "group": "SCIENCE",
+      "totalMarks": 1004,
+      "rank": 44
+    },
+    {
+      "name": "AMAL JOE BIJU",
+      "rollNo": "23123973",
+      "group": "SCIENCE",
+      "totalMarks": 1000,
+      "rank": 45
+    },
+    {
+      "name": "ROSHIN REJI",
+      "rollNo": "23123953",
+      "group": "SCIENCE",
+      "totalMarks": 996,
+      "rank": 46
+    },
+    {
+      "name": "BIBIN VARKEY",
+      "rollNo": "23123974",
+      "group": "SCIENCE",
+      "totalMarks": 987,
+      "rank": 47
+    },
+    {
+      "name": "JIBIN BIJU",
+      "rollNo": "23123952",
+      "group": "SCIENCE",
+      "totalMarks": 978,
+      "rank": 48
+    },
+    {
+      "name": "ANANTHAKRISHNAN I B",
+      "rollNo": "23123950",
+      "group": "SCIENCE",
+      "totalMarks": 948,
+      "rank": 49
+    },
+    {
+      "name": "ASWIN SURESH",
+      "rollNo": "23123951",
+      "group": "SCIENCE",
+      "totalMarks": 926,
+      "rank": 50
+    }
+  ]
+}

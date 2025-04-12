@@ -1,187 +1,273 @@
-[
-  {
-    "rollNo": "23113131",
-    "regular": true,
-    "name": "SABARI T V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
+{
+  "schoolCode": "5096",
+  "schoolName": "S.V.V B EM HSS, NATTASSERY, KOTTAYAM, 686538",
+  "phoneNo": "04812564004",
+  "emailId": "sreevidyadiraja@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Kottayam(M)Kottayam",
+  "eduDistrict": "Kottayam",
+  "assemblyConstituency": "Ettumanoor",
+  "courseCode": "1,5",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "KOTTAYAM",
+  "results": [
+    {
+      "rollNo": "23113131",
+      "regular": true,
+      "name": "SABARI T V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 89
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 126
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "S.V.V B EM HSS, NATTASSERY, KOTTAYAM, 686538",
+      "schoolCode": "5096",
+      "totalMarks": 751,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 165
+    {
+      "rollNo": "23113132",
+      "regular": true,
+      "name": "ABHIRAJ C R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "S.V.V B EM HSS, NATTASSERY, KOTTAYAM, 686538",
+      "schoolCode": "5096",
+      "totalMarks": 609,
+      "fullAp": false
     },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 89
+    {
+      "rollNo": "23113133",
+      "regular": true,
+      "name": "ALLEN RATHEESH YESUDAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 129
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "S.V.V B EM HSS, NATTASSERY, KOTTAYAM, 686538",
+      "schoolCode": "5096",
+      "totalMarks": 838,
+      "fullAp": false
     },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
+    {
+      "rollNo": "23113134",
+      "regular": true,
+      "name": "ADARSH P ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "S.V.V B EM HSS, NATTASSERY, KOTTAYAM, 686538",
+      "schoolCode": "5096",
+      "totalMarks": 650,
+      "fullAp": false
     },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 119
+    {
+      "rollNo": "23113135",
+      "regular": true,
+      "name": "SIDHARTH PRADEEP",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "S.V.V B EM HSS, NATTASSERY, KOTTAYAM, 686538",
+      "schoolCode": "5096",
+      "totalMarks": 548,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 20,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "ALLEN RATHEESH YESUDAS",
+      "rollNo": "23113133",
+      "group": "SCIENCE",
+      "totalMarks": 838,
+      "rank": 1
     },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 126
+    {
+      "name": "SABARI T V",
+      "rollNo": "23113131",
+      "group": "SCIENCE",
+      "totalMarks": 751,
+      "rank": 2
     },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23113132",
-    "regular": true,
-    "name": "ABHIRAJ C R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 107
+    {
+      "name": "ADARSH P ANIL",
+      "rollNo": "23113134",
+      "group": "SCIENCE",
+      "totalMarks": 650,
+      "rank": 3
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 115
+    {
+      "name": "ABHIRAJ C R",
+      "rollNo": "23113132",
+      "group": "SCIENCE",
+      "totalMarks": 609,
+      "rank": 4
     },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23113133",
-    "regular": true,
-    "name": "ALLEN RATHEESH YESUDAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 129
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113134",
-    "regular": true,
-    "name": "ADARSH P ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23113135",
-    "regular": true,
-    "name": "SIDHARTH PRADEEP",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 87
-    },
-    "result": "NHS"
-  }
-]
+    {
+      "name": "SIDHARTH PRADEEP",
+      "rollNo": "23113135",
+      "group": "SCIENCE",
+      "totalMarks": 548,
+      "rank": 5
+    }
+  ]
+}

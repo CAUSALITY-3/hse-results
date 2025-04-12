@@ -1,446 +1,616 @@
-[
-  {
-    "rollNo": "22128367",
-    "regular": false,
-    "name": "HEMALATHA M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126115",
-    "regular": true,
-    "name": "LAKSHMANAN.K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126116",
-    "regular": true,
-    "name": "NATHINRAJ.M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 78
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126117",
-    "regular": true,
-    "name": "SUJAN S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 75
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126118",
-    "regular": true,
-    "name": "SURENDHRAN.J",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 87
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 73
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126119",
-    "regular": true,
-    "name": "VIGNESHWARAN.R",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126120",
-    "regular": true,
-    "name": "BANUMATHI.M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 54
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 77
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126121",
-    "regular": true,
-    "name": "DHIYA.S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126122",
-    "regular": true,
-    "name": "ISWARYA.M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126123",
-    "regular": true,
-    "name": "JAMUNA.M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126124",
-    "regular": true,
-    "name": "POOPATHY.S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 96
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126125",
-    "regular": true,
-    "name": "PULAMATHI.T",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "TAMIL",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 98
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "6070",
+  "schoolName": "Govt. H S S, Vattavada",
+  "phoneNo": "9446212678",
+  "emailId": "ghssvattavada6070@gmail.com",
+  "schoolType": "Government",
+  "localBody": "VattavadaDevikulam",
+  "eduDistrict": "Kattappana",
+  "assemblyConstituency": "Devikulam",
+  "courseCode": "11",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,7",
+  "district": "IDUKKY",
+  "results": [
+    {
+      "rollNo": "23126115",
+      "regular": true,
+      "name": "LAKSHMANAN.K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "TAMIL",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 756,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126116",
+      "regular": true,
+      "name": "NATHINRAJ.M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "TAMIL",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 78
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 532,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126117",
+      "regular": true,
+      "name": "SUJAN S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "TAMIL",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 75
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 543,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126118",
+      "regular": true,
+      "name": "SURENDHRAN.J",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "TAMIL",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 73
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 490,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126119",
+      "regular": true,
+      "name": "VIGNESHWARAN.R",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "TAMIL",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 596,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126120",
+      "regular": true,
+      "name": "BANUMATHI.M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "TAMIL",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 54
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 77
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 460,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126121",
+      "regular": true,
+      "name": "DHIYA.S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "TAMIL",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 534,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126122",
+      "regular": true,
+      "name": "ISWARYA.M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "TAMIL",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126123",
+      "regular": true,
+      "name": "JAMUNA.M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "TAMIL",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 764,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126124",
+      "regular": true,
+      "name": "POOPATHY.S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "TAMIL",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 96
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 557,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126125",
+      "regular": true,
+      "name": "PULAMATHI.T",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "TAMIL",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 98
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 589,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22128367",
+      "regular": false,
+      "name": "HEMALATHA M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt. H S S, Vattavada",
+      "schoolCode": "6070",
+      "totalMarks": 67,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 27.27,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "ISWARYA.M",
+      "rollNo": "23126122",
+      "group": "HUMANITIES",
+      "totalMarks": 842,
+      "rank": 1
+    },
+    {
+      "name": "JAMUNA.M",
+      "rollNo": "23126123",
+      "group": "HUMANITIES",
+      "totalMarks": 764,
+      "rank": 2
+    },
+    {
+      "name": "LAKSHMANAN.K",
+      "rollNo": "23126115",
+      "group": "HUMANITIES",
+      "totalMarks": 756,
+      "rank": 3
+    },
+    {
+      "name": "VIGNESHWARAN.R",
+      "rollNo": "23126119",
+      "group": "HUMANITIES",
+      "totalMarks": 596,
+      "rank": 4
+    },
+    {
+      "name": "PULAMATHI.T",
+      "rollNo": "23126125",
+      "group": "HUMANITIES",
+      "totalMarks": 589,
+      "rank": 5
+    },
+    {
+      "name": "POOPATHY.S",
+      "rollNo": "23126124",
+      "group": "HUMANITIES",
+      "totalMarks": 557,
+      "rank": 6
+    },
+    {
+      "name": "SUJAN S",
+      "rollNo": "23126117",
+      "group": "HUMANITIES",
+      "totalMarks": 543,
+      "rank": 7
+    },
+    {
+      "name": "DHIYA.S",
+      "rollNo": "23126121",
+      "group": "HUMANITIES",
+      "totalMarks": 534,
+      "rank": 8
+    },
+    {
+      "name": "NATHINRAJ.M",
+      "rollNo": "23126116",
+      "group": "HUMANITIES",
+      "totalMarks": 532,
+      "rank": 9
+    },
+    {
+      "name": "SURENDHRAN.J",
+      "rollNo": "23126118",
+      "group": "HUMANITIES",
+      "totalMarks": 490,
+      "rank": 10
+    },
+    {
+      "name": "BANUMATHI.M",
+      "rollNo": "23126120",
+      "group": "HUMANITIES",
+      "totalMarks": 460,
+      "rank": 11
+    }
+  ]
+}

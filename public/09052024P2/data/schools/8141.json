@@ -1,631 +1,847 @@
-[
-  {
-    "rollNo": "22189090",
-    "regular": false,
-    "name": "JAMSHIYA T.J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22189097",
-    "regular": false,
-    "name": "RISNAMOL P R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 102
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22189105",
-    "regular": false,
-    "name": "DIYA K.J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22189107",
-    "regular": false,
-    "name": "SHABNAM NAVAS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 94
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187908",
-    "regular": true,
-    "name": "ABINAYA K DHEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "D",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187909",
-    "regular": true,
-    "name": "DEVAGANGA SAJU KARAYIL SIDHAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187910",
-    "regular": true,
-    "name": "FATHIMA RIZANA V.A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "A",
-      "marks": 169
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187911",
-    "regular": true,
-    "name": "U AKSHAYA DEVI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187912",
-    "regular": true,
-    "name": "RISHANA KABEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187913",
-    "regular": true,
-    "name": "AFIYA THASNIM",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187914",
-    "regular": true,
-    "name": "MINSA FARHATH P.A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187915",
-    "regular": true,
-    "name": "SAFA P Y",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187916",
-    "regular": true,
-    "name": "SAHEENA P.A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 179
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187917",
-    "regular": true,
-    "name": "SHIFANA P N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 52
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187918",
-    "regular": true,
-    "name": "ZAMRAH MARIYAM P S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187919",
-    "regular": true,
-    "name": "FATHIMATH RAIBA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187920",
-    "regular": true,
-    "name": "SHIFANA  ASHRAF",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "8141",
+  "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+  "phoneNo": "04802870641",
+  "emailId": "stannesghssedthy@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "EdathiruthyKodungalloor",
+  "eduDistrict": "Thrissur",
+  "assemblyConstituency": "Nattika",
+  "courseCode": "2,5,11,39",
+  "schoolGender": "Girls",
+  "secondLanguage": "2,1",
+  "district": "THRISSUR",
+  "results": [
+    {
+      "rollNo": "23187908",
+      "regular": true,
+      "name": "ABINAYA K DHEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "D",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 606,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187909",
+      "regular": true,
+      "name": "DEVAGANGA SAJU KARAYIL SIDHAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 1168,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23187910",
+      "regular": true,
+      "name": "FATHIMA RIZANA V.A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "A",
+          "marks": 169
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 968,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187911",
+      "regular": true,
+      "name": "U AKSHAYA DEVI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 982,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187912",
+      "regular": true,
+      "name": "RISHANA KABEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 1074,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187913",
+      "regular": true,
+      "name": "AFIYA THASNIM",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 998,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187914",
+      "regular": true,
+      "name": "MINSA FARHATH P.A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 747,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187915",
+      "regular": true,
+      "name": "SAFA P Y",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 835,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187916",
+      "regular": true,
+      "name": "SAHEENA P.A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 179
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 963,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187917",
+      "regular": true,
+      "name": "SHIFANA P N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 326,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187918",
+      "regular": true,
+      "name": "ZAMRAH MARIYAM P S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 764,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187919",
+      "regular": true,
+      "name": "FATHIMATH RAIBA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 883,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187920",
+      "regular": true,
+      "name": "SHIFANA ASHRAF",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 927,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22189090",
+      "regular": false,
+      "name": "JAMSHIYA T.J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 89
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 262,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22189097",
+      "regular": false,
+      "name": "RISNAMOL P R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 91
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 102
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 193,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22189105",
+      "regular": false,
+      "name": "DIYA K.J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 0,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22189107",
+      "regular": false,
+      "name": "SHABNAM NAVAS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 94
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ST. ANNE'S GIRLS HSS, EDATHURUTHY, THRISSUR",
+      "schoolCode": "8141",
+      "totalMarks": 301,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 76.92,
+  "totalFullAp": 1,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "DEVAGANGA SAJU KARAYIL SIDHAN (23187909) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "DEVAGANGA SAJU KARAYIL SIDHAN",
+      "rollNo": "23187909",
+      "group": "SCIENCE",
+      "totalMarks": 1168,
+      "rank": 1
+    },
+    {
+      "name": "RISHANA KABEER",
+      "rollNo": "23187912",
+      "group": "SCIENCE",
+      "totalMarks": 1074,
+      "rank": 2
+    },
+    {
+      "name": "AFIYA THASNIM",
+      "rollNo": "23187913",
+      "group": "COMMERCE",
+      "totalMarks": 998,
+      "rank": 3
+    },
+    {
+      "name": "U AKSHAYA DEVI",
+      "rollNo": "23187911",
+      "group": "SCIENCE",
+      "totalMarks": 982,
+      "rank": 4
+    },
+    {
+      "name": "FATHIMA RIZANA V.A",
+      "rollNo": "23187910",
+      "group": "SCIENCE",
+      "totalMarks": 968,
+      "rank": 5
+    },
+    {
+      "name": "SAHEENA P.A",
+      "rollNo": "23187916",
+      "group": "COMMERCE",
+      "totalMarks": 963,
+      "rank": 6
+    },
+    {
+      "name": "SHIFANA ASHRAF",
+      "rollNo": "23187920",
+      "group": "COMMERCE",
+      "totalMarks": 927,
+      "rank": 7
+    },
+    {
+      "name": "FATHIMATH RAIBA",
+      "rollNo": "23187919",
+      "group": "COMMERCE",
+      "totalMarks": 883,
+      "rank": 8
+    },
+    {
+      "name": "SAFA P Y",
+      "rollNo": "23187915",
+      "group": "COMMERCE",
+      "totalMarks": 835,
+      "rank": 9
+    },
+    {
+      "name": "ZAMRAH MARIYAM P S",
+      "rollNo": "23187918",
+      "group": "COMMERCE",
+      "totalMarks": 764,
+      "rank": 10
+    },
+    {
+      "name": "MINSA FARHATH P.A",
+      "rollNo": "23187914",
+      "group": "COMMERCE",
+      "totalMarks": 747,
+      "rank": 11
+    },
+    {
+      "name": "ABINAYA K DHEER",
+      "rollNo": "23187908",
+      "group": "SCIENCE",
+      "totalMarks": 606,
+      "rank": 12
+    },
+    {
+      "name": "SHIFANA P N",
+      "rollNo": "23187917",
+      "group": "COMMERCE",
+      "totalMarks": 326,
+      "rank": 13
+    }
+  ]
+}

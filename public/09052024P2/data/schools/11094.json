@@ -1,76 +1,108 @@
-[
-  {
-    "rollNo": "22321148",
-    "regular": false,
-    "name": "ESLIN MATHEW",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
+{
+  "schoolCode": "11094",
+  "schoolName": "NSS EM HSS, MANJERI, MALAPPURAM, 676121",
+  "phoneNo": "04832766436",
+  "emailId": "nssschoolmji@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Manchery(M)Eranad",
+  "eduDistrict": "Malappuram",
+  "assemblyConstituency": "Manjeri",
+  "courseCode": "1",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "MALAPPURAM",
+  "results": [
+    {
+      "rollNo": "22321148",
+      "regular": false,
+      "name": "ESLIN MATHEW",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 79
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "NSS EM HSS, MANJERI, MALAPPURAM, 676121",
+      "schoolCode": "11094",
+      "totalMarks": 163,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 79
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22516192",
-    "regular": false,
-    "name": "SHAFNAS M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 88
-    },
-    "result": "NHS"
-  }
-]
+    {
+      "rollNo": "22516192",
+      "regular": false,
+      "name": "SHAFNAS M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 88
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "NSS EM HSS, MANJERI, MALAPPURAM, 676121",
+      "schoolCode": "11094",
+      "totalMarks": 360,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 0,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": []
+}

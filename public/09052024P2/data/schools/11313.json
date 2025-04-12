@@ -1,3036 +1,4152 @@
-[
-  {
-    "rollNo": "23358034",
-    "regular": true,
-    "name": "AMAL VIJAYAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358036",
-    "regular": true,
-    "name": "MOHAMMED NISHAN K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358037",
-    "regular": true,
-    "name": "MOHAMMED SHAHZAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358038",
-    "regular": true,
-    "name": "MOHAMMED YASEEN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358039",
-    "regular": true,
-    "name": "MOHAMMED ZIDHIN P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358040",
-    "regular": true,
-    "name": "PRITHVI PRASAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 155
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358041",
-    "regular": true,
-    "name": "SHEFRIN M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358042",
-    "regular": true,
-    "name": "SHEHIN SHIHAB",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358043",
-    "regular": true,
-    "name": "SIDHARTH K PRASAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358044",
-    "regular": true,
-    "name": "YADUKRISHNA K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358045",
-    "regular": true,
-    "name": "AVANI P A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358046",
-    "regular": true,
-    "name": "AZKA M FERMI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358047",
-    "regular": true,
-    "name": "CHANDANA RAMESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358048",
-    "regular": true,
-    "name": "FATHIMA DANA P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 132
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358049",
-    "regular": true,
-    "name": "FIDA FATHIM K S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358050",
-    "regular": true,
-    "name": "GAYATHRI SREEJITH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358051",
-    "regular": true,
-    "name": "HANAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358052",
-    "regular": true,
-    "name": "MALAVIKA SURESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358053",
-    "regular": true,
-    "name": "MINNA SHARAF V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358054",
-    "regular": true,
-    "name": "NANDANA P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358055",
-    "regular": true,
-    "name": "NIDHA SULAIMAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358056",
-    "regular": true,
-    "name": "PRAVEENA PRADEEP",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358057",
-    "regular": true,
-    "name": "RASHA ASHARAF KAKKATTU PARAMPIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358058",
-    "regular": true,
-    "name": "SANA M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358059",
-    "regular": true,
-    "name": "SREYA RAJ P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 155
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358060",
-    "regular": true,
-    "name": "SABARINADH L",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358061",
-    "regular": true,
-    "name": "SIDHARTH V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358062",
-    "regular": true,
-    "name": "ASMANA RAZA . V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 174
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358063",
-    "regular": true,
-    "name": "MEHARIN V P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358064",
-    "regular": true,
-    "name": "MEHRIN T",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358065",
-    "regular": true,
-    "name": "SAKSHI NAVNATH PAWAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358066",
-    "regular": true,
-    "name": "SHRADHA PRAKASH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358067",
-    "regular": true,
-    "name": "SNEHA PAWAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358068",
-    "regular": true,
-    "name": "AFLAH MUNEER P C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358069",
-    "regular": true,
-    "name": "ALAN K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358070",
-    "regular": true,
-    "name": "MOHAMMED MIYAN C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358071",
-    "regular": true,
-    "name": "FATHIMA ALFA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358072",
-    "regular": true,
-    "name": "FATHIMMA RENA T P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358073",
-    "regular": true,
-    "name": "HAYA FATHIMA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358074",
-    "regular": true,
-    "name": "HIBA RAHMA V K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358075",
-    "regular": true,
-    "name": "HIBA SHERIN K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358076",
-    "regular": true,
-    "name": "NIYA NAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358077",
-    "regular": true,
-    "name": "RIYA C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358078",
-    "regular": true,
-    "name": "SIBA SAJ THONIKKADAVAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 169
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358079",
-    "regular": true,
-    "name": "SITHARA P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 175
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358080",
-    "regular": true,
-    "name": "AWAIZ KUPPANATH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358081",
-    "regular": true,
-    "name": "AYAAN MAMBRA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358082",
-    "regular": true,
-    "name": "ISHAN MOHAMMED ELAYODEN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 179
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358083",
-    "regular": true,
-    "name": "JERON K SHYJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358084",
-    "regular": true,
-    "name": "SHAMIL E K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358085",
-    "regular": true,
-    "name": "SHAROOK AKBER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358086",
-    "regular": true,
-    "name": "ADNAN MUNEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 153
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358087",
-    "regular": true,
-    "name": "ASHIN KHAN. M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358088",
-    "regular": true,
-    "name": "IBSAN BASIM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358089",
-    "regular": true,
-    "name": "MOHAMMED ABRAR P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358090",
-    "regular": true,
-    "name": "MOHAMMED NAADIM P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358091",
-    "regular": true,
-    "name": "RIZIN HUMAYOON VETTASSERI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358092",
-    "regular": true,
-    "name": "LAYA FATHIMA P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358093",
-    "regular": true,
-    "name": "MARWA P V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358094",
-    "regular": true,
-    "name": "ADITHYAN KAMBALATH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358095",
-    "regular": true,
-    "name": "ADITHYAN SURESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358096",
-    "regular": true,
-    "name": "AMAN AHAMMED P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358097",
-    "regular": true,
-    "name": "AVISH VINOD I",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358098",
-    "regular": true,
-    "name": "JAYAKRISHNAN K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 152
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358099",
-    "regular": true,
-    "name": "JINO TOM ISSAC",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358100",
-    "regular": true,
-    "name": "MOHAMMAD HAROON POOLAKKAL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358101",
-    "regular": true,
-    "name": "NITHAN NAJEEB",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358102",
-    "regular": true,
-    "name": "RIDHWAN SEELATH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358103",
-    "regular": true,
-    "name": "AMINA  ABIYA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358104",
-    "regular": true,
-    "name": "RIYA JOSEPH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358105",
-    "regular": true,
-    "name": "BINYAMIN T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 175
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358106",
-    "regular": true,
-    "name": "KASI NADH.M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358107",
-    "regular": true,
-    "name": "MOHAMMED HASHIM VARANGODAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358108",
-    "regular": true,
-    "name": "MOHAMMED SHIBLI KANHIRALA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358109",
-    "regular": true,
-    "name": "JISA SUSAN MATHEW",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358110",
-    "regular": true,
-    "name": "ADIN RIHAB T C",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 134
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358111",
-    "regular": true,
-    "name": "FARHAN K P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358112",
-    "regular": true,
-    "name": "HANI SHAREEF V",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358113",
-    "regular": true,
-    "name": "SHARHAN K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358114",
-    "regular": true,
-    "name": "ABIN MUHAMMED T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-COM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358115",
-    "regular": true,
-    "name": "DUAA SUNIL KALLAI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-COM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23358116",
-    "regular": true,
-    "name": "FATHIMA  ZEALA  A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject6": {
-      "name": "MATHEMATICS-COM",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "11313",
+  "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+  "phoneNo": "04931221388",
+  "emailId": "peeveesms@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Nilamboor(M)Nilambur",
+  "eduDistrict": "Vandoor",
+  "assemblyConstituency": "Nilambur",
+  "courseCode": "1,5,11,36,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2,3",
+  "district": "MALAPPURAM",
+  "results": [
+    {
+      "rollNo": "23358034",
+      "regular": true,
+      "name": "AMAL VIJAYAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1109,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358036",
+      "regular": true,
+      "name": "MOHAMMED NISHAN K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1133,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358037",
+      "regular": true,
+      "name": "MOHAMMED SHAHZAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 780,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358038",
+      "regular": true,
+      "name": "MOHAMMED YASEEN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1009,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358039",
+      "regular": true,
+      "name": "MOHAMMED ZIDHIN P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1143,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358040",
+      "regular": true,
+      "name": "PRITHVI PRASAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 155
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 946,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358041",
+      "regular": true,
+      "name": "SHEFRIN M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1067,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358042",
+      "regular": true,
+      "name": "SHEHIN SHIHAB",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1088,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358043",
+      "regular": true,
+      "name": "SIDHARTH K PRASAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1056,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358044",
+      "regular": true,
+      "name": "YADUKRISHNA K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1089,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358045",
+      "regular": true,
+      "name": "AVANI P A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1178,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358046",
+      "regular": true,
+      "name": "AZKA M FERMI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1156,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358047",
+      "regular": true,
+      "name": "CHANDANA RAMESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 994,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358048",
+      "regular": true,
+      "name": "FATHIMA DANA P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 132
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 858,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358049",
+      "regular": true,
+      "name": "FIDA FATHIM K S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1186,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358050",
+      "regular": true,
+      "name": "GAYATHRI SREEJITH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1155,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358051",
+      "regular": true,
+      "name": "HANAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1158,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358052",
+      "regular": true,
+      "name": "MALAVIKA SURESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1188,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358053",
+      "regular": true,
+      "name": "MINNA SHARAF V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1163,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358054",
+      "regular": true,
+      "name": "NANDANA P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1180,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358055",
+      "regular": true,
+      "name": "NIDHA SULAIMAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 867,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358056",
+      "regular": true,
+      "name": "PRAVEENA PRADEEP",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1163,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358057",
+      "regular": true,
+      "name": "RASHA ASHARAF KAKKATTU PARAMPIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1174,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358058",
+      "regular": true,
+      "name": "SANA M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 901,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358059",
+      "regular": true,
+      "name": "SREYA RAJ P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 155
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 945,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358060",
+      "regular": true,
+      "name": "SABARINADH L",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 954,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358061",
+      "regular": true,
+      "name": "SIDHARTH V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358062",
+      "regular": true,
+      "name": "ASMANA RAZA . V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 174
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1061,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358063",
+      "regular": true,
+      "name": "MEHARIN V P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1188,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358064",
+      "regular": true,
+      "name": "MEHRIN T",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1187,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358065",
+      "regular": true,
+      "name": "SAKSHI NAVNATH PAWAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 978,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358066",
+      "regular": true,
+      "name": "SHRADHA PRAKASH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 969,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358067",
+      "regular": true,
+      "name": "SNEHA PAWAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1067,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358068",
+      "regular": true,
+      "name": "AFLAH MUNEER P C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1006,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358069",
+      "regular": true,
+      "name": "ALAN K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1011,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358070",
+      "regular": true,
+      "name": "MOHAMMED MIYAN C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1150,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358071",
+      "regular": true,
+      "name": "FATHIMA ALFA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1164,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358072",
+      "regular": true,
+      "name": "FATHIMMA RENA T P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1014,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358073",
+      "regular": true,
+      "name": "HAYA FATHIMA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1186,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358074",
+      "regular": true,
+      "name": "HIBA RAHMA V K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1125,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358075",
+      "regular": true,
+      "name": "HIBA SHERIN K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1058,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358076",
+      "regular": true,
+      "name": "NIYA NAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1167,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358077",
+      "regular": true,
+      "name": "RIYA C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1101,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358078",
+      "regular": true,
+      "name": "SIBA SAJ THONIKKADAVAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 169
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 978,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358079",
+      "regular": true,
+      "name": "SITHARA P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 175
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1039,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358080",
+      "regular": true,
+      "name": "AWAIZ KUPPANATH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 963,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358081",
+      "regular": true,
+      "name": "AYAAN MAMBRA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1175,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358082",
+      "regular": true,
+      "name": "ISHAN MOHAMMED ELAYODEN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 179
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1034,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358083",
+      "regular": true,
+      "name": "JERON K SHYJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 931,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358084",
+      "regular": true,
+      "name": "SHAMIL E K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 964,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358085",
+      "regular": true,
+      "name": "SHAROOK AKBER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1165,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358086",
+      "regular": true,
+      "name": "ADNAN MUNEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 153
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 941,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358087",
+      "regular": true,
+      "name": "ASHIN KHAN. M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1049,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358088",
+      "regular": true,
+      "name": "IBSAN BASIM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1130,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358089",
+      "regular": true,
+      "name": "MOHAMMED ABRAR P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 805,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358090",
+      "regular": true,
+      "name": "MOHAMMED NAADIM P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 994,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358091",
+      "regular": true,
+      "name": "RIZIN HUMAYOON VETTASSERI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1160,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358092",
+      "regular": true,
+      "name": "LAYA FATHIMA P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1168,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358093",
+      "regular": true,
+      "name": "MARWA P V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1096,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358094",
+      "regular": true,
+      "name": "ADITHYAN KAMBALATH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 933,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358095",
+      "regular": true,
+      "name": "ADITHYAN SURESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 921,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358096",
+      "regular": true,
+      "name": "AMAN AHAMMED P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1067,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358097",
+      "regular": true,
+      "name": "AVISH VINOD I",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 903,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358098",
+      "regular": true,
+      "name": "JAYAKRISHNAN K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 152
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 975,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358099",
+      "regular": true,
+      "name": "JINO TOM ISSAC",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 786,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358100",
+      "regular": true,
+      "name": "MOHAMMAD HAROON POOLAKKAL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 757,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358101",
+      "regular": true,
+      "name": "NITHAN NAJEEB",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1049,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358102",
+      "regular": true,
+      "name": "RIDHWAN SEELATH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1162,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358103",
+      "regular": true,
+      "name": "AMINA ABIYA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1092,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358104",
+      "regular": true,
+      "name": "RIYA JOSEPH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1153,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358105",
+      "regular": true,
+      "name": "BINYAMIN T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 175
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 950,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358106",
+      "regular": true,
+      "name": "KASI NADH.M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 925,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358107",
+      "regular": true,
+      "name": "MOHAMMED HASHIM VARANGODAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1098,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358108",
+      "regular": true,
+      "name": "MOHAMMED SHIBLI KANHIRALA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 866,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358109",
+      "regular": true,
+      "name": "JISA SUSAN MATHEW",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1061,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358110",
+      "regular": true,
+      "name": "ADIN RIHAB T C",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 134
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 767,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358111",
+      "regular": true,
+      "name": "FARHAN K P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 923,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358112",
+      "regular": true,
+      "name": "HANI SHAREEF V",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1117,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358113",
+      "regular": true,
+      "name": "SHARHAN K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1134,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23358114",
+      "regular": true,
+      "name": "ABIN MUHAMMED T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-COM",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1119,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358115",
+      "regular": true,
+      "name": "DUAA SUNIL KALLAI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-COM",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1160,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23358116",
+      "regular": true,
+      "name": "FATHIMA ZEALA A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MATHEMATICS-COM",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Peevees Higher Secondary School , Nilambur, Malappuram",
+      "schoolCode": "11313",
+      "totalMarks": 1030,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 100,
+  "totalFullAp": 28,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "MOHAMMED NISHAN K (23358036) - SCIENCE",
+    "MOHAMMED ZIDHIN P (23358039) - SCIENCE",
+    "AVANI P A (23358045) - SCIENCE",
+    "AZKA M FERMI (23358046) - SCIENCE",
+    "FIDA FATHIM K S (23358049) - SCIENCE",
+    "GAYATHRI SREEJITH (23358050) - SCIENCE",
+    "HANAN (23358051) - SCIENCE",
+    "MALAVIKA SURESH (23358052) - SCIENCE",
+    "MINNA SHARAF V (23358053) - SCIENCE",
+    "NANDANA P (23358054) - SCIENCE",
+    "PRAVEENA PRADEEP (23358056) - SCIENCE",
+    "RASHA ASHARAF KAKKATTU PARAMPIL (23358057) - SCIENCE",
+    "MEHARIN V P (23358063) - SCIENCE",
+    "MEHRIN T (23358064) - SCIENCE",
+    "MOHAMMED MIYAN C (23358070) - SCIENCE",
+    "FATHIMA ALFA (23358071) - SCIENCE",
+    "HAYA FATHIMA (23358073) - SCIENCE",
+    "HIBA RAHMA V K (23358074) - SCIENCE",
+    "NIYA NAS (23358076) - SCIENCE",
+    "AYAAN MAMBRA (23358081) - SCIENCE",
+    "IBSAN BASIM (23358088) - SCIENCE",
+    "RIZIN HUMAYOON VETTASSERI (23358091) - SCIENCE",
+    "LAYA FATHIMA P (23358092) - SCIENCE",
+    "RIDHWAN SEELATH (23358102) - COMMERCE",
+    "RIYA JOSEPH (23358104) - COMMERCE",
+    "HANI SHAREEF V (23358112) - COMMERCE",
+    "ABIN MUHAMMED T (23358114) - COMMERCE",
+    "DUAA SUNIL KALLAI (23358115) - COMMERCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "MEHARIN V P",
+      "rollNo": "23358063",
+      "group": "SCIENCE",
+      "totalMarks": 1188,
+      "rank": 1
+    },
+    {
+      "name": "MALAVIKA SURESH",
+      "rollNo": "23358052",
+      "group": "SCIENCE",
+      "totalMarks": 1188,
+      "rank": 1
+    },
+    {
+      "name": "MEHRIN T",
+      "rollNo": "23358064",
+      "group": "SCIENCE",
+      "totalMarks": 1187,
+      "rank": 3
+    },
+    {
+      "name": "HAYA FATHIMA",
+      "rollNo": "23358073",
+      "group": "SCIENCE",
+      "totalMarks": 1186,
+      "rank": 4
+    },
+    {
+      "name": "FIDA FATHIM K S",
+      "rollNo": "23358049",
+      "group": "SCIENCE",
+      "totalMarks": 1186,
+      "rank": 4
+    },
+    {
+      "name": "NANDANA P",
+      "rollNo": "23358054",
+      "group": "SCIENCE",
+      "totalMarks": 1180,
+      "rank": 6
+    },
+    {
+      "name": "AVANI P A",
+      "rollNo": "23358045",
+      "group": "SCIENCE",
+      "totalMarks": 1178,
+      "rank": 7
+    },
+    {
+      "name": "AYAAN MAMBRA",
+      "rollNo": "23358081",
+      "group": "SCIENCE",
+      "totalMarks": 1175,
+      "rank": 8
+    },
+    {
+      "name": "RASHA ASHARAF KAKKATTU PARAMPIL",
+      "rollNo": "23358057",
+      "group": "SCIENCE",
+      "totalMarks": 1174,
+      "rank": 9
+    },
+    {
+      "name": "LAYA FATHIMA P",
+      "rollNo": "23358092",
+      "group": "SCIENCE",
+      "totalMarks": 1168,
+      "rank": 10
+    },
+    {
+      "name": "NIYA NAS",
+      "rollNo": "23358076",
+      "group": "SCIENCE",
+      "totalMarks": 1167,
+      "rank": 11
+    },
+    {
+      "name": "SHAROOK AKBER",
+      "rollNo": "23358085",
+      "group": "SCIENCE",
+      "totalMarks": 1165,
+      "rank": 12
+    },
+    {
+      "name": "FATHIMA ALFA",
+      "rollNo": "23358071",
+      "group": "SCIENCE",
+      "totalMarks": 1164,
+      "rank": 13
+    },
+    {
+      "name": "MINNA SHARAF V",
+      "rollNo": "23358053",
+      "group": "SCIENCE",
+      "totalMarks": 1163,
+      "rank": 14
+    },
+    {
+      "name": "PRAVEENA PRADEEP",
+      "rollNo": "23358056",
+      "group": "SCIENCE",
+      "totalMarks": 1163,
+      "rank": 14
+    },
+    {
+      "name": "RIDHWAN SEELATH",
+      "rollNo": "23358102",
+      "group": "COMMERCE",
+      "totalMarks": 1162,
+      "rank": 16
+    },
+    {
+      "name": "DUAA SUNIL KALLAI",
+      "rollNo": "23358115",
+      "group": "COMMERCE",
+      "totalMarks": 1160,
+      "rank": 17
+    },
+    {
+      "name": "RIZIN HUMAYOON VETTASSERI",
+      "rollNo": "23358091",
+      "group": "SCIENCE",
+      "totalMarks": 1160,
+      "rank": 17
+    },
+    {
+      "name": "HANAN",
+      "rollNo": "23358051",
+      "group": "SCIENCE",
+      "totalMarks": 1158,
+      "rank": 19
+    },
+    {
+      "name": "AZKA M FERMI",
+      "rollNo": "23358046",
+      "group": "SCIENCE",
+      "totalMarks": 1156,
+      "rank": 20
+    },
+    {
+      "name": "GAYATHRI SREEJITH",
+      "rollNo": "23358050",
+      "group": "SCIENCE",
+      "totalMarks": 1155,
+      "rank": 21
+    },
+    {
+      "name": "RIYA JOSEPH",
+      "rollNo": "23358104",
+      "group": "COMMERCE",
+      "totalMarks": 1153,
+      "rank": 22
+    },
+    {
+      "name": "MOHAMMED MIYAN C",
+      "rollNo": "23358070",
+      "group": "SCIENCE",
+      "totalMarks": 1150,
+      "rank": 23
+    },
+    {
+      "name": "MOHAMMED ZIDHIN P",
+      "rollNo": "23358039",
+      "group": "SCIENCE",
+      "totalMarks": 1143,
+      "rank": 24
+    },
+    {
+      "name": "SHARHAN K",
+      "rollNo": "23358113",
+      "group": "COMMERCE",
+      "totalMarks": 1134,
+      "rank": 25
+    },
+    {
+      "name": "MOHAMMED NISHAN K",
+      "rollNo": "23358036",
+      "group": "SCIENCE",
+      "totalMarks": 1133,
+      "rank": 26
+    },
+    {
+      "name": "IBSAN BASIM",
+      "rollNo": "23358088",
+      "group": "SCIENCE",
+      "totalMarks": 1130,
+      "rank": 27
+    },
+    {
+      "name": "HIBA RAHMA V K",
+      "rollNo": "23358074",
+      "group": "SCIENCE",
+      "totalMarks": 1125,
+      "rank": 28
+    },
+    {
+      "name": "ABIN MUHAMMED T",
+      "rollNo": "23358114",
+      "group": "COMMERCE",
+      "totalMarks": 1119,
+      "rank": 29
+    },
+    {
+      "name": "HANI SHAREEF V",
+      "rollNo": "23358112",
+      "group": "COMMERCE",
+      "totalMarks": 1117,
+      "rank": 30
+    },
+    {
+      "name": "AMAL VIJAYAN",
+      "rollNo": "23358034",
+      "group": "SCIENCE",
+      "totalMarks": 1109,
+      "rank": 31
+    },
+    {
+      "name": "RIYA C",
+      "rollNo": "23358077",
+      "group": "SCIENCE",
+      "totalMarks": 1101,
+      "rank": 32
+    },
+    {
+      "name": "MOHAMMED HASHIM VARANGODAN",
+      "rollNo": "23358107",
+      "group": "COMMERCE",
+      "totalMarks": 1098,
+      "rank": 33
+    },
+    {
+      "name": "MARWA P V",
+      "rollNo": "23358093",
+      "group": "SCIENCE",
+      "totalMarks": 1096,
+      "rank": 34
+    },
+    {
+      "name": "AMINA ABIYA",
+      "rollNo": "23358103",
+      "group": "COMMERCE",
+      "totalMarks": 1092,
+      "rank": 35
+    },
+    {
+      "name": "YADUKRISHNA K",
+      "rollNo": "23358044",
+      "group": "SCIENCE",
+      "totalMarks": 1089,
+      "rank": 36
+    },
+    {
+      "name": "SHEHIN SHIHAB",
+      "rollNo": "23358042",
+      "group": "SCIENCE",
+      "totalMarks": 1088,
+      "rank": 37
+    },
+    {
+      "name": "SHEFRIN M",
+      "rollNo": "23358041",
+      "group": "SCIENCE",
+      "totalMarks": 1067,
+      "rank": 38
+    },
+    {
+      "name": "AMAN AHAMMED P",
+      "rollNo": "23358096",
+      "group": "COMMERCE",
+      "totalMarks": 1067,
+      "rank": 38
+    },
+    {
+      "name": "SNEHA PAWAR",
+      "rollNo": "23358067",
+      "group": "SCIENCE",
+      "totalMarks": 1067,
+      "rank": 38
+    },
+    {
+      "name": "JISA SUSAN MATHEW",
+      "rollNo": "23358109",
+      "group": "COMMERCE",
+      "totalMarks": 1061,
+      "rank": 41
+    },
+    {
+      "name": "ASMANA RAZA . V",
+      "rollNo": "23358062",
+      "group": "SCIENCE",
+      "totalMarks": 1061,
+      "rank": 41
+    },
+    {
+      "name": "HIBA SHERIN K",
+      "rollNo": "23358075",
+      "group": "SCIENCE",
+      "totalMarks": 1058,
+      "rank": 43
+    },
+    {
+      "name": "SIDHARTH K PRASAD",
+      "rollNo": "23358043",
+      "group": "SCIENCE",
+      "totalMarks": 1056,
+      "rank": 44
+    },
+    {
+      "name": "NITHAN NAJEEB",
+      "rollNo": "23358101",
+      "group": "COMMERCE",
+      "totalMarks": 1049,
+      "rank": 45
+    },
+    {
+      "name": "ASHIN KHAN. M",
+      "rollNo": "23358087",
+      "group": "SCIENCE",
+      "totalMarks": 1049,
+      "rank": 45
+    },
+    {
+      "name": "SITHARA P",
+      "rollNo": "23358079",
+      "group": "SCIENCE",
+      "totalMarks": 1039,
+      "rank": 47
+    },
+    {
+      "name": "ISHAN MOHAMMED ELAYODEN",
+      "rollNo": "23358082",
+      "group": "SCIENCE",
+      "totalMarks": 1034,
+      "rank": 48
+    },
+    {
+      "name": "FATHIMA ZEALA A",
+      "rollNo": "23358116",
+      "group": "COMMERCE",
+      "totalMarks": 1030,
+      "rank": 49
+    },
+    {
+      "name": "FATHIMMA RENA T P",
+      "rollNo": "23358072",
+      "group": "SCIENCE",
+      "totalMarks": 1014,
+      "rank": 50
+    },
+    {
+      "name": "ALAN K",
+      "rollNo": "23358069",
+      "group": "SCIENCE",
+      "totalMarks": 1011,
+      "rank": 51
+    },
+    {
+      "name": "MOHAMMED YASEEN",
+      "rollNo": "23358038",
+      "group": "SCIENCE",
+      "totalMarks": 1009,
+      "rank": 52
+    },
+    {
+      "name": "AFLAH MUNEER P C",
+      "rollNo": "23358068",
+      "group": "SCIENCE",
+      "totalMarks": 1006,
+      "rank": 53
+    },
+    {
+      "name": "MOHAMMED NAADIM P",
+      "rollNo": "23358090",
+      "group": "SCIENCE",
+      "totalMarks": 994,
+      "rank": 54
+    },
+    {
+      "name": "CHANDANA RAMESH",
+      "rollNo": "23358047",
+      "group": "SCIENCE",
+      "totalMarks": 994,
+      "rank": 54
+    },
+    {
+      "name": "SAKSHI NAVNATH PAWAR",
+      "rollNo": "23358065",
+      "group": "SCIENCE",
+      "totalMarks": 978,
+      "rank": 56
+    },
+    {
+      "name": "SIBA SAJ THONIKKADAVAN",
+      "rollNo": "23358078",
+      "group": "SCIENCE",
+      "totalMarks": 978,
+      "rank": 56
+    },
+    {
+      "name": "JAYAKRISHNAN K",
+      "rollNo": "23358098",
+      "group": "COMMERCE",
+      "totalMarks": 975,
+      "rank": 58
+    },
+    {
+      "name": "SHRADHA PRAKASH",
+      "rollNo": "23358066",
+      "group": "SCIENCE",
+      "totalMarks": 969,
+      "rank": 59
+    },
+    {
+      "name": "SHAMIL E K",
+      "rollNo": "23358084",
+      "group": "SCIENCE",
+      "totalMarks": 964,
+      "rank": 60
+    },
+    {
+      "name": "AWAIZ KUPPANATH",
+      "rollNo": "23358080",
+      "group": "SCIENCE",
+      "totalMarks": 963,
+      "rank": 61
+    },
+    {
+      "name": "SABARINADH L",
+      "rollNo": "23358060",
+      "group": "SCIENCE",
+      "totalMarks": 954,
+      "rank": 62
+    },
+    {
+      "name": "BINYAMIN T",
+      "rollNo": "23358105",
+      "group": "COMMERCE",
+      "totalMarks": 950,
+      "rank": 63
+    },
+    {
+      "name": "PRITHVI PRASAD",
+      "rollNo": "23358040",
+      "group": "SCIENCE",
+      "totalMarks": 946,
+      "rank": 64
+    },
+    {
+      "name": "SREYA RAJ P",
+      "rollNo": "23358059",
+      "group": "SCIENCE",
+      "totalMarks": 945,
+      "rank": 65
+    },
+    {
+      "name": "ADNAN MUNEER",
+      "rollNo": "23358086",
+      "group": "SCIENCE",
+      "totalMarks": 941,
+      "rank": 66
+    },
+    {
+      "name": "ADITHYAN KAMBALATH",
+      "rollNo": "23358094",
+      "group": "COMMERCE",
+      "totalMarks": 933,
+      "rank": 67
+    },
+    {
+      "name": "JERON K SHYJU",
+      "rollNo": "23358083",
+      "group": "SCIENCE",
+      "totalMarks": 931,
+      "rank": 68
+    },
+    {
+      "name": "KASI NADH.M",
+      "rollNo": "23358106",
+      "group": "COMMERCE",
+      "totalMarks": 925,
+      "rank": 69
+    },
+    {
+      "name": "FARHAN K P",
+      "rollNo": "23358111",
+      "group": "COMMERCE",
+      "totalMarks": 923,
+      "rank": 70
+    },
+    {
+      "name": "ADITHYAN SURESH",
+      "rollNo": "23358095",
+      "group": "COMMERCE",
+      "totalMarks": 921,
+      "rank": 71
+    },
+    {
+      "name": "AVISH VINOD I",
+      "rollNo": "23358097",
+      "group": "COMMERCE",
+      "totalMarks": 903,
+      "rank": 72
+    },
+    {
+      "name": "SANA M",
+      "rollNo": "23358058",
+      "group": "SCIENCE",
+      "totalMarks": 901,
+      "rank": 73
+    },
+    {
+      "name": "NIDHA SULAIMAN",
+      "rollNo": "23358055",
+      "group": "SCIENCE",
+      "totalMarks": 867,
+      "rank": 74
+    },
+    {
+      "name": "MOHAMMED SHIBLI KANHIRALA",
+      "rollNo": "23358108",
+      "group": "COMMERCE",
+      "totalMarks": 866,
+      "rank": 75
+    },
+    {
+      "name": "FATHIMA DANA P",
+      "rollNo": "23358048",
+      "group": "SCIENCE",
+      "totalMarks": 858,
+      "rank": 76
+    },
+    {
+      "name": "SIDHARTH V",
+      "rollNo": "23358061",
+      "group": "SCIENCE",
+      "totalMarks": 842,
+      "rank": 77
+    },
+    {
+      "name": "MOHAMMED ABRAR P",
+      "rollNo": "23358089",
+      "group": "SCIENCE",
+      "totalMarks": 805,
+      "rank": 78
+    },
+    {
+      "name": "JINO TOM ISSAC",
+      "rollNo": "23358099",
+      "group": "COMMERCE",
+      "totalMarks": 786,
+      "rank": 79
+    },
+    {
+      "name": "MOHAMMED SHAHZAD",
+      "rollNo": "23358037",
+      "group": "SCIENCE",
+      "totalMarks": 780,
+      "rank": 80
+    },
+    {
+      "name": "ADIN RIHAB T C",
+      "rollNo": "23358110",
+      "group": "COMMERCE",
+      "totalMarks": 767,
+      "rank": 81
+    },
+    {
+      "name": "MOHAMMAD HAROON POOLAKKAL",
+      "rollNo": "23358100",
+      "group": "COMMERCE",
+      "totalMarks": 757,
+      "rank": 82
+    }
+  ]
+}

@@ -1,3702 +1,5018 @@
-[
-  {
-    "rollNo": "22368819",
-    "regular": false,
-    "name": "JAYASREE M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23368684",
-    "regular": true,
-    "name": "ADITHYA M S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368685",
-    "regular": true,
-    "name": "AKHILA P B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368686",
-    "regular": true,
-    "name": "AMRITHA V G",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368687",
-    "regular": true,
-    "name": "AMRUTHA M K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368688",
-    "regular": true,
-    "name": "ANAGHA C V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368689",
-    "regular": true,
-    "name": "ANASWARA M S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368690",
-    "regular": true,
-    "name": "ANUSREE G B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368691",
-    "regular": true,
-    "name": "ANUSREE M K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368692",
-    "regular": true,
-    "name": "ANUSREE T M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368693",
-    "regular": true,
-    "name": "ANUSREE V T",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368694",
-    "regular": true,
-    "name": "APARNA P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368695",
-    "regular": true,
-    "name": "ARYA A K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368696",
-    "regular": true,
-    "name": "ARYA C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 159
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368697",
-    "regular": true,
-    "name": "ARYA V S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 177
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368698",
-    "regular": true,
-    "name": "ARYAMOL P K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368699",
-    "regular": true,
-    "name": "ASHWINI CHANDRAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368700",
-    "regular": true,
-    "name": "ATHIRACHANDRAN M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 153
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368701",
-    "regular": true,
-    "name": "GAYATHRI K B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368702",
-    "regular": true,
-    "name": "HARIPRIYA T H",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368703",
-    "regular": true,
-    "name": "HARITHA P K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368704",
-    "regular": true,
-    "name": "HARSHA RAJ A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368705",
-    "regular": true,
-    "name": "JISHNA K C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368707",
-    "regular": true,
-    "name": "KARTHIKA DAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368708",
-    "regular": true,
-    "name": "KRISHNA THEERTHA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368709",
-    "regular": true,
-    "name": "MAYA C V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368710",
-    "regular": true,
-    "name": "NANDANA A C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368711",
-    "regular": true,
-    "name": "NAYANA P N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368712",
-    "regular": true,
-    "name": "NETHRAVATHI B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368713",
-    "regular": true,
-    "name": "PRARTHANA KRISHNA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 129
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368714",
-    "regular": true,
-    "name": "RAHITHA P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368715",
-    "regular": true,
-    "name": "RAVEENA RAJ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368716",
-    "regular": true,
-    "name": "RAVYA RAJ C R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368717",
-    "regular": true,
-    "name": "RESNA RAMAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 175
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368718",
-    "regular": true,
-    "name": "SAHALAKSHMI P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368719",
-    "regular": true,
-    "name": "SANDRA SANTHOSH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368720",
-    "regular": true,
-    "name": "SANUSHA T J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368721",
-    "regular": true,
-    "name": "SAYANA SATHYAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368722",
-    "regular": true,
-    "name": "SEETHAL S RAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368723",
-    "regular": true,
-    "name": "SNEJA MOL P V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368724",
-    "regular": true,
-    "name": "SREENANDA E S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368726",
-    "regular": true,
-    "name": "SRUTHI K S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368727",
-    "regular": true,
-    "name": "SRUTHI K.C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 133
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368728",
-    "regular": true,
-    "name": "SUNITHA M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368729",
-    "regular": true,
-    "name": "VEENA RAJ P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368730",
-    "regular": true,
-    "name": "VIJITHRA V M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 155
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368731",
-    "regular": true,
-    "name": "VISMAYA A M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 136
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368732",
-    "regular": true,
-    "name": "VISMAYA N S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23368733",
-    "regular": true,
-    "name": "VISMAYA V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368734",
-    "regular": true,
-    "name": "ABINA P G",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368735",
-    "regular": true,
-    "name": "ADITHYA K M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368736",
-    "regular": true,
-    "name": "AKHILA B P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368737",
-    "regular": true,
-    "name": "AKHILA K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368738",
-    "regular": true,
-    "name": "AMAYA E S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368739",
-    "regular": true,
-    "name": "AMRUTHA BAIJU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368740",
-    "regular": true,
-    "name": "ANASWARA P S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368741",
-    "regular": true,
-    "name": "ANILA P C",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368742",
-    "regular": true,
-    "name": "ANUPRIYA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368743",
-    "regular": true,
-    "name": "ANUSHA BALAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368744",
-    "regular": true,
-    "name": "ANUSMITHA.K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368745",
-    "regular": true,
-    "name": "ANUSREE SANTHOSH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368746",
-    "regular": true,
-    "name": "ARCHANA BINU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368747",
-    "regular": true,
-    "name": "ARCHITHA A M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368748",
-    "regular": true,
-    "name": "ARYA C K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368749",
-    "regular": true,
-    "name": "ASWATHI C A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368750",
-    "regular": true,
-    "name": "ASWATHI P V",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368751",
-    "regular": true,
-    "name": "ATHULYA C B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368752",
-    "regular": true,
-    "name": "BRIJISHNA BABU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368753",
-    "regular": true,
-    "name": "CHANDNI CHANDRAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368754",
-    "regular": true,
-    "name": "DEVIKA B A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368755",
-    "regular": true,
-    "name": "DRISYA RAVI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23368756",
-    "regular": true,
-    "name": "GOPIKA M K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368757",
-    "regular": true,
-    "name": "JANU K P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368758",
-    "regular": true,
-    "name": "KAVITHA T K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368759",
-    "regular": true,
-    "name": "KRISHNAJA K C",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368760",
-    "regular": true,
-    "name": "LAVANYA K J",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368761",
-    "regular": true,
-    "name": "MADHUPRIYA P M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 129
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23368762",
-    "regular": true,
-    "name": "MANJU RAJAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 46
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 52
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 60
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23368763",
-    "regular": true,
-    "name": "MIDHYA BABU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368764",
-    "regular": true,
-    "name": "NANDANA T C",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368765",
-    "regular": true,
-    "name": "NAVINA BABURAJ",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368766",
-    "regular": true,
-    "name": "NAVYA P N",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368767",
-    "regular": true,
-    "name": "NAVYA RAMAKRISHNAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368768",
-    "regular": true,
-    "name": "NITHYA K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23368769",
-    "regular": true,
-    "name": "PARVATHI PRADEEPAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 178
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368770",
-    "regular": true,
-    "name": "RENUKA CHANDRAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368771",
-    "regular": true,
-    "name": "ROJITHA C M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 178
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368772",
-    "regular": true,
-    "name": "SAMVRUTHA SIDHAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368773",
-    "regular": true,
-    "name": "SANMAYA C S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368774",
-    "regular": true,
-    "name": "SANUSHA VIJAYAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368775",
-    "regular": true,
-    "name": "SAYANA K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368776",
-    "regular": true,
-    "name": "SHARANYA RAJAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368777",
-    "regular": true,
-    "name": "SNEHA K P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368778",
-    "regular": true,
-    "name": "SREYA CHANDRAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368779",
-    "regular": true,
-    "name": "SUSMITHA SUKUMARAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368780",
-    "regular": true,
-    "name": "SWAPNA SURESH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368781",
-    "regular": true,
-    "name": "VINEETHARAJ B R",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23368782",
-    "regular": true,
-    "name": "VRINDA CHANDRAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23368783",
-    "regular": true,
-    "name": "VYSAKHI RAJAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23503268",
-    "regular": true,
-    "name": "SNEHA A. R.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 66
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "12060",
+  "schoolName": "GMRHSS for girls Kalpetta",
+  "phoneNo": "04936284818",
+  "emailId": "gmrhsskalpetta@gmail.com",
+  "schoolType": "Residential",
+  "localBody": "KaniyampettaVythiri",
+  "eduDistrict": "Wayanad",
+  "assemblyConstituency": "Kalpetta",
+  "courseCode": "1,11",
+  "schoolGender": "Girls",
+  "secondLanguage": "1",
+  "district": "WAYANAD",
+  "results": [
+    {
+      "rollNo": "23368684",
+      "regular": true,
+      "name": "ADITHYA M S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1004,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368685",
+      "regular": true,
+      "name": "AKHILA P B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 937,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368686",
+      "regular": true,
+      "name": "AMRITHA V G",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1008,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368687",
+      "regular": true,
+      "name": "AMRUTHA M K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 946,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368688",
+      "regular": true,
+      "name": "ANAGHA C V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 985,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368689",
+      "regular": true,
+      "name": "ANASWARA M S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1018,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368690",
+      "regular": true,
+      "name": "ANUSREE G B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1033,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368691",
+      "regular": true,
+      "name": "ANUSREE M K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1021,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368692",
+      "regular": true,
+      "name": "ANUSREE T M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 938,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368693",
+      "regular": true,
+      "name": "ANUSREE V T",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 983,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368694",
+      "regular": true,
+      "name": "APARNA P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 981,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368695",
+      "regular": true,
+      "name": "ARYA A K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 979,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368696",
+      "regular": true,
+      "name": "ARYA C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 159
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 966,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368697",
+      "regular": true,
+      "name": "ARYA V S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 177
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1052,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368698",
+      "regular": true,
+      "name": "ARYAMOL P K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1043,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368699",
+      "regular": true,
+      "name": "ASHWINI CHANDRAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 947,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368700",
+      "regular": true,
+      "name": "ATHIRACHANDRAN M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 153
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 822,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368701",
+      "regular": true,
+      "name": "GAYATHRI K B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1043,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368702",
+      "regular": true,
+      "name": "HARIPRIYA T H",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1031,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368703",
+      "regular": true,
+      "name": "HARITHA P K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 866,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368704",
+      "regular": true,
+      "name": "HARSHA RAJ A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1066,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368705",
+      "regular": true,
+      "name": "JISHNA K C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 948,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368707",
+      "regular": true,
+      "name": "KARTHIKA DAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1096,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368708",
+      "regular": true,
+      "name": "KRISHNA THEERTHA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 937,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368709",
+      "regular": true,
+      "name": "MAYA C V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1045,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368710",
+      "regular": true,
+      "name": "NANDANA A C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 815,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368711",
+      "regular": true,
+      "name": "NAYANA P N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1026,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368712",
+      "regular": true,
+      "name": "NETHRAVATHI B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 908,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368713",
+      "regular": true,
+      "name": "PRARTHANA KRISHNA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 129
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 822,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368714",
+      "regular": true,
+      "name": "RAHITHA P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 920,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368715",
+      "regular": true,
+      "name": "RAVEENA RAJ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 831,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368716",
+      "regular": true,
+      "name": "RAVYA RAJ C R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 855,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368717",
+      "regular": true,
+      "name": "RESNA RAMAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 175
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1064,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368718",
+      "regular": true,
+      "name": "SAHALAKSHMI P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 802,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368719",
+      "regular": true,
+      "name": "SANDRA SANTHOSH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 882,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368720",
+      "regular": true,
+      "name": "SANUSHA T J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 962,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368721",
+      "regular": true,
+      "name": "SAYANA SATHYAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1035,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368722",
+      "regular": true,
+      "name": "SEETHAL S RAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 876,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368723",
+      "regular": true,
+      "name": "SNEJA MOL P V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 872,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368724",
+      "regular": true,
+      "name": "SREENANDA E S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1045,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368726",
+      "regular": true,
+      "name": "SRUTHI K S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 973,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368727",
+      "regular": true,
+      "name": "SRUTHI K.C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 133
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 873,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368728",
+      "regular": true,
+      "name": "SUNITHA M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 860,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368729",
+      "regular": true,
+      "name": "VEENA RAJ P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1098,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368730",
+      "regular": true,
+      "name": "VIJITHRA V M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 155
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 958,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368731",
+      "regular": true,
+      "name": "VISMAYA A M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 136
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 942,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368732",
+      "regular": true,
+      "name": "VISMAYA N S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 169,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368733",
+      "regular": true,
+      "name": "VISMAYA V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1018,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368734",
+      "regular": true,
+      "name": "ABINA P G",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 174
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1014,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368735",
+      "regular": true,
+      "name": "ADITHYA K M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1116,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368736",
+      "regular": true,
+      "name": "AKHILA B P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 155
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 964,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368737",
+      "regular": true,
+      "name": "AKHILA K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 998,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368738",
+      "regular": true,
+      "name": "AMAYA E S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1037,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368739",
+      "regular": true,
+      "name": "AMRUTHA BAIJU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1001,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368740",
+      "regular": true,
+      "name": "ANASWARA P S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1069,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368741",
+      "regular": true,
+      "name": "ANILA P C",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1050,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368742",
+      "regular": true,
+      "name": "ANUPRIYA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1040,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368743",
+      "regular": true,
+      "name": "ANUSHA BALAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1076,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368744",
+      "regular": true,
+      "name": "ANUSMITHA.K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1061,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368745",
+      "regular": true,
+      "name": "ANUSREE SANTHOSH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 174
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 980,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368746",
+      "regular": true,
+      "name": "ARCHANA BINU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 877,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368747",
+      "regular": true,
+      "name": "ARCHITHA A M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1035,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368748",
+      "regular": true,
+      "name": "ARYA C K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1001,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368749",
+      "regular": true,
+      "name": "ASWATHI C A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1109,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368750",
+      "regular": true,
+      "name": "ASWATHI P V",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 809,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368751",
+      "regular": true,
+      "name": "ATHULYA C B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1070,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368752",
+      "regular": true,
+      "name": "BRIJISHNA BABU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 986,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368753",
+      "regular": true,
+      "name": "CHANDNI CHANDRAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1101,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368754",
+      "regular": true,
+      "name": "DEVIKA B A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1190,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23368755",
+      "regular": true,
+      "name": "DRISYA RAVI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 645,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368756",
+      "regular": true,
+      "name": "GOPIKA M K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1076,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368757",
+      "regular": true,
+      "name": "JANU K P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 844,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368758",
+      "regular": true,
+      "name": "KAVITHA T K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1036,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368759",
+      "regular": true,
+      "name": "KRISHNAJA K C",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1073,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368760",
+      "regular": true,
+      "name": "LAVANYA K J",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1113,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368761",
+      "regular": true,
+      "name": "MADHUPRIYA P M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 129
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 707,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368762",
+      "regular": true,
+      "name": "MANJU RAJAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 46
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "HISTORY",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 60
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 364,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368763",
+      "regular": true,
+      "name": "MIDHYA BABU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1094,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368764",
+      "regular": true,
+      "name": "NANDANA T C",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 177
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1075,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368765",
+      "regular": true,
+      "name": "NAVINA BABURAJ",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1114,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368766",
+      "regular": true,
+      "name": "NAVYA P N",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1103,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368767",
+      "regular": true,
+      "name": "NAVYA RAMAKRISHNAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 945,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368768",
+      "regular": true,
+      "name": "NITHYA K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 665,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368769",
+      "regular": true,
+      "name": "PARVATHI PRADEEPAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 178
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1062,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368770",
+      "regular": true,
+      "name": "RENUKA CHANDRAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 746,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368771",
+      "regular": true,
+      "name": "ROJITHA C M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 178
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1017,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368772",
+      "regular": true,
+      "name": "SAMVRUTHA SIDHAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1012,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368773",
+      "regular": true,
+      "name": "SANMAYA C S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 867,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368774",
+      "regular": true,
+      "name": "SANUSHA VIJAYAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1120,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368775",
+      "regular": true,
+      "name": "SAYANA K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1072,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368776",
+      "regular": true,
+      "name": "SHARANYA RAJAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 171
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 930,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368777",
+      "regular": true,
+      "name": "SNEHA K P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1052,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368778",
+      "regular": true,
+      "name": "SREYA CHANDRAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1070,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368779",
+      "regular": true,
+      "name": "SUSMITHA SUKUMARAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1043,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368780",
+      "regular": true,
+      "name": "SWAPNA SURESH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 973,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368781",
+      "regular": true,
+      "name": "VINEETHARAJ B R",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 857,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368782",
+      "regular": true,
+      "name": "VRINDA CHANDRAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1053,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23368783",
+      "regular": true,
+      "name": "VYSAKHI RAJAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 1054,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23503268",
+      "regular": true,
+      "name": "SNEHA A. R.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 66
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 171,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22368819",
+      "regular": false,
+      "name": "JAYASREE M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GMRHSS for girls Kalpetta",
+      "schoolCode": "12060",
+      "totalMarks": 66,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 92.93,
+  "totalFullAp": 1,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "DEVIKA B A (23368754) - HUMANITIES"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "DEVIKA B A",
+      "rollNo": "23368754",
+      "group": "HUMANITIES",
+      "totalMarks": 1190,
+      "rank": 1
+    },
+    {
+      "name": "SANUSHA VIJAYAN",
+      "rollNo": "23368774",
+      "group": "HUMANITIES",
+      "totalMarks": 1120,
+      "rank": 2
+    },
+    {
+      "name": "ADITHYA K M",
+      "rollNo": "23368735",
+      "group": "HUMANITIES",
+      "totalMarks": 1116,
+      "rank": 3
+    },
+    {
+      "name": "NAVINA BABURAJ",
+      "rollNo": "23368765",
+      "group": "HUMANITIES",
+      "totalMarks": 1114,
+      "rank": 4
+    },
+    {
+      "name": "LAVANYA K J",
+      "rollNo": "23368760",
+      "group": "HUMANITIES",
+      "totalMarks": 1113,
+      "rank": 5
+    },
+    {
+      "name": "ASWATHI C A",
+      "rollNo": "23368749",
+      "group": "HUMANITIES",
+      "totalMarks": 1109,
+      "rank": 6
+    },
+    {
+      "name": "NAVYA P N",
+      "rollNo": "23368766",
+      "group": "HUMANITIES",
+      "totalMarks": 1103,
+      "rank": 7
+    },
+    {
+      "name": "CHANDNI CHANDRAN",
+      "rollNo": "23368753",
+      "group": "HUMANITIES",
+      "totalMarks": 1101,
+      "rank": 8
+    },
+    {
+      "name": "VEENA RAJ P",
+      "rollNo": "23368729",
+      "group": "SCIENCE",
+      "totalMarks": 1098,
+      "rank": 9
+    },
+    {
+      "name": "KARTHIKA DAS",
+      "rollNo": "23368707",
+      "group": "SCIENCE",
+      "totalMarks": 1096,
+      "rank": 10
+    },
+    {
+      "name": "MIDHYA BABU",
+      "rollNo": "23368763",
+      "group": "HUMANITIES",
+      "totalMarks": 1094,
+      "rank": 11
+    },
+    {
+      "name": "GOPIKA M K",
+      "rollNo": "23368756",
+      "group": "HUMANITIES",
+      "totalMarks": 1076,
+      "rank": 12
+    },
+    {
+      "name": "ANUSHA BALAN",
+      "rollNo": "23368743",
+      "group": "HUMANITIES",
+      "totalMarks": 1076,
+      "rank": 12
+    },
+    {
+      "name": "NANDANA T C",
+      "rollNo": "23368764",
+      "group": "HUMANITIES",
+      "totalMarks": 1075,
+      "rank": 14
+    },
+    {
+      "name": "KRISHNAJA K C",
+      "rollNo": "23368759",
+      "group": "HUMANITIES",
+      "totalMarks": 1073,
+      "rank": 15
+    },
+    {
+      "name": "SAYANA K",
+      "rollNo": "23368775",
+      "group": "HUMANITIES",
+      "totalMarks": 1072,
+      "rank": 16
+    },
+    {
+      "name": "ATHULYA C B",
+      "rollNo": "23368751",
+      "group": "HUMANITIES",
+      "totalMarks": 1070,
+      "rank": 17
+    },
+    {
+      "name": "SREYA CHANDRAN",
+      "rollNo": "23368778",
+      "group": "HUMANITIES",
+      "totalMarks": 1070,
+      "rank": 17
+    },
+    {
+      "name": "ANASWARA P S",
+      "rollNo": "23368740",
+      "group": "HUMANITIES",
+      "totalMarks": 1069,
+      "rank": 19
+    },
+    {
+      "name": "HARSHA RAJ A",
+      "rollNo": "23368704",
+      "group": "SCIENCE",
+      "totalMarks": 1066,
+      "rank": 20
+    },
+    {
+      "name": "RESNA RAMAN",
+      "rollNo": "23368717",
+      "group": "SCIENCE",
+      "totalMarks": 1064,
+      "rank": 21
+    },
+    {
+      "name": "PARVATHI PRADEEPAN",
+      "rollNo": "23368769",
+      "group": "HUMANITIES",
+      "totalMarks": 1062,
+      "rank": 22
+    },
+    {
+      "name": "ANUSMITHA.K",
+      "rollNo": "23368744",
+      "group": "HUMANITIES",
+      "totalMarks": 1061,
+      "rank": 23
+    },
+    {
+      "name": "VYSAKHI RAJAN",
+      "rollNo": "23368783",
+      "group": "HUMANITIES",
+      "totalMarks": 1054,
+      "rank": 24
+    },
+    {
+      "name": "VRINDA CHANDRAN",
+      "rollNo": "23368782",
+      "group": "HUMANITIES",
+      "totalMarks": 1053,
+      "rank": 25
+    },
+    {
+      "name": "SNEHA K P",
+      "rollNo": "23368777",
+      "group": "HUMANITIES",
+      "totalMarks": 1052,
+      "rank": 26
+    },
+    {
+      "name": "ARYA V S",
+      "rollNo": "23368697",
+      "group": "SCIENCE",
+      "totalMarks": 1052,
+      "rank": 26
+    },
+    {
+      "name": "ANILA P C",
+      "rollNo": "23368741",
+      "group": "HUMANITIES",
+      "totalMarks": 1050,
+      "rank": 28
+    },
+    {
+      "name": "MAYA C V",
+      "rollNo": "23368709",
+      "group": "SCIENCE",
+      "totalMarks": 1045,
+      "rank": 29
+    },
+    {
+      "name": "SREENANDA E S",
+      "rollNo": "23368724",
+      "group": "SCIENCE",
+      "totalMarks": 1045,
+      "rank": 29
+    },
+    {
+      "name": "ARYAMOL P K",
+      "rollNo": "23368698",
+      "group": "SCIENCE",
+      "totalMarks": 1043,
+      "rank": 31
+    },
+    {
+      "name": "SUSMITHA SUKUMARAN",
+      "rollNo": "23368779",
+      "group": "HUMANITIES",
+      "totalMarks": 1043,
+      "rank": 31
+    },
+    {
+      "name": "GAYATHRI K B",
+      "rollNo": "23368701",
+      "group": "SCIENCE",
+      "totalMarks": 1043,
+      "rank": 31
+    },
+    {
+      "name": "ANUPRIYA",
+      "rollNo": "23368742",
+      "group": "HUMANITIES",
+      "totalMarks": 1040,
+      "rank": 34
+    },
+    {
+      "name": "AMAYA E S",
+      "rollNo": "23368738",
+      "group": "HUMANITIES",
+      "totalMarks": 1037,
+      "rank": 35
+    },
+    {
+      "name": "KAVITHA T K",
+      "rollNo": "23368758",
+      "group": "HUMANITIES",
+      "totalMarks": 1036,
+      "rank": 36
+    },
+    {
+      "name": "ARCHITHA A M",
+      "rollNo": "23368747",
+      "group": "HUMANITIES",
+      "totalMarks": 1035,
+      "rank": 37
+    },
+    {
+      "name": "SAYANA SATHYAN",
+      "rollNo": "23368721",
+      "group": "SCIENCE",
+      "totalMarks": 1035,
+      "rank": 37
+    },
+    {
+      "name": "ANUSREE G B",
+      "rollNo": "23368690",
+      "group": "SCIENCE",
+      "totalMarks": 1033,
+      "rank": 39
+    },
+    {
+      "name": "HARIPRIYA T H",
+      "rollNo": "23368702",
+      "group": "SCIENCE",
+      "totalMarks": 1031,
+      "rank": 40
+    },
+    {
+      "name": "NAYANA P N",
+      "rollNo": "23368711",
+      "group": "SCIENCE",
+      "totalMarks": 1026,
+      "rank": 41
+    },
+    {
+      "name": "ANUSREE M K",
+      "rollNo": "23368691",
+      "group": "SCIENCE",
+      "totalMarks": 1021,
+      "rank": 42
+    },
+    {
+      "name": "VISMAYA V",
+      "rollNo": "23368733",
+      "group": "SCIENCE",
+      "totalMarks": 1018,
+      "rank": 43
+    },
+    {
+      "name": "ANASWARA M S",
+      "rollNo": "23368689",
+      "group": "SCIENCE",
+      "totalMarks": 1018,
+      "rank": 43
+    },
+    {
+      "name": "ROJITHA C M",
+      "rollNo": "23368771",
+      "group": "HUMANITIES",
+      "totalMarks": 1017,
+      "rank": 45
+    },
+    {
+      "name": "ABINA P G",
+      "rollNo": "23368734",
+      "group": "HUMANITIES",
+      "totalMarks": 1014,
+      "rank": 46
+    },
+    {
+      "name": "SAMVRUTHA SIDHAN",
+      "rollNo": "23368772",
+      "group": "HUMANITIES",
+      "totalMarks": 1012,
+      "rank": 47
+    },
+    {
+      "name": "AMRITHA V G",
+      "rollNo": "23368686",
+      "group": "SCIENCE",
+      "totalMarks": 1008,
+      "rank": 48
+    },
+    {
+      "name": "ADITHYA M S",
+      "rollNo": "23368684",
+      "group": "SCIENCE",
+      "totalMarks": 1004,
+      "rank": 49
+    },
+    {
+      "name": "AMRUTHA BAIJU",
+      "rollNo": "23368739",
+      "group": "HUMANITIES",
+      "totalMarks": 1001,
+      "rank": 50
+    },
+    {
+      "name": "ARYA C K",
+      "rollNo": "23368748",
+      "group": "HUMANITIES",
+      "totalMarks": 1001,
+      "rank": 50
+    },
+    {
+      "name": "AKHILA K",
+      "rollNo": "23368737",
+      "group": "HUMANITIES",
+      "totalMarks": 998,
+      "rank": 52
+    },
+    {
+      "name": "BRIJISHNA BABU",
+      "rollNo": "23368752",
+      "group": "HUMANITIES",
+      "totalMarks": 986,
+      "rank": 53
+    },
+    {
+      "name": "ANAGHA C V",
+      "rollNo": "23368688",
+      "group": "SCIENCE",
+      "totalMarks": 985,
+      "rank": 54
+    },
+    {
+      "name": "ANUSREE V T",
+      "rollNo": "23368693",
+      "group": "SCIENCE",
+      "totalMarks": 983,
+      "rank": 55
+    },
+    {
+      "name": "APARNA P",
+      "rollNo": "23368694",
+      "group": "SCIENCE",
+      "totalMarks": 981,
+      "rank": 56
+    },
+    {
+      "name": "ANUSREE SANTHOSH",
+      "rollNo": "23368745",
+      "group": "HUMANITIES",
+      "totalMarks": 980,
+      "rank": 57
+    },
+    {
+      "name": "ARYA A K",
+      "rollNo": "23368695",
+      "group": "SCIENCE",
+      "totalMarks": 979,
+      "rank": 58
+    },
+    {
+      "name": "SWAPNA SURESH",
+      "rollNo": "23368780",
+      "group": "HUMANITIES",
+      "totalMarks": 973,
+      "rank": 59
+    },
+    {
+      "name": "SRUTHI K S",
+      "rollNo": "23368726",
+      "group": "SCIENCE",
+      "totalMarks": 973,
+      "rank": 59
+    },
+    {
+      "name": "ARYA C",
+      "rollNo": "23368696",
+      "group": "SCIENCE",
+      "totalMarks": 966,
+      "rank": 61
+    },
+    {
+      "name": "AKHILA B P",
+      "rollNo": "23368736",
+      "group": "HUMANITIES",
+      "totalMarks": 964,
+      "rank": 62
+    },
+    {
+      "name": "SANUSHA T J",
+      "rollNo": "23368720",
+      "group": "SCIENCE",
+      "totalMarks": 962,
+      "rank": 63
+    },
+    {
+      "name": "VIJITHRA V M",
+      "rollNo": "23368730",
+      "group": "SCIENCE",
+      "totalMarks": 958,
+      "rank": 64
+    },
+    {
+      "name": "JISHNA K C",
+      "rollNo": "23368705",
+      "group": "SCIENCE",
+      "totalMarks": 948,
+      "rank": 65
+    },
+    {
+      "name": "ASHWINI CHANDRAN",
+      "rollNo": "23368699",
+      "group": "SCIENCE",
+      "totalMarks": 947,
+      "rank": 66
+    },
+    {
+      "name": "AMRUTHA M K",
+      "rollNo": "23368687",
+      "group": "SCIENCE",
+      "totalMarks": 946,
+      "rank": 67
+    },
+    {
+      "name": "NAVYA RAMAKRISHNAN",
+      "rollNo": "23368767",
+      "group": "HUMANITIES",
+      "totalMarks": 945,
+      "rank": 68
+    },
+    {
+      "name": "VISMAYA A M",
+      "rollNo": "23368731",
+      "group": "SCIENCE",
+      "totalMarks": 942,
+      "rank": 69
+    },
+    {
+      "name": "ANUSREE T M",
+      "rollNo": "23368692",
+      "group": "SCIENCE",
+      "totalMarks": 938,
+      "rank": 70
+    },
+    {
+      "name": "AKHILA P B",
+      "rollNo": "23368685",
+      "group": "SCIENCE",
+      "totalMarks": 937,
+      "rank": 71
+    },
+    {
+      "name": "KRISHNA THEERTHA S",
+      "rollNo": "23368708",
+      "group": "SCIENCE",
+      "totalMarks": 937,
+      "rank": 71
+    },
+    {
+      "name": "SHARANYA RAJAN",
+      "rollNo": "23368776",
+      "group": "HUMANITIES",
+      "totalMarks": 930,
+      "rank": 73
+    },
+    {
+      "name": "RAHITHA P",
+      "rollNo": "23368714",
+      "group": "SCIENCE",
+      "totalMarks": 920,
+      "rank": 74
+    },
+    {
+      "name": "NETHRAVATHI B",
+      "rollNo": "23368712",
+      "group": "SCIENCE",
+      "totalMarks": 908,
+      "rank": 75
+    },
+    {
+      "name": "SANDRA SANTHOSH",
+      "rollNo": "23368719",
+      "group": "SCIENCE",
+      "totalMarks": 882,
+      "rank": 76
+    },
+    {
+      "name": "ARCHANA BINU",
+      "rollNo": "23368746",
+      "group": "HUMANITIES",
+      "totalMarks": 877,
+      "rank": 77
+    },
+    {
+      "name": "SEETHAL S RAJI",
+      "rollNo": "23368722",
+      "group": "SCIENCE",
+      "totalMarks": 876,
+      "rank": 78
+    },
+    {
+      "name": "SRUTHI K.C",
+      "rollNo": "23368727",
+      "group": "SCIENCE",
+      "totalMarks": 873,
+      "rank": 79
+    },
+    {
+      "name": "SNEJA MOL P V",
+      "rollNo": "23368723",
+      "group": "SCIENCE",
+      "totalMarks": 872,
+      "rank": 80
+    },
+    {
+      "name": "SANMAYA C S",
+      "rollNo": "23368773",
+      "group": "HUMANITIES",
+      "totalMarks": 867,
+      "rank": 81
+    },
+    {
+      "name": "HARITHA P K",
+      "rollNo": "23368703",
+      "group": "SCIENCE",
+      "totalMarks": 866,
+      "rank": 82
+    },
+    {
+      "name": "SUNITHA M",
+      "rollNo": "23368728",
+      "group": "SCIENCE",
+      "totalMarks": 860,
+      "rank": 83
+    },
+    {
+      "name": "VINEETHARAJ B R",
+      "rollNo": "23368781",
+      "group": "HUMANITIES",
+      "totalMarks": 857,
+      "rank": 84
+    },
+    {
+      "name": "RAVYA RAJ C R",
+      "rollNo": "23368716",
+      "group": "SCIENCE",
+      "totalMarks": 855,
+      "rank": 85
+    },
+    {
+      "name": "JANU K P",
+      "rollNo": "23368757",
+      "group": "HUMANITIES",
+      "totalMarks": 844,
+      "rank": 86
+    },
+    {
+      "name": "RAVEENA RAJ",
+      "rollNo": "23368715",
+      "group": "SCIENCE",
+      "totalMarks": 831,
+      "rank": 87
+    },
+    {
+      "name": "PRARTHANA KRISHNA",
+      "rollNo": "23368713",
+      "group": "SCIENCE",
+      "totalMarks": 822,
+      "rank": 88
+    },
+    {
+      "name": "ATHIRACHANDRAN M",
+      "rollNo": "23368700",
+      "group": "SCIENCE",
+      "totalMarks": 822,
+      "rank": 88
+    },
+    {
+      "name": "NANDANA A C",
+      "rollNo": "23368710",
+      "group": "SCIENCE",
+      "totalMarks": 815,
+      "rank": 90
+    },
+    {
+      "name": "ASWATHI P V",
+      "rollNo": "23368750",
+      "group": "HUMANITIES",
+      "totalMarks": 809,
+      "rank": 91
+    },
+    {
+      "name": "SAHALAKSHMI P",
+      "rollNo": "23368718",
+      "group": "SCIENCE",
+      "totalMarks": 802,
+      "rank": 92
+    },
+    {
+      "name": "RENUKA CHANDRAN",
+      "rollNo": "23368770",
+      "group": "HUMANITIES",
+      "totalMarks": 746,
+      "rank": 93
+    },
+    {
+      "name": "MADHUPRIYA P M",
+      "rollNo": "23368761",
+      "group": "HUMANITIES",
+      "totalMarks": 707,
+      "rank": 94
+    },
+    {
+      "name": "NITHYA K",
+      "rollNo": "23368768",
+      "group": "HUMANITIES",
+      "totalMarks": 665,
+      "rank": 95
+    },
+    {
+      "name": "DRISYA RAVI",
+      "rollNo": "23368755",
+      "group": "HUMANITIES",
+      "totalMarks": 645,
+      "rank": 96
+    },
+    {
+      "name": "MANJU RAJAN",
+      "rollNo": "23368762",
+      "group": "HUMANITIES",
+      "totalMarks": 364,
+      "rank": 97
+    },
+    {
+      "name": "SNEHA A. R.",
+      "rollNo": "23503268",
+      "group": "SCIENCE",
+      "totalMarks": 171,
+      "rank": 98
+    },
+    {
+      "name": "VISMAYA N S",
+      "rollNo": "23368732",
+      "group": "SCIENCE",
+      "totalMarks": 169,
+      "rank": 99
+    }
+  ]
+}

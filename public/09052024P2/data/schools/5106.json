@@ -1,3369 +1,4637 @@
-[
-  {
-    "rollNo": "23113818",
-    "regular": true,
-    "name": "ABHIRAM S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113819",
-    "regular": true,
-    "name": "AJIN S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113820",
-    "regular": true,
-    "name": "MOHAMMED SHAMIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113821",
-    "regular": true,
-    "name": "NIRMAL PAUL K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113822",
-    "regular": true,
-    "name": "SANAND S RANJITH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 187
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113823",
-    "regular": true,
-    "name": "THOMAS MARTIN KALLINGAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113824",
-    "regular": true,
-    "name": "ABHOUMA A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113825",
-    "regular": true,
-    "name": "ANJANAPRIYA V P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113826",
-    "regular": true,
-    "name": "ANNU MARIYA SEBASTIAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113827",
-    "regular": true,
-    "name": "ANU ROSE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113828",
-    "regular": true,
-    "name": "ANUPAMA VARGHESE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113829",
-    "regular": true,
-    "name": "ARCHANA SIBY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113830",
-    "regular": true,
-    "name": "ARPITHA S SREEKUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 175
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113831",
-    "regular": true,
-    "name": "BHAVINA KRISHNAN M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113832",
-    "regular": true,
-    "name": "DIYA.M.KUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113833",
-    "regular": true,
-    "name": "HIBA REEM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113834",
-    "regular": true,
-    "name": "MEHNA NOUSHAD V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113835",
-    "regular": true,
-    "name": "NEHA BABU KAVUKATTU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113836",
-    "regular": true,
-    "name": "NIKITHA J JOHN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113837",
-    "regular": true,
-    "name": "POURNAMI N NAMBIAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113838",
-    "regular": true,
-    "name": "SERENE ANN RAJESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113839",
-    "regular": true,
-    "name": "VARSHA DINESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113840",
-    "regular": true,
-    "name": "A ABHINAV KRISHNAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113841",
-    "regular": true,
-    "name": "ADITHYAN A KUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113842",
-    "regular": true,
-    "name": "ALIFSHA A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113843",
-    "regular": true,
-    "name": "BHAGATH R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113844",
-    "regular": true,
-    "name": "MOHAMED ZAYAAN MOHAMED ALI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113845",
-    "regular": true,
-    "name": "ABHIRAMI S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113846",
-    "regular": true,
-    "name": "ADHRIJA KRISHNA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113847",
-    "regular": true,
-    "name": "AKSHAYA V NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113848",
-    "regular": true,
-    "name": "ALEENA HANAN F",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113849",
-    "regular": true,
-    "name": "ALEENA SHIBU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113850",
-    "regular": true,
-    "name": "ARATHI KRISHNA R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113851",
-    "regular": true,
-    "name": "FEBA ABY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113852",
-    "regular": true,
-    "name": "GOURI PARVATHY A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113853",
-    "regular": true,
-    "name": "GRACE SUNNY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113854",
-    "regular": true,
-    "name": "HADIYA RAHMAN T",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113855",
-    "regular": true,
-    "name": "J S BHADRAPRIYA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113856",
-    "regular": true,
-    "name": "LEKSHMI AJAY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113857",
-    "regular": true,
-    "name": "MALAVIKA SURESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113858",
-    "regular": true,
-    "name": "NANDITHA R S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113859",
-    "regular": true,
-    "name": "NIHARA K S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113860",
-    "regular": true,
-    "name": "PADMA PRIYA T J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113861",
-    "regular": true,
-    "name": "SANDHRA ELEZEBETH SABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113862",
-    "regular": true,
-    "name": "SANDRA S NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113863",
-    "regular": true,
-    "name": "SIVA M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113864",
-    "regular": true,
-    "name": "TRISHA SATHEESH C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113865",
-    "regular": true,
-    "name": "AARON IDICULA ROBY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113866",
-    "regular": true,
-    "name": "ADVAITH KRISHNA A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113867",
-    "regular": true,
-    "name": "AFIN S DAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113868",
-    "regular": true,
-    "name": "AJAI ABRAHAM THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113869",
-    "regular": true,
-    "name": "AKSHAI HARI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113870",
-    "regular": true,
-    "name": "JESVIN ANTONY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113871",
-    "regular": true,
-    "name": "JYOTHISH DILEEP",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 178
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113872",
-    "regular": true,
-    "name": "KIRAN CHACKO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113873",
-    "regular": true,
-    "name": "NAVANEETH B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113874",
-    "regular": true,
-    "name": "NEVIN BENO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113875",
-    "regular": true,
-    "name": "NITHIN SANKAR K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113876",
-    "regular": true,
-    "name": "RAMKRISHNA SURDAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113877",
-    "regular": true,
-    "name": "SAM KOSHY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113878",
-    "regular": true,
-    "name": "SHALWIN TOM SHAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 165
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113879",
-    "regular": true,
-    "name": "SREEHARI P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113880",
-    "regular": true,
-    "name": "VASUDEV MARANAT",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113881",
-    "regular": true,
-    "name": "ADONIA ALPHONSA ROMAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113882",
-    "regular": true,
-    "name": "ANDRIYA ABY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113883",
-    "regular": true,
-    "name": "JWALA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113884",
-    "regular": true,
-    "name": "LIZA AUGUSTINE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113885",
-    "regular": true,
-    "name": "MINNU JO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113886",
-    "regular": true,
-    "name": "PARVATHY R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113887",
-    "regular": true,
-    "name": "VINNI TERESA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113888",
-    "regular": true,
-    "name": "ABRAHAM SANTHOSH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113889",
-    "regular": true,
-    "name": "ADDLE ANTONY JAIS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113890",
-    "regular": true,
-    "name": "ATHUL KRISHNA K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113891",
-    "regular": true,
-    "name": "DEVARAG VINOD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113892",
-    "regular": true,
-    "name": "JAYAGOPAL G",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113893",
-    "regular": true,
-    "name": "MANAS M V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113894",
-    "regular": true,
-    "name": "MAZIN JIFTHIKKER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113895",
-    "regular": true,
-    "name": "MUHAMMED MIDHLAJ K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113896",
-    "regular": true,
-    "name": "MUKUNDAN S DINESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113897",
-    "regular": true,
-    "name": "S ADITHYA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113898",
-    "regular": true,
-    "name": "SIVASHANKAR ANILKUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113899",
-    "regular": true,
-    "name": "SRAAVAN M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113900",
-    "regular": true,
-    "name": "SUDEV P SUDHEESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113901",
-    "regular": true,
-    "name": "VASUDEV VIJAY V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113902",
-    "regular": true,
-    "name": "ARCHANA S NIDHI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113903",
-    "regular": true,
-    "name": "DAYA ABDULLA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113904",
-    "regular": true,
-    "name": "HRISHIKHA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113905",
-    "regular": true,
-    "name": "LIYA AZMI K N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113906",
-    "regular": true,
-    "name": "MAYUKHA K B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 178
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113907",
-    "regular": true,
-    "name": "RAHA ABDUL HAZEEB",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23113908",
-    "regular": true,
-    "name": "SAMANWAYA M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "5106",
+  "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+  "phoneNo": "04822212975",
+  "emailId": "sanvinpala@yahoo.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Pala(M)Meenachil",
+  "eduDistrict": "Pala",
+  "assemblyConstituency": "Pala",
+  "courseCode": "1,5",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "KOTTAYAM",
+  "results": [
+    {
+      "rollNo": "23113818",
+      "regular": true,
+      "name": "ABHIRAM S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1169,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113819",
+      "regular": true,
+      "name": "AJIN S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1150,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113820",
+      "regular": true,
+      "name": "MOHAMMED SHAMIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1009,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113821",
+      "regular": true,
+      "name": "NIRMAL PAUL K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1169,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113822",
+      "regular": true,
+      "name": "SANAND S RANJITH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 187
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1124,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113823",
+      "regular": true,
+      "name": "THOMAS MARTIN KALLINGAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 912,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113824",
+      "regular": true,
+      "name": "ABHOUMA A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1167,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113825",
+      "regular": true,
+      "name": "ANJANAPRIYA V P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1171,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113826",
+      "regular": true,
+      "name": "ANNU MARIYA SEBASTIAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1192,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113827",
+      "regular": true,
+      "name": "ANU ROSE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1186,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113828",
+      "regular": true,
+      "name": "ANUPAMA VARGHESE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1150,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113829",
+      "regular": true,
+      "name": "ARCHANA SIBY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1158,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113830",
+      "regular": true,
+      "name": "ARPITHA S SREEKUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 175
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1084,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113831",
+      "regular": true,
+      "name": "BHAVINA KRISHNAN M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1200,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113832",
+      "regular": true,
+      "name": "DIYA.M.KUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1151,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113833",
+      "regular": true,
+      "name": "HIBA REEM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1179,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113834",
+      "regular": true,
+      "name": "MEHNA NOUSHAD V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1187,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113835",
+      "regular": true,
+      "name": "NEHA BABU KAVUKATTU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1175,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113836",
+      "regular": true,
+      "name": "NIKITHA J JOHN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1156,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113837",
+      "regular": true,
+      "name": "POURNAMI N NAMBIAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1133,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113838",
+      "regular": true,
+      "name": "SERENE ANN RAJESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1184,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113839",
+      "regular": true,
+      "name": "VARSHA DINESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1050,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113840",
+      "regular": true,
+      "name": "A ABHINAV KRISHNAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1137,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113841",
+      "regular": true,
+      "name": "ADITHYAN A KUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1153,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113842",
+      "regular": true,
+      "name": "ALIFSHA A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1198,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113843",
+      "regular": true,
+      "name": "BHAGATH R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1063,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113844",
+      "regular": true,
+      "name": "MOHAMED ZAYAAN MOHAMED ALI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1172,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113845",
+      "regular": true,
+      "name": "ABHIRAMI S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1162,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113846",
+      "regular": true,
+      "name": "ADHRIJA KRISHNA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 969,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113847",
+      "regular": true,
+      "name": "AKSHAYA V NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1117,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113848",
+      "regular": true,
+      "name": "ALEENA HANAN F",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1200,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113849",
+      "regular": true,
+      "name": "ALEENA SHIBU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1189,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113850",
+      "regular": true,
+      "name": "ARATHI KRISHNA R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1193,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113851",
+      "regular": true,
+      "name": "FEBA ABY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1194,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113852",
+      "regular": true,
+      "name": "GOURI PARVATHY A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1176,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113853",
+      "regular": true,
+      "name": "GRACE SUNNY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1174,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113854",
+      "regular": true,
+      "name": "HADIYA RAHMAN T",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1157,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113855",
+      "regular": true,
+      "name": "J S BHADRAPRIYA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1156,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113856",
+      "regular": true,
+      "name": "LEKSHMI AJAY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1185,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113857",
+      "regular": true,
+      "name": "MALAVIKA SURESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1118,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113858",
+      "regular": true,
+      "name": "NANDITHA R S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1182,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113859",
+      "regular": true,
+      "name": "NIHARA K S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1182,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113860",
+      "regular": true,
+      "name": "PADMA PRIYA T J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1160,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113861",
+      "regular": true,
+      "name": "SANDHRA ELEZEBETH SABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1165,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113862",
+      "regular": true,
+      "name": "SANDRA S NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1090,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113863",
+      "regular": true,
+      "name": "SIVA M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1180,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113864",
+      "regular": true,
+      "name": "TRISHA SATHEESH C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1181,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113865",
+      "regular": true,
+      "name": "AARON IDICULA ROBY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1188,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113866",
+      "regular": true,
+      "name": "ADVAITH KRISHNA A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1119,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113867",
+      "regular": true,
+      "name": "AFIN S DAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1100,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113868",
+      "regular": true,
+      "name": "AJAI ABRAHAM THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1143,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113869",
+      "regular": true,
+      "name": "AKSHAI HARI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1047,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113870",
+      "regular": true,
+      "name": "JESVIN ANTONY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1148,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113871",
+      "regular": true,
+      "name": "JYOTHISH DILEEP",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 178
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1144,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113872",
+      "regular": true,
+      "name": "KIRAN CHACKO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1160,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113873",
+      "regular": true,
+      "name": "NAVANEETH B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1131,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113874",
+      "regular": true,
+      "name": "NEVIN BENO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1174,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113875",
+      "regular": true,
+      "name": "NITHIN SANKAR K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1150,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113876",
+      "regular": true,
+      "name": "RAMKRISHNA SURDAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1136,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113877",
+      "regular": true,
+      "name": "SAM KOSHY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1096,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113878",
+      "regular": true,
+      "name": "SHALWIN TOM SHAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 165
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1079,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113879",
+      "regular": true,
+      "name": "SREEHARI P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1183,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113880",
+      "regular": true,
+      "name": "VASUDEV MARANAT",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1171,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113881",
+      "regular": true,
+      "name": "ADONIA ALPHONSA ROMAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1116,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113882",
+      "regular": true,
+      "name": "ANDRIYA ABY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1102,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113883",
+      "regular": true,
+      "name": "JWALA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1185,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113884",
+      "regular": true,
+      "name": "LIZA AUGUSTINE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1192,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113885",
+      "regular": true,
+      "name": "MINNU JO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1169,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113886",
+      "regular": true,
+      "name": "PARVATHY R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1179,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113887",
+      "regular": true,
+      "name": "VINNI TERESA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1168,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113888",
+      "regular": true,
+      "name": "ABRAHAM SANTHOSH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1181,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113889",
+      "regular": true,
+      "name": "ADDLE ANTONY JAIS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1162,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113890",
+      "regular": true,
+      "name": "ATHUL KRISHNA K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1140,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113891",
+      "regular": true,
+      "name": "DEVARAG VINOD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1175,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113892",
+      "regular": true,
+      "name": "JAYAGOPAL G",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1172,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113893",
+      "regular": true,
+      "name": "MANAS M V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1178,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113894",
+      "regular": true,
+      "name": "MAZIN JIFTHIKKER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1145,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113895",
+      "regular": true,
+      "name": "MUHAMMED MIDHLAJ K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1175,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113896",
+      "regular": true,
+      "name": "MUKUNDAN S DINESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1153,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113897",
+      "regular": true,
+      "name": "S ADITHYA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 875,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113898",
+      "regular": true,
+      "name": "SIVASHANKAR ANILKUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1165,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113899",
+      "regular": true,
+      "name": "SRAAVAN M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1142,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113900",
+      "regular": true,
+      "name": "SUDEV P SUDHEESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1154,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113901",
+      "regular": true,
+      "name": "VASUDEV VIJAY V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1114,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113902",
+      "regular": true,
+      "name": "ARCHANA S NIDHI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1142,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113903",
+      "regular": true,
+      "name": "DAYA ABDULLA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1130,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113904",
+      "regular": true,
+      "name": "HRISHIKHA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1181,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113905",
+      "regular": true,
+      "name": "LIYA AZMI K N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1178,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113906",
+      "regular": true,
+      "name": "MAYUKHA K B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 178
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1060,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23113907",
+      "regular": true,
+      "name": "RAHA ABDUL HAZEEB",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1146,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23113908",
+      "regular": true,
+      "name": "SAMANWAYA M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VINCENT DE- PAUL HSS, PALA, KOTTAYAM, 686575",
+      "schoolCode": "5106",
+      "totalMarks": 1190,
+      "fullAp": true
+    }
+  ],
+  "passPercentage": 100,
+  "totalFullAp": 60,
+  "totalFullMarks": 2,
+  "fullApStudents": [
+    "ABHIRAM S (23113818) - SCIENCE",
+    "AJIN S (23113819) - SCIENCE",
+    "NIRMAL PAUL K (23113821) - SCIENCE",
+    "ABHOUMA A S (23113824) - SCIENCE",
+    "ANJANAPRIYA V P (23113825) - SCIENCE",
+    "ANNU MARIYA SEBASTIAN (23113826) - SCIENCE",
+    "ANU ROSE (23113827) - SCIENCE",
+    "ANUPAMA VARGHESE (23113828) - SCIENCE",
+    "ARCHANA SIBY (23113829) - SCIENCE",
+    "BHAVINA KRISHNAN M (23113831) - SCIENCE",
+    "DIYA.M.KUMAR (23113832) - SCIENCE",
+    "HIBA REEM (23113833) - SCIENCE",
+    "MEHNA NOUSHAD V (23113834) - SCIENCE",
+    "NEHA BABU KAVUKATTU (23113835) - SCIENCE",
+    "NIKITHA J JOHN (23113836) - SCIENCE",
+    "POURNAMI N NAMBIAR (23113837) - SCIENCE",
+    "SERENE ANN RAJESH (23113838) - SCIENCE",
+    "ALIFSHA A (23113842) - SCIENCE",
+    "MOHAMED ZAYAAN MOHAMED ALI (23113844) - SCIENCE",
+    "ABHIRAMI S (23113845) - SCIENCE",
+    "ALEENA HANAN F (23113848) - SCIENCE",
+    "ALEENA SHIBU (23113849) - SCIENCE",
+    "ARATHI KRISHNA R (23113850) - SCIENCE",
+    "FEBA ABY (23113851) - SCIENCE",
+    "GOURI PARVATHY A (23113852) - SCIENCE",
+    "GRACE SUNNY (23113853) - SCIENCE",
+    "HADIYA RAHMAN T (23113854) - SCIENCE",
+    "LEKSHMI AJAY (23113856) - SCIENCE",
+    "NANDITHA R S (23113858) - SCIENCE",
+    "NIHARA K S (23113859) - SCIENCE",
+    "PADMA PRIYA T J (23113860) - SCIENCE",
+    "SANDHRA ELEZEBETH SABU (23113861) - SCIENCE",
+    "SIVA M (23113863) - SCIENCE",
+    "TRISHA SATHEESH C (23113864) - SCIENCE",
+    "AARON IDICULA ROBY (23113865) - SCIENCE",
+    "AJAI ABRAHAM THOMAS (23113868) - SCIENCE",
+    "KIRAN CHACKO (23113872) - SCIENCE",
+    "NAVANEETH B (23113873) - SCIENCE",
+    "NEVIN BENO (23113874) - SCIENCE",
+    "NITHIN SANKAR K (23113875) - SCIENCE",
+    "SREEHARI P (23113879) - SCIENCE",
+    "VASUDEV MARANAT (23113880) - SCIENCE",
+    "JWALA S (23113883) - SCIENCE",
+    "LIZA AUGUSTINE (23113884) - SCIENCE",
+    "MINNU JO (23113885) - SCIENCE",
+    "PARVATHY R (23113886) - SCIENCE",
+    "VINNI TERESA (23113887) - SCIENCE",
+    "ABRAHAM SANTHOSH (23113888) - SCIENCE",
+    "DEVARAG VINOD (23113891) - SCIENCE",
+    "MANAS M V (23113893) - SCIENCE",
+    "MAZIN JIFTHIKKER (23113894) - SCIENCE",
+    "MUHAMMED MIDHLAJ K (23113895) - SCIENCE",
+    "MUKUNDAN S DINESH (23113896) - SCIENCE",
+    "SIVASHANKAR ANILKUMAR (23113898) - SCIENCE",
+    "SUDEV P SUDHEESH (23113900) - SCIENCE",
+    "ARCHANA S NIDHI (23113902) - SCIENCE",
+    "HRISHIKHA S (23113904) - SCIENCE",
+    "LIYA AZMI K N (23113905) - SCIENCE",
+    "RAHA ABDUL HAZEEB (23113907) - SCIENCE",
+    "SAMANWAYA M (23113908) - SCIENCE"
+  ],
+  "fullMarkStudents": [
+    "BHAVINA KRISHNAN M (23113831) - SCIENCE",
+    "ALEENA HANAN F (23113848) - SCIENCE"
+  ],
+  "rankList": [
+    {
+      "name": "ALEENA HANAN F",
+      "rollNo": "23113848",
+      "group": "SCIENCE",
+      "totalMarks": 1200,
+      "rank": 1
+    },
+    {
+      "name": "BHAVINA KRISHNAN M",
+      "rollNo": "23113831",
+      "group": "SCIENCE",
+      "totalMarks": 1200,
+      "rank": 1
+    },
+    {
+      "name": "ALIFSHA A",
+      "rollNo": "23113842",
+      "group": "SCIENCE",
+      "totalMarks": 1198,
+      "rank": 3
+    },
+    {
+      "name": "FEBA ABY",
+      "rollNo": "23113851",
+      "group": "SCIENCE",
+      "totalMarks": 1194,
+      "rank": 4
+    },
+    {
+      "name": "ARATHI KRISHNA R",
+      "rollNo": "23113850",
+      "group": "SCIENCE",
+      "totalMarks": 1193,
+      "rank": 5
+    },
+    {
+      "name": "ANNU MARIYA SEBASTIAN",
+      "rollNo": "23113826",
+      "group": "SCIENCE",
+      "totalMarks": 1192,
+      "rank": 6
+    },
+    {
+      "name": "LIZA AUGUSTINE",
+      "rollNo": "23113884",
+      "group": "SCIENCE",
+      "totalMarks": 1192,
+      "rank": 6
+    },
+    {
+      "name": "SAMANWAYA M",
+      "rollNo": "23113908",
+      "group": "SCIENCE",
+      "totalMarks": 1190,
+      "rank": 8
+    },
+    {
+      "name": "ALEENA SHIBU",
+      "rollNo": "23113849",
+      "group": "SCIENCE",
+      "totalMarks": 1189,
+      "rank": 9
+    },
+    {
+      "name": "AARON IDICULA ROBY",
+      "rollNo": "23113865",
+      "group": "SCIENCE",
+      "totalMarks": 1188,
+      "rank": 10
+    },
+    {
+      "name": "MEHNA NOUSHAD V",
+      "rollNo": "23113834",
+      "group": "SCIENCE",
+      "totalMarks": 1187,
+      "rank": 11
+    },
+    {
+      "name": "ANU ROSE",
+      "rollNo": "23113827",
+      "group": "SCIENCE",
+      "totalMarks": 1186,
+      "rank": 12
+    },
+    {
+      "name": "LEKSHMI AJAY",
+      "rollNo": "23113856",
+      "group": "SCIENCE",
+      "totalMarks": 1185,
+      "rank": 13
+    },
+    {
+      "name": "JWALA S",
+      "rollNo": "23113883",
+      "group": "SCIENCE",
+      "totalMarks": 1185,
+      "rank": 13
+    },
+    {
+      "name": "SERENE ANN RAJESH",
+      "rollNo": "23113838",
+      "group": "SCIENCE",
+      "totalMarks": 1184,
+      "rank": 15
+    },
+    {
+      "name": "SREEHARI P",
+      "rollNo": "23113879",
+      "group": "SCIENCE",
+      "totalMarks": 1183,
+      "rank": 16
+    },
+    {
+      "name": "NANDITHA R S",
+      "rollNo": "23113858",
+      "group": "SCIENCE",
+      "totalMarks": 1182,
+      "rank": 17
+    },
+    {
+      "name": "NIHARA K S",
+      "rollNo": "23113859",
+      "group": "SCIENCE",
+      "totalMarks": 1182,
+      "rank": 17
+    },
+    {
+      "name": "ABRAHAM SANTHOSH",
+      "rollNo": "23113888",
+      "group": "SCIENCE",
+      "totalMarks": 1181,
+      "rank": 19
+    },
+    {
+      "name": "HRISHIKHA S",
+      "rollNo": "23113904",
+      "group": "SCIENCE",
+      "totalMarks": 1181,
+      "rank": 19
+    },
+    {
+      "name": "TRISHA SATHEESH C",
+      "rollNo": "23113864",
+      "group": "SCIENCE",
+      "totalMarks": 1181,
+      "rank": 19
+    },
+    {
+      "name": "SIVA M",
+      "rollNo": "23113863",
+      "group": "SCIENCE",
+      "totalMarks": 1180,
+      "rank": 22
+    },
+    {
+      "name": "PARVATHY R",
+      "rollNo": "23113886",
+      "group": "SCIENCE",
+      "totalMarks": 1179,
+      "rank": 23
+    },
+    {
+      "name": "HIBA REEM",
+      "rollNo": "23113833",
+      "group": "SCIENCE",
+      "totalMarks": 1179,
+      "rank": 23
+    },
+    {
+      "name": "LIYA AZMI K N",
+      "rollNo": "23113905",
+      "group": "SCIENCE",
+      "totalMarks": 1178,
+      "rank": 25
+    },
+    {
+      "name": "MANAS M V",
+      "rollNo": "23113893",
+      "group": "SCIENCE",
+      "totalMarks": 1178,
+      "rank": 25
+    },
+    {
+      "name": "GOURI PARVATHY A",
+      "rollNo": "23113852",
+      "group": "SCIENCE",
+      "totalMarks": 1176,
+      "rank": 27
+    },
+    {
+      "name": "MUHAMMED MIDHLAJ K",
+      "rollNo": "23113895",
+      "group": "SCIENCE",
+      "totalMarks": 1175,
+      "rank": 28
+    },
+    {
+      "name": "DEVARAG VINOD",
+      "rollNo": "23113891",
+      "group": "SCIENCE",
+      "totalMarks": 1175,
+      "rank": 28
+    },
+    {
+      "name": "NEHA BABU KAVUKATTU",
+      "rollNo": "23113835",
+      "group": "SCIENCE",
+      "totalMarks": 1175,
+      "rank": 28
+    },
+    {
+      "name": "NEVIN BENO",
+      "rollNo": "23113874",
+      "group": "SCIENCE",
+      "totalMarks": 1174,
+      "rank": 31
+    },
+    {
+      "name": "GRACE SUNNY",
+      "rollNo": "23113853",
+      "group": "SCIENCE",
+      "totalMarks": 1174,
+      "rank": 31
+    },
+    {
+      "name": "MOHAMED ZAYAAN MOHAMED ALI",
+      "rollNo": "23113844",
+      "group": "SCIENCE",
+      "totalMarks": 1172,
+      "rank": 33
+    },
+    {
+      "name": "JAYAGOPAL G",
+      "rollNo": "23113892",
+      "group": "SCIENCE",
+      "totalMarks": 1172,
+      "rank": 33
+    },
+    {
+      "name": "VASUDEV MARANAT",
+      "rollNo": "23113880",
+      "group": "SCIENCE",
+      "totalMarks": 1171,
+      "rank": 35
+    },
+    {
+      "name": "ANJANAPRIYA V P",
+      "rollNo": "23113825",
+      "group": "SCIENCE",
+      "totalMarks": 1171,
+      "rank": 35
+    },
+    {
+      "name": "MINNU JO",
+      "rollNo": "23113885",
+      "group": "SCIENCE",
+      "totalMarks": 1169,
+      "rank": 37
+    },
+    {
+      "name": "NIRMAL PAUL K",
+      "rollNo": "23113821",
+      "group": "SCIENCE",
+      "totalMarks": 1169,
+      "rank": 37
+    },
+    {
+      "name": "ABHIRAM S",
+      "rollNo": "23113818",
+      "group": "SCIENCE",
+      "totalMarks": 1169,
+      "rank": 37
+    },
+    {
+      "name": "VINNI TERESA",
+      "rollNo": "23113887",
+      "group": "SCIENCE",
+      "totalMarks": 1168,
+      "rank": 40
+    },
+    {
+      "name": "ABHOUMA A S",
+      "rollNo": "23113824",
+      "group": "SCIENCE",
+      "totalMarks": 1167,
+      "rank": 41
+    },
+    {
+      "name": "SANDHRA ELEZEBETH SABU",
+      "rollNo": "23113861",
+      "group": "SCIENCE",
+      "totalMarks": 1165,
+      "rank": 42
+    },
+    {
+      "name": "SIVASHANKAR ANILKUMAR",
+      "rollNo": "23113898",
+      "group": "SCIENCE",
+      "totalMarks": 1165,
+      "rank": 42
+    },
+    {
+      "name": "ADDLE ANTONY JAIS",
+      "rollNo": "23113889",
+      "group": "SCIENCE",
+      "totalMarks": 1162,
+      "rank": 44
+    },
+    {
+      "name": "ABHIRAMI S",
+      "rollNo": "23113845",
+      "group": "SCIENCE",
+      "totalMarks": 1162,
+      "rank": 44
+    },
+    {
+      "name": "KIRAN CHACKO",
+      "rollNo": "23113872",
+      "group": "SCIENCE",
+      "totalMarks": 1160,
+      "rank": 46
+    },
+    {
+      "name": "PADMA PRIYA T J",
+      "rollNo": "23113860",
+      "group": "SCIENCE",
+      "totalMarks": 1160,
+      "rank": 46
+    },
+    {
+      "name": "ARCHANA SIBY",
+      "rollNo": "23113829",
+      "group": "SCIENCE",
+      "totalMarks": 1158,
+      "rank": 48
+    },
+    {
+      "name": "HADIYA RAHMAN T",
+      "rollNo": "23113854",
+      "group": "SCIENCE",
+      "totalMarks": 1157,
+      "rank": 49
+    },
+    {
+      "name": "J S BHADRAPRIYA",
+      "rollNo": "23113855",
+      "group": "SCIENCE",
+      "totalMarks": 1156,
+      "rank": 50
+    },
+    {
+      "name": "NIKITHA J JOHN",
+      "rollNo": "23113836",
+      "group": "SCIENCE",
+      "totalMarks": 1156,
+      "rank": 50
+    },
+    {
+      "name": "SUDEV P SUDHEESH",
+      "rollNo": "23113900",
+      "group": "SCIENCE",
+      "totalMarks": 1154,
+      "rank": 52
+    },
+    {
+      "name": "MUKUNDAN S DINESH",
+      "rollNo": "23113896",
+      "group": "SCIENCE",
+      "totalMarks": 1153,
+      "rank": 53
+    },
+    {
+      "name": "ADITHYAN A KUMAR",
+      "rollNo": "23113841",
+      "group": "SCIENCE",
+      "totalMarks": 1153,
+      "rank": 53
+    },
+    {
+      "name": "DIYA.M.KUMAR",
+      "rollNo": "23113832",
+      "group": "SCIENCE",
+      "totalMarks": 1151,
+      "rank": 55
+    },
+    {
+      "name": "AJIN S",
+      "rollNo": "23113819",
+      "group": "SCIENCE",
+      "totalMarks": 1150,
+      "rank": 56
+    },
+    {
+      "name": "NITHIN SANKAR K",
+      "rollNo": "23113875",
+      "group": "SCIENCE",
+      "totalMarks": 1150,
+      "rank": 56
+    },
+    {
+      "name": "ANUPAMA VARGHESE",
+      "rollNo": "23113828",
+      "group": "SCIENCE",
+      "totalMarks": 1150,
+      "rank": 56
+    },
+    {
+      "name": "JESVIN ANTONY",
+      "rollNo": "23113870",
+      "group": "SCIENCE",
+      "totalMarks": 1148,
+      "rank": 59
+    },
+    {
+      "name": "RAHA ABDUL HAZEEB",
+      "rollNo": "23113907",
+      "group": "SCIENCE",
+      "totalMarks": 1146,
+      "rank": 60
+    },
+    {
+      "name": "MAZIN JIFTHIKKER",
+      "rollNo": "23113894",
+      "group": "SCIENCE",
+      "totalMarks": 1145,
+      "rank": 61
+    },
+    {
+      "name": "JYOTHISH DILEEP",
+      "rollNo": "23113871",
+      "group": "SCIENCE",
+      "totalMarks": 1144,
+      "rank": 62
+    },
+    {
+      "name": "AJAI ABRAHAM THOMAS",
+      "rollNo": "23113868",
+      "group": "SCIENCE",
+      "totalMarks": 1143,
+      "rank": 63
+    },
+    {
+      "name": "SRAAVAN M",
+      "rollNo": "23113899",
+      "group": "SCIENCE",
+      "totalMarks": 1142,
+      "rank": 64
+    },
+    {
+      "name": "ARCHANA S NIDHI",
+      "rollNo": "23113902",
+      "group": "SCIENCE",
+      "totalMarks": 1142,
+      "rank": 64
+    },
+    {
+      "name": "ATHUL KRISHNA K",
+      "rollNo": "23113890",
+      "group": "SCIENCE",
+      "totalMarks": 1140,
+      "rank": 66
+    },
+    {
+      "name": "A ABHINAV KRISHNAN",
+      "rollNo": "23113840",
+      "group": "SCIENCE",
+      "totalMarks": 1137,
+      "rank": 67
+    },
+    {
+      "name": "RAMKRISHNA SURDAS",
+      "rollNo": "23113876",
+      "group": "SCIENCE",
+      "totalMarks": 1136,
+      "rank": 68
+    },
+    {
+      "name": "POURNAMI N NAMBIAR",
+      "rollNo": "23113837",
+      "group": "SCIENCE",
+      "totalMarks": 1133,
+      "rank": 69
+    },
+    {
+      "name": "NAVANEETH B",
+      "rollNo": "23113873",
+      "group": "SCIENCE",
+      "totalMarks": 1131,
+      "rank": 70
+    },
+    {
+      "name": "DAYA ABDULLA",
+      "rollNo": "23113903",
+      "group": "SCIENCE",
+      "totalMarks": 1130,
+      "rank": 71
+    },
+    {
+      "name": "SANAND S RANJITH",
+      "rollNo": "23113822",
+      "group": "SCIENCE",
+      "totalMarks": 1124,
+      "rank": 72
+    },
+    {
+      "name": "ADVAITH KRISHNA A",
+      "rollNo": "23113866",
+      "group": "SCIENCE",
+      "totalMarks": 1119,
+      "rank": 73
+    },
+    {
+      "name": "MALAVIKA SURESH",
+      "rollNo": "23113857",
+      "group": "SCIENCE",
+      "totalMarks": 1118,
+      "rank": 74
+    },
+    {
+      "name": "AKSHAYA V NAIR",
+      "rollNo": "23113847",
+      "group": "SCIENCE",
+      "totalMarks": 1117,
+      "rank": 75
+    },
+    {
+      "name": "ADONIA ALPHONSA ROMAL",
+      "rollNo": "23113881",
+      "group": "SCIENCE",
+      "totalMarks": 1116,
+      "rank": 76
+    },
+    {
+      "name": "VASUDEV VIJAY V",
+      "rollNo": "23113901",
+      "group": "SCIENCE",
+      "totalMarks": 1114,
+      "rank": 77
+    },
+    {
+      "name": "ANDRIYA ABY",
+      "rollNo": "23113882",
+      "group": "SCIENCE",
+      "totalMarks": 1102,
+      "rank": 78
+    },
+    {
+      "name": "AFIN S DAS",
+      "rollNo": "23113867",
+      "group": "SCIENCE",
+      "totalMarks": 1100,
+      "rank": 79
+    },
+    {
+      "name": "SAM KOSHY",
+      "rollNo": "23113877",
+      "group": "SCIENCE",
+      "totalMarks": 1096,
+      "rank": 80
+    },
+    {
+      "name": "SANDRA S NAIR",
+      "rollNo": "23113862",
+      "group": "SCIENCE",
+      "totalMarks": 1090,
+      "rank": 81
+    },
+    {
+      "name": "ARPITHA S SREEKUMAR",
+      "rollNo": "23113830",
+      "group": "SCIENCE",
+      "totalMarks": 1084,
+      "rank": 82
+    },
+    {
+      "name": "SHALWIN TOM SHAJI",
+      "rollNo": "23113878",
+      "group": "SCIENCE",
+      "totalMarks": 1079,
+      "rank": 83
+    },
+    {
+      "name": "BHAGATH R",
+      "rollNo": "23113843",
+      "group": "SCIENCE",
+      "totalMarks": 1063,
+      "rank": 84
+    },
+    {
+      "name": "MAYUKHA K B",
+      "rollNo": "23113906",
+      "group": "SCIENCE",
+      "totalMarks": 1060,
+      "rank": 85
+    },
+    {
+      "name": "VARSHA DINESH",
+      "rollNo": "23113839",
+      "group": "SCIENCE",
+      "totalMarks": 1050,
+      "rank": 86
+    },
+    {
+      "name": "AKSHAI HARI",
+      "rollNo": "23113869",
+      "group": "SCIENCE",
+      "totalMarks": 1047,
+      "rank": 87
+    },
+    {
+      "name": "MOHAMMED SHAMIL",
+      "rollNo": "23113820",
+      "group": "SCIENCE",
+      "totalMarks": 1009,
+      "rank": 88
+    },
+    {
+      "name": "ADHRIJA KRISHNA",
+      "rollNo": "23113846",
+      "group": "SCIENCE",
+      "totalMarks": 969,
+      "rank": 89
+    },
+    {
+      "name": "THOMAS MARTIN KALLINGAL",
+      "rollNo": "23113823",
+      "group": "SCIENCE",
+      "totalMarks": 912,
+      "rank": 90
+    },
+    {
+      "name": "S ADITHYA",
+      "rollNo": "23113897",
+      "group": "SCIENCE",
+      "totalMarks": 875,
+      "rank": 91
+    }
+  ]
+}

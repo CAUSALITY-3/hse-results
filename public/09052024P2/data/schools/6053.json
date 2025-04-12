@@ -1,2444 +1,3315 @@
-[
-  {
-    "rollNo": "22126581",
-    "regular": false,
-    "name": "DIYON KURIAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 104
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22126590",
-    "regular": false,
-    "name": "ADITHYA KRISHNA AJITH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124388",
-    "regular": true,
-    "name": "AARON JINS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124389",
-    "regular": true,
-    "name": "ADITHYAN SREENIVAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124390",
-    "regular": true,
-    "name": "ALBIN SABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124391",
-    "regular": true,
-    "name": "CHACKO THANKACHAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124392",
-    "regular": true,
-    "name": "JAYADEV P JAYENDRAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124393",
-    "regular": true,
-    "name": "KISHORE P VINOD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124394",
-    "regular": true,
-    "name": "TOM BABY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124395",
-    "regular": true,
-    "name": "VON MAHESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124396",
-    "regular": true,
-    "name": "A.V. LAKSHMI NANDHANA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23124397",
-    "regular": true,
-    "name": "AIJA ROSE AISON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124398",
-    "regular": true,
-    "name": "AKSA SHAJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 149
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124399",
-    "regular": true,
-    "name": "AKSHAYA KALADHARAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124400",
-    "regular": true,
-    "name": "ALAIN ANN SIJIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 159
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124401",
-    "regular": true,
-    "name": "ALAIVA P SHAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124402",
-    "regular": true,
-    "name": "ALEENA BIJO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 169
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124403",
-    "regular": true,
-    "name": "ALEENA SHANTY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124405",
-    "regular": true,
-    "name": "ANITTA SHIBU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124406",
-    "regular": true,
-    "name": "ANIYA SHYBI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124407",
-    "regular": true,
-    "name": "ANNA SHERI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 178
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124408",
-    "regular": true,
-    "name": "ANNMARIA PRINCE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 132
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124409",
-    "regular": true,
-    "name": "ARCHANA VINOD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 171
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124410",
-    "regular": true,
-    "name": "ATHIRA SHIBU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124411",
-    "regular": true,
-    "name": "AYANA ISSAC",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 153
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124412",
-    "regular": true,
-    "name": "CAINA SIMETHI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124413",
-    "regular": true,
-    "name": "DEVIKA R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124414",
-    "regular": true,
-    "name": "DEVIKA R.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124415",
-    "regular": true,
-    "name": "DHARSANA P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124416",
-    "regular": true,
-    "name": "EMILIN TREESA BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124417",
-    "regular": true,
-    "name": "IRENE MARIA FLOY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124418",
-    "regular": true,
-    "name": "MERIN JINO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124419",
-    "regular": true,
-    "name": "NANDHANA RAMESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 134
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124420",
-    "regular": true,
-    "name": "NEAHA MARIYA RAJESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 187
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124421",
-    "regular": true,
-    "name": "NIKHILA SAM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124422",
-    "regular": true,
-    "name": "SANA BABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124423",
-    "regular": true,
-    "name": "SANA SUDHEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124424",
-    "regular": true,
-    "name": "SHALU M S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124425",
-    "regular": true,
-    "name": "SREYA BENNY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124426",
-    "regular": true,
-    "name": "TINU TOMY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124427",
-    "regular": true,
-    "name": "ALAN TOM SOJAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124428",
-    "regular": true,
-    "name": "DEVADHATHAN C NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 165
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124429",
-    "regular": true,
-    "name": "EDWIN JIJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124430",
-    "regular": true,
-    "name": "JERIN SUNNY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124431",
-    "regular": true,
-    "name": "SHANKUMAR KOTTAMMALAYIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124432",
-    "regular": true,
-    "name": "ALEENA GEORGE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124433",
-    "regular": true,
-    "name": "ASHMI GINU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124434",
-    "regular": true,
-    "name": "EILEEN MARY BABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124435",
-    "regular": true,
-    "name": "GOPIKA KISAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124436",
-    "regular": true,
-    "name": "SANGEETHA BIJU JOSEPH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124437",
-    "regular": true,
-    "name": "ABHISHEK RAJ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124438",
-    "regular": true,
-    "name": "ATHIF  ANSHAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124439",
-    "regular": true,
-    "name": "DAIS SILJO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124440",
-    "regular": true,
-    "name": "DON SILJO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124441",
-    "regular": true,
-    "name": "NAVIN PRASANTH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124442",
-    "regular": true,
-    "name": "MEENAKSHI PRADEEP",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 147
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124443",
-    "regular": true,
-    "name": "PRATHIBHA LEKSHMI M A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124444",
-    "regular": true,
-    "name": "THEJA BOSE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 159
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124445",
-    "regular": true,
-    "name": "ADHARSH P BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124446",
-    "regular": true,
-    "name": "ASIN SABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124447",
-    "regular": true,
-    "name": "BASSIM NASSAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124448",
-    "regular": true,
-    "name": "MIDHUN KRISHNA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124449",
-    "regular": true,
-    "name": "MUHAMMED ASLAM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124450",
-    "regular": true,
-    "name": "SREENAND S NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23124451",
-    "regular": true,
-    "name": "IRENE MARIA JORSON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 171
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23501169",
-    "regular": true,
-    "name": "ANITTA CHRISTEENA JOHNSON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "6053",
+  "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+  "phoneNo": "04862225471",
+  "emailId": "jairaniemhss@yahoo.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Thodupuzha(M)Thodupuzha",
+  "eduDistrict": "Thodupuzha",
+  "assemblyConstituency": "Thodupuzha",
+  "courseCode": "1,5",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "IDUKKY",
+  "results": [
+    {
+      "rollNo": "23124388",
+      "regular": true,
+      "name": "AARON JINS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 860,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124389",
+      "regular": true,
+      "name": "ADITHYAN SREENIVAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 848,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124390",
+      "regular": true,
+      "name": "ALBIN SABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 936,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124391",
+      "regular": true,
+      "name": "CHACKO THANKACHAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 956,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124392",
+      "regular": true,
+      "name": "JAYADEV P JAYENDRAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1103,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124393",
+      "regular": true,
+      "name": "KISHORE P VINOD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1141,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124394",
+      "regular": true,
+      "name": "TOM BABY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 957,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124395",
+      "regular": true,
+      "name": "VON MAHESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1005,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124396",
+      "regular": true,
+      "name": "A.V. LAKSHMI NANDHANA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 103
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 745,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124397",
+      "regular": true,
+      "name": "AIJA ROSE AISON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1120,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124398",
+      "regular": true,
+      "name": "AKSA SHAJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 149
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1035,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124399",
+      "regular": true,
+      "name": "AKSHAYA KALADHARAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 979,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124400",
+      "regular": true,
+      "name": "ALAIN ANN SIJIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 159
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1053,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124401",
+      "regular": true,
+      "name": "ALAIVA P SHAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 992,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124402",
+      "regular": true,
+      "name": "ALEENA BIJO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 169
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1101,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124403",
+      "regular": true,
+      "name": "ALEENA SHANTY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 886,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124405",
+      "regular": true,
+      "name": "ANITTA SHIBU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 935,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124406",
+      "regular": true,
+      "name": "ANIYA SHYBI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1012,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124407",
+      "regular": true,
+      "name": "ANNA SHERI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 178
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1020,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124408",
+      "regular": true,
+      "name": "ANNMARIA PRINCE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 132
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 940,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124409",
+      "regular": true,
+      "name": "ARCHANA VINOD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 171
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1035,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124410",
+      "regular": true,
+      "name": "ATHIRA SHIBU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1110,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124411",
+      "regular": true,
+      "name": "AYANA ISSAC",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 153
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 972,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124412",
+      "regular": true,
+      "name": "CAINA SIMETHI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1046,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124413",
+      "regular": true,
+      "name": "DEVIKA R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1155,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23124414",
+      "regular": true,
+      "name": "DEVIKA R.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 893,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124415",
+      "regular": true,
+      "name": "DHARSANA P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1163,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23124416",
+      "regular": true,
+      "name": "EMILIN TREESA BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 976,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124417",
+      "regular": true,
+      "name": "IRENE MARIA FLOY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1069,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124418",
+      "regular": true,
+      "name": "MERIN JINO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 937,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124419",
+      "regular": true,
+      "name": "NANDHANA RAMESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 134
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 914,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124420",
+      "regular": true,
+      "name": "NEAHA MARIYA RAJESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 187
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1144,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23124421",
+      "regular": true,
+      "name": "NIKHILA SAM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 927,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124422",
+      "regular": true,
+      "name": "SANA BABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1009,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124423",
+      "regular": true,
+      "name": "SANA SUDHEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1149,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23124424",
+      "regular": true,
+      "name": "SHALU M S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 827,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124425",
+      "regular": true,
+      "name": "SREYA BENNY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 979,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124426",
+      "regular": true,
+      "name": "TINU TOMY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 883,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124427",
+      "regular": true,
+      "name": "ALAN TOM SOJAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 820,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124428",
+      "regular": true,
+      "name": "DEVADHATHAN C NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 165
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1026,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124429",
+      "regular": true,
+      "name": "EDWIN JIJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 965,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124430",
+      "regular": true,
+      "name": "JERIN SUNNY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 959,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124431",
+      "regular": true,
+      "name": "SHANKUMAR KOTTAMMALAYIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1085,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124432",
+      "regular": true,
+      "name": "ALEENA GEORGE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 920,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124433",
+      "regular": true,
+      "name": "ASHMI GINU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 926,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124434",
+      "regular": true,
+      "name": "EILEEN MARY BABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1022,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124435",
+      "regular": true,
+      "name": "GOPIKA KISAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 888,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124436",
+      "regular": true,
+      "name": "SANGEETHA BIJU JOSEPH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1173,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23124437",
+      "regular": true,
+      "name": "ABHISHEK RAJ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 941,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124438",
+      "regular": true,
+      "name": "ATHIF ANSHAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 790,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124439",
+      "regular": true,
+      "name": "DAIS SILJO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 908,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124440",
+      "regular": true,
+      "name": "DON SILJO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 916,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124441",
+      "regular": true,
+      "name": "NAVIN PRASANTH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 882,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124442",
+      "regular": true,
+      "name": "MEENAKSHI PRADEEP",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 147
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 957,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124443",
+      "regular": true,
+      "name": "PRATHIBHA LEKSHMI M A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 907,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124444",
+      "regular": true,
+      "name": "THEJA BOSE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 159
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1078,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124445",
+      "regular": true,
+      "name": "ADHARSH P BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 899,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124446",
+      "regular": true,
+      "name": "ASIN SABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 928,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124447",
+      "regular": true,
+      "name": "BASSIM NASSAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 743,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124448",
+      "regular": true,
+      "name": "MIDHUN KRISHNA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 865,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124449",
+      "regular": true,
+      "name": "MUHAMMED ASLAM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 888,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124450",
+      "regular": true,
+      "name": "SREENAND S NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 778,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23124451",
+      "regular": true,
+      "name": "IRENE MARIA JORSON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 171
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 1095,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23501169",
+      "regular": true,
+      "name": "ANITTA CHRISTEENA JOHNSON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 169,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22126581",
+      "regular": false,
+      "name": "DIYON KURIAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 103
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 104
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 312,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22126590",
+      "regular": false,
+      "name": "ADITHYA KRISHNA AJITH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "JAIRANI EMHSS THODUPUZHA, 685584",
+      "schoolCode": "6053",
+      "totalMarks": 117,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 96.88,
+  "totalFullAp": 5,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "DEVIKA R (23124413) - SCIENCE",
+    "DHARSANA P (23124415) - SCIENCE",
+    "NEAHA MARIYA RAJESH (23124420) - SCIENCE",
+    "SANA SUDHEER (23124423) - SCIENCE",
+    "SANGEETHA BIJU JOSEPH (23124436) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "SANGEETHA BIJU JOSEPH",
+      "rollNo": "23124436",
+      "group": "SCIENCE",
+      "totalMarks": 1173,
+      "rank": 1
+    },
+    {
+      "name": "DHARSANA P",
+      "rollNo": "23124415",
+      "group": "SCIENCE",
+      "totalMarks": 1163,
+      "rank": 2
+    },
+    {
+      "name": "DEVIKA R",
+      "rollNo": "23124413",
+      "group": "SCIENCE",
+      "totalMarks": 1155,
+      "rank": 3
+    },
+    {
+      "name": "SANA SUDHEER",
+      "rollNo": "23124423",
+      "group": "SCIENCE",
+      "totalMarks": 1149,
+      "rank": 4
+    },
+    {
+      "name": "NEAHA MARIYA RAJESH",
+      "rollNo": "23124420",
+      "group": "SCIENCE",
+      "totalMarks": 1144,
+      "rank": 5
+    },
+    {
+      "name": "KISHORE P VINOD",
+      "rollNo": "23124393",
+      "group": "SCIENCE",
+      "totalMarks": 1141,
+      "rank": 6
+    },
+    {
+      "name": "AIJA ROSE AISON",
+      "rollNo": "23124397",
+      "group": "SCIENCE",
+      "totalMarks": 1120,
+      "rank": 7
+    },
+    {
+      "name": "ATHIRA SHIBU",
+      "rollNo": "23124410",
+      "group": "SCIENCE",
+      "totalMarks": 1110,
+      "rank": 8
+    },
+    {
+      "name": "JAYADEV P JAYENDRAN",
+      "rollNo": "23124392",
+      "group": "SCIENCE",
+      "totalMarks": 1103,
+      "rank": 9
+    },
+    {
+      "name": "ALEENA BIJO",
+      "rollNo": "23124402",
+      "group": "SCIENCE",
+      "totalMarks": 1101,
+      "rank": 10
+    },
+    {
+      "name": "IRENE MARIA JORSON",
+      "rollNo": "23124451",
+      "group": "SCIENCE",
+      "totalMarks": 1095,
+      "rank": 11
+    },
+    {
+      "name": "SHANKUMAR KOTTAMMALAYIL",
+      "rollNo": "23124431",
+      "group": "SCIENCE",
+      "totalMarks": 1085,
+      "rank": 12
+    },
+    {
+      "name": "THEJA BOSE",
+      "rollNo": "23124444",
+      "group": "SCIENCE",
+      "totalMarks": 1078,
+      "rank": 13
+    },
+    {
+      "name": "IRENE MARIA FLOY",
+      "rollNo": "23124417",
+      "group": "SCIENCE",
+      "totalMarks": 1069,
+      "rank": 14
+    },
+    {
+      "name": "ALAIN ANN SIJIN",
+      "rollNo": "23124400",
+      "group": "SCIENCE",
+      "totalMarks": 1053,
+      "rank": 15
+    },
+    {
+      "name": "CAINA SIMETHI",
+      "rollNo": "23124412",
+      "group": "SCIENCE",
+      "totalMarks": 1046,
+      "rank": 16
+    },
+    {
+      "name": "AKSA SHAJU",
+      "rollNo": "23124398",
+      "group": "SCIENCE",
+      "totalMarks": 1035,
+      "rank": 17
+    },
+    {
+      "name": "ARCHANA VINOD",
+      "rollNo": "23124409",
+      "group": "SCIENCE",
+      "totalMarks": 1035,
+      "rank": 17
+    },
+    {
+      "name": "DEVADHATHAN C NAIR",
+      "rollNo": "23124428",
+      "group": "SCIENCE",
+      "totalMarks": 1026,
+      "rank": 19
+    },
+    {
+      "name": "EILEEN MARY BABU",
+      "rollNo": "23124434",
+      "group": "SCIENCE",
+      "totalMarks": 1022,
+      "rank": 20
+    },
+    {
+      "name": "ANNA SHERI",
+      "rollNo": "23124407",
+      "group": "SCIENCE",
+      "totalMarks": 1020,
+      "rank": 21
+    },
+    {
+      "name": "ANIYA SHYBI",
+      "rollNo": "23124406",
+      "group": "SCIENCE",
+      "totalMarks": 1012,
+      "rank": 22
+    },
+    {
+      "name": "SANA BABU",
+      "rollNo": "23124422",
+      "group": "SCIENCE",
+      "totalMarks": 1009,
+      "rank": 23
+    },
+    {
+      "name": "VON MAHESH",
+      "rollNo": "23124395",
+      "group": "SCIENCE",
+      "totalMarks": 1005,
+      "rank": 24
+    },
+    {
+      "name": "ALAIVA P SHAJI",
+      "rollNo": "23124401",
+      "group": "SCIENCE",
+      "totalMarks": 992,
+      "rank": 25
+    },
+    {
+      "name": "AKSHAYA KALADHARAN",
+      "rollNo": "23124399",
+      "group": "SCIENCE",
+      "totalMarks": 979,
+      "rank": 26
+    },
+    {
+      "name": "SREYA BENNY",
+      "rollNo": "23124425",
+      "group": "SCIENCE",
+      "totalMarks": 979,
+      "rank": 26
+    },
+    {
+      "name": "EMILIN TREESA BIJU",
+      "rollNo": "23124416",
+      "group": "SCIENCE",
+      "totalMarks": 976,
+      "rank": 28
+    },
+    {
+      "name": "AYANA ISSAC",
+      "rollNo": "23124411",
+      "group": "SCIENCE",
+      "totalMarks": 972,
+      "rank": 29
+    },
+    {
+      "name": "EDWIN JIJI",
+      "rollNo": "23124429",
+      "group": "SCIENCE",
+      "totalMarks": 965,
+      "rank": 30
+    },
+    {
+      "name": "JERIN SUNNY",
+      "rollNo": "23124430",
+      "group": "SCIENCE",
+      "totalMarks": 959,
+      "rank": 31
+    },
+    {
+      "name": "TOM BABY",
+      "rollNo": "23124394",
+      "group": "SCIENCE",
+      "totalMarks": 957,
+      "rank": 32
+    },
+    {
+      "name": "MEENAKSHI PRADEEP",
+      "rollNo": "23124442",
+      "group": "SCIENCE",
+      "totalMarks": 957,
+      "rank": 32
+    },
+    {
+      "name": "CHACKO THANKACHAN",
+      "rollNo": "23124391",
+      "group": "SCIENCE",
+      "totalMarks": 956,
+      "rank": 34
+    },
+    {
+      "name": "ABHISHEK RAJ",
+      "rollNo": "23124437",
+      "group": "SCIENCE",
+      "totalMarks": 941,
+      "rank": 35
+    },
+    {
+      "name": "ANNMARIA PRINCE",
+      "rollNo": "23124408",
+      "group": "SCIENCE",
+      "totalMarks": 940,
+      "rank": 36
+    },
+    {
+      "name": "MERIN JINO",
+      "rollNo": "23124418",
+      "group": "SCIENCE",
+      "totalMarks": 937,
+      "rank": 37
+    },
+    {
+      "name": "ALBIN SABU",
+      "rollNo": "23124390",
+      "group": "SCIENCE",
+      "totalMarks": 936,
+      "rank": 38
+    },
+    {
+      "name": "ANITTA SHIBU",
+      "rollNo": "23124405",
+      "group": "SCIENCE",
+      "totalMarks": 935,
+      "rank": 39
+    },
+    {
+      "name": "ASIN SABU",
+      "rollNo": "23124446",
+      "group": "SCIENCE",
+      "totalMarks": 928,
+      "rank": 40
+    },
+    {
+      "name": "NIKHILA SAM",
+      "rollNo": "23124421",
+      "group": "SCIENCE",
+      "totalMarks": 927,
+      "rank": 41
+    },
+    {
+      "name": "ASHMI GINU",
+      "rollNo": "23124433",
+      "group": "SCIENCE",
+      "totalMarks": 926,
+      "rank": 42
+    },
+    {
+      "name": "ALEENA GEORGE",
+      "rollNo": "23124432",
+      "group": "SCIENCE",
+      "totalMarks": 920,
+      "rank": 43
+    },
+    {
+      "name": "DON SILJO",
+      "rollNo": "23124440",
+      "group": "SCIENCE",
+      "totalMarks": 916,
+      "rank": 44
+    },
+    {
+      "name": "NANDHANA RAMESH",
+      "rollNo": "23124419",
+      "group": "SCIENCE",
+      "totalMarks": 914,
+      "rank": 45
+    },
+    {
+      "name": "DAIS SILJO",
+      "rollNo": "23124439",
+      "group": "SCIENCE",
+      "totalMarks": 908,
+      "rank": 46
+    },
+    {
+      "name": "PRATHIBHA LEKSHMI M A",
+      "rollNo": "23124443",
+      "group": "SCIENCE",
+      "totalMarks": 907,
+      "rank": 47
+    },
+    {
+      "name": "ADHARSH P BIJU",
+      "rollNo": "23124445",
+      "group": "SCIENCE",
+      "totalMarks": 899,
+      "rank": 48
+    },
+    {
+      "name": "DEVIKA R.",
+      "rollNo": "23124414",
+      "group": "SCIENCE",
+      "totalMarks": 893,
+      "rank": 49
+    },
+    {
+      "name": "MUHAMMED ASLAM",
+      "rollNo": "23124449",
+      "group": "SCIENCE",
+      "totalMarks": 888,
+      "rank": 50
+    },
+    {
+      "name": "GOPIKA KISAN",
+      "rollNo": "23124435",
+      "group": "SCIENCE",
+      "totalMarks": 888,
+      "rank": 50
+    },
+    {
+      "name": "ALEENA SHANTY",
+      "rollNo": "23124403",
+      "group": "SCIENCE",
+      "totalMarks": 886,
+      "rank": 52
+    },
+    {
+      "name": "TINU TOMY",
+      "rollNo": "23124426",
+      "group": "SCIENCE",
+      "totalMarks": 883,
+      "rank": 53
+    },
+    {
+      "name": "NAVIN PRASANTH",
+      "rollNo": "23124441",
+      "group": "SCIENCE",
+      "totalMarks": 882,
+      "rank": 54
+    },
+    {
+      "name": "MIDHUN KRISHNA",
+      "rollNo": "23124448",
+      "group": "SCIENCE",
+      "totalMarks": 865,
+      "rank": 55
+    },
+    {
+      "name": "AARON JINS",
+      "rollNo": "23124388",
+      "group": "SCIENCE",
+      "totalMarks": 860,
+      "rank": 56
+    },
+    {
+      "name": "ADITHYAN SREENIVAS",
+      "rollNo": "23124389",
+      "group": "SCIENCE",
+      "totalMarks": 848,
+      "rank": 57
+    },
+    {
+      "name": "SHALU M S",
+      "rollNo": "23124424",
+      "group": "SCIENCE",
+      "totalMarks": 827,
+      "rank": 58
+    },
+    {
+      "name": "ALAN TOM SOJAN",
+      "rollNo": "23124427",
+      "group": "SCIENCE",
+      "totalMarks": 820,
+      "rank": 59
+    },
+    {
+      "name": "ATHIF ANSHAD",
+      "rollNo": "23124438",
+      "group": "SCIENCE",
+      "totalMarks": 790,
+      "rank": 60
+    },
+    {
+      "name": "SREENAND S NAIR",
+      "rollNo": "23124450",
+      "group": "SCIENCE",
+      "totalMarks": 778,
+      "rank": 61
+    },
+    {
+      "name": "A.V. LAKSHMI NANDHANA",
+      "rollNo": "23124396",
+      "group": "SCIENCE",
+      "totalMarks": 745,
+      "rank": 62
+    },
+    {
+      "name": "BASSIM NASSAR",
+      "rollNo": "23124447",
+      "group": "SCIENCE",
+      "totalMarks": 743,
+      "rank": 63
+    },
+    {
+      "name": "ANITTA CHRISTEENA JOHNSON",
+      "rollNo": "23501169",
+      "group": "SCIENCE",
+      "totalMarks": 169,
+      "rank": 64
+    }
+  ]
+}

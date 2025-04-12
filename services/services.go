@@ -95,81 +95,26 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 
 	var studentTemplateMapping types.TemplateMappedStudentData
 
-	// sub1, _ := json.Marshal(student.Subject1)
 	studentTemplateMapping.Name = student.Name
 	studentTemplateMapping.RollNo = student.RollNo
 	studentTemplateMapping.Regular = student.Regular
 	studentTemplateMapping.StudentGroup = student.Group
 	studentTemplateMapping.SchoolName = student.SchoolName
 	studentTemplateMapping.SchoolCode = student.SchoolCode
-	studentTemplateMapping.FullAplus = true
+	studentTemplateMapping.FullAplus = student.FullAplus
+	studentTemplateMapping.Result = student.Result
+	studentTemplateMapping.TotalMarks = student.TotalMarks
 	// studentTemplateMapping.Xvg = string(sub1)
-	if student.Subject1.Name != "" {
-		studentTemplateMapping.Subject1 = student.Subject1.Name
-		studentTemplateMapping.Subject1Mark = student.Subject1.Marks
-		studentTemplateMapping.Subject1Grade = student.Subject1.Grade
-		if student.Subject1.Grade != "A+" {
-			studentTemplateMapping.FullAplus = false
+
+	strTemp := ""
+
+	for i := 0; i <= 5; i++ {
+		if student.Subjects[i].Name != "" {
+			strTemp += "<tr><td>" + student.Subjects[i].Name + "</td><td>" + fmt.Sprint(*student.Subjects[i].Marks) + "</td><td>" + student.Subjects[i].Grade + "</td></tr>"
 		}
-	} else {
-		studentTemplateMapping.Hide1 = "hide-subject"
-		studentTemplateMapping.FullAplus = false
 	}
-	if student.Subject2.Name != "" {
-		studentTemplateMapping.Subject2 = student.Subject2.Name
-		studentTemplateMapping.Subject2Mark = student.Subject2.Marks
-		studentTemplateMapping.Subject2Grade = student.Subject2.Grade
-		if student.Subject2.Grade != "A+" {
-			studentTemplateMapping.FullAplus = false
-		}
-	} else {
-		studentTemplateMapping.Hide2 = "hide-subject"
-		studentTemplateMapping.FullAplus = false
-	}
-	if student.Subject3.Name != "" {
-		studentTemplateMapping.Subject3 = student.Subject3.Name
-		studentTemplateMapping.Subject3Mark = student.Subject3.Marks
-		studentTemplateMapping.Subject3Grade = student.Subject3.Grade
-		if student.Subject3.Grade != "A+" {
-			studentTemplateMapping.FullAplus = false
-		}
-	} else {
-		studentTemplateMapping.Hide3 = "hide-subject"
-		studentTemplateMapping.FullAplus = false
-	}
-	if student.Subject4.Name != "" {
-		studentTemplateMapping.Subject4 = student.Subject4.Name
-		studentTemplateMapping.Subject4Mark = student.Subject4.Marks
-		studentTemplateMapping.Subject4Grade = student.Subject4.Grade
-		if student.Subject4.Grade != "A+" {
-			studentTemplateMapping.FullAplus = false
-		}
-	} else {
-		studentTemplateMapping.Hide4 = "hide-subject"
-		studentTemplateMapping.FullAplus = false
-	}
-	if student.Subject5.Name != "" {
-		studentTemplateMapping.Subject5 = student.Subject5.Name
-		studentTemplateMapping.Subject5Mark = student.Subject5.Marks
-		studentTemplateMapping.Subject5Grade = student.Subject5.Grade
-		if student.Subject5.Grade != "A+" {
-			studentTemplateMapping.FullAplus = false
-		}
-	} else {
-		studentTemplateMapping.Hide5 = "hide-subject"
-		studentTemplateMapping.FullAplus = false
-	}
-	if student.Subject6.Name != "" {
-		studentTemplateMapping.Subject6 = student.Subject6.Name
-		studentTemplateMapping.Subject6Mark = student.Subject6.Marks
-		studentTemplateMapping.Subject6Grade = student.Subject6.Grade
-		if student.Subject6.Grade != "A+" {
-			studentTemplateMapping.FullAplus = false
-		}
-	} else {
-		studentTemplateMapping.Hide6 = "hide-subject"
-		studentTemplateMapping.FullAplus = false
-	}
+
+	studentTemplateMapping.Subjects = template.HTML(strTemp)
 
 	tmpl, err := template.ParseFiles("./public/" + requestType + "/students.html")
 	if err != nil {
@@ -201,6 +146,8 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 	}
 	var temp struct {
 		SchoolResult string
+		Name         string
+		SchoolCode   string
 	}
 
 	SchoolResult, err := json.Marshal(school)

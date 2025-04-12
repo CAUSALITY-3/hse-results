@@ -1,1667 +1,2228 @@
-[
-  {
-    "rollNo": "22031913",
-    "regular": false,
-    "name": "JERIN JOHNSON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22031914",
-    "regular": false,
-    "name": "JOEL JITH J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 95
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22031924",
-    "regular": false,
-    "name": "ATHUL G R NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 105
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22520388",
-    "regular": false,
-    "name": "SOORAJ S.P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 62
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22527662",
-    "regular": false,
-    "name": "RAM SASANKAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 66
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22527663",
-    "regular": false,
-    "name": "ALEKH S B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 76
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22527665",
-    "regular": false,
-    "name": "AKHIL S M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23025839",
-    "regular": true,
-    "name": "ABHISHITH S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026032",
-    "regular": true,
-    "name": "MOHAMMED SULTHAN SUBEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031619",
-    "regular": true,
-    "name": "ADHARSH A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031620",
-    "regular": true,
-    "name": "AKSHIT S NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031621",
-    "regular": true,
-    "name": "ASHISH S R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031622",
-    "regular": true,
-    "name": "KEVIN.A.B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031623",
-    "regular": true,
-    "name": "KRISHNA KUMAR A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031624",
-    "regular": true,
-    "name": "ROMY. V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031625",
-    "regular": true,
-    "name": "SOORAJ S R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031626",
-    "regular": true,
-    "name": "ANCY.J.R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031627",
-    "regular": true,
-    "name": "ARSHA RAJ S S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031628",
-    "regular": true,
-    "name": "ARUNIMA A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031629",
-    "regular": true,
-    "name": "INDIRAKUTTY K P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031630",
-    "regular": true,
-    "name": "KARTHIKA LEKSHMI.P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031631",
-    "regular": true,
-    "name": "MEKHA KRISHNA K S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031632",
-    "regular": true,
-    "name": "ABHISHEK S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 165
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031633",
-    "regular": true,
-    "name": "ASWIN A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031634",
-    "regular": true,
-    "name": "EBY L M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031635",
-    "regular": true,
-    "name": "S A AKSHAY RASH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 152
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031636",
-    "regular": true,
-    "name": "S AROMAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031637",
-    "regular": true,
-    "name": "SREESANKAR N K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 116
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031638",
-    "regular": true,
-    "name": "ANCY JOY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 82
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031639",
-    "regular": true,
-    "name": "APSARA P ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 165
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031640",
-    "regular": true,
-    "name": "ARATHY J M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031641",
-    "regular": true,
-    "name": "ARDRA P ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 133
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031642",
-    "regular": true,
-    "name": "GAURI SIVA S R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031643",
-    "regular": true,
-    "name": "MEGHA S L",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031644",
-    "regular": true,
-    "name": "ABHISHEK  R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031645",
-    "regular": true,
-    "name": "ABIRAJ R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 165
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031646",
-    "regular": true,
-    "name": "ADHITHYAN. K. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031647",
-    "regular": true,
-    "name": "AKHIL S U",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031648",
-    "regular": true,
-    "name": "BIJOY J B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "Ab",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031649",
-    "regular": true,
-    "name": "DEEPAK.P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 136
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031650",
-    "regular": true,
-    "name": "FLINTO ANTONY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 95
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 98
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031651",
-    "regular": true,
-    "name": "VISHWA. A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031652",
-    "regular": true,
-    "name": "SWATHYLAKSHMI V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031653",
-    "regular": true,
-    "name": "NIKHIL EDWIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031654",
-    "regular": true,
-    "name": "GUDIYA DEEPAK",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 85
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "1161",
+  "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+  "phoneNo": "0471-2222489",
+  "emailId": "shreevidyadhiraja@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Neyyattinkara (M)Neyyattinkara",
+  "eduDistrict": "Neyyattinkara",
+  "assemblyConstituency": "Neyyattinkara",
+  "courseCode": "1,5",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "THIRUVANANTHAPURAM",
+  "results": [
+    {
+      "rollNo": "23025839",
+      "regular": true,
+      "name": "ABHISHITH S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 732,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026032",
+      "regular": true,
+      "name": "MOHAMMED SULTHAN SUBEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 826,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031619",
+      "regular": true,
+      "name": "ADHARSH A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 836,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031620",
+      "regular": true,
+      "name": "AKSHIT S NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1091,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031621",
+      "regular": true,
+      "name": "ASHISH S R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 906,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031622",
+      "regular": true,
+      "name": "KEVIN.A.B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 834,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031623",
+      "regular": true,
+      "name": "KRISHNA KUMAR A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 897,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031624",
+      "regular": true,
+      "name": "ROMY. V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 790,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031625",
+      "regular": true,
+      "name": "SOORAJ S R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 88
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 652,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031626",
+      "regular": true,
+      "name": "ANCY.J.R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 106
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 106
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 740,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031627",
+      "regular": true,
+      "name": "ARSHA RAJ S S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 863,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031628",
+      "regular": true,
+      "name": "ARUNIMA A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1073,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031629",
+      "regular": true,
+      "name": "INDIRAKUTTY K P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 104
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 796,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031630",
+      "regular": true,
+      "name": "KARTHIKA LEKSHMI.P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1060,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031631",
+      "regular": true,
+      "name": "MEKHA KRISHNA K S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1133,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031632",
+      "regular": true,
+      "name": "ABHISHEK S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 165
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 962,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031633",
+      "regular": true,
+      "name": "ASWIN A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 843,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031634",
+      "regular": true,
+      "name": "EBY L M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 820,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031635",
+      "regular": true,
+      "name": "S A AKSHAY RASH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 152
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 998,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031636",
+      "regular": true,
+      "name": "S AROMAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 969,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031637",
+      "regular": true,
+      "name": "SREESANKAR N K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 116
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 779,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031638",
+      "regular": true,
+      "name": "ANCY JOY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 82
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 684,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031639",
+      "regular": true,
+      "name": "APSARA P ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 165
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 966,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031640",
+      "regular": true,
+      "name": "ARATHY J M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 871,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031641",
+      "regular": true,
+      "name": "ARDRA P ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 133
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 887,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031642",
+      "regular": true,
+      "name": "GAURI SIVA S R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 107
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 103
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 104
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 652,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031643",
+      "regular": true,
+      "name": "MEGHA S L",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1030,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031644",
+      "regular": true,
+      "name": "ABHISHEK R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1178,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23031645",
+      "regular": true,
+      "name": "ABIRAJ R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 165
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 930,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031646",
+      "regular": true,
+      "name": "ADHITHYAN. K. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 880,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031647",
+      "regular": true,
+      "name": "AKHIL S U",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1018,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031648",
+      "regular": true,
+      "name": "BIJOY J B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "Ab",
+          "marks": 0
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 0,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031649",
+      "regular": true,
+      "name": "DEEPAK.P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 136
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 901,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031650",
+      "regular": true,
+      "name": "FLINTO ANTONY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 95
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 98
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 644,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031651",
+      "regular": true,
+      "name": "VISHWA. A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 751,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031652",
+      "regular": true,
+      "name": "SWATHYLAKSHMI V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1178,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23031653",
+      "regular": true,
+      "name": "NIKHIL EDWIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 1153,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23031654",
+      "regular": true,
+      "name": "GUDIYA DEEPAK",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 85
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 768,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22031913",
+      "regular": false,
+      "name": "JERIN JOHNSON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 88
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 369,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22031914",
+      "regular": false,
+      "name": "JOEL JITH J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 95
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 95,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22031924",
+      "regular": false,
+      "name": "ATHUL G R NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 106
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 105
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 294,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22520388",
+      "regular": false,
+      "name": "SOORAJ S.P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 62
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 125,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22527662",
+      "regular": false,
+      "name": "RAM SASANKAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 66
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 145,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22527663",
+      "regular": false,
+      "name": "ALEKH S B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 76
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 229,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22527665",
+      "regular": false,
+      "name": "AKHIL S M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SREE VIDHYADHI RAJA VIDYANILAYAM HSS, NEYYATTINKARA, THIRUVANANTHAPURAM",
+      "schoolCode": "1161",
+      "totalMarks": 153,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 78.95,
+  "totalFullAp": 3,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "ABHISHEK R (23031644) - SCIENCE",
+    "SWATHYLAKSHMI V (23031652) - SCIENCE",
+    "NIKHIL EDWIN (23031653) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "SWATHYLAKSHMI V",
+      "rollNo": "23031652",
+      "group": "SCIENCE",
+      "totalMarks": 1178,
+      "rank": 1
+    },
+    {
+      "name": "ABHISHEK R",
+      "rollNo": "23031644",
+      "group": "SCIENCE",
+      "totalMarks": 1178,
+      "rank": 1
+    },
+    {
+      "name": "NIKHIL EDWIN",
+      "rollNo": "23031653",
+      "group": "SCIENCE",
+      "totalMarks": 1153,
+      "rank": 3
+    },
+    {
+      "name": "MEKHA KRISHNA K S",
+      "rollNo": "23031631",
+      "group": "SCIENCE",
+      "totalMarks": 1133,
+      "rank": 4
+    },
+    {
+      "name": "AKSHIT S NAIR",
+      "rollNo": "23031620",
+      "group": "SCIENCE",
+      "totalMarks": 1091,
+      "rank": 5
+    },
+    {
+      "name": "ARUNIMA A S",
+      "rollNo": "23031628",
+      "group": "SCIENCE",
+      "totalMarks": 1073,
+      "rank": 6
+    },
+    {
+      "name": "KARTHIKA LEKSHMI.P",
+      "rollNo": "23031630",
+      "group": "SCIENCE",
+      "totalMarks": 1060,
+      "rank": 7
+    },
+    {
+      "name": "MEGHA S L",
+      "rollNo": "23031643",
+      "group": "SCIENCE",
+      "totalMarks": 1030,
+      "rank": 8
+    },
+    {
+      "name": "AKHIL S U",
+      "rollNo": "23031647",
+      "group": "SCIENCE",
+      "totalMarks": 1018,
+      "rank": 9
+    },
+    {
+      "name": "S A AKSHAY RASH",
+      "rollNo": "23031635",
+      "group": "SCIENCE",
+      "totalMarks": 998,
+      "rank": 10
+    },
+    {
+      "name": "S AROMAL",
+      "rollNo": "23031636",
+      "group": "SCIENCE",
+      "totalMarks": 969,
+      "rank": 11
+    },
+    {
+      "name": "APSARA P ANIL",
+      "rollNo": "23031639",
+      "group": "SCIENCE",
+      "totalMarks": 966,
+      "rank": 12
+    },
+    {
+      "name": "ABHISHEK S",
+      "rollNo": "23031632",
+      "group": "SCIENCE",
+      "totalMarks": 962,
+      "rank": 13
+    },
+    {
+      "name": "ABIRAJ R",
+      "rollNo": "23031645",
+      "group": "SCIENCE",
+      "totalMarks": 930,
+      "rank": 14
+    },
+    {
+      "name": "ASHISH S R",
+      "rollNo": "23031621",
+      "group": "SCIENCE",
+      "totalMarks": 906,
+      "rank": 15
+    },
+    {
+      "name": "DEEPAK.P",
+      "rollNo": "23031649",
+      "group": "SCIENCE",
+      "totalMarks": 901,
+      "rank": 16
+    },
+    {
+      "name": "KRISHNA KUMAR A S",
+      "rollNo": "23031623",
+      "group": "SCIENCE",
+      "totalMarks": 897,
+      "rank": 17
+    },
+    {
+      "name": "ARDRA P ANIL",
+      "rollNo": "23031641",
+      "group": "SCIENCE",
+      "totalMarks": 887,
+      "rank": 18
+    },
+    {
+      "name": "ADHITHYAN. K. S",
+      "rollNo": "23031646",
+      "group": "SCIENCE",
+      "totalMarks": 880,
+      "rank": 19
+    },
+    {
+      "name": "ARATHY J M",
+      "rollNo": "23031640",
+      "group": "SCIENCE",
+      "totalMarks": 871,
+      "rank": 20
+    },
+    {
+      "name": "ARSHA RAJ S S",
+      "rollNo": "23031627",
+      "group": "SCIENCE",
+      "totalMarks": 863,
+      "rank": 21
+    },
+    {
+      "name": "ASWIN A S",
+      "rollNo": "23031633",
+      "group": "SCIENCE",
+      "totalMarks": 843,
+      "rank": 22
+    },
+    {
+      "name": "ADHARSH A S",
+      "rollNo": "23031619",
+      "group": "SCIENCE",
+      "totalMarks": 836,
+      "rank": 23
+    },
+    {
+      "name": "KEVIN.A.B",
+      "rollNo": "23031622",
+      "group": "SCIENCE",
+      "totalMarks": 834,
+      "rank": 24
+    },
+    {
+      "name": "MOHAMMED SULTHAN SUBEER",
+      "rollNo": "23026032",
+      "group": "SCIENCE",
+      "totalMarks": 826,
+      "rank": 25
+    },
+    {
+      "name": "EBY L M",
+      "rollNo": "23031634",
+      "group": "SCIENCE",
+      "totalMarks": 820,
+      "rank": 26
+    },
+    {
+      "name": "INDIRAKUTTY K P",
+      "rollNo": "23031629",
+      "group": "SCIENCE",
+      "totalMarks": 796,
+      "rank": 27
+    },
+    {
+      "name": "ROMY. V",
+      "rollNo": "23031624",
+      "group": "SCIENCE",
+      "totalMarks": 790,
+      "rank": 28
+    },
+    {
+      "name": "SREESANKAR N K",
+      "rollNo": "23031637",
+      "group": "SCIENCE",
+      "totalMarks": 779,
+      "rank": 29
+    },
+    {
+      "name": "GUDIYA DEEPAK",
+      "rollNo": "23031654",
+      "group": "SCIENCE",
+      "totalMarks": 768,
+      "rank": 30
+    },
+    {
+      "name": "VISHWA. A",
+      "rollNo": "23031651",
+      "group": "SCIENCE",
+      "totalMarks": 751,
+      "rank": 31
+    },
+    {
+      "name": "ANCY.J.R",
+      "rollNo": "23031626",
+      "group": "SCIENCE",
+      "totalMarks": 740,
+      "rank": 32
+    },
+    {
+      "name": "ABHISHITH S",
+      "rollNo": "23025839",
+      "group": "SCIENCE",
+      "totalMarks": 732,
+      "rank": 33
+    },
+    {
+      "name": "ANCY JOY",
+      "rollNo": "23031638",
+      "group": "SCIENCE",
+      "totalMarks": 684,
+      "rank": 34
+    },
+    {
+      "name": "GAURI SIVA S R",
+      "rollNo": "23031642",
+      "group": "SCIENCE",
+      "totalMarks": 652,
+      "rank": 35
+    },
+    {
+      "name": "SOORAJ S R",
+      "rollNo": "23031625",
+      "group": "SCIENCE",
+      "totalMarks": 652,
+      "rank": 35
+    },
+    {
+      "name": "FLINTO ANTONY",
+      "rollNo": "23031650",
+      "group": "SCIENCE",
+      "totalMarks": 644,
+      "rank": 37
+    },
+    {
+      "name": "BIJOY J B",
+      "rollNo": "23031648",
+      "group": "SCIENCE",
+      "totalMarks": 0,
+      "rank": 38
+    }
+  ]
+}

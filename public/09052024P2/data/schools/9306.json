@@ -1,298 +1,423 @@
-[
-  {
-    "rollNo": "23234793",
-    "regular": true,
-    "name": "BINEESH A P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
+{
+  "schoolCode": "9306",
+  "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+  "phoneNo": "04662244366",
+  "emailId": "gvhssdeaf@gmail.com",
+  "schoolType": "Special",
+  "localBody": "Ottappalam(M)Ottappalam",
+  "eduDistrict": "Ottappalam",
+  "assemblyConstituency": "Ottapalam",
+  "courseCode": "10,38",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1",
+  "district": "PALAKKAD",
+  "results": [
+    {
+      "rollNo": "23234793",
+      "regular": true,
+      "name": "BINEESH A P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 149
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 806,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 149
+    {
+      "rollNo": "23234794",
+      "regular": true,
+      "name": "NIKHIL KRISHNA P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 809,
+      "fullAp": false
     },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 152
+    {
+      "rollNo": "23234795",
+      "regular": true,
+      "name": "BABY.M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 883,
+      "fullAp": false
     },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 122
+    {
+      "rollNo": "23234796",
+      "regular": true,
+      "name": "KARTHIKA K",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "GEOGRAPHY",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 912,
+      "fullAp": false
     },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 128
+    {
+      "rollNo": "23234797",
+      "regular": true,
+      "name": "MUHAMMAD HASSAN E",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 153
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 1015,
+      "fullAp": false
     },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 149
+    {
+      "rollNo": "23234798",
+      "regular": true,
+      "name": "PRETHEWBIN M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 147
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 996,
+      "fullAp": false
     },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23234794",
-    "regular": true,
-    "name": "NIKHIL KRISHNA P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 109
+    {
+      "rollNo": "23234799",
+      "regular": true,
+      "name": "ANUSREE P R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 956,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 138
+    {
+      "rollNo": "23234800",
+      "regular": true,
+      "name": "SALINI C",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt V H S S for the Deaf, Ottapalam - 4",
+      "schoolCode": "9306",
+      "totalMarks": 988,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 100,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "MUHAMMAD HASSAN E",
+      "rollNo": "23234797",
+      "group": "COMMERCE",
+      "totalMarks": 1015,
+      "rank": 1
     },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 151
+    {
+      "name": "PRETHEWBIN M",
+      "rollNo": "23234798",
+      "group": "COMMERCE",
+      "totalMarks": 996,
+      "rank": 2
     },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 132
+    {
+      "name": "SALINI C",
+      "rollNo": "23234800",
+      "group": "COMMERCE",
+      "totalMarks": 988,
+      "rank": 3
     },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 131
+    {
+      "name": "ANUSREE P R",
+      "rollNo": "23234799",
+      "group": "COMMERCE",
+      "totalMarks": 956,
+      "rank": 4
     },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "B+",
-      "marks": 148
+    {
+      "name": "KARTHIKA K",
+      "rollNo": "23234796",
+      "group": "HUMANITIES",
+      "totalMarks": 912,
+      "rank": 5
     },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23234795",
-    "regular": true,
-    "name": "BABY.M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 124
+    {
+      "name": "BABY.M",
+      "rollNo": "23234795",
+      "group": "HUMANITIES",
+      "totalMarks": 883,
+      "rank": 6
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 150
+    {
+      "name": "NIKHIL KRISHNA P",
+      "rollNo": "23234794",
+      "group": "HUMANITIES",
+      "totalMarks": 809,
+      "rank": 7
     },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23234796",
-    "regular": true,
-    "name": "KARTHIKA K",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "GEOGRAPHY",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23234797",
-    "regular": true,
-    "name": "MUHAMMAD HASSAN E",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 153
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23234798",
-    "regular": true,
-    "name": "PRETHEWBIN M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 147
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23234799",
-    "regular": true,
-    "name": "ANUSREE P R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23234800",
-    "regular": true,
-    "name": "SALINI C",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  }
-]
+    {
+      "name": "BINEESH A P",
+      "rollNo": "23234793",
+      "group": "HUMANITIES",
+      "totalMarks": 806,
+      "rank": 8
+    }
+  ]
+}

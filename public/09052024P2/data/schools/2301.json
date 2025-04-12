@@ -1,1371 +1,1859 @@
-[
-  {
-    "rollNo": "22062084",
-    "regular": false,
-    "name": "AL AMEEN N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22527987",
-    "regular": false,
-    "name": "AFZAL ALI. N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 99
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061873",
-    "regular": true,
-    "name": "ABHISHEK S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061874",
-    "regular": true,
-    "name": "MUHAMMAD IRFAN N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061875",
-    "regular": true,
-    "name": "SIDHARTH NANDAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061876",
-    "regular": true,
-    "name": "WILGIC SALIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061877",
-    "regular": true,
-    "name": "AKHILA A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061878",
-    "regular": true,
-    "name": "ALIYA. N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061879",
-    "regular": true,
-    "name": "ALIYAMOL S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061880",
-    "regular": true,
-    "name": "SHEHNA MOL. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061881",
-    "regular": true,
-    "name": "SREEDEVI M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061882",
-    "regular": true,
-    "name": "ABHINAV SANTHOSH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061883",
-    "regular": true,
-    "name": "ADWAITH T",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061884",
-    "regular": true,
-    "name": "MUHAMMAD N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061885",
-    "regular": true,
-    "name": "MUHAMMED IRFAN. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061886",
-    "regular": true,
-    "name": "FATHIMUTHUL NAZRIYA. K. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061887",
-    "regular": true,
-    "name": "HAJARA A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061888",
-    "regular": true,
-    "name": "MEGHA M B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061889",
-    "regular": true,
-    "name": "NAISHANA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061890",
-    "regular": true,
-    "name": "SREE VINAYAK S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061891",
-    "regular": true,
-    "name": "ARJUN V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061892",
-    "regular": true,
-    "name": "SIVA NANDANAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061893",
-    "regular": true,
-    "name": "NEJITHA NAJEEM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061894",
-    "regular": true,
-    "name": "AFIYAN N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061895",
-    "regular": true,
-    "name": "ARUNRAJ J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061896",
-    "regular": true,
-    "name": "BICHU R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 50
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 79
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061897",
-    "regular": true,
-    "name": "HARIKRISHNAN H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 78
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061898",
-    "regular": true,
-    "name": "SACHU R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 82
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061899",
-    "regular": true,
-    "name": "SAIDALI A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 81
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061900",
-    "regular": true,
-    "name": "SREERAG S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 95
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 85
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23061901",
-    "regular": true,
-    "name": "ALFIYA A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23061902",
-    "regular": true,
-    "name": "FATHIMA N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23500692",
-    "regular": true,
-    "name": "AFVANSHA SIYAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23500693",
-    "regular": true,
-    "name": "MUHAMMAD SHAN.S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23500694",
-    "regular": true,
-    "name": "VISHAK. S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 72
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23500695",
-    "regular": true,
-    "name": "ALBIN SHAJAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23503906",
-    "regular": true,
-    "name": "YESUDAS B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "2301",
+  "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+  "phoneNo": "0474535663",
+  "emailId": "hkmhssumayanalloor@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "MayyanadKollam",
+  "eduDistrict": "Kollam",
+  "assemblyConstituency": "Eravipuram",
+  "courseCode": "1,5,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "KOLLAM",
+  "results": [
+    {
+      "rollNo": "23061873",
+      "regular": true,
+      "name": "ABHISHEK S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 737,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061874",
+      "regular": true,
+      "name": "MUHAMMAD IRFAN N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 760,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061875",
+      "regular": true,
+      "name": "SIDHARTH NANDAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061876",
+      "regular": true,
+      "name": "WILGIC SALIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 886,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061877",
+      "regular": true,
+      "name": "AKHILA A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 881,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061878",
+      "regular": true,
+      "name": "ALIYA. N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 751,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061879",
+      "regular": true,
+      "name": "ALIYAMOL S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 863,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061880",
+      "regular": true,
+      "name": "SHEHNA MOL. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 696,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061881",
+      "regular": true,
+      "name": "SREEDEVI M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 858,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061882",
+      "regular": true,
+      "name": "ABHINAV SANTHOSH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 997,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061883",
+      "regular": true,
+      "name": "ADWAITH T",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 836,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061884",
+      "regular": true,
+      "name": "MUHAMMAD N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 1121,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061885",
+      "regular": true,
+      "name": "MUHAMMED IRFAN. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 969,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061886",
+      "regular": true,
+      "name": "FATHIMUTHUL NAZRIYA. K. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 1033,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061887",
+      "regular": true,
+      "name": "HAJARA A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 938,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061888",
+      "regular": true,
+      "name": "MEGHA M B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 980,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061889",
+      "regular": true,
+      "name": "NAISHANA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 868,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061890",
+      "regular": true,
+      "name": "SREE VINAYAK S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 975,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061891",
+      "regular": true,
+      "name": "ARJUN V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 779,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061892",
+      "regular": true,
+      "name": "SIVA NANDANAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061893",
+      "regular": true,
+      "name": "NEJITHA NAJEEM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061894",
+      "regular": true,
+      "name": "AFIYAN N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 707,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061895",
+      "regular": true,
+      "name": "ARUNRAJ J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 634,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061896",
+      "regular": true,
+      "name": "BICHU R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 50
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 79
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 518,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061897",
+      "regular": true,
+      "name": "HARIKRISHNAN H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 78
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 461,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061898",
+      "regular": true,
+      "name": "SACHU R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 82
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 461,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061899",
+      "regular": true,
+      "name": "SAIDALI A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 81
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 499,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061900",
+      "regular": true,
+      "name": "SREERAG S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 95
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 85
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 458,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061901",
+      "regular": true,
+      "name": "ALFIYA A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 741,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23061902",
+      "regular": true,
+      "name": "FATHIMA N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 719,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23500692",
+      "regular": true,
+      "name": "AFVANSHA SIYAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 109
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 87
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 196,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23500693",
+      "regular": true,
+      "name": "MUHAMMAD SHAN.S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 0,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23500694",
+      "regular": true,
+      "name": "VISHAK. S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 72
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 125,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23500695",
+      "regular": true,
+      "name": "ALBIN SHAJAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 363,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23503906",
+      "regular": true,
+      "name": "YESUDAS B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 154,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22062084",
+      "regular": false,
+      "name": "AL AMEEN N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 157,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22527987",
+      "regular": false,
+      "name": "AFZAL ALI. N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 99
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "H.K.M HSS, KALLUKUZHI, UMAYANALLOOR, KOLLAM",
+      "schoolCode": "2301",
+      "totalMarks": 184,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 65.71,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "MUHAMMAD N",
+      "rollNo": "23061884",
+      "group": "SCIENCE",
+      "totalMarks": 1121,
+      "rank": 1
+    },
+    {
+      "name": "FATHIMUTHUL NAZRIYA. K. S",
+      "rollNo": "23061886",
+      "group": "SCIENCE",
+      "totalMarks": 1033,
+      "rank": 2
+    },
+    {
+      "name": "ABHINAV SANTHOSH",
+      "rollNo": "23061882",
+      "group": "SCIENCE",
+      "totalMarks": 997,
+      "rank": 3
+    },
+    {
+      "name": "MEGHA M B",
+      "rollNo": "23061888",
+      "group": "SCIENCE",
+      "totalMarks": 980,
+      "rank": 4
+    },
+    {
+      "name": "SREE VINAYAK S",
+      "rollNo": "23061890",
+      "group": "SCIENCE",
+      "totalMarks": 975,
+      "rank": 5
+    },
+    {
+      "name": "MUHAMMED IRFAN. S",
+      "rollNo": "23061885",
+      "group": "SCIENCE",
+      "totalMarks": 969,
+      "rank": 6
+    },
+    {
+      "name": "HAJARA A",
+      "rollNo": "23061887",
+      "group": "SCIENCE",
+      "totalMarks": 938,
+      "rank": 7
+    },
+    {
+      "name": "WILGIC SALIN",
+      "rollNo": "23061876",
+      "group": "SCIENCE",
+      "totalMarks": 886,
+      "rank": 8
+    },
+    {
+      "name": "AKHILA A",
+      "rollNo": "23061877",
+      "group": "SCIENCE",
+      "totalMarks": 881,
+      "rank": 9
+    },
+    {
+      "name": "NAISHANA S",
+      "rollNo": "23061889",
+      "group": "SCIENCE",
+      "totalMarks": 868,
+      "rank": 10
+    },
+    {
+      "name": "ALIYAMOL S",
+      "rollNo": "23061879",
+      "group": "SCIENCE",
+      "totalMarks": 863,
+      "rank": 11
+    },
+    {
+      "name": "SREEDEVI M",
+      "rollNo": "23061881",
+      "group": "SCIENCE",
+      "totalMarks": 858,
+      "rank": 12
+    },
+    {
+      "name": "SIVA NANDANAN",
+      "rollNo": "23061892",
+      "group": "SCIENCE",
+      "totalMarks": 842,
+      "rank": 13
+    },
+    {
+      "name": "ADWAITH T",
+      "rollNo": "23061883",
+      "group": "SCIENCE",
+      "totalMarks": 836,
+      "rank": 14
+    },
+    {
+      "name": "ARJUN V",
+      "rollNo": "23061891",
+      "group": "SCIENCE",
+      "totalMarks": 779,
+      "rank": 15
+    },
+    {
+      "name": "MUHAMMAD IRFAN N",
+      "rollNo": "23061874",
+      "group": "SCIENCE",
+      "totalMarks": 760,
+      "rank": 16
+    },
+    {
+      "name": "ALIYA. N",
+      "rollNo": "23061878",
+      "group": "SCIENCE",
+      "totalMarks": 751,
+      "rank": 17
+    },
+    {
+      "name": "ALFIYA A",
+      "rollNo": "23061901",
+      "group": "COMMERCE",
+      "totalMarks": 741,
+      "rank": 18
+    },
+    {
+      "name": "ABHISHEK S",
+      "rollNo": "23061873",
+      "group": "SCIENCE",
+      "totalMarks": 737,
+      "rank": 19
+    },
+    {
+      "name": "FATHIMA N",
+      "rollNo": "23061902",
+      "group": "COMMERCE",
+      "totalMarks": 719,
+      "rank": 20
+    },
+    {
+      "name": "AFIYAN N",
+      "rollNo": "23061894",
+      "group": "COMMERCE",
+      "totalMarks": 707,
+      "rank": 21
+    },
+    {
+      "name": "SIDHARTH NANDAN",
+      "rollNo": "23061875",
+      "group": "SCIENCE",
+      "totalMarks": 697,
+      "rank": 22
+    },
+    {
+      "name": "NEJITHA NAJEEM",
+      "rollNo": "23061893",
+      "group": "SCIENCE",
+      "totalMarks": 697,
+      "rank": 22
+    },
+    {
+      "name": "SHEHNA MOL. S",
+      "rollNo": "23061880",
+      "group": "SCIENCE",
+      "totalMarks": 696,
+      "rank": 24
+    },
+    {
+      "name": "ARUNRAJ J",
+      "rollNo": "23061895",
+      "group": "COMMERCE",
+      "totalMarks": 634,
+      "rank": 25
+    },
+    {
+      "name": "BICHU R",
+      "rollNo": "23061896",
+      "group": "COMMERCE",
+      "totalMarks": 518,
+      "rank": 26
+    },
+    {
+      "name": "SAIDALI A",
+      "rollNo": "23061899",
+      "group": "COMMERCE",
+      "totalMarks": 499,
+      "rank": 27
+    },
+    {
+      "name": "SACHU R",
+      "rollNo": "23061898",
+      "group": "COMMERCE",
+      "totalMarks": 461,
+      "rank": 28
+    },
+    {
+      "name": "HARIKRISHNAN H",
+      "rollNo": "23061897",
+      "group": "COMMERCE",
+      "totalMarks": 461,
+      "rank": 28
+    },
+    {
+      "name": "SREERAG S",
+      "rollNo": "23061900",
+      "group": "COMMERCE",
+      "totalMarks": 458,
+      "rank": 30
+    },
+    {
+      "name": "ALBIN SHAJAN",
+      "rollNo": "23500695",
+      "group": "COMMERCE",
+      "totalMarks": 363,
+      "rank": 31
+    },
+    {
+      "name": "AFVANSHA SIYAS",
+      "rollNo": "23500692",
+      "group": "SCIENCE",
+      "totalMarks": 196,
+      "rank": 32
+    },
+    {
+      "name": "YESUDAS B",
+      "rollNo": "23503906",
+      "group": "SCIENCE",
+      "totalMarks": 154,
+      "rank": 33
+    },
+    {
+      "name": "VISHAK. S",
+      "rollNo": "23500694",
+      "group": "COMMERCE",
+      "totalMarks": 125,
+      "rank": 34
+    },
+    {
+      "name": "MUHAMMAD SHAN.S",
+      "rollNo": "23500693",
+      "group": "COMMERCE",
+      "totalMarks": 0,
+      "rank": 35
+    }
+  ]
+}

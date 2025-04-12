@@ -1,853 +1,1173 @@
-[
-  {
-    "rollNo": "23156986",
-    "regular": true,
-    "name": "ASHKAR S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject6": {
-      "name": "MATHEMATICS-COM",
-      "grade": "D",
-      "marks": 90
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156987",
-    "regular": true,
-    "name": "NAIMA NEHAREEN NIZAR",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "MATHEMATICS-COM",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23156988",
-    "regular": true,
-    "name": "FARSANA K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject6": {
-      "name": "MATHEMATICS-COM",
-      "grade": "D",
-      "marks": 79
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156989",
-    "regular": true,
-    "name": "SADIYA P K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject6": {
-      "name": "MATHEMATICS-COM",
-      "grade": "C+",
-      "marks": 118
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23156990",
-    "regular": true,
-    "name": "AADHIL FARHAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 99
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156991",
-    "regular": true,
-    "name": "ABDUL SABITH N N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 105
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156992",
-    "regular": true,
-    "name": "AJAS NAVAS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 87
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156993",
-    "regular": true,
-    "name": "DANIEL XAVIER",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23156994",
-    "regular": true,
-    "name": "IRSHAD SHAKEER",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156995",
-    "regular": true,
-    "name": "MOHAMMED SINAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156996",
-    "regular": true,
-    "name": "MUHAMMED ALTHAF. O.S.",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156997",
-    "regular": true,
-    "name": "MUHAMMED FAZIL FIROZE",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23156998",
-    "regular": true,
-    "name": "SANJU E SANNAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 90
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23156999",
-    "regular": true,
-    "name": "SIDHARTH T.S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 136
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23157000",
-    "regular": true,
-    "name": "THEJUS MANOJ",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23157001",
-    "regular": true,
-    "name": "TINO VARGHESE",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 110
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23157002",
-    "regular": true,
-    "name": "AMEENA K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23157003",
-    "regular": true,
-    "name": "SHABNA S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23157004",
-    "regular": true,
-    "name": "SURAYYA FAMIN.T.S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23157005",
-    "regular": true,
-    "name": "MOHAMMAD ANZIL C S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23157006",
-    "regular": true,
-    "name": "ZAHID KHAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23501361",
-    "regular": true,
-    "name": "MUHAMMED ANSIF",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 72
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23501362",
-    "regular": true,
-    "name": "ARUN JOSEPH K J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "7173",
+  "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+  "phoneNo": "04842334083",
+  "emailId": "mpmemhss@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "KOCHI(C)Kanayannoor",
+  "eduDistrict": "Ernakulam",
+  "assemblyConstituency": "Thrikkakara",
+  "courseCode": "36,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,3",
+  "district": "ERNAKULAM",
+  "results": [
+    {
+      "rollNo": "23156986",
+      "regular": true,
+      "name": "ASHKAR S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "MATHEMATICS-COM",
+          "grade": "D",
+          "marks": 90
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 537,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156987",
+      "regular": true,
+      "name": "NAIMA NEHAREEN NIZAR",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "MATHEMATICS-COM",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 898,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156988",
+      "regular": true,
+      "name": "FARSANA K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "MATHEMATICS-COM",
+          "grade": "D",
+          "marks": 79
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 529,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156989",
+      "regular": true,
+      "name": "SADIYA P K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MATHEMATICS-COM",
+          "grade": "C+",
+          "marks": 118
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 799,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156990",
+      "regular": true,
+      "name": "AADHIL FARHAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 99
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 570,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156991",
+      "regular": true,
+      "name": "ABDUL SABITH N N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 109
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 105
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 595,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156992",
+      "regular": true,
+      "name": "AJAS NAVAS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 539,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156993",
+      "regular": true,
+      "name": "DANIEL XAVIER",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 708,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156994",
+      "regular": true,
+      "name": "IRSHAD SHAKEER",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 96
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 579,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156995",
+      "regular": true,
+      "name": "MOHAMMED SINAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 96
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 608,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156996",
+      "regular": true,
+      "name": "MUHAMMED ALTHAF. O.S.",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 663,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156997",
+      "regular": true,
+      "name": "MUHAMMED FAZIL FIROZE",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 841,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156998",
+      "regular": true,
+      "name": "SANJU E SANNAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 90
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 556,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23156999",
+      "regular": true,
+      "name": "SIDHARTH T.S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 136
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 723,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23157000",
+      "regular": true,
+      "name": "THEJUS MANOJ",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 718,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23157001",
+      "regular": true,
+      "name": "TINO VARGHESE",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 110
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 694,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23157002",
+      "regular": true,
+      "name": "AMEENA K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 1103,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23157003",
+      "regular": true,
+      "name": "SHABNA S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 824,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23157004",
+      "regular": true,
+      "name": "SURAYYA FAMIN.T.S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 1033,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23157005",
+      "regular": true,
+      "name": "MOHAMMAD ANZIL C S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 648,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23157006",
+      "regular": true,
+      "name": "ZAHID KHAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 768,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23501361",
+      "regular": true,
+      "name": "MUHAMMED ANSIF",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 72
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 153,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23501362",
+      "regular": true,
+      "name": "ARUN JOSEPH K J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "M.P.M.E.M.HSS,THAMMANAM,ERNAKULAM, 682032",
+      "schoolCode": "7173",
+      "totalMarks": 62,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 43.48,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "AMEENA K S",
+      "rollNo": "23157002",
+      "group": "COMMERCE",
+      "totalMarks": 1103,
+      "rank": 1
+    },
+    {
+      "name": "SURAYYA FAMIN.T.S",
+      "rollNo": "23157004",
+      "group": "COMMERCE",
+      "totalMarks": 1033,
+      "rank": 2
+    },
+    {
+      "name": "NAIMA NEHAREEN NIZAR",
+      "rollNo": "23156987",
+      "group": "COMMERCE",
+      "totalMarks": 898,
+      "rank": 3
+    },
+    {
+      "name": "MUHAMMED FAZIL FIROZE",
+      "rollNo": "23156997",
+      "group": "COMMERCE",
+      "totalMarks": 841,
+      "rank": 4
+    },
+    {
+      "name": "SHABNA S",
+      "rollNo": "23157003",
+      "group": "COMMERCE",
+      "totalMarks": 824,
+      "rank": 5
+    },
+    {
+      "name": "SADIYA P K",
+      "rollNo": "23156989",
+      "group": "COMMERCE",
+      "totalMarks": 799,
+      "rank": 6
+    },
+    {
+      "name": "ZAHID KHAN",
+      "rollNo": "23157006",
+      "group": "COMMERCE",
+      "totalMarks": 768,
+      "rank": 7
+    },
+    {
+      "name": "SIDHARTH T.S",
+      "rollNo": "23156999",
+      "group": "COMMERCE",
+      "totalMarks": 723,
+      "rank": 8
+    },
+    {
+      "name": "THEJUS MANOJ",
+      "rollNo": "23157000",
+      "group": "COMMERCE",
+      "totalMarks": 718,
+      "rank": 9
+    },
+    {
+      "name": "DANIEL XAVIER",
+      "rollNo": "23156993",
+      "group": "COMMERCE",
+      "totalMarks": 708,
+      "rank": 10
+    },
+    {
+      "name": "TINO VARGHESE",
+      "rollNo": "23157001",
+      "group": "COMMERCE",
+      "totalMarks": 694,
+      "rank": 11
+    },
+    {
+      "name": "MUHAMMED ALTHAF. O.S.",
+      "rollNo": "23156996",
+      "group": "COMMERCE",
+      "totalMarks": 663,
+      "rank": 12
+    },
+    {
+      "name": "MOHAMMAD ANZIL C S",
+      "rollNo": "23157005",
+      "group": "COMMERCE",
+      "totalMarks": 648,
+      "rank": 13
+    },
+    {
+      "name": "MOHAMMED SINAN",
+      "rollNo": "23156995",
+      "group": "COMMERCE",
+      "totalMarks": 608,
+      "rank": 14
+    },
+    {
+      "name": "ABDUL SABITH N N",
+      "rollNo": "23156991",
+      "group": "COMMERCE",
+      "totalMarks": 595,
+      "rank": 15
+    },
+    {
+      "name": "IRSHAD SHAKEER",
+      "rollNo": "23156994",
+      "group": "COMMERCE",
+      "totalMarks": 579,
+      "rank": 16
+    },
+    {
+      "name": "AADHIL FARHAN",
+      "rollNo": "23156990",
+      "group": "COMMERCE",
+      "totalMarks": 570,
+      "rank": 17
+    },
+    {
+      "name": "SANJU E SANNAN",
+      "rollNo": "23156998",
+      "group": "COMMERCE",
+      "totalMarks": 556,
+      "rank": 18
+    },
+    {
+      "name": "AJAS NAVAS",
+      "rollNo": "23156992",
+      "group": "COMMERCE",
+      "totalMarks": 539,
+      "rank": 19
+    },
+    {
+      "name": "ASHKAR S",
+      "rollNo": "23156986",
+      "group": "COMMERCE",
+      "totalMarks": 537,
+      "rank": 20
+    },
+    {
+      "name": "FARSANA K S",
+      "rollNo": "23156988",
+      "group": "COMMERCE",
+      "totalMarks": 529,
+      "rank": 21
+    },
+    {
+      "name": "MUHAMMED ANSIF",
+      "rollNo": "23501361",
+      "group": "COMMERCE",
+      "totalMarks": 153,
+      "rank": 22
+    },
+    {
+      "name": "ARUN JOSEPH K J",
+      "rollNo": "23501362",
+      "group": "COMMERCE",
+      "totalMarks": 62,
+      "rank": 23
+    }
+  ]
+}

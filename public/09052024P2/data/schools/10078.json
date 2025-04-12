@@ -1,39 +1,73 @@
-[
-  {
-    "rollNo": "23502276",
-    "regular": true,
-    "name": "RABITH .P.K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 46
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "10078",
+  "schoolName": "MUM HSS, VADAKARA, 673103",
+  "phoneNo": "4962524290",
+  "emailId": "mumhss@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Vatakara(M)Vadakara",
+  "eduDistrict": "Vadakara",
+  "assemblyConstituency": "Vadakara",
+  "courseCode": "1",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "KOZHIKKODE",
+  "results": [
+    {
+      "rollNo": "23502276",
+      "regular": true,
+      "name": "RABITH .P.K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 46
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MUM HSS, VADAKARA, 673103",
+      "schoolCode": "10078",
+      "totalMarks": 191,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 0,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "RABITH .P.K",
+      "rollNo": "23502276",
+      "group": "SCIENCE",
+      "totalMarks": 191,
+      "rank": 1
+    }
+  ]
+}

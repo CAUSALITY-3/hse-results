@@ -177,39 +177,40 @@
             </table>
         </div>
         <script>
-            const schoolData = {
-                name: "XYZ Public School",
-                schoolCode: 1234
-            };
+            (function () {
+                const schoolData = {
+                    name: "XYZ Public School",
+                    schoolCode: 1234
+                };
 
-            function adjustZoom() {
-                let pageWidth = 1400;
-                let screenWidth = window.innerWidth;
+                function adjustZoom() {
+                    let pageWidth = 1400;
+                    let screenWidth = window.innerWidth;
 
-                console.log(pageWidth, screenWidth, window)
-                if (screenWidth < pageWidth) {
-                    let scaleFactor = screenWidth / pageWidth;
-                    document.body.style.zoom = scaleFactor;
-                    console.log(scaleFactor)
-                    // document.body.style.transformOrigin = 'top left';
-                } else {
-                    document.body.style.zoom = 1;
+                    console.log(pageWidth, screenWidth, window)
+                    if (screenWidth < pageWidth) {
+                        let scaleFactor = screenWidth / pageWidth;
+                        document.body.style.zoom = scaleFactor;
+                        console.log(scaleFactor)
+                        // document.body.style.transformOrigin = 'top left';
+                    } else {
+                        document.body.style.zoom = 1;
+                    }
                 }
-            }
 
-            window.onload = adjustZoom;
-            window.onresize = adjustZoom;
-            adjustZoom()
+                window.onload = adjustZoom;
+                window.onresize = adjustZoom;
+                adjustZoom()
 
-            const schoolResult = JSON.parse('{{ .SchoolResult }}');
+                const schoolResult = JSON.parse('{{ .SchoolResult }}');
 
-            document.getElementById("schoolName").innerText = schoolData.name;
-            document.getElementById("schoolCode").innerText = schoolData.schoolCode;
+                document.getElementById("schoolName").innerText = schoolData.name;
+                document.getElementById("schoolCode").innerText = schoolData.schoolCode;
 
-            const tableBody = document.getElementById("resultTableBody");
-            schoolResult.forEach(student => {
-                const row = document.createElement("tr");
-                row.innerHTML = `
+                const tableBody = document.getElementById("resultTableBody");
+                schoolResult.forEach(student => {
+                    const row = document.createElement("tr");
+                    row.innerHTML = `
                     <td>${student.rollNo}</td>
                     <td>${student.name}</td>
                     <td>${student.group}</td>
@@ -221,8 +222,9 @@
                     <td>${student.subject6.name ? `${student.subject6.name}: <span class='marks'>${!student.subject6.marks ? "" : student.subject6.marks}</span> (<span class='grade'>${student.subject6.grade}</span>)` : ''}</td>
                     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
                 `;
-                tableBody.appendChild(row);
-            });
+                    tableBody.appendChild(row);
+                });
+            })();
         </script>
     </div>
 

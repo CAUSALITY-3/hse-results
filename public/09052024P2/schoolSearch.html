@@ -72,7 +72,7 @@
                 filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%);
             }
 
-            #school-search-go {
+            /* #school-search-go {
                 position: absolute;
                 right: 10px;
                 top: 50%;
@@ -81,13 +81,13 @@
                 height: 25px;
                 padding: 5px;
                 border-radius: 3px;
-                display: none;
-                /* filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%); */
-            }
+                display: none; */
+            /* filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%); */
+            /* } */
 
-            #school-search-go:hover {
+            /* #school-search-go:hover {
                 background-color: #4e4e4e;
-            }
+            } */
 
             #school-search-response {
                 margin: 7px 0 0 0;
@@ -198,7 +198,8 @@
         <div id="individual-school-route-container">
             <div id="individual-route-title">School Search</div>
             <div id="school-search-route" hx-get="/static/09052024P2/search.html" hx-swap="outerHTML"
-                hx-target="#school-search-page" hx-select="#search-page">Student Wise 🡺</div>
+                hx-target="#school-search-page" hx-select="#search-page" hx-push-url="?searchType=student">Student Wise
+                🡺</div>
         </div>
         <div class="school-search-input-container">
             <form id="school-search-myForm">
@@ -207,11 +208,11 @@
                     <input type="text" id="schoolNameOrCode" name="schoolNameOrCode"
                         placeholder="Enter your school name or code ...">
                     <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
-                    <img id="school-search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]"
+                    <!-- <img id="school-search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]"
                         hx-swap="outerHTML" hx-select="#index-page" hx-target="#school-search-page"
                         hx-vals='js:{ schoolNameOrCode: document.getElementById("schoolNameOrCode").value }'
                         src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c0c0c0' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 12h12M12 6l6 6-6 6'/></svg>"
-                        alt="Right Arrow">
+                        alt="Right Arrow"> -->
 
 
                 </div>
@@ -325,7 +326,13 @@
                     spinner.style.display = 'inline';
                     const lsValue = localStorage.getItem("09052024P2_schoolCodeNameMapping")
                     const parsedValue = JSON.parse(lsValue);
-                    schools = parsedValue[code] ? [parsedValue[code]] : [];
+                    console.log("eeeeeeeeeeeeeeeeeeeeeeeeeeee", parsedValue)
+                    schools = parsedValue[code] ? [{ code, name: parsedValue[code] }] : [];
+                    if (schools.length) {
+                        await loadResults(schools)
+                        spinner.style.display = 'none';
+                        return
+                    }
                     try {
                         const apiRes = await fetch("/static/09052024P2/schoolCodeName.json");
                         const parsedData = await apiRes.json();
@@ -382,16 +389,17 @@
                     const inputValue = schoolInputField.value.trim();
                     if (inputValue?.length >= 3) {
                         if (!isNaN(inputValue)) {
-                            let startSearchBtn = document.getElementById('school-search-go');
+                            // let startSearchBtn = document.getElementById('school-search-go');
                             console.log('Roll No:', Number(inputValue), inputValue.length);
                             if (inputValue.length === 4 || inputValue.length === 5) {
                                 let code = +inputValue;
+                                console.log('Code:', code);
                                 if (inputValue.length === 5 && inputValue[0] == 0) {
                                     code = +inputValue.slice(1, 5)
                                 }
                                 await getSearchByCode(code)
                             } else {
-                                startSearchBtn.style.display = 'none';
+                                // startSearchBtn.style.display = 'none';
                             }
 
                         } else {

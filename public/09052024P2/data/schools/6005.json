@@ -1,3850 +1,5178 @@
-[
-  {
-    "rollNo": "22119162",
-    "regular": false,
-    "name": "SILPA SASI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 95
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 89
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22119191",
-    "regular": false,
-    "name": "ABITHA. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 95
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22119200",
-    "regular": false,
-    "name": "ANU SAHI R.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 79
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22119209",
-    "regular": false,
-    "name": "HARI RANJANI V.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 72
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22119225",
-    "regular": false,
-    "name": "SELVARANI E",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 106
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22506679",
-    "regular": false,
-    "name": "GINUMOL BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22506682",
-    "regular": false,
-    "name": "IMMANUEL A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 91
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22506684",
-    "regular": false,
-    "name": "VISWANATH R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 87
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117185",
-    "regular": true,
-    "name": "ADHITHYAN K SAJEEV",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117187",
-    "regular": true,
-    "name": "AKHIL SAJEEV",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117188",
-    "regular": true,
-    "name": "AMALJITH M S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117189",
-    "regular": true,
-    "name": "AMBADY O P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117190",
-    "regular": true,
-    "name": "ANANDHU V M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117191",
-    "regular": true,
-    "name": "ASHIF ANSARY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117192",
-    "regular": true,
-    "name": "ASHIN JAISON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117193",
-    "regular": true,
-    "name": "BIBIN K B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117194",
-    "regular": true,
-    "name": "DAVID JOHN GRACE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117195",
-    "regular": true,
-    "name": "EDWIN ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117196",
-    "regular": true,
-    "name": "FELIX V A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117197",
-    "regular": true,
-    "name": "K N RAHUL KRISHNA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117198",
-    "regular": true,
-    "name": "KIRAN STALIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117199",
-    "regular": true,
-    "name": "M R SARATH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117200",
-    "regular": true,
-    "name": "MUHAMMED ANWAR S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117201",
-    "regular": true,
-    "name": "PEER RAHUMATHULLAH.S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 91
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117202",
-    "regular": true,
-    "name": "RAIHAN EBRAHIM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117203",
-    "regular": true,
-    "name": "SALAHUDHEEN AYUBI C S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117204",
-    "regular": true,
-    "name": "SHARON JOSEPH K A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117205",
-    "regular": true,
-    "name": "SUJITH K KANNAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117206",
-    "regular": true,
-    "name": "TESVIN BABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117207",
-    "regular": true,
-    "name": "ABIYA MONIKA SHIBY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117208",
-    "regular": true,
-    "name": "AISWARYA ANILKUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 107
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 95
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117209",
-    "regular": true,
-    "name": "AKHILA K.S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117210",
-    "regular": true,
-    "name": "ALANTA THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117211",
-    "regular": true,
-    "name": "ALEENA JOSEPH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117212",
-    "regular": true,
-    "name": "ALPHY BINU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117213",
-    "regular": true,
-    "name": "ANGEL TOMY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 179
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117214",
-    "regular": true,
-    "name": "ANNA BEN BYJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117215",
-    "regular": true,
-    "name": "ANNA MARIYA K K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 171
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117216",
-    "regular": true,
-    "name": "APARNA ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117217",
-    "regular": true,
-    "name": "APARNA VINO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117218",
-    "regular": true,
-    "name": "APARNNA K B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117220",
-    "regular": true,
-    "name": "DEVAPRIYA BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 136
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117221",
-    "regular": true,
-    "name": "FATHIMA C A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117223",
-    "regular": true,
-    "name": "GEORGIYA GEORGE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 110
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117224",
-    "regular": true,
-    "name": "GOLDA DAWN SOJAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117225",
-    "regular": true,
-    "name": "GOURIPRIYA SHAIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117226",
-    "regular": true,
-    "name": "GRENAMERLIN M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117227",
-    "regular": true,
-    "name": "JENITTA ROY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117228",
-    "regular": true,
-    "name": "JESTEENA K M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117229",
-    "regular": true,
-    "name": "MINSHA MAIDEEN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117230",
-    "regular": true,
-    "name": "ROSEMOL E S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117231",
-    "regular": true,
-    "name": "RUKHSANA RASHEED",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117232",
-    "regular": true,
-    "name": "SNEHAMOL SAJEEV",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117233",
-    "regular": true,
-    "name": "SRUTHI G",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117234",
-    "regular": true,
-    "name": "TANIYA ELSA BABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117235",
-    "regular": true,
-    "name": "ADHITHYAN BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 165
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117236",
-    "regular": true,
-    "name": "ADWAITH RAJESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 133
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117237",
-    "regular": true,
-    "name": "ADWAITH SAGAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117238",
-    "regular": true,
-    "name": "ALIN GHOSH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117239",
-    "regular": true,
-    "name": "ANANDHU MADHU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117240",
-    "regular": true,
-    "name": "ANJO BAIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117241",
-    "regular": true,
-    "name": "BENNET CHACKO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117242",
-    "regular": true,
-    "name": "BIJO JIJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117243",
-    "regular": true,
-    "name": "GABRIEL S. PHILIP",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117244",
-    "regular": true,
-    "name": "HARIKRISHNA.E",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117245",
-    "regular": true,
-    "name": "JEEVANRAJ K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117246",
-    "regular": true,
-    "name": "JISHNU VENUGOPAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117247",
-    "regular": true,
-    "name": "K.JOHNS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117248",
-    "regular": true,
-    "name": "LAEL BABY BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117249",
-    "regular": true,
-    "name": "MATHAVAN.M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117250",
-    "regular": true,
-    "name": "MUHAMMED YASIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117251",
-    "regular": true,
-    "name": "PRASANNAN.K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117252",
-    "regular": true,
-    "name": "PRIYAN R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117253",
-    "regular": true,
-    "name": "ROBINSON R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117254",
-    "regular": true,
-    "name": "ABIYA MARIYA JAYAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117255",
-    "regular": true,
-    "name": "ADITHYA BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117256",
-    "regular": true,
-    "name": "AMALENDHU M NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117257",
-    "regular": true,
-    "name": "ANJANA T S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 169
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117258",
-    "regular": true,
-    "name": "ANN MARIYA BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117259",
-    "regular": true,
-    "name": "ANNA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117260",
-    "regular": true,
-    "name": "ARCHANA R.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 88
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117261",
-    "regular": true,
-    "name": "ASHNA K S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117262",
-    "regular": true,
-    "name": "ASNA ALIYAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117263",
-    "regular": true,
-    "name": "DHIYA R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117264",
-    "regular": true,
-    "name": "FIDHA YOUNUS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 177
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117265",
-    "regular": true,
-    "name": "GAYATHRI R.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117266",
-    "regular": true,
-    "name": "GOPIKA K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117267",
-    "regular": true,
-    "name": "GOURI MANOJ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117268",
-    "regular": true,
-    "name": "GUNASHREE S.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117269",
-    "regular": true,
-    "name": "HANNA FATHIMA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 152
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117270",
-    "regular": true,
-    "name": "JACKQULIN STEPHY .F",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117271",
-    "regular": true,
-    "name": "JAYASREE M.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 155
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117272",
-    "regular": true,
-    "name": "JENARASI . C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117273",
-    "regular": true,
-    "name": "KALAIVANI M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117274",
-    "regular": true,
-    "name": "KOWSALYA DEVI V.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117275",
-    "regular": true,
-    "name": "MAHESWARI. M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117276",
-    "regular": true,
-    "name": "MARISELVI M.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117277",
-    "regular": true,
-    "name": "MARIYA ANTONY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117278",
-    "regular": true,
-    "name": "NARMATHA. K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 99
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 94
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117279",
-    "regular": true,
-    "name": "POOJA PUSHPARAJ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 94
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23117281",
-    "regular": true,
-    "name": "RETHNALETCHMI S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 165
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117282",
-    "regular": true,
-    "name": "SARANI S.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 169
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117283",
-    "regular": true,
-    "name": "SARANYA R.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23117284",
-    "regular": true,
-    "name": "SREE UDHRA M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "6005",
+  "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+  "phoneNo": "04865266473",
+  "emailId": "ghssktny@gmail.com",
+  "schoolType": "Government",
+  "localBody": "PallivasalDevikulam",
+  "eduDistrict": "Thodupuzha",
+  "assemblyConstituency": "Devikulam",
+  "courseCode": "1",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "IDUKKY",
+  "results": [
+    {
+      "rollNo": "23117185",
+      "regular": true,
+      "name": "ADHITHYAN K SAJEEV",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 641,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117187",
+      "regular": true,
+      "name": "AKHIL SAJEEV",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1076,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117188",
+      "regular": true,
+      "name": "AMALJITH M S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 890,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117189",
+      "regular": true,
+      "name": "AMBADY O P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 908,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117190",
+      "regular": true,
+      "name": "ANANDHU V M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 995,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117191",
+      "regular": true,
+      "name": "ASHIF ANSARY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 728,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117192",
+      "regular": true,
+      "name": "ASHIN JAISON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 855,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117193",
+      "regular": true,
+      "name": "BIBIN K B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 832,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117194",
+      "regular": true,
+      "name": "DAVID JOHN GRACE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 704,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117195",
+      "regular": true,
+      "name": "EDWIN ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 941,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117196",
+      "regular": true,
+      "name": "FELIX V A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 932,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117197",
+      "regular": true,
+      "name": "K N RAHUL KRISHNA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 914,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117198",
+      "regular": true,
+      "name": "KIRAN STALIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 941,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117199",
+      "regular": true,
+      "name": "M R SARATH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1077,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117200",
+      "regular": true,
+      "name": "MUHAMMED ANWAR S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 991,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117201",
+      "regular": true,
+      "name": "PEER RAHUMATHULLAH.S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 106
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 91
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 668,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117202",
+      "regular": true,
+      "name": "RAIHAN EBRAHIM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1136,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117203",
+      "regular": true,
+      "name": "SALAHUDHEEN AYUBI C S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 946,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117204",
+      "regular": true,
+      "name": "SHARON JOSEPH K A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 961,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117205",
+      "regular": true,
+      "name": "SUJITH K KANNAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 764,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117206",
+      "regular": true,
+      "name": "TESVIN BABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 955,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117207",
+      "regular": true,
+      "name": "ABIYA MONIKA SHIBY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1002,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117208",
+      "regular": true,
+      "name": "AISWARYA ANILKUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 107
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 95
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 727,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117209",
+      "regular": true,
+      "name": "AKHILA K.S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 838,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117210",
+      "regular": true,
+      "name": "ALANTA THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 960,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117211",
+      "regular": true,
+      "name": "ALEENA JOSEPH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 796,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117212",
+      "regular": true,
+      "name": "ALPHY BINU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1114,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117213",
+      "regular": true,
+      "name": "ANGEL TOMY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 179
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1134,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117214",
+      "regular": true,
+      "name": "ANNA BEN BYJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1057,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117215",
+      "regular": true,
+      "name": "ANNA MARIYA K K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 171
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1097,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117216",
+      "regular": true,
+      "name": "APARNA ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1112,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117217",
+      "regular": true,
+      "name": "APARNA VINO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1000,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117218",
+      "regular": true,
+      "name": "APARNNA K B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1082,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117220",
+      "regular": true,
+      "name": "DEVAPRIYA BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 136
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 977,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117221",
+      "regular": true,
+      "name": "FATHIMA C A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1054,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117223",
+      "regular": true,
+      "name": "GEORGIYA GEORGE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 110
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 817,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117224",
+      "regular": true,
+      "name": "GOLDA DAWN SOJAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1025,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117225",
+      "regular": true,
+      "name": "GOURIPRIYA SHAIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 898,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117226",
+      "regular": true,
+      "name": "GRENAMERLIN M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 984,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117227",
+      "regular": true,
+      "name": "JENITTA ROY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1063,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117228",
+      "regular": true,
+      "name": "JESTEENA K M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 884,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117229",
+      "regular": true,
+      "name": "MINSHA MAIDEEN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 884,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117230",
+      "regular": true,
+      "name": "ROSEMOL E S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 908,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117231",
+      "regular": true,
+      "name": "RUKHSANA RASHEED",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1145,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117232",
+      "regular": true,
+      "name": "SNEHAMOL SAJEEV",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 966,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117233",
+      "regular": true,
+      "name": "SRUTHI G",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 995,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117234",
+      "regular": true,
+      "name": "TANIYA ELSA BABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1110,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117235",
+      "regular": true,
+      "name": "ADHITHYAN BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 165
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1054,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117236",
+      "regular": true,
+      "name": "ADWAITH RAJESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 133
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 957,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117237",
+      "regular": true,
+      "name": "ADWAITH SAGAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 918,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117238",
+      "regular": true,
+      "name": "ALIN GHOSH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117239",
+      "regular": true,
+      "name": "ANANDHU MADHU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 916,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117240",
+      "regular": true,
+      "name": "ANJO BAIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 822,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117241",
+      "regular": true,
+      "name": "BENNET CHACKO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1140,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117242",
+      "regular": true,
+      "name": "BIJO JIJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 955,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117243",
+      "regular": true,
+      "name": "GABRIEL S. PHILIP",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 983,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117244",
+      "regular": true,
+      "name": "HARIKRISHNA.E",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1162,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117245",
+      "regular": true,
+      "name": "JEEVANRAJ K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 845,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117246",
+      "regular": true,
+      "name": "JISHNU VENUGOPAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 102
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 772,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117247",
+      "regular": true,
+      "name": "K.JOHNS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 868,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117248",
+      "regular": true,
+      "name": "LAEL BABY BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1029,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117249",
+      "regular": true,
+      "name": "MATHAVAN.M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 988,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117250",
+      "regular": true,
+      "name": "MUHAMMED YASIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 805,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117251",
+      "regular": true,
+      "name": "PRASANNAN.K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 856,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117252",
+      "regular": true,
+      "name": "PRIYAN R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 853,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117253",
+      "regular": true,
+      "name": "ROBINSON R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117254",
+      "regular": true,
+      "name": "ABIYA MARIYA JAYAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1111,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117255",
+      "regular": true,
+      "name": "ADITHYA BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1130,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117256",
+      "regular": true,
+      "name": "AMALENDHU M NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1121,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117257",
+      "regular": true,
+      "name": "ANJANA T S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 169
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 991,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117258",
+      "regular": true,
+      "name": "ANN MARIYA BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1005,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117259",
+      "regular": true,
+      "name": "ANNA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 901,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117260",
+      "regular": true,
+      "name": "ARCHANA R.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 107
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 88
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 720,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117261",
+      "regular": true,
+      "name": "ASHNA K S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1082,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117262",
+      "regular": true,
+      "name": "ASNA ALIYAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1096,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117263",
+      "regular": true,
+      "name": "DHIYA R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1122,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117264",
+      "regular": true,
+      "name": "FIDHA YOUNUS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 177
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1028,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117265",
+      "regular": true,
+      "name": "GAYATHRI R.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 930,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117266",
+      "regular": true,
+      "name": "GOPIKA K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 847,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117267",
+      "regular": true,
+      "name": "GOURI MANOJ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 920,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117268",
+      "regular": true,
+      "name": "GUNASHREE S.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 848,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117269",
+      "regular": true,
+      "name": "HANNA FATHIMA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 152
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 956,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117270",
+      "regular": true,
+      "name": "JACKQULIN STEPHY .F",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 184
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1095,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117271",
+      "regular": true,
+      "name": "JAYASREE M.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 155
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 901,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117272",
+      "regular": true,
+      "name": "JENARASI . C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117273",
+      "regular": true,
+      "name": "KALAIVANI M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 980,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117274",
+      "regular": true,
+      "name": "KOWSALYA DEVI V.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 689,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117275",
+      "regular": true,
+      "name": "MAHESWARI. M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 960,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117276",
+      "regular": true,
+      "name": "MARISELVI M.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 902,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117277",
+      "regular": true,
+      "name": "MARIYA ANTONY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1133,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23117278",
+      "regular": true,
+      "name": "NARMATHA. K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 108
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 99
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 106
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 94
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 683,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117279",
+      "regular": true,
+      "name": "POOJA PUSHPARAJ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 94
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 722,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117281",
+      "regular": true,
+      "name": "RETHNALETCHMI S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 165
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1026,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117282",
+      "regular": true,
+      "name": "SARANI S.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 169
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 998,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117283",
+      "regular": true,
+      "name": "SARANYA R.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 830,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23117284",
+      "regular": true,
+      "name": "SREE UDHRA M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 1051,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22119162",
+      "regular": false,
+      "name": "SILPA SASI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 90
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 95
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 89
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 274,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22119191",
+      "regular": false,
+      "name": "ABITHA. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 109
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 95
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 204,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22119200",
+      "regular": false,
+      "name": "ANU SAHI R.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 79
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 164,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22119209",
+      "regular": false,
+      "name": "HARI RANJANI V.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 72
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 353,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22119225",
+      "regular": false,
+      "name": "SELVARANI E",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 106
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 106,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22506679",
+      "regular": false,
+      "name": "GINUMOL BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 104
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 104,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22506682",
+      "regular": false,
+      "name": "IMMANUEL A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 91
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 243,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22506684",
+      "regular": false,
+      "name": "VISWANATH R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "GOVT HSS,KUNCHITHANNI,IDUKKI",
+      "schoolCode": "6005",
+      "totalMarks": 414,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 88.54,
+  "totalFullAp": 10,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "RAIHAN EBRAHIM (23117202) - SCIENCE",
+    "ALPHY BINU (23117212) - SCIENCE",
+    "RUKHSANA RASHEED (23117231) - SCIENCE",
+    "TANIYA ELSA BABU (23117234) - SCIENCE",
+    "HARIKRISHNA.E (23117244) - SCIENCE",
+    "ABIYA MARIYA JAYAN (23117254) - SCIENCE",
+    "ADITHYA BIJU (23117255) - SCIENCE",
+    "AMALENDHU M NAIR (23117256) - SCIENCE",
+    "DHIYA R (23117263) - SCIENCE",
+    "MARIYA ANTONY (23117277) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "HARIKRISHNA.E",
+      "rollNo": "23117244",
+      "group": "SCIENCE",
+      "totalMarks": 1162,
+      "rank": 1
+    },
+    {
+      "name": "RUKHSANA RASHEED",
+      "rollNo": "23117231",
+      "group": "SCIENCE",
+      "totalMarks": 1145,
+      "rank": 2
+    },
+    {
+      "name": "BENNET CHACKO",
+      "rollNo": "23117241",
+      "group": "SCIENCE",
+      "totalMarks": 1140,
+      "rank": 3
+    },
+    {
+      "name": "RAIHAN EBRAHIM",
+      "rollNo": "23117202",
+      "group": "SCIENCE",
+      "totalMarks": 1136,
+      "rank": 4
+    },
+    {
+      "name": "ANGEL TOMY",
+      "rollNo": "23117213",
+      "group": "SCIENCE",
+      "totalMarks": 1134,
+      "rank": 5
+    },
+    {
+      "name": "MARIYA ANTONY",
+      "rollNo": "23117277",
+      "group": "SCIENCE",
+      "totalMarks": 1133,
+      "rank": 6
+    },
+    {
+      "name": "ADITHYA BIJU",
+      "rollNo": "23117255",
+      "group": "SCIENCE",
+      "totalMarks": 1130,
+      "rank": 7
+    },
+    {
+      "name": "DHIYA R",
+      "rollNo": "23117263",
+      "group": "SCIENCE",
+      "totalMarks": 1122,
+      "rank": 8
+    },
+    {
+      "name": "AMALENDHU M NAIR",
+      "rollNo": "23117256",
+      "group": "SCIENCE",
+      "totalMarks": 1121,
+      "rank": 9
+    },
+    {
+      "name": "ALPHY BINU",
+      "rollNo": "23117212",
+      "group": "SCIENCE",
+      "totalMarks": 1114,
+      "rank": 10
+    },
+    {
+      "name": "APARNA ANIL",
+      "rollNo": "23117216",
+      "group": "SCIENCE",
+      "totalMarks": 1112,
+      "rank": 11
+    },
+    {
+      "name": "ABIYA MARIYA JAYAN",
+      "rollNo": "23117254",
+      "group": "SCIENCE",
+      "totalMarks": 1111,
+      "rank": 12
+    },
+    {
+      "name": "TANIYA ELSA BABU",
+      "rollNo": "23117234",
+      "group": "SCIENCE",
+      "totalMarks": 1110,
+      "rank": 13
+    },
+    {
+      "name": "ANNA MARIYA K K",
+      "rollNo": "23117215",
+      "group": "SCIENCE",
+      "totalMarks": 1097,
+      "rank": 14
+    },
+    {
+      "name": "ASNA ALIYAR",
+      "rollNo": "23117262",
+      "group": "SCIENCE",
+      "totalMarks": 1096,
+      "rank": 15
+    },
+    {
+      "name": "JACKQULIN STEPHY .F",
+      "rollNo": "23117270",
+      "group": "SCIENCE",
+      "totalMarks": 1095,
+      "rank": 16
+    },
+    {
+      "name": "APARNNA K B",
+      "rollNo": "23117218",
+      "group": "SCIENCE",
+      "totalMarks": 1082,
+      "rank": 17
+    },
+    {
+      "name": "ASHNA K S",
+      "rollNo": "23117261",
+      "group": "SCIENCE",
+      "totalMarks": 1082,
+      "rank": 17
+    },
+    {
+      "name": "M R SARATH",
+      "rollNo": "23117199",
+      "group": "SCIENCE",
+      "totalMarks": 1077,
+      "rank": 19
+    },
+    {
+      "name": "AKHIL SAJEEV",
+      "rollNo": "23117187",
+      "group": "SCIENCE",
+      "totalMarks": 1076,
+      "rank": 20
+    },
+    {
+      "name": "JENITTA ROY",
+      "rollNo": "23117227",
+      "group": "SCIENCE",
+      "totalMarks": 1063,
+      "rank": 21
+    },
+    {
+      "name": "ANNA BEN BYJU",
+      "rollNo": "23117214",
+      "group": "SCIENCE",
+      "totalMarks": 1057,
+      "rank": 22
+    },
+    {
+      "name": "ADHITHYAN BIJU",
+      "rollNo": "23117235",
+      "group": "SCIENCE",
+      "totalMarks": 1054,
+      "rank": 23
+    },
+    {
+      "name": "FATHIMA C A",
+      "rollNo": "23117221",
+      "group": "SCIENCE",
+      "totalMarks": 1054,
+      "rank": 23
+    },
+    {
+      "name": "SREE UDHRA M",
+      "rollNo": "23117284",
+      "group": "SCIENCE",
+      "totalMarks": 1051,
+      "rank": 25
+    },
+    {
+      "name": "LAEL BABY BIJU",
+      "rollNo": "23117248",
+      "group": "SCIENCE",
+      "totalMarks": 1029,
+      "rank": 26
+    },
+    {
+      "name": "FIDHA YOUNUS",
+      "rollNo": "23117264",
+      "group": "SCIENCE",
+      "totalMarks": 1028,
+      "rank": 27
+    },
+    {
+      "name": "RETHNALETCHMI S",
+      "rollNo": "23117281",
+      "group": "SCIENCE",
+      "totalMarks": 1026,
+      "rank": 28
+    },
+    {
+      "name": "GOLDA DAWN SOJAN",
+      "rollNo": "23117224",
+      "group": "SCIENCE",
+      "totalMarks": 1025,
+      "rank": 29
+    },
+    {
+      "name": "ANN MARIYA BIJU",
+      "rollNo": "23117258",
+      "group": "SCIENCE",
+      "totalMarks": 1005,
+      "rank": 30
+    },
+    {
+      "name": "ABIYA MONIKA SHIBY",
+      "rollNo": "23117207",
+      "group": "SCIENCE",
+      "totalMarks": 1002,
+      "rank": 31
+    },
+    {
+      "name": "APARNA VINO",
+      "rollNo": "23117217",
+      "group": "SCIENCE",
+      "totalMarks": 1000,
+      "rank": 32
+    },
+    {
+      "name": "SARANI S.",
+      "rollNo": "23117282",
+      "group": "SCIENCE",
+      "totalMarks": 998,
+      "rank": 33
+    },
+    {
+      "name": "SRUTHI G",
+      "rollNo": "23117233",
+      "group": "SCIENCE",
+      "totalMarks": 995,
+      "rank": 34
+    },
+    {
+      "name": "ANANDHU V M",
+      "rollNo": "23117190",
+      "group": "SCIENCE",
+      "totalMarks": 995,
+      "rank": 34
+    },
+    {
+      "name": "MUHAMMED ANWAR S",
+      "rollNo": "23117200",
+      "group": "SCIENCE",
+      "totalMarks": 991,
+      "rank": 36
+    },
+    {
+      "name": "ANJANA T S",
+      "rollNo": "23117257",
+      "group": "SCIENCE",
+      "totalMarks": 991,
+      "rank": 36
+    },
+    {
+      "name": "MATHAVAN.M",
+      "rollNo": "23117249",
+      "group": "SCIENCE",
+      "totalMarks": 988,
+      "rank": 38
+    },
+    {
+      "name": "GRENAMERLIN M",
+      "rollNo": "23117226",
+      "group": "SCIENCE",
+      "totalMarks": 984,
+      "rank": 39
+    },
+    {
+      "name": "GABRIEL S. PHILIP",
+      "rollNo": "23117243",
+      "group": "SCIENCE",
+      "totalMarks": 983,
+      "rank": 40
+    },
+    {
+      "name": "KALAIVANI M",
+      "rollNo": "23117273",
+      "group": "SCIENCE",
+      "totalMarks": 980,
+      "rank": 41
+    },
+    {
+      "name": "DEVAPRIYA BIJU",
+      "rollNo": "23117220",
+      "group": "SCIENCE",
+      "totalMarks": 977,
+      "rank": 42
+    },
+    {
+      "name": "SNEHAMOL SAJEEV",
+      "rollNo": "23117232",
+      "group": "SCIENCE",
+      "totalMarks": 966,
+      "rank": 43
+    },
+    {
+      "name": "SHARON JOSEPH K A",
+      "rollNo": "23117204",
+      "group": "SCIENCE",
+      "totalMarks": 961,
+      "rank": 44
+    },
+    {
+      "name": "ALANTA THOMAS",
+      "rollNo": "23117210",
+      "group": "SCIENCE",
+      "totalMarks": 960,
+      "rank": 45
+    },
+    {
+      "name": "MAHESWARI. M",
+      "rollNo": "23117275",
+      "group": "SCIENCE",
+      "totalMarks": 960,
+      "rank": 45
+    },
+    {
+      "name": "ADWAITH RAJESH",
+      "rollNo": "23117236",
+      "group": "SCIENCE",
+      "totalMarks": 957,
+      "rank": 47
+    },
+    {
+      "name": "HANNA FATHIMA",
+      "rollNo": "23117269",
+      "group": "SCIENCE",
+      "totalMarks": 956,
+      "rank": 48
+    },
+    {
+      "name": "BIJO JIJI",
+      "rollNo": "23117242",
+      "group": "SCIENCE",
+      "totalMarks": 955,
+      "rank": 49
+    },
+    {
+      "name": "TESVIN BABU",
+      "rollNo": "23117206",
+      "group": "SCIENCE",
+      "totalMarks": 955,
+      "rank": 49
+    },
+    {
+      "name": "SALAHUDHEEN AYUBI C S",
+      "rollNo": "23117203",
+      "group": "SCIENCE",
+      "totalMarks": 946,
+      "rank": 51
+    },
+    {
+      "name": "EDWIN ANIL",
+      "rollNo": "23117195",
+      "group": "SCIENCE",
+      "totalMarks": 941,
+      "rank": 52
+    },
+    {
+      "name": "KIRAN STALIN",
+      "rollNo": "23117198",
+      "group": "SCIENCE",
+      "totalMarks": 941,
+      "rank": 52
+    },
+    {
+      "name": "FELIX V A",
+      "rollNo": "23117196",
+      "group": "SCIENCE",
+      "totalMarks": 932,
+      "rank": 54
+    },
+    {
+      "name": "GAYATHRI R.",
+      "rollNo": "23117265",
+      "group": "SCIENCE",
+      "totalMarks": 930,
+      "rank": 55
+    },
+    {
+      "name": "GOURI MANOJ",
+      "rollNo": "23117267",
+      "group": "SCIENCE",
+      "totalMarks": 920,
+      "rank": 56
+    },
+    {
+      "name": "ADWAITH SAGAR",
+      "rollNo": "23117237",
+      "group": "SCIENCE",
+      "totalMarks": 918,
+      "rank": 57
+    },
+    {
+      "name": "ANANDHU MADHU",
+      "rollNo": "23117239",
+      "group": "SCIENCE",
+      "totalMarks": 916,
+      "rank": 58
+    },
+    {
+      "name": "K N RAHUL KRISHNA",
+      "rollNo": "23117197",
+      "group": "SCIENCE",
+      "totalMarks": 914,
+      "rank": 59
+    },
+    {
+      "name": "ROSEMOL E S",
+      "rollNo": "23117230",
+      "group": "SCIENCE",
+      "totalMarks": 908,
+      "rank": 60
+    },
+    {
+      "name": "AMBADY O P",
+      "rollNo": "23117189",
+      "group": "SCIENCE",
+      "totalMarks": 908,
+      "rank": 60
+    },
+    {
+      "name": "MARISELVI M.",
+      "rollNo": "23117276",
+      "group": "SCIENCE",
+      "totalMarks": 902,
+      "rank": 62
+    },
+    {
+      "name": "ANNA S",
+      "rollNo": "23117259",
+      "group": "SCIENCE",
+      "totalMarks": 901,
+      "rank": 63
+    },
+    {
+      "name": "JAYASREE M.",
+      "rollNo": "23117271",
+      "group": "SCIENCE",
+      "totalMarks": 901,
+      "rank": 63
+    },
+    {
+      "name": "GOURIPRIYA SHAIJU",
+      "rollNo": "23117225",
+      "group": "SCIENCE",
+      "totalMarks": 898,
+      "rank": 65
+    },
+    {
+      "name": "AMALJITH M S",
+      "rollNo": "23117188",
+      "group": "SCIENCE",
+      "totalMarks": 890,
+      "rank": 66
+    },
+    {
+      "name": "JESTEENA K M",
+      "rollNo": "23117228",
+      "group": "SCIENCE",
+      "totalMarks": 884,
+      "rank": 67
+    },
+    {
+      "name": "MINSHA MAIDEEN",
+      "rollNo": "23117229",
+      "group": "SCIENCE",
+      "totalMarks": 884,
+      "rank": 67
+    },
+    {
+      "name": "K.JOHNS",
+      "rollNo": "23117247",
+      "group": "SCIENCE",
+      "totalMarks": 868,
+      "rank": 69
+    },
+    {
+      "name": "PRASANNAN.K",
+      "rollNo": "23117251",
+      "group": "SCIENCE",
+      "totalMarks": 856,
+      "rank": 70
+    },
+    {
+      "name": "ASHIN JAISON",
+      "rollNo": "23117192",
+      "group": "SCIENCE",
+      "totalMarks": 855,
+      "rank": 71
+    },
+    {
+      "name": "PRIYAN R",
+      "rollNo": "23117252",
+      "group": "SCIENCE",
+      "totalMarks": 853,
+      "rank": 72
+    },
+    {
+      "name": "GUNASHREE S.",
+      "rollNo": "23117268",
+      "group": "SCIENCE",
+      "totalMarks": 848,
+      "rank": 73
+    },
+    {
+      "name": "GOPIKA K",
+      "rollNo": "23117266",
+      "group": "SCIENCE",
+      "totalMarks": 847,
+      "rank": 74
+    },
+    {
+      "name": "JEEVANRAJ K",
+      "rollNo": "23117245",
+      "group": "SCIENCE",
+      "totalMarks": 845,
+      "rank": 75
+    },
+    {
+      "name": "ROBINSON R",
+      "rollNo": "23117253",
+      "group": "SCIENCE",
+      "totalMarks": 842,
+      "rank": 76
+    },
+    {
+      "name": "ALIN GHOSH",
+      "rollNo": "23117238",
+      "group": "SCIENCE",
+      "totalMarks": 842,
+      "rank": 76
+    },
+    {
+      "name": "JENARASI . C",
+      "rollNo": "23117272",
+      "group": "SCIENCE",
+      "totalMarks": 842,
+      "rank": 76
+    },
+    {
+      "name": "AKHILA K.S",
+      "rollNo": "23117209",
+      "group": "SCIENCE",
+      "totalMarks": 838,
+      "rank": 79
+    },
+    {
+      "name": "BIBIN K B",
+      "rollNo": "23117193",
+      "group": "SCIENCE",
+      "totalMarks": 832,
+      "rank": 80
+    },
+    {
+      "name": "SARANYA R.",
+      "rollNo": "23117283",
+      "group": "SCIENCE",
+      "totalMarks": 830,
+      "rank": 81
+    },
+    {
+      "name": "ANJO BAIJU",
+      "rollNo": "23117240",
+      "group": "SCIENCE",
+      "totalMarks": 822,
+      "rank": 82
+    },
+    {
+      "name": "GEORGIYA GEORGE",
+      "rollNo": "23117223",
+      "group": "SCIENCE",
+      "totalMarks": 817,
+      "rank": 83
+    },
+    {
+      "name": "MUHAMMED YASIN",
+      "rollNo": "23117250",
+      "group": "SCIENCE",
+      "totalMarks": 805,
+      "rank": 84
+    },
+    {
+      "name": "ALEENA JOSEPH",
+      "rollNo": "23117211",
+      "group": "SCIENCE",
+      "totalMarks": 796,
+      "rank": 85
+    },
+    {
+      "name": "JISHNU VENUGOPAL",
+      "rollNo": "23117246",
+      "group": "SCIENCE",
+      "totalMarks": 772,
+      "rank": 86
+    },
+    {
+      "name": "SUJITH K KANNAN",
+      "rollNo": "23117205",
+      "group": "SCIENCE",
+      "totalMarks": 764,
+      "rank": 87
+    },
+    {
+      "name": "ASHIF ANSARY",
+      "rollNo": "23117191",
+      "group": "SCIENCE",
+      "totalMarks": 728,
+      "rank": 88
+    },
+    {
+      "name": "AISWARYA ANILKUMAR",
+      "rollNo": "23117208",
+      "group": "SCIENCE",
+      "totalMarks": 727,
+      "rank": 89
+    },
+    {
+      "name": "POOJA PUSHPARAJ",
+      "rollNo": "23117279",
+      "group": "SCIENCE",
+      "totalMarks": 722,
+      "rank": 90
+    },
+    {
+      "name": "ARCHANA R.",
+      "rollNo": "23117260",
+      "group": "SCIENCE",
+      "totalMarks": 720,
+      "rank": 91
+    },
+    {
+      "name": "DAVID JOHN GRACE",
+      "rollNo": "23117194",
+      "group": "SCIENCE",
+      "totalMarks": 704,
+      "rank": 92
+    },
+    {
+      "name": "KOWSALYA DEVI V.",
+      "rollNo": "23117274",
+      "group": "SCIENCE",
+      "totalMarks": 689,
+      "rank": 93
+    },
+    {
+      "name": "NARMATHA. K",
+      "rollNo": "23117278",
+      "group": "SCIENCE",
+      "totalMarks": 683,
+      "rank": 94
+    },
+    {
+      "name": "PEER RAHUMATHULLAH.S",
+      "rollNo": "23117201",
+      "group": "SCIENCE",
+      "totalMarks": 668,
+      "rank": 95
+    },
+    {
+      "name": "ADHITHYAN K SAJEEV",
+      "rollNo": "23117185",
+      "group": "SCIENCE",
+      "totalMarks": 641,
+      "rank": 96
+    }
+  ]
+}

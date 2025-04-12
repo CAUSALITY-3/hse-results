@@ -1,298 +1,423 @@
-[
-  {
-    "rollNo": "23183533",
-    "regular": true,
-    "name": "MUHAMMED HASHIM . E . M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
+{
+  "schoolCode": "8092",
+  "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+  "phoneNo": "04872532221",
+  "emailId": "focusislamic@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "KadappuramChavakkad",
+  "eduDistrict": "Chavakkad",
+  "assemblyConstituency": "Guruvayoor",
+  "courseCode": "1,5,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "3,1",
+  "district": "THRISSUR",
+  "results": [
+    {
+      "rollNo": "23183533",
+      "regular": true,
+      "name": "MUHAMMED HASHIM . E . M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 132
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 736,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 137
+    {
+      "rollNo": "23183534",
+      "regular": true,
+      "name": "HANNATH K I",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 95
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 576,
+      "fullAp": false
     },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
+    {
+      "rollNo": "23183535",
+      "regular": true,
+      "name": "ABDUL HASEEB T H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 88
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 544,
+      "fullAp": false
     },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 139
+    {
+      "rollNo": "23183536",
+      "regular": true,
+      "name": "MOHAMMED ANAS . K . A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 97
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 576,
+      "fullAp": false
     },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
+    {
+      "rollNo": "23183537",
+      "regular": true,
+      "name": "MUHAMED AMAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 111
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 667,
+      "fullAp": false
     },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 132
+    {
+      "rollNo": "23183538",
+      "regular": true,
+      "name": "MUHAMMED RISHAN . C . H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 88
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 91
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 519,
+      "fullAp": false
     },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23183534",
-    "regular": true,
-    "name": "HANNATH K I",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
+    {
+      "rollNo": "23183539",
+      "regular": true,
+      "name": "MUHAMMED ZAQIB . V . A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 126
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 697,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 138
+    {
+      "rollNo": "23183540",
+      "regular": true,
+      "name": "MURRATH K M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 94
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 86
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "FOCUS ISLAMIC EM HSS, THOTTAPPU, THRISSUR, 680512",
+      "schoolCode": "8092",
+      "totalMarks": 530,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 25,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "MUHAMMED HASHIM . E . M",
+      "rollNo": "23183533",
+      "group": "COMMERCE",
+      "totalMarks": 736,
+      "rank": 1
     },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 73
+    {
+      "name": "MUHAMMED ZAQIB . V . A",
+      "rollNo": "23183539",
+      "group": "COMMERCE",
+      "totalMarks": 697,
+      "rank": 2
     },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 104
+    {
+      "name": "MUHAMED AMAN",
+      "rollNo": "23183537",
+      "group": "COMMERCE",
+      "totalMarks": 667,
+      "rank": 3
     },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 97
+    {
+      "name": "HANNATH K I",
+      "rollNo": "23183534",
+      "group": "COMMERCE",
+      "totalMarks": 576,
+      "rank": 4
     },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 95
+    {
+      "name": "MOHAMMED ANAS . K . A",
+      "rollNo": "23183536",
+      "group": "COMMERCE",
+      "totalMarks": 576,
+      "rank": 4
     },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23183535",
-    "regular": true,
-    "name": "ABDUL HASEEB T H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 52
+    {
+      "name": "ABDUL HASEEB T H",
+      "rollNo": "23183535",
+      "group": "COMMERCE",
+      "totalMarks": 544,
+      "rank": 6
     },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 164
+    {
+      "name": "MURRATH K M",
+      "rollNo": "23183540",
+      "group": "COMMERCE",
+      "totalMarks": 530,
+      "rank": 7
     },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 88
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23183536",
-    "regular": true,
-    "name": "MOHAMMED ANAS . K . A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 97
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23183537",
-    "regular": true,
-    "name": "MUHAMED AMAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23183538",
-    "regular": true,
-    "name": "MUHAMMED RISHAN . C . H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 88
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 91
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23183539",
-    "regular": true,
-    "name": "MUHAMMED ZAQIB . V . A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 126
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23183540",
-    "regular": true,
-    "name": "MURRATH K M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 94
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 86
-    },
-    "result": "NHS"
-  }
-]
+    {
+      "name": "MUHAMMED RISHAN . C . H",
+      "rollNo": "23183538",
+      "group": "COMMERCE",
+      "totalMarks": 519,
+      "rank": 8
+    }
+  ]
+}

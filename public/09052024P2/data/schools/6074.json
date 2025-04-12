@@ -1,2407 +1,3268 @@
-[
-  {
-    "rollNo": "22507041",
-    "regular": false,
-    "name": "ABHIJITH M C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126213",
-    "regular": true,
-    "name": "AADHIL MUBARAK",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126214",
-    "regular": true,
-    "name": "ABHINAVU T SASI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126215",
-    "regular": true,
-    "name": "ADWAITH M KURUMAKAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126216",
-    "regular": true,
-    "name": "ASIFALI U S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 143
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126217",
-    "regular": true,
-    "name": "ASWIN PRASAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126218",
-    "regular": true,
-    "name": "MUHAMMED BILAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126219",
-    "regular": true,
-    "name": "RAHUL PRATHEESHKUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126220",
-    "regular": true,
-    "name": "VIVEK PRASAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126221",
-    "regular": true,
-    "name": "ABHIRAMI SATHEESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126222",
-    "regular": true,
-    "name": "ABHIRAMI T B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126224",
-    "regular": true,
-    "name": "MARIYAMOL A K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126225",
-    "regular": true,
-    "name": "AJITH BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126226",
-    "regular": true,
-    "name": "ARJUN ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126227",
-    "regular": true,
-    "name": "JAGAN RAJEEV",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126228",
-    "regular": true,
-    "name": "JOSIN C SAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126229",
-    "regular": true,
-    "name": "JYOTHIS RAJ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126230",
-    "regular": true,
-    "name": "SREENATH A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126231",
-    "regular": true,
-    "name": "SUDEV C SASI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126232",
-    "regular": true,
-    "name": "VEDAVYASAN BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 118
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126233",
-    "regular": true,
-    "name": "SIDHILAKSHMI J P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126234",
-    "regular": true,
-    "name": "ABHIRAM K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126235",
-    "regular": true,
-    "name": "ADITHYAN DILEEP",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126236",
-    "regular": true,
-    "name": "AJITH T R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126237",
-    "regular": true,
-    "name": "ARJUN VIJAYAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 82
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 101
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126238",
-    "regular": true,
-    "name": "BONY BAIJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126239",
-    "regular": true,
-    "name": "DEVADATHAN S.NAIR",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126240",
-    "regular": true,
-    "name": "GOKUL SAJI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126241",
-    "regular": true,
-    "name": "HARINANDAN K SATHEESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126242",
-    "regular": true,
-    "name": "JOEL K J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 94
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126243",
-    "regular": true,
-    "name": "JOVAL SEBASTIAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126244",
-    "regular": true,
-    "name": "KARTHIK SHAIJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126245",
-    "regular": true,
-    "name": "MUHAMMAD SHABIN EASA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 81
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126246",
-    "regular": true,
-    "name": "NITHIN RAJESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126247",
-    "regular": true,
-    "name": "PRAVEEN BABU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 63
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 81
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126248",
-    "regular": true,
-    "name": "S CALAB",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126249",
-    "regular": true,
-    "name": "SACHU SANTHOSH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126250",
-    "regular": true,
-    "name": "SEBIN VINOD",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126252",
-    "regular": true,
-    "name": "SYAMJITH SAJI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 89
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126253",
-    "regular": true,
-    "name": "TEFFIN THOMSON DAVIDLY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 91
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 103
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126254",
-    "regular": true,
-    "name": "UNNIKRISHNAN REVI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 53
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 70
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126255",
-    "regular": true,
-    "name": "VISHNU GOVINDARAJ",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 74
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126256",
-    "regular": true,
-    "name": "AMITHA MAJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 109
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126257",
-    "regular": true,
-    "name": "ARCHANA GIRISH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126258",
-    "regular": true,
-    "name": "ESTHER FRANCIS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126259",
-    "regular": true,
-    "name": "JOSNA MATHEW",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126260",
-    "regular": true,
-    "name": "KARTHIKA VINESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 174
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126261",
-    "regular": true,
-    "name": "KESIYA MATHEW",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126262",
-    "regular": true,
-    "name": "MANASILA U.J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126263",
-    "regular": true,
-    "name": "NEETHU SUREESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 153
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126264",
-    "regular": true,
-    "name": "REVATHY U S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126265",
-    "regular": true,
-    "name": "REYAMOL BENNY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 132
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126266",
-    "regular": true,
-    "name": "SREEDEVI SATHYAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 132
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126267",
-    "regular": true,
-    "name": "ADITHIYAN RAMESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 52
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 57
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126268",
-    "regular": true,
-    "name": "ALEN PRAMOD",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 52
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 86
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126269",
-    "regular": true,
-    "name": "ASIL NAJEEB",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 88
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126270",
-    "regular": true,
-    "name": "NACHIKETHASS.T.A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 43
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 78
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126271",
-    "regular": true,
-    "name": "RAHUL RAJESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 92
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126272",
-    "regular": true,
-    "name": "VIJAY RAMACHANDRAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 90
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126273",
-    "regular": true,
-    "name": "ABIYA JIJI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126274",
-    "regular": true,
-    "name": "ANITTA SAJI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 88
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126275",
-    "regular": true,
-    "name": "ANJANA SUDHAKARAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 87
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 86
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126276",
-    "regular": true,
-    "name": "ANN MARIYA JOSE",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 102
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126277",
-    "regular": true,
-    "name": "LINTU TOMY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23139386",
-    "regular": true,
-    "name": "ABHINAND  MOHAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 89
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 68
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 82
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "6074",
+  "schoolName": "Govt.HSS, Muttom",
+  "phoneNo": "04862255399",
+  "emailId": "ghssmuttom@gmail.com",
+  "schoolType": "Government",
+  "localBody": "MuttomThodupuzha",
+  "eduDistrict": "Thodupuzha",
+  "assemblyConstituency": "Thodupuzha",
+  "courseCode": "5,38",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "IDUKKY",
+  "results": [
+    {
+      "rollNo": "23126213",
+      "regular": true,
+      "name": "AADHIL MUBARAK",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 809,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126214",
+      "regular": true,
+      "name": "ABHINAVU T SASI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 720,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126215",
+      "regular": true,
+      "name": "ADWAITH M KURUMAKAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 931,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126216",
+      "regular": true,
+      "name": "ASIFALI U S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 143
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126217",
+      "regular": true,
+      "name": "ASWIN PRASAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 683,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126218",
+      "regular": true,
+      "name": "MUHAMMED BILAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 827,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126219",
+      "regular": true,
+      "name": "RAHUL PRATHEESHKUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 763,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126220",
+      "regular": true,
+      "name": "VIVEK PRASAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 1054,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126221",
+      "regular": true,
+      "name": "ABHIRAMI SATHEESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 838,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126222",
+      "regular": true,
+      "name": "ABHIRAMI T B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 99
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 701,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126224",
+      "regular": true,
+      "name": "MARIYAMOL A K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 724,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126225",
+      "regular": true,
+      "name": "AJITH BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 919,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126226",
+      "regular": true,
+      "name": "ARJUN ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 923,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126227",
+      "regular": true,
+      "name": "JAGAN RAJEEV",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 677,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126228",
+      "regular": true,
+      "name": "JOSIN C SAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 1065,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126229",
+      "regular": true,
+      "name": "JYOTHIS RAJ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 901,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126230",
+      "regular": true,
+      "name": "SREENATH A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 1030,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126231",
+      "regular": true,
+      "name": "SUDEV C SASI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 993,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126232",
+      "regular": true,
+      "name": "VEDAVYASAN BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 118
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 716,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126233",
+      "regular": true,
+      "name": "SIDHILAKSHMI J P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 670,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126234",
+      "regular": true,
+      "name": "ABHIRAM K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 501,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126235",
+      "regular": true,
+      "name": "ADITHYAN DILEEP",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 629,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126236",
+      "regular": true,
+      "name": "AJITH T R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 639,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126237",
+      "regular": true,
+      "name": "ARJUN VIJAYAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 82
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 101
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 651,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126238",
+      "regular": true,
+      "name": "BONY BAIJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 756,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126239",
+      "regular": true,
+      "name": "DEVADATHAN S.NAIR",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 847,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126240",
+      "regular": true,
+      "name": "GOKUL SAJI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 614,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126241",
+      "regular": true,
+      "name": "HARINANDAN K SATHEESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 1149,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23126242",
+      "regular": true,
+      "name": "JOEL K J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 94
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 515,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126243",
+      "regular": true,
+      "name": "JOVAL SEBASTIAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 568,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126244",
+      "regular": true,
+      "name": "KARTHIK SHAIJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 90
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 580,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126245",
+      "regular": true,
+      "name": "MUHAMMAD SHABIN EASA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 81
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 483,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126246",
+      "regular": true,
+      "name": "NITHIN RAJESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 653,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126247",
+      "regular": true,
+      "name": "PRAVEEN BABU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 63
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 81
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 495,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126248",
+      "regular": true,
+      "name": "S CALAB",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 628,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126249",
+      "regular": true,
+      "name": "SACHU SANTHOSH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 699,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126250",
+      "regular": true,
+      "name": "SEBIN VINOD",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 494,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126252",
+      "regular": true,
+      "name": "SYAMJITH SAJI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 89
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 590,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126253",
+      "regular": true,
+      "name": "TEFFIN THOMSON DAVIDLY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 91
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 103
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 640,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126254",
+      "regular": true,
+      "name": "UNNIKRISHNAN REVI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 53
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 70
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 411,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126255",
+      "regular": true,
+      "name": "VISHNU GOVINDARAJ",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 74
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 495,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126256",
+      "regular": true,
+      "name": "AMITHA MAJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 109
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 647,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126257",
+      "regular": true,
+      "name": "ARCHANA GIRISH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 953,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126258",
+      "regular": true,
+      "name": "ESTHER FRANCIS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 596,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126259",
+      "regular": true,
+      "name": "JOSNA MATHEW",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 893,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126260",
+      "regular": true,
+      "name": "KARTHIKA VINESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 174
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 1025,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126261",
+      "regular": true,
+      "name": "KESIYA MATHEW",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 560,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126262",
+      "regular": true,
+      "name": "MANASILA U.J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 801,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126263",
+      "regular": true,
+      "name": "NEETHU SUREESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 153
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 794,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126264",
+      "regular": true,
+      "name": "REVATHY U S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 666,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126265",
+      "regular": true,
+      "name": "REYAMOL BENNY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 132
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 827,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126266",
+      "regular": true,
+      "name": "SREEDEVI SATHYAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 132
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 806,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126267",
+      "regular": true,
+      "name": "ADITHIYAN RAMESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 57
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 417,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126268",
+      "regular": true,
+      "name": "ALEN PRAMOD",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 86
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 459,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126269",
+      "regular": true,
+      "name": "ASIL NAJEEB",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 88
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 529,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126270",
+      "regular": true,
+      "name": "NACHIKETHASS.T.A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "HINDI",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 43
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 78
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 405,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126271",
+      "regular": true,
+      "name": "RAHUL RAJESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 92
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 601,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126272",
+      "regular": true,
+      "name": "VIJAY RAMACHANDRAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 90
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 580,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126273",
+      "regular": true,
+      "name": "ABIYA JIJI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 512,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126274",
+      "regular": true,
+      "name": "ANITTA SAJI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 88
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 628,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126275",
+      "regular": true,
+      "name": "ANJANA SUDHAKARAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 87
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 86
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 629,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126276",
+      "regular": true,
+      "name": "ANN MARIYA JOSE",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 102
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 760,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126277",
+      "regular": true,
+      "name": "LINTU TOMY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 724,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23139386",
+      "regular": true,
+      "name": "ABHINAND MOHAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 89
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 68
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 82
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 610,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22507041",
+      "regular": false,
+      "name": "ABHIJITH M C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 90
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "Govt.HSS, Muttom",
+      "schoolCode": "6074",
+      "totalMarks": 90,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 62.5,
+  "totalFullAp": 1,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "HARINANDAN K SATHEESH (23126241) - COMMERCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "HARINANDAN K SATHEESH",
+      "rollNo": "23126241",
+      "group": "COMMERCE",
+      "totalMarks": 1149,
+      "rank": 1
+    },
+    {
+      "name": "JOSIN C SAJI",
+      "rollNo": "23126228",
+      "group": "SCIENCE",
+      "totalMarks": 1065,
+      "rank": 2
+    },
+    {
+      "name": "VIVEK PRASAD",
+      "rollNo": "23126220",
+      "group": "SCIENCE",
+      "totalMarks": 1054,
+      "rank": 3
+    },
+    {
+      "name": "SREENATH A S",
+      "rollNo": "23126230",
+      "group": "SCIENCE",
+      "totalMarks": 1030,
+      "rank": 4
+    },
+    {
+      "name": "KARTHIKA VINESH",
+      "rollNo": "23126260",
+      "group": "COMMERCE",
+      "totalMarks": 1025,
+      "rank": 5
+    },
+    {
+      "name": "SUDEV C SASI",
+      "rollNo": "23126231",
+      "group": "SCIENCE",
+      "totalMarks": 993,
+      "rank": 6
+    },
+    {
+      "name": "ARCHANA GIRISH",
+      "rollNo": "23126257",
+      "group": "COMMERCE",
+      "totalMarks": 953,
+      "rank": 7
+    },
+    {
+      "name": "ADWAITH M KURUMAKAL",
+      "rollNo": "23126215",
+      "group": "SCIENCE",
+      "totalMarks": 931,
+      "rank": 8
+    },
+    {
+      "name": "ARJUN ANIL",
+      "rollNo": "23126226",
+      "group": "SCIENCE",
+      "totalMarks": 923,
+      "rank": 9
+    },
+    {
+      "name": "AJITH BIJU",
+      "rollNo": "23126225",
+      "group": "SCIENCE",
+      "totalMarks": 919,
+      "rank": 10
+    },
+    {
+      "name": "JYOTHIS RAJ",
+      "rollNo": "23126229",
+      "group": "SCIENCE",
+      "totalMarks": 901,
+      "rank": 11
+    },
+    {
+      "name": "JOSNA MATHEW",
+      "rollNo": "23126259",
+      "group": "COMMERCE",
+      "totalMarks": 893,
+      "rank": 12
+    },
+    {
+      "name": "DEVADATHAN S.NAIR",
+      "rollNo": "23126239",
+      "group": "COMMERCE",
+      "totalMarks": 847,
+      "rank": 13
+    },
+    {
+      "name": "ASIFALI U S",
+      "rollNo": "23126216",
+      "group": "SCIENCE",
+      "totalMarks": 842,
+      "rank": 14
+    },
+    {
+      "name": "ABHIRAMI SATHEESH",
+      "rollNo": "23126221",
+      "group": "SCIENCE",
+      "totalMarks": 838,
+      "rank": 15
+    },
+    {
+      "name": "MUHAMMED BILAL",
+      "rollNo": "23126218",
+      "group": "SCIENCE",
+      "totalMarks": 827,
+      "rank": 16
+    },
+    {
+      "name": "REYAMOL BENNY",
+      "rollNo": "23126265",
+      "group": "COMMERCE",
+      "totalMarks": 827,
+      "rank": 16
+    },
+    {
+      "name": "AADHIL MUBARAK",
+      "rollNo": "23126213",
+      "group": "SCIENCE",
+      "totalMarks": 809,
+      "rank": 18
+    },
+    {
+      "name": "SREEDEVI SATHYAN",
+      "rollNo": "23126266",
+      "group": "COMMERCE",
+      "totalMarks": 806,
+      "rank": 19
+    },
+    {
+      "name": "MANASILA U.J",
+      "rollNo": "23126262",
+      "group": "COMMERCE",
+      "totalMarks": 801,
+      "rank": 20
+    },
+    {
+      "name": "NEETHU SUREESH",
+      "rollNo": "23126263",
+      "group": "COMMERCE",
+      "totalMarks": 794,
+      "rank": 21
+    },
+    {
+      "name": "RAHUL PRATHEESHKUMAR",
+      "rollNo": "23126219",
+      "group": "SCIENCE",
+      "totalMarks": 763,
+      "rank": 22
+    },
+    {
+      "name": "ANN MARIYA JOSE",
+      "rollNo": "23126276",
+      "group": "COMMERCE",
+      "totalMarks": 760,
+      "rank": 23
+    },
+    {
+      "name": "BONY BAIJU",
+      "rollNo": "23126238",
+      "group": "COMMERCE",
+      "totalMarks": 756,
+      "rank": 24
+    },
+    {
+      "name": "LINTU TOMY",
+      "rollNo": "23126277",
+      "group": "COMMERCE",
+      "totalMarks": 724,
+      "rank": 25
+    },
+    {
+      "name": "MARIYAMOL A K",
+      "rollNo": "23126224",
+      "group": "SCIENCE",
+      "totalMarks": 724,
+      "rank": 25
+    },
+    {
+      "name": "ABHINAVU T SASI",
+      "rollNo": "23126214",
+      "group": "SCIENCE",
+      "totalMarks": 720,
+      "rank": 27
+    },
+    {
+      "name": "VEDAVYASAN BIJU",
+      "rollNo": "23126232",
+      "group": "SCIENCE",
+      "totalMarks": 716,
+      "rank": 28
+    },
+    {
+      "name": "ABHIRAMI T B",
+      "rollNo": "23126222",
+      "group": "SCIENCE",
+      "totalMarks": 701,
+      "rank": 29
+    },
+    {
+      "name": "SACHU SANTHOSH",
+      "rollNo": "23126249",
+      "group": "COMMERCE",
+      "totalMarks": 699,
+      "rank": 30
+    },
+    {
+      "name": "ASWIN PRASAD",
+      "rollNo": "23126217",
+      "group": "SCIENCE",
+      "totalMarks": 683,
+      "rank": 31
+    },
+    {
+      "name": "JAGAN RAJEEV",
+      "rollNo": "23126227",
+      "group": "SCIENCE",
+      "totalMarks": 677,
+      "rank": 32
+    },
+    {
+      "name": "SIDHILAKSHMI J P",
+      "rollNo": "23126233",
+      "group": "SCIENCE",
+      "totalMarks": 670,
+      "rank": 33
+    },
+    {
+      "name": "REVATHY U S",
+      "rollNo": "23126264",
+      "group": "COMMERCE",
+      "totalMarks": 666,
+      "rank": 34
+    },
+    {
+      "name": "NITHIN RAJESH",
+      "rollNo": "23126246",
+      "group": "COMMERCE",
+      "totalMarks": 653,
+      "rank": 35
+    },
+    {
+      "name": "ARJUN VIJAYAN",
+      "rollNo": "23126237",
+      "group": "COMMERCE",
+      "totalMarks": 651,
+      "rank": 36
+    },
+    {
+      "name": "AMITHA MAJU",
+      "rollNo": "23126256",
+      "group": "COMMERCE",
+      "totalMarks": 647,
+      "rank": 37
+    },
+    {
+      "name": "TEFFIN THOMSON DAVIDLY",
+      "rollNo": "23126253",
+      "group": "COMMERCE",
+      "totalMarks": 640,
+      "rank": 38
+    },
+    {
+      "name": "AJITH T R",
+      "rollNo": "23126236",
+      "group": "COMMERCE",
+      "totalMarks": 639,
+      "rank": 39
+    },
+    {
+      "name": "ADITHYAN DILEEP",
+      "rollNo": "23126235",
+      "group": "COMMERCE",
+      "totalMarks": 629,
+      "rank": 40
+    },
+    {
+      "name": "ANJANA SUDHAKARAN",
+      "rollNo": "23126275",
+      "group": "COMMERCE",
+      "totalMarks": 629,
+      "rank": 40
+    },
+    {
+      "name": "S CALAB",
+      "rollNo": "23126248",
+      "group": "COMMERCE",
+      "totalMarks": 628,
+      "rank": 42
+    },
+    {
+      "name": "ANITTA SAJI",
+      "rollNo": "23126274",
+      "group": "COMMERCE",
+      "totalMarks": 628,
+      "rank": 42
+    },
+    {
+      "name": "GOKUL SAJI",
+      "rollNo": "23126240",
+      "group": "COMMERCE",
+      "totalMarks": 614,
+      "rank": 44
+    },
+    {
+      "name": "ABHINAND MOHAN",
+      "rollNo": "23139386",
+      "group": "COMMERCE",
+      "totalMarks": 610,
+      "rank": 45
+    },
+    {
+      "name": "RAHUL RAJESH",
+      "rollNo": "23126271",
+      "group": "COMMERCE",
+      "totalMarks": 601,
+      "rank": 46
+    },
+    {
+      "name": "ESTHER FRANCIS",
+      "rollNo": "23126258",
+      "group": "COMMERCE",
+      "totalMarks": 596,
+      "rank": 47
+    },
+    {
+      "name": "SYAMJITH SAJI",
+      "rollNo": "23126252",
+      "group": "COMMERCE",
+      "totalMarks": 590,
+      "rank": 48
+    },
+    {
+      "name": "VIJAY RAMACHANDRAN",
+      "rollNo": "23126272",
+      "group": "COMMERCE",
+      "totalMarks": 580,
+      "rank": 49
+    },
+    {
+      "name": "KARTHIK SHAIJU",
+      "rollNo": "23126244",
+      "group": "COMMERCE",
+      "totalMarks": 580,
+      "rank": 49
+    },
+    {
+      "name": "JOVAL SEBASTIAN",
+      "rollNo": "23126243",
+      "group": "COMMERCE",
+      "totalMarks": 568,
+      "rank": 51
+    },
+    {
+      "name": "KESIYA MATHEW",
+      "rollNo": "23126261",
+      "group": "COMMERCE",
+      "totalMarks": 560,
+      "rank": 52
+    },
+    {
+      "name": "ASIL NAJEEB",
+      "rollNo": "23126269",
+      "group": "COMMERCE",
+      "totalMarks": 529,
+      "rank": 53
+    },
+    {
+      "name": "JOEL K J",
+      "rollNo": "23126242",
+      "group": "COMMERCE",
+      "totalMarks": 515,
+      "rank": 54
+    },
+    {
+      "name": "ABIYA JIJI",
+      "rollNo": "23126273",
+      "group": "COMMERCE",
+      "totalMarks": 512,
+      "rank": 55
+    },
+    {
+      "name": "ABHIRAM K S",
+      "rollNo": "23126234",
+      "group": "COMMERCE",
+      "totalMarks": 501,
+      "rank": 56
+    },
+    {
+      "name": "PRAVEEN BABU",
+      "rollNo": "23126247",
+      "group": "COMMERCE",
+      "totalMarks": 495,
+      "rank": 57
+    },
+    {
+      "name": "VISHNU GOVINDARAJ",
+      "rollNo": "23126255",
+      "group": "COMMERCE",
+      "totalMarks": 495,
+      "rank": 57
+    },
+    {
+      "name": "SEBIN VINOD",
+      "rollNo": "23126250",
+      "group": "COMMERCE",
+      "totalMarks": 494,
+      "rank": 59
+    },
+    {
+      "name": "MUHAMMAD SHABIN EASA",
+      "rollNo": "23126245",
+      "group": "COMMERCE",
+      "totalMarks": 483,
+      "rank": 60
+    },
+    {
+      "name": "ALEN PRAMOD",
+      "rollNo": "23126268",
+      "group": "COMMERCE",
+      "totalMarks": 459,
+      "rank": 61
+    },
+    {
+      "name": "ADITHIYAN RAMESH",
+      "rollNo": "23126267",
+      "group": "COMMERCE",
+      "totalMarks": 417,
+      "rank": 62
+    },
+    {
+      "name": "UNNIKRISHNAN REVI",
+      "rollNo": "23126254",
+      "group": "COMMERCE",
+      "totalMarks": 411,
+      "rank": 63
+    },
+    {
+      "name": "NACHIKETHASS.T.A",
+      "rollNo": "23126270",
+      "group": "COMMERCE",
+      "totalMarks": 405,
+      "rank": 64
+    }
+  ]
+}

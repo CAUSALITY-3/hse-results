@@ -1,1889 +1,2574 @@
-[
-  {
-    "rollNo": "22029320",
-    "regular": false,
-    "name": "KAJAL JANITH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026301",
-    "regular": true,
-    "name": "ARUN DAS L",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026302",
-    "regular": true,
-    "name": "J S GOVARDHAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026303",
-    "regular": true,
-    "name": "NAHEEL NOUSHAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026304",
-    "regular": true,
-    "name": "NITHIN S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026305",
-    "regular": true,
-    "name": "VINEETH NAIR A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026306",
-    "regular": true,
-    "name": "VISHNU VINOD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026307",
-    "regular": true,
-    "name": "AASHNA SHAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026308",
-    "regular": true,
-    "name": "ADHITHYA VINESH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026309",
-    "regular": true,
-    "name": "AKSHAYAA DEEPKUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026310",
-    "regular": true,
-    "name": "AMANNA NOWSHAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026311",
-    "regular": true,
-    "name": "ARAMIYA R AJITH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026312",
-    "regular": true,
-    "name": "ASMA ASAF",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026313",
-    "regular": true,
-    "name": "AYSHA NISAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026314",
-    "regular": true,
-    "name": "GOURI S KUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026315",
-    "regular": true,
-    "name": "HIBA SHAJIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026316",
-    "regular": true,
-    "name": "HIDAYA AFSAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026317",
-    "regular": true,
-    "name": "JINZA NUJUM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026318",
-    "regular": true,
-    "name": "KRISHNA SUDHAKAR M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026319",
-    "regular": true,
-    "name": "NEHRIN RASEEF",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026320",
-    "regular": true,
-    "name": "PAVITHRA RAJAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 170
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026321",
-    "regular": true,
-    "name": "RAMSEENA I",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026322",
-    "regular": true,
-    "name": "SANGEETHA D S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026323",
-    "regular": true,
-    "name": "SHABINA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026324",
-    "regular": true,
-    "name": "SHASINA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026325",
-    "regular": true,
-    "name": "ABHISHEK S A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026326",
-    "regular": true,
-    "name": "ADITH ANISH SURYA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026327",
-    "regular": true,
-    "name": "AL AMEEN S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026328",
-    "regular": true,
-    "name": "AL RAYAN FAMI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026329",
-    "regular": true,
-    "name": "FAHAD S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 143
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026330",
-    "regular": true,
-    "name": "KRISHNA B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026331",
-    "regular": true,
-    "name": "MANAV JAYAKUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026332",
-    "regular": true,
-    "name": "MOHAMED NABEEL M R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026333",
-    "regular": true,
-    "name": "MUHAMMED ASHISH A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 129
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026334",
-    "regular": true,
-    "name": "MUHAMMED TAWFIQ NISHAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026335",
-    "regular": true,
-    "name": "RISHIT THABESH NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 187
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026336",
-    "regular": true,
-    "name": "SOORYA A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026337",
-    "regular": true,
-    "name": "AADITHYA S ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026338",
-    "regular": true,
-    "name": "ABHIRAMI BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026339",
-    "regular": true,
-    "name": "ANANDI S S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026340",
-    "regular": true,
-    "name": "ARYA ROY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026341",
-    "regular": true,
-    "name": "ARYASREE K L",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026342",
-    "regular": true,
-    "name": "FATHIMA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 134
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026343",
-    "regular": true,
-    "name": "GAYATHRI RAJEEV",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026344",
-    "regular": true,
-    "name": "HESSA HASHIM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026345",
-    "regular": true,
-    "name": "MAHA A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 176
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026346",
-    "regular": true,
-    "name": "MANEESHA B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026347",
-    "regular": true,
-    "name": "SAINABA THANSEEL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026348",
-    "regular": true,
-    "name": "SARA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026349",
-    "regular": true,
-    "name": "SREYA A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23026350",
-    "regular": true,
-    "name": "SUHANA SIYAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 143
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "1115",
+  "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+  "phoneNo": "0470-2660156",
+  "emailId": "edavalittleflower@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "EdavaChirayinkeezhu",
+  "eduDistrict": "Attingal",
+  "assemblyConstituency": "Varkala",
+  "courseCode": "1",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "THIRUVANANTHAPURAM",
+  "results": [
+    {
+      "rollNo": "23026301",
+      "regular": true,
+      "name": "ARUN DAS L",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 853,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026302",
+      "regular": true,
+      "name": "J S GOVARDHAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 939,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026303",
+      "regular": true,
+      "name": "NAHEEL NOUSHAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 926,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026304",
+      "regular": true,
+      "name": "NITHIN S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 893,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026305",
+      "regular": true,
+      "name": "VINEETH NAIR A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 918,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026306",
+      "regular": true,
+      "name": "VISHNU VINOD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1066,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026307",
+      "regular": true,
+      "name": "AASHNA SHAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1156,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23026308",
+      "regular": true,
+      "name": "ADHITHYA VINESH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1144,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026309",
+      "regular": true,
+      "name": "AKSHAYAA DEEPKUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 914,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026310",
+      "regular": true,
+      "name": "AMANNA NOWSHAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 928,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026311",
+      "regular": true,
+      "name": "ARAMIYA R AJITH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 872,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026312",
+      "regular": true,
+      "name": "ASMA ASAF",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 954,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026313",
+      "regular": true,
+      "name": "AYSHA NISAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1033,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026314",
+      "regular": true,
+      "name": "GOURI S KUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 817,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026315",
+      "regular": true,
+      "name": "HIBA SHAJIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1091,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026316",
+      "regular": true,
+      "name": "HIDAYA AFSAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1084,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026317",
+      "regular": true,
+      "name": "JINZA NUJUM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 901,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026318",
+      "regular": true,
+      "name": "KRISHNA SUDHAKAR M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1070,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026319",
+      "regular": true,
+      "name": "NEHRIN RASEEF",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1111,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026320",
+      "regular": true,
+      "name": "PAVITHRA RAJAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 170
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1045,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026321",
+      "regular": true,
+      "name": "RAMSEENA I",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 148
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 888,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026322",
+      "regular": true,
+      "name": "SANGEETHA D S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 836,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026323",
+      "regular": true,
+      "name": "SHABINA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1048,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026324",
+      "regular": true,
+      "name": "SHASINA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1086,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026325",
+      "regular": true,
+      "name": "ABHISHEK S A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1173,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23026326",
+      "regular": true,
+      "name": "ADITH ANISH SURYA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1063,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026327",
+      "regular": true,
+      "name": "AL AMEEN S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 903,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026328",
+      "regular": true,
+      "name": "AL RAYAN FAMI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 915,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026329",
+      "regular": true,
+      "name": "FAHAD S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 143
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 800,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026330",
+      "regular": true,
+      "name": "KRISHNA B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1082,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026331",
+      "regular": true,
+      "name": "MANAV JAYAKUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1168,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23026332",
+      "regular": true,
+      "name": "MOHAMED NABEEL M R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1123,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026333",
+      "regular": true,
+      "name": "MUHAMMED ASHISH A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 129
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 867,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026334",
+      "regular": true,
+      "name": "MUHAMMED TAWFIQ NISHAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 892,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026335",
+      "regular": true,
+      "name": "RISHIT THABESH NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 187
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1114,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23026336",
+      "regular": true,
+      "name": "SOORYA A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 751,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026337",
+      "regular": true,
+      "name": "AADITHYA S ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1034,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026338",
+      "regular": true,
+      "name": "ABHIRAMI BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1151,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23026339",
+      "regular": true,
+      "name": "ANANDI S S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1150,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23026340",
+      "regular": true,
+      "name": "ARYA ROY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1110,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026341",
+      "regular": true,
+      "name": "ARYASREE K L",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 943,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026342",
+      "regular": true,
+      "name": "FATHIMA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 134
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 915,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026343",
+      "regular": true,
+      "name": "GAYATHRI RAJEEV",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 904,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026344",
+      "regular": true,
+      "name": "HESSA HASHIM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1113,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23026345",
+      "regular": true,
+      "name": "MAHA A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 176
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 1059,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026346",
+      "regular": true,
+      "name": "MANEESHA B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 926,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026347",
+      "regular": true,
+      "name": "SAINABA THANSEEL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 955,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026348",
+      "regular": true,
+      "name": "SARA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 912,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026349",
+      "regular": true,
+      "name": "SREYA A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 923,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23026350",
+      "regular": true,
+      "name": "SUHANA SIYAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 143
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 956,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22029320",
+      "regular": false,
+      "name": "KAJAL JANITH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "LITTLE FLOWER EM HSS, EDAVA, TVM, clubbed to 01028, 695311",
+      "schoolCode": "1115",
+      "totalMarks": 111,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 100,
+  "totalFullAp": 7,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "AASHNA SHAN (23026307) - SCIENCE",
+    "ABHISHEK S A (23026325) - SCIENCE",
+    "MANAV JAYAKUMAR (23026331) - SCIENCE",
+    "RISHIT THABESH NAIR (23026335) - SCIENCE",
+    "ABHIRAMI BIJU (23026338) - SCIENCE",
+    "ANANDI S S (23026339) - SCIENCE",
+    "HESSA HASHIM (23026344) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "ABHISHEK S A",
+      "rollNo": "23026325",
+      "group": "SCIENCE",
+      "totalMarks": 1173,
+      "rank": 1
+    },
+    {
+      "name": "MANAV JAYAKUMAR",
+      "rollNo": "23026331",
+      "group": "SCIENCE",
+      "totalMarks": 1168,
+      "rank": 2
+    },
+    {
+      "name": "AASHNA SHAN",
+      "rollNo": "23026307",
+      "group": "SCIENCE",
+      "totalMarks": 1156,
+      "rank": 3
+    },
+    {
+      "name": "ABHIRAMI BIJU",
+      "rollNo": "23026338",
+      "group": "SCIENCE",
+      "totalMarks": 1151,
+      "rank": 4
+    },
+    {
+      "name": "ANANDI S S",
+      "rollNo": "23026339",
+      "group": "SCIENCE",
+      "totalMarks": 1150,
+      "rank": 5
+    },
+    {
+      "name": "ADHITHYA VINESH",
+      "rollNo": "23026308",
+      "group": "SCIENCE",
+      "totalMarks": 1144,
+      "rank": 6
+    },
+    {
+      "name": "MOHAMED NABEEL M R",
+      "rollNo": "23026332",
+      "group": "SCIENCE",
+      "totalMarks": 1123,
+      "rank": 7
+    },
+    {
+      "name": "RISHIT THABESH NAIR",
+      "rollNo": "23026335",
+      "group": "SCIENCE",
+      "totalMarks": 1114,
+      "rank": 8
+    },
+    {
+      "name": "HESSA HASHIM",
+      "rollNo": "23026344",
+      "group": "SCIENCE",
+      "totalMarks": 1113,
+      "rank": 9
+    },
+    {
+      "name": "NEHRIN RASEEF",
+      "rollNo": "23026319",
+      "group": "SCIENCE",
+      "totalMarks": 1111,
+      "rank": 10
+    },
+    {
+      "name": "ARYA ROY",
+      "rollNo": "23026340",
+      "group": "SCIENCE",
+      "totalMarks": 1110,
+      "rank": 11
+    },
+    {
+      "name": "HIBA SHAJIR",
+      "rollNo": "23026315",
+      "group": "SCIENCE",
+      "totalMarks": 1091,
+      "rank": 12
+    },
+    {
+      "name": "SHASINA S",
+      "rollNo": "23026324",
+      "group": "SCIENCE",
+      "totalMarks": 1086,
+      "rank": 13
+    },
+    {
+      "name": "HIDAYA AFSAL",
+      "rollNo": "23026316",
+      "group": "SCIENCE",
+      "totalMarks": 1084,
+      "rank": 14
+    },
+    {
+      "name": "KRISHNA B",
+      "rollNo": "23026330",
+      "group": "SCIENCE",
+      "totalMarks": 1082,
+      "rank": 15
+    },
+    {
+      "name": "KRISHNA SUDHAKAR M",
+      "rollNo": "23026318",
+      "group": "SCIENCE",
+      "totalMarks": 1070,
+      "rank": 16
+    },
+    {
+      "name": "VISHNU VINOD",
+      "rollNo": "23026306",
+      "group": "SCIENCE",
+      "totalMarks": 1066,
+      "rank": 17
+    },
+    {
+      "name": "ADITH ANISH SURYA",
+      "rollNo": "23026326",
+      "group": "SCIENCE",
+      "totalMarks": 1063,
+      "rank": 18
+    },
+    {
+      "name": "MAHA A",
+      "rollNo": "23026345",
+      "group": "SCIENCE",
+      "totalMarks": 1059,
+      "rank": 19
+    },
+    {
+      "name": "SHABINA S",
+      "rollNo": "23026323",
+      "group": "SCIENCE",
+      "totalMarks": 1048,
+      "rank": 20
+    },
+    {
+      "name": "PAVITHRA RAJAN",
+      "rollNo": "23026320",
+      "group": "SCIENCE",
+      "totalMarks": 1045,
+      "rank": 21
+    },
+    {
+      "name": "AADITHYA S ANIL",
+      "rollNo": "23026337",
+      "group": "SCIENCE",
+      "totalMarks": 1034,
+      "rank": 22
+    },
+    {
+      "name": "AYSHA NISAR",
+      "rollNo": "23026313",
+      "group": "SCIENCE",
+      "totalMarks": 1033,
+      "rank": 23
+    },
+    {
+      "name": "SUHANA SIYAD",
+      "rollNo": "23026350",
+      "group": "SCIENCE",
+      "totalMarks": 956,
+      "rank": 24
+    },
+    {
+      "name": "SAINABA THANSEEL",
+      "rollNo": "23026347",
+      "group": "SCIENCE",
+      "totalMarks": 955,
+      "rank": 25
+    },
+    {
+      "name": "ASMA ASAF",
+      "rollNo": "23026312",
+      "group": "SCIENCE",
+      "totalMarks": 954,
+      "rank": 26
+    },
+    {
+      "name": "ARYASREE K L",
+      "rollNo": "23026341",
+      "group": "SCIENCE",
+      "totalMarks": 943,
+      "rank": 27
+    },
+    {
+      "name": "J S GOVARDHAN",
+      "rollNo": "23026302",
+      "group": "SCIENCE",
+      "totalMarks": 939,
+      "rank": 28
+    },
+    {
+      "name": "AMANNA NOWSHAD",
+      "rollNo": "23026310",
+      "group": "SCIENCE",
+      "totalMarks": 928,
+      "rank": 29
+    },
+    {
+      "name": "NAHEEL NOUSHAD",
+      "rollNo": "23026303",
+      "group": "SCIENCE",
+      "totalMarks": 926,
+      "rank": 30
+    },
+    {
+      "name": "MANEESHA B",
+      "rollNo": "23026346",
+      "group": "SCIENCE",
+      "totalMarks": 926,
+      "rank": 30
+    },
+    {
+      "name": "SREYA A S",
+      "rollNo": "23026349",
+      "group": "SCIENCE",
+      "totalMarks": 923,
+      "rank": 32
+    },
+    {
+      "name": "VINEETH NAIR A",
+      "rollNo": "23026305",
+      "group": "SCIENCE",
+      "totalMarks": 918,
+      "rank": 33
+    },
+    {
+      "name": "AL RAYAN FAMI",
+      "rollNo": "23026328",
+      "group": "SCIENCE",
+      "totalMarks": 915,
+      "rank": 34
+    },
+    {
+      "name": "FATHIMA S",
+      "rollNo": "23026342",
+      "group": "SCIENCE",
+      "totalMarks": 915,
+      "rank": 34
+    },
+    {
+      "name": "AKSHAYAA DEEPKUMAR",
+      "rollNo": "23026309",
+      "group": "SCIENCE",
+      "totalMarks": 914,
+      "rank": 36
+    },
+    {
+      "name": "SARA",
+      "rollNo": "23026348",
+      "group": "SCIENCE",
+      "totalMarks": 912,
+      "rank": 37
+    },
+    {
+      "name": "GAYATHRI RAJEEV",
+      "rollNo": "23026343",
+      "group": "SCIENCE",
+      "totalMarks": 904,
+      "rank": 38
+    },
+    {
+      "name": "AL AMEEN S",
+      "rollNo": "23026327",
+      "group": "SCIENCE",
+      "totalMarks": 903,
+      "rank": 39
+    },
+    {
+      "name": "JINZA NUJUM",
+      "rollNo": "23026317",
+      "group": "SCIENCE",
+      "totalMarks": 901,
+      "rank": 40
+    },
+    {
+      "name": "NITHIN S",
+      "rollNo": "23026304",
+      "group": "SCIENCE",
+      "totalMarks": 893,
+      "rank": 41
+    },
+    {
+      "name": "MUHAMMED TAWFIQ NISHAD",
+      "rollNo": "23026334",
+      "group": "SCIENCE",
+      "totalMarks": 892,
+      "rank": 42
+    },
+    {
+      "name": "RAMSEENA I",
+      "rollNo": "23026321",
+      "group": "SCIENCE",
+      "totalMarks": 888,
+      "rank": 43
+    },
+    {
+      "name": "ARAMIYA R AJITH",
+      "rollNo": "23026311",
+      "group": "SCIENCE",
+      "totalMarks": 872,
+      "rank": 44
+    },
+    {
+      "name": "MUHAMMED ASHISH A",
+      "rollNo": "23026333",
+      "group": "SCIENCE",
+      "totalMarks": 867,
+      "rank": 45
+    },
+    {
+      "name": "ARUN DAS L",
+      "rollNo": "23026301",
+      "group": "SCIENCE",
+      "totalMarks": 853,
+      "rank": 46
+    },
+    {
+      "name": "SANGEETHA D S",
+      "rollNo": "23026322",
+      "group": "SCIENCE",
+      "totalMarks": 836,
+      "rank": 47
+    },
+    {
+      "name": "GOURI S KUMAR",
+      "rollNo": "23026314",
+      "group": "SCIENCE",
+      "totalMarks": 817,
+      "rank": 48
+    },
+    {
+      "name": "FAHAD S",
+      "rollNo": "23026329",
+      "group": "SCIENCE",
+      "totalMarks": 800,
+      "rank": 49
+    },
+    {
+      "name": "SOORYA A S",
+      "rollNo": "23026336",
+      "group": "SCIENCE",
+      "totalMarks": 751,
+      "rank": 50
+    }
+  ]
+}

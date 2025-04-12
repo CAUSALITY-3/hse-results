@@ -1,779 +1,1076 @@
-[
-  {
-    "rollNo": "23307578",
-    "regular": true,
-    "name": "SHAIMA SIDHICK C",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 152
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342804",
-    "regular": true,
-    "name": "A N NEHLA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 163
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342805",
-    "regular": true,
-    "name": "A V SHIFILA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342806",
-    "regular": true,
-    "name": "ALMAZ RUSHDA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 169
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342807",
-    "regular": true,
-    "name": "FIDHA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342808",
-    "regular": true,
-    "name": "FIDHA E M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342809",
-    "regular": true,
-    "name": "MISIRIYA K S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342810",
-    "regular": true,
-    "name": "RUMAISA V EASA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342811",
-    "regular": true,
-    "name": "ANSIYA HAMEED",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 153
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342812",
-    "regular": true,
-    "name": "FATHIMA HIDHA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 168
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342813",
-    "regular": true,
-    "name": "HIBA NASRIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342814",
-    "regular": true,
-    "name": "MARVA BINTH K M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342815",
-    "regular": true,
-    "name": "NADHA FARIH P N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342816",
-    "regular": true,
-    "name": "NAJTHA M M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342817",
-    "regular": true,
-    "name": "NIHA FATHIMA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342818",
-    "regular": true,
-    "name": "SHERIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342819",
-    "regular": true,
-    "name": "MOHAMMED FAYIZ",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342820",
-    "regular": true,
-    "name": "HANA K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342821",
-    "regular": true,
-    "name": "HIBA M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23342822",
-    "regular": true,
-    "name": "SHIRIN FATHIMA .I.M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 88
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23503063",
-    "regular": true,
-    "name": "ANAL KRISHNA A M",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 55
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 64
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "11186",
+  "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+  "phoneNo": "8593990022",
+  "emailId": "info.azhareducation@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "MarancheryPonnani",
+  "eduDistrict": "Tirur",
+  "assemblyConstituency": "Ponnani",
+  "courseCode": "1,11,38",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "3,1",
+  "district": "MALAPPURAM",
+  "results": [
+    {
+      "rollNo": "23307578",
+      "regular": true,
+      "name": "SHAIMA SIDHICK C",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 152
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 992,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342804",
+      "regular": true,
+      "name": "A N NEHLA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 163
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 906,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342805",
+      "regular": true,
+      "name": "A V SHIFILA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1102,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342806",
+      "regular": true,
+      "name": "ALMAZ RUSHDA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 169
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1051,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342807",
+      "regular": true,
+      "name": "FIDHA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1037,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342808",
+      "regular": true,
+      "name": "FIDHA E M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1186,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23342809",
+      "regular": true,
+      "name": "MISIRIYA K S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1126,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342810",
+      "regular": true,
+      "name": "RUMAISA V EASA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1022,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342811",
+      "regular": true,
+      "name": "ANSIYA HAMEED",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 153
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 921,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342812",
+      "regular": true,
+      "name": "FATHIMA HIDHA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 168
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 983,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342813",
+      "regular": true,
+      "name": "HIBA NASRIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1111,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342814",
+      "regular": true,
+      "name": "MARVA BINTH K M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1119,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342815",
+      "regular": true,
+      "name": "NADHA FARIH P N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1166,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23342816",
+      "regular": true,
+      "name": "NAJTHA M M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1109,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342817",
+      "regular": true,
+      "name": "NIHA FATHIMA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 930,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342818",
+      "regular": true,
+      "name": "SHERIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1097,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342819",
+      "regular": true,
+      "name": "MOHAMMED FAYIZ",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 768,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342820",
+      "regular": true,
+      "name": "HANA K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 1094,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342821",
+      "regular": true,
+      "name": "HIBA M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 720,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23342822",
+      "regular": true,
+      "name": "SHIRIN FATHIMA .I.M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 88
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 581,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23503063",
+      "regular": true,
+      "name": "ANAL KRISHNA A M",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 55
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 64
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "AZHAR EM HSS, Maranchery, MPM,Ist year only, club to 11129 NEC, 679581",
+      "schoolCode": "11186",
+      "totalMarks": 197,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 90.48,
+  "totalFullAp": 2,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "FIDHA E M (23342808) - SCIENCE",
+    "NADHA FARIH P N (23342815) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "FIDHA E M",
+      "rollNo": "23342808",
+      "group": "SCIENCE",
+      "totalMarks": 1186,
+      "rank": 1
+    },
+    {
+      "name": "NADHA FARIH P N",
+      "rollNo": "23342815",
+      "group": "SCIENCE",
+      "totalMarks": 1166,
+      "rank": 2
+    },
+    {
+      "name": "MISIRIYA K S",
+      "rollNo": "23342809",
+      "group": "SCIENCE",
+      "totalMarks": 1126,
+      "rank": 3
+    },
+    {
+      "name": "MARVA BINTH K M",
+      "rollNo": "23342814",
+      "group": "SCIENCE",
+      "totalMarks": 1119,
+      "rank": 4
+    },
+    {
+      "name": "HIBA NASRIN",
+      "rollNo": "23342813",
+      "group": "SCIENCE",
+      "totalMarks": 1111,
+      "rank": 5
+    },
+    {
+      "name": "NAJTHA M M",
+      "rollNo": "23342816",
+      "group": "SCIENCE",
+      "totalMarks": 1109,
+      "rank": 6
+    },
+    {
+      "name": "A V SHIFILA",
+      "rollNo": "23342805",
+      "group": "SCIENCE",
+      "totalMarks": 1102,
+      "rank": 7
+    },
+    {
+      "name": "SHERIN",
+      "rollNo": "23342818",
+      "group": "SCIENCE",
+      "totalMarks": 1097,
+      "rank": 8
+    },
+    {
+      "name": "HANA K",
+      "rollNo": "23342820",
+      "group": "COMMERCE",
+      "totalMarks": 1094,
+      "rank": 9
+    },
+    {
+      "name": "ALMAZ RUSHDA",
+      "rollNo": "23342806",
+      "group": "SCIENCE",
+      "totalMarks": 1051,
+      "rank": 10
+    },
+    {
+      "name": "FIDHA",
+      "rollNo": "23342807",
+      "group": "SCIENCE",
+      "totalMarks": 1037,
+      "rank": 11
+    },
+    {
+      "name": "RUMAISA V EASA",
+      "rollNo": "23342810",
+      "group": "SCIENCE",
+      "totalMarks": 1022,
+      "rank": 12
+    },
+    {
+      "name": "SHAIMA SIDHICK C",
+      "rollNo": "23307578",
+      "group": "SCIENCE",
+      "totalMarks": 992,
+      "rank": 13
+    },
+    {
+      "name": "FATHIMA HIDHA",
+      "rollNo": "23342812",
+      "group": "SCIENCE",
+      "totalMarks": 983,
+      "rank": 14
+    },
+    {
+      "name": "NIHA FATHIMA",
+      "rollNo": "23342817",
+      "group": "SCIENCE",
+      "totalMarks": 930,
+      "rank": 15
+    },
+    {
+      "name": "ANSIYA HAMEED",
+      "rollNo": "23342811",
+      "group": "SCIENCE",
+      "totalMarks": 921,
+      "rank": 16
+    },
+    {
+      "name": "A N NEHLA",
+      "rollNo": "23342804",
+      "group": "SCIENCE",
+      "totalMarks": 906,
+      "rank": 17
+    },
+    {
+      "name": "MOHAMMED FAYIZ",
+      "rollNo": "23342819",
+      "group": "COMMERCE",
+      "totalMarks": 768,
+      "rank": 18
+    },
+    {
+      "name": "HIBA M",
+      "rollNo": "23342821",
+      "group": "COMMERCE",
+      "totalMarks": 720,
+      "rank": 19
+    },
+    {
+      "name": "SHIRIN FATHIMA .I.M",
+      "rollNo": "23342822",
+      "group": "COMMERCE",
+      "totalMarks": 581,
+      "rank": 20
+    },
+    {
+      "name": "ANAL KRISHNA A M",
+      "rollNo": "23503063",
+      "group": "HUMANITIES",
+      "totalMarks": 197,
+      "rank": 21
+    }
+  ]
+}

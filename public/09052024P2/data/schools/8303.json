@@ -1,927 +1,1276 @@
-[
-  {
-    "rollNo": "23196834",
-    "regular": true,
-    "name": "ADWAITH M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196835",
-    "regular": true,
-    "name": "ALAN C F",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196836",
-    "regular": true,
-    "name": "AMAL JOE ROBERT",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196837",
-    "regular": true,
-    "name": "ASIF P S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 96
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196838",
-    "regular": true,
-    "name": "ASWIN KRISHNA . V . U",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196839",
-    "regular": true,
-    "name": "NIRANJAN V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196840",
-    "regular": true,
-    "name": "ANEENA M M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 179
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196841",
-    "regular": true,
-    "name": "ANILA  A J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196842",
-    "regular": true,
-    "name": "ANN  MARIA JEO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196843",
-    "regular": true,
-    "name": "JIYA MARY K J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196844",
-    "regular": true,
-    "name": "NIVEDITHA V",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196845",
-    "regular": true,
-    "name": "ABHINAND C A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196846",
-    "regular": true,
-    "name": "ABHISHEK K K",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196847",
-    "regular": true,
-    "name": "BUVANA KRISHNA V B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196848",
-    "regular": true,
-    "name": "ABHIJITH V P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196849",
-    "regular": true,
-    "name": "ANOSH C J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 189
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196850",
-    "regular": true,
-    "name": "CHRISTY PAULSON T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196851",
-    "regular": true,
-    "name": "CLINS THOMAS CHACKO",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196852",
-    "regular": true,
-    "name": "FRANCIS SHAJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 155
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196853",
-    "regular": true,
-    "name": "MINHAJ P H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196854",
-    "regular": true,
-    "name": "MUHAMMAD AFSAL A B",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196855",
-    "regular": true,
-    "name": "ANJALIKRISHNA K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196856",
-    "regular": true,
-    "name": "M RADHIKA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196857",
-    "regular": true,
-    "name": "AMALKRISHNA  M.M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196858",
-    "regular": true,
-    "name": "SHAHAZAD M S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "8303",
+  "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+  "phoneNo": "04885243148",
+  "emailId": "assisi235@yahoo.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Choondalkunnamkulam",
+  "eduDistrict": "Chavakkad",
+  "assemblyConstituency": "Manalur",
+  "courseCode": "1,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "THRISSUR",
+  "results": [
+    {
+      "rollNo": "23196834",
+      "regular": true,
+      "name": "ADWAITH M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1072,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196835",
+      "regular": true,
+      "name": "ALAN C F",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 845,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196836",
+      "regular": true,
+      "name": "AMAL JOE ROBERT",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1071,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196837",
+      "regular": true,
+      "name": "ASIF P S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 96
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 738,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196838",
+      "regular": true,
+      "name": "ASWIN KRISHNA . V . U",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1002,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196839",
+      "regular": true,
+      "name": "NIRANJAN V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 827,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196840",
+      "regular": true,
+      "name": "ANEENA M M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 179
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1015,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196841",
+      "regular": true,
+      "name": "ANILA A J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1114,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196842",
+      "regular": true,
+      "name": "ANN MARIA JEO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1155,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23196843",
+      "regular": true,
+      "name": "JIYA MARY K J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1125,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196844",
+      "regular": true,
+      "name": "NIVEDITHA V",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 941,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196845",
+      "regular": true,
+      "name": "ABHINAND C A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 890,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196846",
+      "regular": true,
+      "name": "ABHISHEK K K",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 864,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196847",
+      "regular": true,
+      "name": "BUVANA KRISHNA V B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1085,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196848",
+      "regular": true,
+      "name": "ABHIJITH V P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 822,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196849",
+      "regular": true,
+      "name": "ANOSH C J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 189
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1057,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196850",
+      "regular": true,
+      "name": "CHRISTY PAULSON T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1002,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196851",
+      "regular": true,
+      "name": "CLINS THOMAS CHACKO",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1134,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196852",
+      "regular": true,
+      "name": "FRANCIS SHAJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 155
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 888,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196853",
+      "regular": true,
+      "name": "MINHAJ P H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 777,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196854",
+      "regular": true,
+      "name": "MUHAMMAD AFSAL A B",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 921,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196855",
+      "regular": true,
+      "name": "ANJALIKRISHNA K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1086,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196856",
+      "regular": true,
+      "name": "M RADHIKA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1165,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23196857",
+      "regular": true,
+      "name": "AMALKRISHNA M.M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1011,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196858",
+      "regular": true,
+      "name": "SHAHAZAD M S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 195
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "ASSISSI EM HIGHER SECONDARY SCHOOL, THALAKKOTTUKKARA",
+      "schoolCode": "8303",
+      "totalMarks": 1131,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 96,
+  "totalFullAp": 2,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "ANN MARIA JEO (23196842) - SCIENCE",
+    "M RADHIKA (23196856) - COMMERCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "M RADHIKA",
+      "rollNo": "23196856",
+      "group": "COMMERCE",
+      "totalMarks": 1165,
+      "rank": 1
+    },
+    {
+      "name": "ANN MARIA JEO",
+      "rollNo": "23196842",
+      "group": "SCIENCE",
+      "totalMarks": 1155,
+      "rank": 2
+    },
+    {
+      "name": "CLINS THOMAS CHACKO",
+      "rollNo": "23196851",
+      "group": "COMMERCE",
+      "totalMarks": 1134,
+      "rank": 3
+    },
+    {
+      "name": "SHAHAZAD M S",
+      "rollNo": "23196858",
+      "group": "COMMERCE",
+      "totalMarks": 1131,
+      "rank": 4
+    },
+    {
+      "name": "JIYA MARY K J",
+      "rollNo": "23196843",
+      "group": "SCIENCE",
+      "totalMarks": 1125,
+      "rank": 5
+    },
+    {
+      "name": "ANILA A J",
+      "rollNo": "23196841",
+      "group": "SCIENCE",
+      "totalMarks": 1114,
+      "rank": 6
+    },
+    {
+      "name": "ANJALIKRISHNA K S",
+      "rollNo": "23196855",
+      "group": "COMMERCE",
+      "totalMarks": 1086,
+      "rank": 7
+    },
+    {
+      "name": "BUVANA KRISHNA V B",
+      "rollNo": "23196847",
+      "group": "SCIENCE",
+      "totalMarks": 1085,
+      "rank": 8
+    },
+    {
+      "name": "ADWAITH M",
+      "rollNo": "23196834",
+      "group": "SCIENCE",
+      "totalMarks": 1072,
+      "rank": 9
+    },
+    {
+      "name": "AMAL JOE ROBERT",
+      "rollNo": "23196836",
+      "group": "SCIENCE",
+      "totalMarks": 1071,
+      "rank": 10
+    },
+    {
+      "name": "ANOSH C J",
+      "rollNo": "23196849",
+      "group": "COMMERCE",
+      "totalMarks": 1057,
+      "rank": 11
+    },
+    {
+      "name": "ANEENA M M",
+      "rollNo": "23196840",
+      "group": "SCIENCE",
+      "totalMarks": 1015,
+      "rank": 12
+    },
+    {
+      "name": "AMALKRISHNA M.M",
+      "rollNo": "23196857",
+      "group": "COMMERCE",
+      "totalMarks": 1011,
+      "rank": 13
+    },
+    {
+      "name": "ASWIN KRISHNA . V . U",
+      "rollNo": "23196838",
+      "group": "SCIENCE",
+      "totalMarks": 1002,
+      "rank": 14
+    },
+    {
+      "name": "CHRISTY PAULSON T",
+      "rollNo": "23196850",
+      "group": "COMMERCE",
+      "totalMarks": 1002,
+      "rank": 14
+    },
+    {
+      "name": "NIVEDITHA V",
+      "rollNo": "23196844",
+      "group": "SCIENCE",
+      "totalMarks": 941,
+      "rank": 16
+    },
+    {
+      "name": "MUHAMMAD AFSAL A B",
+      "rollNo": "23196854",
+      "group": "COMMERCE",
+      "totalMarks": 921,
+      "rank": 17
+    },
+    {
+      "name": "ABHINAND C A",
+      "rollNo": "23196845",
+      "group": "SCIENCE",
+      "totalMarks": 890,
+      "rank": 18
+    },
+    {
+      "name": "FRANCIS SHAJU",
+      "rollNo": "23196852",
+      "group": "COMMERCE",
+      "totalMarks": 888,
+      "rank": 19
+    },
+    {
+      "name": "ABHISHEK K K",
+      "rollNo": "23196846",
+      "group": "SCIENCE",
+      "totalMarks": 864,
+      "rank": 20
+    },
+    {
+      "name": "ALAN C F",
+      "rollNo": "23196835",
+      "group": "SCIENCE",
+      "totalMarks": 845,
+      "rank": 21
+    },
+    {
+      "name": "NIRANJAN V",
+      "rollNo": "23196839",
+      "group": "SCIENCE",
+      "totalMarks": 827,
+      "rank": 22
+    },
+    {
+      "name": "ABHIJITH V P",
+      "rollNo": "23196848",
+      "group": "COMMERCE",
+      "totalMarks": 822,
+      "rank": 23
+    },
+    {
+      "name": "MINHAJ P H",
+      "rollNo": "23196853",
+      "group": "COMMERCE",
+      "totalMarks": 777,
+      "rank": 24
+    },
+    {
+      "name": "ASIF P S",
+      "rollNo": "23196837",
+      "group": "SCIENCE",
+      "totalMarks": 738,
+      "rank": 25
+    }
+  ]
+}

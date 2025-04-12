@@ -1,1852 +1,2533 @@
-[
-  {
-    "rollNo": "23090829",
-    "regular": true,
-    "name": "BLESSAN BENNY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090830",
-    "regular": true,
-    "name": "DISHANT BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 134
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090831",
-    "regular": true,
-    "name": "FARZIN S AHAMED",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090832",
-    "regular": true,
-    "name": "JINSON JOSEY JOSEPH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23090833",
-    "regular": true,
-    "name": "JOEL THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090834",
-    "regular": true,
-    "name": "JOYEL MATHEW P BIJU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090835",
-    "regular": true,
-    "name": "MELBIN SCARIA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090836",
-    "regular": true,
-    "name": "MUHAMMED HAMDAN U",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090837",
-    "regular": true,
-    "name": "PRANAV C BABU",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090838",
-    "regular": true,
-    "name": "SHUHAIB. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090839",
-    "regular": true,
-    "name": "SWAGATH S NAIR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 177
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090840",
-    "regular": true,
-    "name": "VICTOR JOSEPH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090841",
-    "regular": true,
-    "name": "AARDRA S LEKSHMI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 98
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23090842",
-    "regular": true,
-    "name": "AKHILA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 174
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090843",
-    "regular": true,
-    "name": "ALLU SHAFEEK",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 149
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090844",
-    "regular": true,
-    "name": "ANILA ANTONY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090845",
-    "regular": true,
-    "name": "ANN MARIA SUBIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090846",
-    "regular": true,
-    "name": "ANUGRAHA NANDAKUMAR",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090847",
-    "regular": true,
-    "name": "ASHLY B. ELIZABATH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090848",
-    "regular": true,
-    "name": "ASNA FATHIMA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090849",
-    "regular": true,
-    "name": "DURGA SUNIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 152
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090850",
-    "regular": true,
-    "name": "GOWRI MENON J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090851",
-    "regular": true,
-    "name": "JISA JIJO",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 177
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090852",
-    "regular": true,
-    "name": "JOYCE JOJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090853",
-    "regular": true,
-    "name": "KRISHNA PRIYA . M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090854",
-    "regular": true,
-    "name": "MARIA VARGHESE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090855",
-    "regular": true,
-    "name": "MUHSINA FAIZAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 177
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090856",
-    "regular": true,
-    "name": "NAVYA SEBASTIAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090857",
-    "regular": true,
-    "name": "NAYANA THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090858",
-    "regular": true,
-    "name": "NUSAFA",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 178
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090859",
-    "regular": true,
-    "name": "RIFANA THAJUDHEEN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 191
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090860",
-    "regular": true,
-    "name": "SAFA MEHARUDEEN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090861",
-    "regular": true,
-    "name": "SANIYA SOLOMAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090862",
-    "regular": true,
-    "name": "ABDUL ASEES . H",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090863",
-    "regular": true,
-    "name": "AJMAL SUDHEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090864",
-    "regular": true,
-    "name": "AMAL MUJEEB",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090865",
-    "regular": true,
-    "name": "ANSHU SONI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090866",
-    "regular": true,
-    "name": "JEFFIN JAISON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090867",
-    "regular": true,
-    "name": "JOEL THOMAS MATHEW",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090868",
-    "regular": true,
-    "name": "MILAN ANTONY CRUZ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090869",
-    "regular": true,
-    "name": "SOORAJ MANI . R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090870",
-    "regular": true,
-    "name": "AMALA GRACE THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090871",
-    "regular": true,
-    "name": "ESHA B. S.",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 139
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090872",
-    "regular": true,
-    "name": "JADE FERNANDEZ",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090873",
-    "regular": true,
-    "name": "LIYA CLEETUS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090874",
-    "regular": true,
-    "name": "MERIN JOSEPH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090875",
-    "regular": true,
-    "name": "MERIN MARTIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090876",
-    "regular": true,
-    "name": "SANIYA SIBI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 174
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090877",
-    "regular": true,
-    "name": "SINDA TRESSA JOSEPH",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 175
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23090878",
-    "regular": true,
-    "name": "SREENANDA RAJEEV",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 183
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "4078",
+  "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+  "phoneNo": "0477-2261145",
+  "emailId": "carmelacadem08@rediffmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Alappuzha(M)Ambalappuzha",
+  "eduDistrict": "Alappuzha",
+  "assemblyConstituency": "Ambalapuzha",
+  "courseCode": "1",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "ALAPPUZHA",
+  "results": [
+    {
+      "rollNo": "23090829",
+      "regular": true,
+      "name": "BLESSAN BENNY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 942,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090830",
+      "regular": true,
+      "name": "DISHANT BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 134
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 962,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090831",
+      "regular": true,
+      "name": "FARZIN S AHAMED",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 797,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090832",
+      "regular": true,
+      "name": "JINSON JOSEY JOSEPH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 831,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090833",
+      "regular": true,
+      "name": "JOEL THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1141,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090834",
+      "regular": true,
+      "name": "JOYEL MATHEW P BIJU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 985,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090835",
+      "regular": true,
+      "name": "MELBIN SCARIA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 942,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090836",
+      "regular": true,
+      "name": "MUHAMMED HAMDAN U",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 832,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090837",
+      "regular": true,
+      "name": "PRANAV C BABU",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 986,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090838",
+      "regular": true,
+      "name": "SHUHAIB. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 908,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090839",
+      "regular": true,
+      "name": "SWAGATH S NAIR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 177
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 953,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090840",
+      "regular": true,
+      "name": "VICTOR JOSEPH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 802,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090841",
+      "regular": true,
+      "name": "AARDRA S LEKSHMI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 109
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 98
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 832,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090842",
+      "regular": true,
+      "name": "AKHILA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 174
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1021,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090843",
+      "regular": true,
+      "name": "ALLU SHAFEEK",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 149
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 931,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090844",
+      "regular": true,
+      "name": "ANILA ANTONY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 908,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090845",
+      "regular": true,
+      "name": "ANN MARIA SUBIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1036,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090846",
+      "regular": true,
+      "name": "ANUGRAHA NANDAKUMAR",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1175,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090847",
+      "regular": true,
+      "name": "ASHLY B. ELIZABATH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1155,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090848",
+      "regular": true,
+      "name": "ASNA FATHIMA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 961,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090849",
+      "regular": true,
+      "name": "DURGA SUNIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 152
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 889,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090850",
+      "regular": true,
+      "name": "GOWRI MENON J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1141,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090851",
+      "regular": true,
+      "name": "JISA JIJO",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 177
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1014,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090852",
+      "regular": true,
+      "name": "JOYCE JOJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 946,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090853",
+      "regular": true,
+      "name": "KRISHNA PRIYA . M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1119,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090854",
+      "regular": true,
+      "name": "MARIA VARGHESE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 895,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090855",
+      "regular": true,
+      "name": "MUHSINA FAIZAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 177
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1100,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090856",
+      "regular": true,
+      "name": "NAVYA SEBASTIAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 994,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090857",
+      "regular": true,
+      "name": "NAYANA THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 901,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090858",
+      "regular": true,
+      "name": "NUSAFA",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 178
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1089,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090859",
+      "regular": true,
+      "name": "RIFANA THAJUDHEEN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 191
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1141,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090860",
+      "regular": true,
+      "name": "SAFA MEHARUDEEN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1119,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090861",
+      "regular": true,
+      "name": "SANIYA SOLOMAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1164,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090862",
+      "regular": true,
+      "name": "ABDUL ASEES . H",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 957,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090863",
+      "regular": true,
+      "name": "AJMAL SUDHEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 181
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1098,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090864",
+      "regular": true,
+      "name": "AMAL MUJEEB",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 892,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090865",
+      "regular": true,
+      "name": "ANSHU SONI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 936,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090866",
+      "regular": true,
+      "name": "JEFFIN JAISON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 194
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1163,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090867",
+      "regular": true,
+      "name": "JOEL THOMAS MATHEW",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 193
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1176,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090868",
+      "regular": true,
+      "name": "MILAN ANTONY CRUZ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 760,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090869",
+      "regular": true,
+      "name": "SOORAJ MANI . R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1141,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090870",
+      "regular": true,
+      "name": "AMALA GRACE THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 185
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1104,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090871",
+      "regular": true,
+      "name": "ESHA B. S.",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 139
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 817,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090872",
+      "regular": true,
+      "name": "JADE FERNANDEZ",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1177,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23090873",
+      "regular": true,
+      "name": "LIYA CLEETUS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 906,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090874",
+      "regular": true,
+      "name": "MERIN JOSEPH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1013,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090875",
+      "regular": true,
+      "name": "MERIN MARTIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 937,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090876",
+      "regular": true,
+      "name": "SANIYA SIBI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 174
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 986,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090877",
+      "regular": true,
+      "name": "SINDA TRESSA JOSEPH",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 175
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1021,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23090878",
+      "regular": true,
+      "name": "SREENANDA RAJEEV",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 183
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CARMEL ACADEMY EM HSS, PAZHAVANGADY, ALAPPUZHA, 688011",
+      "schoolCode": "4078",
+      "totalMarks": 1108,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 96,
+  "totalFullAp": 9,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "JOEL THOMAS (23090833) - SCIENCE",
+    "ANUGRAHA NANDAKUMAR (23090846) - SCIENCE",
+    "ASHLY B. ELIZABATH (23090847) - SCIENCE",
+    "KRISHNA PRIYA . M (23090853) - SCIENCE",
+    "RIFANA THAJUDHEEN (23090859) - SCIENCE",
+    "SANIYA SOLOMAN (23090861) - SCIENCE",
+    "JEFFIN JAISON (23090866) - SCIENCE",
+    "JOEL THOMAS MATHEW (23090867) - SCIENCE",
+    "JADE FERNANDEZ (23090872) - SCIENCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "JADE FERNANDEZ",
+      "rollNo": "23090872",
+      "group": "SCIENCE",
+      "totalMarks": 1177,
+      "rank": 1
+    },
+    {
+      "name": "JOEL THOMAS MATHEW",
+      "rollNo": "23090867",
+      "group": "SCIENCE",
+      "totalMarks": 1176,
+      "rank": 2
+    },
+    {
+      "name": "ANUGRAHA NANDAKUMAR",
+      "rollNo": "23090846",
+      "group": "SCIENCE",
+      "totalMarks": 1175,
+      "rank": 3
+    },
+    {
+      "name": "SANIYA SOLOMAN",
+      "rollNo": "23090861",
+      "group": "SCIENCE",
+      "totalMarks": 1164,
+      "rank": 4
+    },
+    {
+      "name": "JEFFIN JAISON",
+      "rollNo": "23090866",
+      "group": "SCIENCE",
+      "totalMarks": 1163,
+      "rank": 5
+    },
+    {
+      "name": "ASHLY B. ELIZABATH",
+      "rollNo": "23090847",
+      "group": "SCIENCE",
+      "totalMarks": 1155,
+      "rank": 6
+    },
+    {
+      "name": "RIFANA THAJUDHEEN",
+      "rollNo": "23090859",
+      "group": "SCIENCE",
+      "totalMarks": 1141,
+      "rank": 7
+    },
+    {
+      "name": "JOEL THOMAS",
+      "rollNo": "23090833",
+      "group": "SCIENCE",
+      "totalMarks": 1141,
+      "rank": 7
+    },
+    {
+      "name": "GOWRI MENON J",
+      "rollNo": "23090850",
+      "group": "SCIENCE",
+      "totalMarks": 1141,
+      "rank": 7
+    },
+    {
+      "name": "SOORAJ MANI . R",
+      "rollNo": "23090869",
+      "group": "SCIENCE",
+      "totalMarks": 1141,
+      "rank": 7
+    },
+    {
+      "name": "KRISHNA PRIYA . M",
+      "rollNo": "23090853",
+      "group": "SCIENCE",
+      "totalMarks": 1119,
+      "rank": 11
+    },
+    {
+      "name": "SAFA MEHARUDEEN",
+      "rollNo": "23090860",
+      "group": "SCIENCE",
+      "totalMarks": 1119,
+      "rank": 11
+    },
+    {
+      "name": "SREENANDA RAJEEV",
+      "rollNo": "23090878",
+      "group": "SCIENCE",
+      "totalMarks": 1108,
+      "rank": 13
+    },
+    {
+      "name": "AMALA GRACE THOMAS",
+      "rollNo": "23090870",
+      "group": "SCIENCE",
+      "totalMarks": 1104,
+      "rank": 14
+    },
+    {
+      "name": "MUHSINA FAIZAL",
+      "rollNo": "23090855",
+      "group": "SCIENCE",
+      "totalMarks": 1100,
+      "rank": 15
+    },
+    {
+      "name": "AJMAL SUDHEER",
+      "rollNo": "23090863",
+      "group": "SCIENCE",
+      "totalMarks": 1098,
+      "rank": 16
+    },
+    {
+      "name": "NUSAFA",
+      "rollNo": "23090858",
+      "group": "SCIENCE",
+      "totalMarks": 1089,
+      "rank": 17
+    },
+    {
+      "name": "ANN MARIA SUBIN",
+      "rollNo": "23090845",
+      "group": "SCIENCE",
+      "totalMarks": 1036,
+      "rank": 18
+    },
+    {
+      "name": "AKHILA S",
+      "rollNo": "23090842",
+      "group": "SCIENCE",
+      "totalMarks": 1021,
+      "rank": 19
+    },
+    {
+      "name": "SINDA TRESSA JOSEPH",
+      "rollNo": "23090877",
+      "group": "SCIENCE",
+      "totalMarks": 1021,
+      "rank": 19
+    },
+    {
+      "name": "JISA JIJO",
+      "rollNo": "23090851",
+      "group": "SCIENCE",
+      "totalMarks": 1014,
+      "rank": 21
+    },
+    {
+      "name": "MERIN JOSEPH",
+      "rollNo": "23090874",
+      "group": "SCIENCE",
+      "totalMarks": 1013,
+      "rank": 22
+    },
+    {
+      "name": "NAVYA SEBASTIAN",
+      "rollNo": "23090856",
+      "group": "SCIENCE",
+      "totalMarks": 994,
+      "rank": 23
+    },
+    {
+      "name": "SANIYA SIBI",
+      "rollNo": "23090876",
+      "group": "SCIENCE",
+      "totalMarks": 986,
+      "rank": 24
+    },
+    {
+      "name": "PRANAV C BABU",
+      "rollNo": "23090837",
+      "group": "SCIENCE",
+      "totalMarks": 986,
+      "rank": 24
+    },
+    {
+      "name": "JOYEL MATHEW P BIJU",
+      "rollNo": "23090834",
+      "group": "SCIENCE",
+      "totalMarks": 985,
+      "rank": 26
+    },
+    {
+      "name": "DISHANT BIJU",
+      "rollNo": "23090830",
+      "group": "SCIENCE",
+      "totalMarks": 962,
+      "rank": 27
+    },
+    {
+      "name": "ASNA FATHIMA",
+      "rollNo": "23090848",
+      "group": "SCIENCE",
+      "totalMarks": 961,
+      "rank": 28
+    },
+    {
+      "name": "ABDUL ASEES . H",
+      "rollNo": "23090862",
+      "group": "SCIENCE",
+      "totalMarks": 957,
+      "rank": 29
+    },
+    {
+      "name": "SWAGATH S NAIR",
+      "rollNo": "23090839",
+      "group": "SCIENCE",
+      "totalMarks": 953,
+      "rank": 30
+    },
+    {
+      "name": "JOYCE JOJI",
+      "rollNo": "23090852",
+      "group": "SCIENCE",
+      "totalMarks": 946,
+      "rank": 31
+    },
+    {
+      "name": "BLESSAN BENNY",
+      "rollNo": "23090829",
+      "group": "SCIENCE",
+      "totalMarks": 942,
+      "rank": 32
+    },
+    {
+      "name": "MELBIN SCARIA",
+      "rollNo": "23090835",
+      "group": "SCIENCE",
+      "totalMarks": 942,
+      "rank": 32
+    },
+    {
+      "name": "MERIN MARTIN",
+      "rollNo": "23090875",
+      "group": "SCIENCE",
+      "totalMarks": 937,
+      "rank": 34
+    },
+    {
+      "name": "ANSHU SONI",
+      "rollNo": "23090865",
+      "group": "SCIENCE",
+      "totalMarks": 936,
+      "rank": 35
+    },
+    {
+      "name": "ALLU SHAFEEK",
+      "rollNo": "23090843",
+      "group": "SCIENCE",
+      "totalMarks": 931,
+      "rank": 36
+    },
+    {
+      "name": "ANILA ANTONY",
+      "rollNo": "23090844",
+      "group": "SCIENCE",
+      "totalMarks": 908,
+      "rank": 37
+    },
+    {
+      "name": "SHUHAIB. S",
+      "rollNo": "23090838",
+      "group": "SCIENCE",
+      "totalMarks": 908,
+      "rank": 37
+    },
+    {
+      "name": "LIYA CLEETUS",
+      "rollNo": "23090873",
+      "group": "SCIENCE",
+      "totalMarks": 906,
+      "rank": 39
+    },
+    {
+      "name": "NAYANA THOMAS",
+      "rollNo": "23090857",
+      "group": "SCIENCE",
+      "totalMarks": 901,
+      "rank": 40
+    },
+    {
+      "name": "MARIA VARGHESE",
+      "rollNo": "23090854",
+      "group": "SCIENCE",
+      "totalMarks": 895,
+      "rank": 41
+    },
+    {
+      "name": "AMAL MUJEEB",
+      "rollNo": "23090864",
+      "group": "SCIENCE",
+      "totalMarks": 892,
+      "rank": 42
+    },
+    {
+      "name": "DURGA SUNIL",
+      "rollNo": "23090849",
+      "group": "SCIENCE",
+      "totalMarks": 889,
+      "rank": 43
+    },
+    {
+      "name": "AARDRA S LEKSHMI",
+      "rollNo": "23090841",
+      "group": "SCIENCE",
+      "totalMarks": 832,
+      "rank": 44
+    },
+    {
+      "name": "MUHAMMED HAMDAN U",
+      "rollNo": "23090836",
+      "group": "SCIENCE",
+      "totalMarks": 832,
+      "rank": 44
+    },
+    {
+      "name": "JINSON JOSEY JOSEPH",
+      "rollNo": "23090832",
+      "group": "SCIENCE",
+      "totalMarks": 831,
+      "rank": 46
+    },
+    {
+      "name": "ESHA B. S.",
+      "rollNo": "23090871",
+      "group": "SCIENCE",
+      "totalMarks": 817,
+      "rank": 47
+    },
+    {
+      "name": "VICTOR JOSEPH",
+      "rollNo": "23090840",
+      "group": "SCIENCE",
+      "totalMarks": 802,
+      "rank": 48
+    },
+    {
+      "name": "FARZIN S AHAMED",
+      "rollNo": "23090831",
+      "group": "SCIENCE",
+      "totalMarks": 797,
+      "rank": 49
+    },
+    {
+      "name": "MILAN ANTONY CRUZ",
+      "rollNo": "23090868",
+      "group": "SCIENCE",
+      "totalMarks": 760,
+      "rank": 50
+    }
+  ]
+}

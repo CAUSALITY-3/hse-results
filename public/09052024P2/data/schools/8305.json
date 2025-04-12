@@ -1,1408 +1,1916 @@
-[
-  {
-    "rollNo": "22197952",
-    "regular": false,
-    "name": "SAHLA M P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196882",
-    "regular": true,
-    "name": "MUHAMMED FAZIL. V. T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 93
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196883",
-    "regular": true,
-    "name": "SAVAN KRISHNA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196884",
-    "regular": true,
-    "name": "SREERAG K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 159
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196885",
-    "regular": true,
-    "name": "FIDHA P V",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196886",
-    "regular": true,
-    "name": "SHAFNA ASHARAF",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196887",
-    "regular": true,
-    "name": "ADIL FAIZAL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 104
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196888",
-    "regular": true,
-    "name": "MOHAMED RISHAN RASHEED",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196889",
-    "regular": true,
-    "name": "MOHAMMED SULTHAN K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196890",
-    "regular": true,
-    "name": "MUHAMMED HISAN M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196891",
-    "regular": true,
-    "name": "MUHAMMED SHINAS. P.T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196892",
-    "regular": true,
-    "name": "AFRA P A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 98
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196893",
-    "regular": true,
-    "name": "AJITHA M R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 95
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196894",
-    "regular": true,
-    "name": "ANJALA SHABNAM K J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196895",
-    "regular": true,
-    "name": "AYISHA M M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196896",
-    "regular": true,
-    "name": "AYISHATHU NAFIA D K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 89
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196897",
-    "regular": true,
-    "name": "BENSHA SHERIN V K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 67
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 83
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196898",
-    "regular": true,
-    "name": "DHILNA ABOOBACKER",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 102
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196899",
-    "regular": true,
-    "name": "FARZANA T F",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 49
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 52
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 77
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196901",
-    "regular": true,
-    "name": "FATHIMA NASRIN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196902",
-    "regular": true,
-    "name": "FIDHA M M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 54
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 74
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196903",
-    "regular": true,
-    "name": "FIDHA P B",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 89
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196904",
-    "regular": true,
-    "name": "HADIYA BATHOOL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196905",
-    "regular": true,
-    "name": "HADIYA V U",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196906",
-    "regular": true,
-    "name": "HASNA K U",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196907",
-    "regular": true,
-    "name": "HASNA SHERIN K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 76
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196908",
-    "regular": true,
-    "name": "HIBA LATHEEF L P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196909",
-    "regular": true,
-    "name": "HISANA K H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 99
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196910",
-    "regular": true,
-    "name": "IRFANA SHARIN T",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196911",
-    "regular": true,
-    "name": "NAFEESA RIFA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196912",
-    "regular": true,
-    "name": "NUFAISA N F",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 179
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196913",
-    "regular": true,
-    "name": "RAFA V A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196914",
-    "regular": true,
-    "name": "RAIHANA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196915",
-    "regular": true,
-    "name": "RISWANA K B",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C",
-      "marks": 87
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196917",
-    "regular": true,
-    "name": "SANA SHAREEF",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23196918",
-    "regular": true,
-    "name": "SHAHNA M K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 73
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196919",
-    "regular": true,
-    "name": "SHAMNA M M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 71
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "D",
-      "marks": 79
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23196920",
-    "regular": true,
-    "name": "SWALIHA SHERIN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject6": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 158
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "8305",
+  "schoolName": "IDCE HSS, Orumanayur",
+  "phoneNo": "04872508895",
+  "emailId": "idcschool@yahoo.com",
+  "schoolType": "Un-Aided",
+  "localBody": "OrumanayoorChavakkad",
+  "eduDistrict": "Chavakkad",
+  "assemblyConstituency": "Guruvayoor",
+  "courseCode": "5,38",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "3,1",
+  "district": "THRISSUR",
+  "results": [
+    {
+      "rollNo": "23196882",
+      "regular": true,
+      "name": "MUHAMMED FAZIL. V. T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 93
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 545,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196883",
+      "regular": true,
+      "name": "SAVAN KRISHNA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 692,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196884",
+      "regular": true,
+      "name": "SREERAG K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 159
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 877,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196885",
+      "regular": true,
+      "name": "FIDHA P V",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 712,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196886",
+      "regular": true,
+      "name": "SHAFNA ASHARAF",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 719,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196887",
+      "regular": true,
+      "name": "ADIL FAIZAL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 104
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 650,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196888",
+      "regular": true,
+      "name": "MOHAMED RISHAN RASHEED",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 860,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196889",
+      "regular": true,
+      "name": "MOHAMMED SULTHAN K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 645,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196890",
+      "regular": true,
+      "name": "MUHAMMED HISAN M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 884,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196891",
+      "regular": true,
+      "name": "MUHAMMED SHINAS. P.T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 651,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196892",
+      "regular": true,
+      "name": "AFRA P A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 98
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 570,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196893",
+      "regular": true,
+      "name": "AJITHA M R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 95
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 646,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196894",
+      "regular": true,
+      "name": "ANJALA SHABNAM K J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 705,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196895",
+      "regular": true,
+      "name": "AYISHA M M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 815,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196896",
+      "regular": true,
+      "name": "AYISHATHU NAFIA D K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 89
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 572,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196897",
+      "regular": true,
+      "name": "BENSHA SHERIN V K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 67
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 83
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 544,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196898",
+      "regular": true,
+      "name": "DHILNA ABOOBACKER",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 102
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 622,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196899",
+      "regular": true,
+      "name": "FARZANA T F",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 49
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 77
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 435,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196901",
+      "regular": true,
+      "name": "FATHIMA NASRIN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 826,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196902",
+      "regular": true,
+      "name": "FIDHA M M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 54
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 74
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 455,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196903",
+      "regular": true,
+      "name": "FIDHA P B",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 89
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 695,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196904",
+      "regular": true,
+      "name": "HADIYA BATHOOL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 924,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196905",
+      "regular": true,
+      "name": "HADIYA V U",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 844,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196906",
+      "regular": true,
+      "name": "HASNA K U",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 1026,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196907",
+      "regular": true,
+      "name": "HASNA SHERIN K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 76
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 561,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196908",
+      "regular": true,
+      "name": "HIBA LATHEEF L P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 799,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196909",
+      "regular": true,
+      "name": "HISANA K H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 99
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 679,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196910",
+      "regular": true,
+      "name": "IRFANA SHARIN T",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 740,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196911",
+      "regular": true,
+      "name": "NAFEESA RIFA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 775,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196912",
+      "regular": true,
+      "name": "NUFAISA N F",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 179
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 1113,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196913",
+      "regular": true,
+      "name": "RAFA V A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 743,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196914",
+      "regular": true,
+      "name": "RAIHANA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 690,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196915",
+      "regular": true,
+      "name": "RISWANA K B",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C",
+          "marks": 87
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196917",
+      "regular": true,
+      "name": "SANA SHAREEF",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 1008,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196918",
+      "regular": true,
+      "name": "SHAHNA M K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 633,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196919",
+      "regular": true,
+      "name": "SHAMNA M M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 71
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "D",
+          "marks": 79
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 555,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23196920",
+      "regular": true,
+      "name": "SWALIHA SHERIN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 158
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 988,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22197952",
+      "regular": false,
+      "name": "SAHLA M P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "IDCE HSS, Orumanayur",
+      "schoolCode": "8305",
+      "totalMarks": 170,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 70.27,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "NUFAISA N F",
+      "rollNo": "23196912",
+      "group": "COMMERCE",
+      "totalMarks": 1113,
+      "rank": 1
+    },
+    {
+      "name": "HASNA K U",
+      "rollNo": "23196906",
+      "group": "COMMERCE",
+      "totalMarks": 1026,
+      "rank": 2
+    },
+    {
+      "name": "SANA SHAREEF",
+      "rollNo": "23196917",
+      "group": "COMMERCE",
+      "totalMarks": 1008,
+      "rank": 3
+    },
+    {
+      "name": "SWALIHA SHERIN",
+      "rollNo": "23196920",
+      "group": "COMMERCE",
+      "totalMarks": 988,
+      "rank": 4
+    },
+    {
+      "name": "HADIYA BATHOOL",
+      "rollNo": "23196904",
+      "group": "COMMERCE",
+      "totalMarks": 924,
+      "rank": 5
+    },
+    {
+      "name": "MUHAMMED HISAN M",
+      "rollNo": "23196890",
+      "group": "COMMERCE",
+      "totalMarks": 884,
+      "rank": 6
+    },
+    {
+      "name": "SREERAG K S",
+      "rollNo": "23196884",
+      "group": "COMMERCE",
+      "totalMarks": 877,
+      "rank": 7
+    },
+    {
+      "name": "MOHAMED RISHAN RASHEED",
+      "rollNo": "23196888",
+      "group": "COMMERCE",
+      "totalMarks": 860,
+      "rank": 8
+    },
+    {
+      "name": "HADIYA V U",
+      "rollNo": "23196905",
+      "group": "COMMERCE",
+      "totalMarks": 844,
+      "rank": 9
+    },
+    {
+      "name": "FATHIMA NASRIN",
+      "rollNo": "23196901",
+      "group": "COMMERCE",
+      "totalMarks": 826,
+      "rank": 10
+    },
+    {
+      "name": "AYISHA M M",
+      "rollNo": "23196895",
+      "group": "COMMERCE",
+      "totalMarks": 815,
+      "rank": 11
+    },
+    {
+      "name": "HIBA LATHEEF L P",
+      "rollNo": "23196908",
+      "group": "COMMERCE",
+      "totalMarks": 799,
+      "rank": 12
+    },
+    {
+      "name": "NAFEESA RIFA",
+      "rollNo": "23196911",
+      "group": "COMMERCE",
+      "totalMarks": 775,
+      "rank": 13
+    },
+    {
+      "name": "RAFA V A",
+      "rollNo": "23196913",
+      "group": "COMMERCE",
+      "totalMarks": 743,
+      "rank": 14
+    },
+    {
+      "name": "IRFANA SHARIN T",
+      "rollNo": "23196910",
+      "group": "COMMERCE",
+      "totalMarks": 740,
+      "rank": 15
+    },
+    {
+      "name": "SHAFNA ASHARAF",
+      "rollNo": "23196886",
+      "group": "COMMERCE",
+      "totalMarks": 719,
+      "rank": 16
+    },
+    {
+      "name": "FIDHA P V",
+      "rollNo": "23196885",
+      "group": "COMMERCE",
+      "totalMarks": 712,
+      "rank": 17
+    },
+    {
+      "name": "ANJALA SHABNAM K J",
+      "rollNo": "23196894",
+      "group": "COMMERCE",
+      "totalMarks": 705,
+      "rank": 18
+    },
+    {
+      "name": "RISWANA K B",
+      "rollNo": "23196915",
+      "group": "COMMERCE",
+      "totalMarks": 697,
+      "rank": 19
+    },
+    {
+      "name": "FIDHA P B",
+      "rollNo": "23196903",
+      "group": "COMMERCE",
+      "totalMarks": 695,
+      "rank": 20
+    },
+    {
+      "name": "SAVAN KRISHNA",
+      "rollNo": "23196883",
+      "group": "COMMERCE",
+      "totalMarks": 692,
+      "rank": 21
+    },
+    {
+      "name": "RAIHANA",
+      "rollNo": "23196914",
+      "group": "COMMERCE",
+      "totalMarks": 690,
+      "rank": 22
+    },
+    {
+      "name": "HISANA K H",
+      "rollNo": "23196909",
+      "group": "COMMERCE",
+      "totalMarks": 679,
+      "rank": 23
+    },
+    {
+      "name": "MUHAMMED SHINAS. P.T",
+      "rollNo": "23196891",
+      "group": "COMMERCE",
+      "totalMarks": 651,
+      "rank": 24
+    },
+    {
+      "name": "ADIL FAIZAL",
+      "rollNo": "23196887",
+      "group": "COMMERCE",
+      "totalMarks": 650,
+      "rank": 25
+    },
+    {
+      "name": "AJITHA M R",
+      "rollNo": "23196893",
+      "group": "COMMERCE",
+      "totalMarks": 646,
+      "rank": 26
+    },
+    {
+      "name": "MOHAMMED SULTHAN K",
+      "rollNo": "23196889",
+      "group": "COMMERCE",
+      "totalMarks": 645,
+      "rank": 27
+    },
+    {
+      "name": "SHAHNA M K",
+      "rollNo": "23196918",
+      "group": "COMMERCE",
+      "totalMarks": 633,
+      "rank": 28
+    },
+    {
+      "name": "DHILNA ABOOBACKER",
+      "rollNo": "23196898",
+      "group": "COMMERCE",
+      "totalMarks": 622,
+      "rank": 29
+    },
+    {
+      "name": "AYISHATHU NAFIA D K",
+      "rollNo": "23196896",
+      "group": "COMMERCE",
+      "totalMarks": 572,
+      "rank": 30
+    },
+    {
+      "name": "AFRA P A",
+      "rollNo": "23196892",
+      "group": "COMMERCE",
+      "totalMarks": 570,
+      "rank": 31
+    },
+    {
+      "name": "HASNA SHERIN K",
+      "rollNo": "23196907",
+      "group": "COMMERCE",
+      "totalMarks": 561,
+      "rank": 32
+    },
+    {
+      "name": "SHAMNA M M",
+      "rollNo": "23196919",
+      "group": "COMMERCE",
+      "totalMarks": 555,
+      "rank": 33
+    },
+    {
+      "name": "MUHAMMED FAZIL. V. T",
+      "rollNo": "23196882",
+      "group": "COMMERCE",
+      "totalMarks": 545,
+      "rank": 34
+    },
+    {
+      "name": "BENSHA SHERIN V K",
+      "rollNo": "23196897",
+      "group": "COMMERCE",
+      "totalMarks": 544,
+      "rank": 35
+    },
+    {
+      "name": "FIDHA M M",
+      "rollNo": "23196902",
+      "group": "COMMERCE",
+      "totalMarks": 455,
+      "rank": 36
+    },
+    {
+      "name": "FARZANA T F",
+      "rollNo": "23196899",
+      "group": "COMMERCE",
+      "totalMarks": 435,
+      "rank": 37
+    }
+  ]
+}

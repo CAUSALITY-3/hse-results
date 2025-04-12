@@ -1,520 +1,723 @@
-[
-  {
-    "rollNo": "23056476",
-    "regular": true,
-    "name": "ALWIN C ALEX",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23056477",
-    "regular": true,
-    "name": "SHARON VARGHESE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 116
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056479",
-    "regular": true,
-    "name": "JASMI SAMUEL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23056480",
-    "regular": true,
-    "name": "ALEXES C SUNIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23056481",
-    "regular": true,
-    "name": "AMAL DEV S P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23056482",
-    "regular": true,
-    "name": "JIBIN SAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056483",
-    "regular": true,
-    "name": "JUAN SAJI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056484",
-    "regular": true,
-    "name": "ROSHIK.S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056485",
-    "regular": true,
-    "name": "SHARON S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056486",
-    "regular": true,
-    "name": "THOMAS C MATHEW",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23056487",
-    "regular": true,
-    "name": "ANDREENA ANNU ANIL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056488",
-    "regular": true,
-    "name": "ANNA SIMON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 176
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056489",
-    "regular": true,
-    "name": "JOSNA THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23056490",
-    "regular": true,
-    "name": "LEKSHMI.J.S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "2089",
+  "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+  "phoneNo": "04742585062",
+  "emailId": "41046kollam@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "East KalladaKollam",
+  "eduDistrict": "Kollam",
+  "assemblyConstituency": "Kundara",
+  "courseCode": "1,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "KOLLAM",
+  "results": [
+    {
+      "rollNo": "23056476",
+      "regular": true,
+      "name": "ALWIN C ALEX",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 112
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 777,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056477",
+      "regular": true,
+      "name": "SHARON VARGHESE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 116
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 810,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056479",
+      "regular": true,
+      "name": "JASMI SAMUEL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 112
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 713,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056480",
+      "regular": true,
+      "name": "ALEXES C SUNIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 108
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 692,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056481",
+      "regular": true,
+      "name": "AMAL DEV S P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 664,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056482",
+      "regular": true,
+      "name": "JIBIN SAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 790,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056483",
+      "regular": true,
+      "name": "JUAN SAJI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 837,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056484",
+      "regular": true,
+      "name": "ROSHIK.S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 841,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056485",
+      "regular": true,
+      "name": "SHARON S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 798,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056486",
+      "regular": true,
+      "name": "THOMAS C MATHEW",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 108
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 670,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056487",
+      "regular": true,
+      "name": "ANDREENA ANNU ANIL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 842,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056488",
+      "regular": true,
+      "name": "ANNA SIMON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 176
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 1084,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056489",
+      "regular": true,
+      "name": "JOSNA THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 833,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23056490",
+      "regular": true,
+      "name": "LEKSHMI.J.S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "MOUNT CARMEL EM HSS, MATHILAKOM, KOLLAM, 691502",
+      "schoolCode": "2089",
+      "totalMarks": 774,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 64.29,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "ANNA SIMON",
+      "rollNo": "23056488",
+      "group": "SCIENCE",
+      "totalMarks": 1084,
+      "rank": 1
+    },
+    {
+      "name": "ANDREENA ANNU ANIL",
+      "rollNo": "23056487",
+      "group": "SCIENCE",
+      "totalMarks": 842,
+      "rank": 2
+    },
+    {
+      "name": "ROSHIK.S",
+      "rollNo": "23056484",
+      "group": "SCIENCE",
+      "totalMarks": 841,
+      "rank": 3
+    },
+    {
+      "name": "JUAN SAJI",
+      "rollNo": "23056483",
+      "group": "SCIENCE",
+      "totalMarks": 837,
+      "rank": 4
+    },
+    {
+      "name": "JOSNA THOMAS",
+      "rollNo": "23056489",
+      "group": "SCIENCE",
+      "totalMarks": 833,
+      "rank": 5
+    },
+    {
+      "name": "SHARON VARGHESE",
+      "rollNo": "23056477",
+      "group": "SCIENCE",
+      "totalMarks": 810,
+      "rank": 6
+    },
+    {
+      "name": "SHARON S",
+      "rollNo": "23056485",
+      "group": "SCIENCE",
+      "totalMarks": 798,
+      "rank": 7
+    },
+    {
+      "name": "JIBIN SAJI",
+      "rollNo": "23056482",
+      "group": "SCIENCE",
+      "totalMarks": 790,
+      "rank": 8
+    },
+    {
+      "name": "ALWIN C ALEX",
+      "rollNo": "23056476",
+      "group": "SCIENCE",
+      "totalMarks": 777,
+      "rank": 9
+    },
+    {
+      "name": "LEKSHMI.J.S",
+      "rollNo": "23056490",
+      "group": "SCIENCE",
+      "totalMarks": 774,
+      "rank": 10
+    },
+    {
+      "name": "JASMI SAMUEL",
+      "rollNo": "23056479",
+      "group": "SCIENCE",
+      "totalMarks": 713,
+      "rank": 11
+    },
+    {
+      "name": "ALEXES C SUNIL",
+      "rollNo": "23056480",
+      "group": "SCIENCE",
+      "totalMarks": 692,
+      "rank": 12
+    },
+    {
+      "name": "THOMAS C MATHEW",
+      "rollNo": "23056486",
+      "group": "SCIENCE",
+      "totalMarks": 670,
+      "rank": 13
+    },
+    {
+      "name": "AMAL DEV S P",
+      "rollNo": "23056481",
+      "group": "SCIENCE",
+      "totalMarks": 664,
+      "rank": 14
+    }
+  ]
+}

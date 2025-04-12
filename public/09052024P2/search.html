@@ -72,7 +72,7 @@
                 filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%);
             }
 
-            #search-go {
+            /* #search-go {
                 position: absolute;
                 right: 10px;
                 top: 50%;
@@ -81,13 +81,13 @@
                 height: 25px;
                 padding: 5px;
                 border-radius: 3px;
-                display: none;
-                /* filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%); */
-            }
+                display: none; */
+            /* filter: invert(34%) sepia(97%) saturate(65%) hue-rotate(178deg) brightness(89%) contrast(85%); */
+            /* } */
 
-            #search-go:hover {
+            /* #search-go:hover {
                 background-color: #4e4e4e;
-            }
+            } */
 
             #search-response {
                 margin: 7px 0 0 0;
@@ -197,7 +197,8 @@
         <div id="individual-school-route-container">
             <div id="individual-route-title">Student Search</div>
             <div id="school-search-route" hx-get="/static/09052024P2/schoolSearch.html" hx-swap="outerHTML"
-                hx-target="#search-page" hx-select="#school-search-page">School Wise 🡺</div>
+                hx-target="#search-page" hx-select="#school-search-page" hx-push-url="?searchType=school">School Wise 🡺
+            </div>
         </div>
 
         <div class="input-container">
@@ -209,11 +210,11 @@
                         hx-trigger="keyup[keyCode==13 && this.value.length === 8 && !isNaN(this.value)]"
                         placeholder="Enter your name or roll number">
                     <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
-                    <img id="search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]" hx-swap="outerHTML"
+                    <!-- <img id="search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]" hx-swap="outerHTML"
                         hx-select="#index-page" hx-target="#search-page"
                         hx-vals='js:{ nameOrRollNo: document.getElementById("nameOrRollNo").value }'
                         src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c0c0c0' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 12h12M12 6l6 6-6 6'/></svg>"
-                        alt="Right Arrow">
+                        alt="Right Arrow"> -->
 
 
                 </div>
@@ -350,14 +351,14 @@
                     const inputValue = inputField.value.trim();
                     if (inputValue?.length >= 3) {
                         if (!isNaN(inputValue)) {
-                            let startSearchBtn = document.getElementById('search-go');
-                            console.log('Roll No:', Number(inputValue), inputValue.length);
-                            if (inputValue.length === 8) {
+                            // let startSearchBtn = document.getElementById('search-go');
+                            // console.log('Roll No:', Number(inputValue), inputValue.length);
+                            // if (inputValue.length === 8) {
 
-                                startSearchBtn.style.display = 'inline';
-                            } else {
-                                startSearchBtn.style.display = 'none';
-                            }
+                            //     startSearchBtn.style.display = 'inline';
+                            // } else {
+                            //     startSearchBtn.style.display = 'none';
+                            // }
 
                         } else {
                             if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
@@ -391,7 +392,15 @@
             } catch (e) {
                 console.log(e)
             }
-
+            document.body.addEventListener("htmx:afterSwap", function (evt) {
+                // Only act on a specific target if needed
+                if (evt.target.id === "search-page") {
+                    const currentURL = window.location.pathname;
+                    const newURL = currentURL.substring(0, currentURL.lastIndexOf("/search/")) + "/search";
+                    // Update the URL in the address bar without reloading the page
+                    window.history.pushState({}, "", newURL);
+                }
+            });
         </script>
     </div>
 </body>

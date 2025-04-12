@@ -1,594 +1,823 @@
-[
-  {
-    "rollNo": "23187921",
-    "regular": true,
-    "name": "ANZIL V A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 64
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 85
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 80
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187922",
-    "regular": true,
-    "name": "MOHAMMED RISUVAN M R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 44
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 73
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187923",
-    "regular": true,
-    "name": "SHAHAN SHAJI M S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 57
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 73
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187924",
-    "regular": true,
-    "name": "NAFEESATHUL MISRIYA P N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 85
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187926",
-    "regular": true,
-    "name": "SHAHZAD P S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 103
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 116
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187927",
-    "regular": true,
-    "name": "ISMAIL M.H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 48
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 62
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 46
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 58
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 54
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 61
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187928",
-    "regular": true,
-    "name": "SHARON P.V",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 142
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187929",
-    "regular": true,
-    "name": "FATHIMA NAZRIN T A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187930",
-    "regular": true,
-    "name": "SALIHA T N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23187931",
-    "regular": true,
-    "name": "SHAHANA P I",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 86
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 97
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187932",
-    "regular": true,
-    "name": "SHANI MOL P.S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 42
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 52
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 45
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 60
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187933",
-    "regular": true,
-    "name": "ABHIJITH P M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 79
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 99
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 99
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187934",
-    "regular": true,
-    "name": "MOHAMMED NAJAD T S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 91
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187935",
-    "regular": true,
-    "name": "MOHAMMED YASIN P R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 60
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 60
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 81
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23187936",
-    "regular": true,
-    "name": "MUHAMMED ISMAIL K R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 72
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23501558",
-    "regular": true,
-    "name": "SREERAG TW",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "8143",
+  "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+  "phoneNo": "04802853636",
+  "emailId": "vidyajyothimathilakam@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "MathilakomKodungalloor",
+  "eduDistrict": "Thrissur",
+  "assemblyConstituency": "Kodungallur",
+  "courseCode": "1,5,11,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "THRISSUR",
+  "results": [
+    {
+      "rollNo": "23187921",
+      "regular": true,
+      "name": "ANZIL V A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 64
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 85
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 80
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 529,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187922",
+      "regular": true,
+      "name": "MOHAMMED RISUVAN M R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 44
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 73
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 462,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187923",
+      "regular": true,
+      "name": "SHAHAN SHAJI M S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 57
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 73
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 448,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187924",
+      "regular": true,
+      "name": "NAFEESATHUL MISRIYA P N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 90
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 85
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 588,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187926",
+      "regular": true,
+      "name": "SHAHZAD P S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 103
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 116
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 667,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187927",
+      "regular": true,
+      "name": "ISMAIL M.H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 48
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 62
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 46
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 58
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 54
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 61
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 329,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187928",
+      "regular": true,
+      "name": "SHARON P.V",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 142
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 775,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187929",
+      "regular": true,
+      "name": "FATHIMA NAZRIN T A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 801,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187930",
+      "regular": true,
+      "name": "SALIHA T N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 779,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187931",
+      "regular": true,
+      "name": "SHAHANA P I",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 86
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 97
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 664,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187932",
+      "regular": true,
+      "name": "SHANI MOL P.S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 42
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 52
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 45
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 60
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 321,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187933",
+      "regular": true,
+      "name": "ABHIJITH P M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 79
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 99
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 99
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 598,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187934",
+      "regular": true,
+      "name": "MOHAMMED NAJAD T S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 91
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 561,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187935",
+      "regular": true,
+      "name": "MOHAMMED YASIN P R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 60
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 60
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 81
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 461,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23187936",
+      "regular": true,
+      "name": "MUHAMMED ISMAIL K R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 72
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 518,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23501558",
+      "regular": true,
+      "name": "SREERAG TW",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
+      "schoolCode": "8143",
+      "totalMarks": 87,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 25,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "FATHIMA NAZRIN T A",
+      "rollNo": "23187929",
+      "group": "COMMERCE",
+      "totalMarks": 801,
+      "rank": 1
+    },
+    {
+      "name": "SALIHA T N",
+      "rollNo": "23187930",
+      "group": "COMMERCE",
+      "totalMarks": 779,
+      "rank": 2
+    },
+    {
+      "name": "SHARON P.V",
+      "rollNo": "23187928",
+      "group": "COMMERCE",
+      "totalMarks": 775,
+      "rank": 3
+    },
+    {
+      "name": "SHAHZAD P S",
+      "rollNo": "23187926",
+      "group": "SCIENCE",
+      "totalMarks": 667,
+      "rank": 4
+    },
+    {
+      "name": "SHAHANA P I",
+      "rollNo": "23187931",
+      "group": "COMMERCE",
+      "totalMarks": 664,
+      "rank": 5
+    },
+    {
+      "name": "ABHIJITH P M",
+      "rollNo": "23187933",
+      "group": "COMMERCE",
+      "totalMarks": 598,
+      "rank": 6
+    },
+    {
+      "name": "NAFEESATHUL MISRIYA P N",
+      "rollNo": "23187924",
+      "group": "SCIENCE",
+      "totalMarks": 588,
+      "rank": 7
+    },
+    {
+      "name": "MOHAMMED NAJAD T S",
+      "rollNo": "23187934",
+      "group": "COMMERCE",
+      "totalMarks": 561,
+      "rank": 8
+    },
+    {
+      "name": "ANZIL V A",
+      "rollNo": "23187921",
+      "group": "SCIENCE",
+      "totalMarks": 529,
+      "rank": 9
+    },
+    {
+      "name": "MUHAMMED ISMAIL K R",
+      "rollNo": "23187936",
+      "group": "COMMERCE",
+      "totalMarks": 518,
+      "rank": 10
+    },
+    {
+      "name": "MOHAMMED RISUVAN M R",
+      "rollNo": "23187922",
+      "group": "SCIENCE",
+      "totalMarks": 462,
+      "rank": 11
+    },
+    {
+      "name": "MOHAMMED YASIN P R",
+      "rollNo": "23187935",
+      "group": "COMMERCE",
+      "totalMarks": 461,
+      "rank": 12
+    },
+    {
+      "name": "SHAHAN SHAJI M S",
+      "rollNo": "23187923",
+      "group": "SCIENCE",
+      "totalMarks": 448,
+      "rank": 13
+    },
+    {
+      "name": "ISMAIL M.H",
+      "rollNo": "23187927",
+      "group": "COMMERCE",
+      "totalMarks": 329,
+      "rank": 14
+    },
+    {
+      "name": "SHANI MOL P.S",
+      "rollNo": "23187932",
+      "group": "COMMERCE",
+      "totalMarks": 321,
+      "rank": 15
+    },
+    {
+      "name": "SREERAG TW",
+      "rollNo": "23501558",
+      "group": "HUMANITIES",
+      "totalMarks": 87,
+      "rank": 16
+    }
+  ]
+}

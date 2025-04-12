@@ -1,335 +1,473 @@
-[
-  {
-    "rollNo": "23000951",
-    "regular": true,
-    "name": "ABHIJITH . S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
+{
+  "schoolCode": "1003",
+  "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+  "phoneNo": "0471-2323395",
+  "emailId": "hssdeaf@gmail.com",
+  "schoolType": "Special",
+  "localBody": "Thiruvananthapuram (C)Thiruvananthapuram",
+  "eduDistrict": "Thiruvananthapuram",
+  "assemblyConstituency": "Thiruvananthapuram",
+  "courseCode": "11",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1",
+  "district": "THIRUVANANTHAPURAM",
+  "results": [
+    {
+      "rollNo": "23000951",
+      "regular": true,
+      "name": "ABHIJITH . S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 90
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 665,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 147
+    {
+      "rollNo": "23000952",
+      "regular": true,
+      "name": "ADARSH B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 1002,
+      "fullAp": false
     },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 102
+    {
+      "rollNo": "23000953",
+      "regular": true,
+      "name": "ANANDU B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 88
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 619,
+      "fullAp": false
     },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 122
+    {
+      "rollNo": "23000954",
+      "regular": true,
+      "name": "DINO REJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 871,
+      "fullAp": false
     },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 102
+    {
+      "rollNo": "23000955",
+      "regular": true,
+      "name": "SAM RAJAN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "HISTORY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 990,
+      "fullAp": false
     },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 90
+    {
+      "rollNo": "23000956",
+      "regular": true,
+      "name": "APARNA SURESH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 947,
+      "fullAp": false
     },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23000952",
-    "regular": true,
-    "name": "ADARSH B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
+    {
+      "rollNo": "23000957",
+      "regular": true,
+      "name": "ARDRA ANIL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 895,
+      "fullAp": false
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 189
+    {
+      "rollNo": "23424984",
+      "regular": true,
+      "name": "ANAHA A. S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "HISTORY",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 818,
+      "fullAp": false
     },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 173
+    {
+      "rollNo": "23424986",
+      "regular": true,
+      "name": "SHAHINA S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "HISTORY",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "POLITICAL SCIENCE",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "GOVT. V.H.S.S FOR THE DEAF, JAGATHY, TRIVANDRUM, 14",
+      "schoolCode": "1003",
+      "totalMarks": 734,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 100,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "ADARSH B",
+      "rollNo": "23000952",
+      "group": "HUMANITIES",
+      "totalMarks": 1002,
+      "rank": 1
     },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 172
+    {
+      "name": "SAM RAJAN",
+      "rollNo": "23000955",
+      "group": "HUMANITIES",
+      "totalMarks": 990,
+      "rank": 2
     },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 147
+    {
+      "name": "APARNA SURESH",
+      "rollNo": "23000956",
+      "group": "HUMANITIES",
+      "totalMarks": 947,
+      "rank": 3
     },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 160
+    {
+      "name": "ARDRA ANIL",
+      "rollNo": "23000957",
+      "group": "HUMANITIES",
+      "totalMarks": 895,
+      "rank": 4
     },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23000953",
-    "regular": true,
-    "name": "ANANDU B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
+    {
+      "name": "DINO REJI",
+      "rollNo": "23000954",
+      "group": "HUMANITIES",
+      "totalMarks": 871,
+      "rank": 5
     },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
+    {
+      "name": "ANAHA A. S",
+      "rollNo": "23424984",
+      "group": "HUMANITIES",
+      "totalMarks": 818,
+      "rank": 6
     },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 100
+    {
+      "name": "SHAHINA S",
+      "rollNo": "23424986",
+      "group": "HUMANITIES",
+      "totalMarks": 734,
+      "rank": 7
     },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 110
+    {
+      "name": "ABHIJITH . S",
+      "rollNo": "23000951",
+      "group": "HUMANITIES",
+      "totalMarks": 665,
+      "rank": 8
     },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 88
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23000954",
-    "regular": true,
-    "name": "DINO REJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23000955",
-    "regular": true,
-    "name": "SAM RAJAN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23000956",
-    "regular": true,
-    "name": "APARNA SURESH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23000957",
-    "regular": true,
-    "name": "ARDRA ANIL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424984",
-    "regular": true,
-    "name": "ANAHA  A. S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23424986",
-    "regular": true,
-    "name": "SHAHINA S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "HISTORY",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "POLITICAL SCIENCE",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  }
-]
+    {
+      "name": "ANANDU B",
+      "rollNo": "23000953",
+      "group": "HUMANITIES",
+      "totalMarks": 619,
+      "rank": 9
+    }
+  ]
+}

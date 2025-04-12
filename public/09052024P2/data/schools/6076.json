@@ -1,3406 +1,4628 @@
-[
-  {
-    "rollNo": "23126380",
-    "regular": true,
-    "name": "ADIL HAMEED",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 46
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "D",
-      "marks": 70
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 68
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126381",
-    "regular": true,
-    "name": "AFNAS K NAZER",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126382",
-    "regular": true,
-    "name": "AHAMED SIDHAN M S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126383",
-    "regular": true,
-    "name": "ALAN REJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126384",
-    "regular": true,
-    "name": "ALTHAF T T",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 60
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "D",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C",
-      "marks": 89
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126385",
-    "regular": true,
-    "name": "ANWAR SHAJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126386",
-    "regular": true,
-    "name": "ARUN SHAJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 81
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126387",
-    "regular": true,
-    "name": "FAZIL SHAMEER",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126388",
-    "regular": true,
-    "name": "MUHAMMED ADIL",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126389",
-    "regular": true,
-    "name": "MUHAMMED ASLAM",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 49
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "D",
-      "marks": 94
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "D",
-      "marks": 90
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "D",
-      "marks": 75
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126390",
-    "regular": true,
-    "name": "MUHAMMED BILAL V S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 54
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 105
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126391",
-    "regular": true,
-    "name": "RASSAL AMANULLA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126392",
-    "regular": true,
-    "name": "SHAMON SALIM",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126393",
-    "regular": true,
-    "name": "VISHNU BIJU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 105
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126394",
-    "regular": true,
-    "name": "ABIYA BINOY",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126395",
-    "regular": true,
-    "name": "AFSIYA AKBAR",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126396",
-    "regular": true,
-    "name": "AJANAMOL K S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126397",
-    "regular": true,
-    "name": "ALKA SURESH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 100
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126398",
-    "regular": true,
-    "name": "ANJITHA M N",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126399",
-    "regular": true,
-    "name": "ANUGRAHA SUDHESH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126400",
-    "regular": true,
-    "name": "ASWATHY C S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126401",
-    "regular": true,
-    "name": "BELLA LENIN",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126402",
-    "regular": true,
-    "name": "BISMI SALIM",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 161
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126403",
-    "regular": true,
-    "name": "FARSANA MUHAMMED",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126404",
-    "regular": true,
-    "name": "FATHIHA RASHEED",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126405",
-    "regular": true,
-    "name": "FATHIMA ABBAS",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126406",
-    "regular": true,
-    "name": "RABIYATHUL ADABIYA",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126407",
-    "regular": true,
-    "name": "AHAMMAD NIYAZ C J",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 59
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 104
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126408",
-    "regular": true,
-    "name": "ALAN KUNJUMON",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 56
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126409",
-    "regular": true,
-    "name": "ANAND M S",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126410",
-    "regular": true,
-    "name": "BILBERT SHIBY",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126411",
-    "regular": true,
-    "name": "GEORGE NOBY",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 167
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126412",
-    "regular": true,
-    "name": "IBRAHIM BADUSHA P A",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 80
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126414",
-    "regular": true,
-    "name": "JOEL K ROY",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126415",
-    "regular": true,
-    "name": "SAYEDH MUHAMMED NAHAS A R",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126416",
-    "regular": true,
-    "name": "SIDHARDH SANTHOSH",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126417",
-    "regular": true,
-    "name": "VIPIN T B",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126418",
-    "regular": true,
-    "name": "ALEENA JOHNSON",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 171
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126419",
-    "regular": true,
-    "name": "ALFONSA SAJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126420",
-    "regular": true,
-    "name": "ANITTA ROY",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 176
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126421",
-    "regular": true,
-    "name": "ANN MARIYA SAJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126422",
-    "regular": true,
-    "name": "ASHIKA SHAJI",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "D",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126423",
-    "regular": true,
-    "name": "DEVIKA MANOJ",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A",
-      "marks": 160
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126424",
-    "regular": true,
-    "name": "SNEHA SHIJU",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "JOURNALISM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject5": {
-      "name": "COMMUNICATIVE   ENGLISH",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "SOCIOLOGY",
-      "grade": "A+",
-      "marks": 200
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126425",
-    "regular": true,
-    "name": "ABHIJITH SANTHOSH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126426",
-    "regular": true,
-    "name": "ABIN AJO",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126427",
-    "regular": true,
-    "name": "ABIN PAUL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126428",
-    "regular": true,
-    "name": "AJO C J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 88
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 106
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126429",
-    "regular": true,
-    "name": "AMITH RAJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 109
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126430",
-    "regular": true,
-    "name": "ANANTHU PUSHPARAJAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126431",
-    "regular": true,
-    "name": "AZHAR AMEER",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126432",
-    "regular": true,
-    "name": "DINO HAJI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126433",
-    "regular": true,
-    "name": "JEFFIN JOLLY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126434",
-    "regular": true,
-    "name": "JOHN BABY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126435",
-    "regular": true,
-    "name": "RENJITH P P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 76
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126436",
-    "regular": true,
-    "name": "RESVIN K RASILY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126437",
-    "regular": true,
-    "name": "RINCE REGI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126438",
-    "regular": true,
-    "name": "SHIHAB P H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 69
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 75
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 98
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126439",
-    "regular": true,
-    "name": "SOMY EMMANUEL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126441",
-    "regular": true,
-    "name": "ALFIYA ANAS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126442",
-    "regular": true,
-    "name": "ALFIYA C S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126443",
-    "regular": true,
-    "name": "ALFIYA MOL P J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126444",
-    "regular": true,
-    "name": "ANGEL MARIYA BAIJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126445",
-    "regular": true,
-    "name": "ANN MARIYA BABY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126446",
-    "regular": true,
-    "name": "ASHNAMOL M. A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126447",
-    "regular": true,
-    "name": "BISMI NIZAR",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126448",
-    "regular": true,
-    "name": "MEHANA SUDHEER",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 154
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126449",
-    "regular": true,
-    "name": "ALTHAF ASSIS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126450",
-    "regular": true,
-    "name": "ANJITH KRISHNA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126451",
-    "regular": true,
-    "name": "ANSHAD ANAS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 65
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "D",
-      "marks": 61
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 91
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126452",
-    "regular": true,
-    "name": "ARJUN V ANIL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126453",
-    "regular": true,
-    "name": "ASLAM ASSIS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 85
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126454",
-    "regular": true,
-    "name": "ASLAM MUHAMMAD",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 84
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126455",
-    "regular": true,
-    "name": "DON BABU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 126
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126456",
-    "regular": true,
-    "name": "ELVIS BENNY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 198
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126457",
-    "regular": true,
-    "name": "JITHIN TOMY",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126458",
-    "regular": true,
-    "name": "JITHU JOJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 87
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126459",
-    "regular": true,
-    "name": "JOYAL MATHEW",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126460",
-    "regular": true,
-    "name": "MAHIN SUBAIR",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 129
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126461",
-    "regular": true,
-    "name": "MUHAMMED RASHID K N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 86
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 111
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126462",
-    "regular": true,
-    "name": "NIKHIL SHAJI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 83
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 82
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126463",
-    "regular": true,
-    "name": "RONY THOMAS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126464",
-    "regular": true,
-    "name": "SHABIN K S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 118
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23126465",
-    "regular": true,
-    "name": "SREEHARI SUNIL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126466",
-    "regular": true,
-    "name": "ANISHA K A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126467",
-    "regular": true,
-    "name": "ANJUMOL.P.N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126468",
-    "regular": true,
-    "name": "ANN MARIA GEORGE",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 144
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126469",
-    "regular": true,
-    "name": "ARYA BABU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126470",
-    "regular": true,
-    "name": "ASWATHY BINESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 140
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126471",
-    "regular": true,
-    "name": "ATHIRA T S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126472",
-    "regular": true,
-    "name": "JESNA LIZ BIJU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23126473",
-    "regular": true,
-    "name": "MEERA M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  }
-]
+{
+  "schoolCode": "6076",
+  "schoolName": "St. George's HSS, Kalayanthani",
+  "phoneNo": "9495194185",
+  "emailId": "6076sghssk@gmail.com",
+  "schoolType": "Aided Minority",
+  "localBody": "AlakkodeThodupuzha",
+  "eduDistrict": "Thodupuzha",
+  "assemblyConstituency": "Thodupuzha",
+  "courseCode": "34,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "IDUKKY",
+  "results": [
+    {
+      "rollNo": "23126380",
+      "regular": true,
+      "name": "ADIL HAMEED",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 46
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "D",
+          "marks": 70
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 68
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 452,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126381",
+      "regular": true,
+      "name": "AFNAS K NAZER",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 751,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126382",
+      "regular": true,
+      "name": "AHAMED SIDHAN M S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 82
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 604,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126383",
+      "regular": true,
+      "name": "ALAN REJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 699,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126384",
+      "regular": true,
+      "name": "ALTHAF T T",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 60
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "D",
+          "marks": 89
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C",
+          "marks": 89
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 539,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126385",
+      "regular": true,
+      "name": "ANWAR SHAJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 674,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126386",
+      "regular": true,
+      "name": "ARUN SHAJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 81
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 649,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126387",
+      "regular": true,
+      "name": "FAZIL SHAMEER",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 548,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126388",
+      "regular": true,
+      "name": "MUHAMMED ADIL",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 758,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126389",
+      "regular": true,
+      "name": "MUHAMMED ASLAM",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 49
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "D",
+          "marks": 94
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "D",
+          "marks": 90
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "D",
+          "marks": 75
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 489,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126390",
+      "regular": true,
+      "name": "MUHAMMED BILAL V S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 54
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 105
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 569,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126391",
+      "regular": true,
+      "name": "RASSAL AMANULLA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 109
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 657,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126392",
+      "regular": true,
+      "name": "SHAMON SALIM",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 637,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126393",
+      "regular": true,
+      "name": "VISHNU BIJU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 105
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 701,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126394",
+      "regular": true,
+      "name": "ABIYA BINOY",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 141
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 869,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126395",
+      "regular": true,
+      "name": "AFSIYA AKBAR",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 787,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126396",
+      "regular": true,
+      "name": "AJANAMOL K S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 861,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126397",
+      "regular": true,
+      "name": "ALKA SURESH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 100
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 666,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126398",
+      "regular": true,
+      "name": "ANJITHA M N",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 808,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126399",
+      "regular": true,
+      "name": "ANUGRAHA SUDHESH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 849,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126400",
+      "regular": true,
+      "name": "ASWATHY C S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 848,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126401",
+      "regular": true,
+      "name": "BELLA LENIN",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 837,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126402",
+      "regular": true,
+      "name": "BISMI SALIM",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 161
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 933,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126403",
+      "regular": true,
+      "name": "FARSANA MUHAMMED",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1059,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126404",
+      "regular": true,
+      "name": "FATHIHA RASHEED",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 886,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126405",
+      "regular": true,
+      "name": "FATHIMA ABBAS",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 967,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126406",
+      "regular": true,
+      "name": "RABIYATHUL ADABIYA",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 707,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126407",
+      "regular": true,
+      "name": "AHAMMAD NIYAZ C J",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 59
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 104
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 581,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126408",
+      "regular": true,
+      "name": "ALAN KUNJUMON",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 56
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 562,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126409",
+      "regular": true,
+      "name": "ANAND M S",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 863,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126410",
+      "regular": true,
+      "name": "BILBERT SHIBY",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 757,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126411",
+      "regular": true,
+      "name": "GEORGE NOBY",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 167
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 839,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126412",
+      "regular": true,
+      "name": "IBRAHIM BADUSHA P A",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 80
+        },
+        {
+          "name": "HINDI",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 624,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126414",
+      "regular": true,
+      "name": "JOEL K ROY",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 701,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126415",
+      "regular": true,
+      "name": "SAYEDH MUHAMMED NAHAS A R",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1120,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23126416",
+      "regular": true,
+      "name": "SIDHARDH SANTHOSH",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1131,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23126417",
+      "regular": true,
+      "name": "VIPIN T B",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1035,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126418",
+      "regular": true,
+      "name": "ALEENA JOHNSON",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 171
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 910,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126419",
+      "regular": true,
+      "name": "ALFONSA SAJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 109
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 706,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126420",
+      "regular": true,
+      "name": "ANITTA ROY",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 176
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 991,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126421",
+      "regular": true,
+      "name": "ANN MARIYA SAJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 657,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126422",
+      "regular": true,
+      "name": "ASHIKA SHAJI",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "D",
+          "marks": 103
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 643,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126423",
+      "regular": true,
+      "name": "DEVIKA MANOJ",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A",
+          "marks": 160
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1014,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126424",
+      "regular": true,
+      "name": "SNEHA SHIJU",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "JOURNALISM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "COMMUNICATIVE ENGLISH",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "SOCIOLOGY",
+          "grade": "A+",
+          "marks": 200
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1178,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23126425",
+      "regular": true,
+      "name": "ABHIJITH SANTHOSH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 692,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126426",
+      "regular": true,
+      "name": "ABIN AJO",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 812,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126427",
+      "regular": true,
+      "name": "ABIN PAUL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126428",
+      "regular": true,
+      "name": "AJO C J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 88
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 106
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 623,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126429",
+      "regular": true,
+      "name": "AMITH RAJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 109
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 595,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126430",
+      "regular": true,
+      "name": "ANANTHU PUSHPARAJAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 622,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126431",
+      "regular": true,
+      "name": "AZHAR AMEER",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 726,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126432",
+      "regular": true,
+      "name": "DINO HAJI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 769,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126433",
+      "regular": true,
+      "name": "JEFFIN JOLLY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 648,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126434",
+      "regular": true,
+      "name": "JOHN BABY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 609,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126435",
+      "regular": true,
+      "name": "RENJITH P P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 76
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 508,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126436",
+      "regular": true,
+      "name": "RESVIN K RASILY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 930,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126437",
+      "regular": true,
+      "name": "RINCE REGI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 825,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126438",
+      "regular": true,
+      "name": "SHIHAB P H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 69
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 75
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 98
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 547,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126439",
+      "regular": true,
+      "name": "SOMY EMMANUEL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 688,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126441",
+      "regular": true,
+      "name": "ALFIYA ANAS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1047,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126442",
+      "regular": true,
+      "name": "ALFIYA C S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 815,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126443",
+      "regular": true,
+      "name": "ALFIYA MOL P J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 809,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126444",
+      "regular": true,
+      "name": "ANGEL MARIYA BAIJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 916,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126445",
+      "regular": true,
+      "name": "ANN MARIYA BABY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 182
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1054,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126446",
+      "regular": true,
+      "name": "ASHNAMOL M. A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 825,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126447",
+      "regular": true,
+      "name": "BISMI NIZAR",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 940,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126448",
+      "regular": true,
+      "name": "MEHANA SUDHEER",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 154
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 869,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126449",
+      "regular": true,
+      "name": "ALTHAF ASSIS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 735,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126450",
+      "regular": true,
+      "name": "ANJITH KRISHNA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 682,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126451",
+      "regular": true,
+      "name": "ANSHAD ANAS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 65
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "D",
+          "marks": 61
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 91
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 539,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126452",
+      "regular": true,
+      "name": "ARJUN V ANIL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 652,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126453",
+      "regular": true,
+      "name": "ASLAM ASSIS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 85
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126454",
+      "regular": true,
+      "name": "ASLAM MUHAMMAD",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 84
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 633,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126455",
+      "regular": true,
+      "name": "DON BABU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 126
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 700,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126456",
+      "regular": true,
+      "name": "ELVIS BENNY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 198
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1010,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126457",
+      "regular": true,
+      "name": "JITHIN TOMY",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 855,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126458",
+      "regular": true,
+      "name": "JITHU JOJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 87
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 613,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126459",
+      "regular": true,
+      "name": "JOYAL MATHEW",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 697,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126460",
+      "regular": true,
+      "name": "MAHIN SUBAIR",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 129
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 780,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126461",
+      "regular": true,
+      "name": "MUHAMMED RASHID K N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 86
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 111
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 663,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126462",
+      "regular": true,
+      "name": "NIKHIL SHAJI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 83
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 82
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 652,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126463",
+      "regular": true,
+      "name": "RONY THOMAS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 726,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126464",
+      "regular": true,
+      "name": "SHABIN K S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 118
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 617,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126465",
+      "regular": true,
+      "name": "SREEHARI SUNIL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1035,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126466",
+      "regular": true,
+      "name": "ANISHA K A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1019,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126467",
+      "regular": true,
+      "name": "ANJUMOL.P.N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 679,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126468",
+      "regular": true,
+      "name": "ANN MARIA GEORGE",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 144
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 907,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126469",
+      "regular": true,
+      "name": "ARYA BABU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 105
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 666,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126470",
+      "regular": true,
+      "name": "ASWATHY BINESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 140
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 771,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126471",
+      "regular": true,
+      "name": "ATHIRA T S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 890,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23126472",
+      "regular": true,
+      "name": "JESNA LIZ BIJU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 199
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 1197,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23126473",
+      "regular": true,
+      "name": "MEERA M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "St. George's HSS, Kalayanthani",
+      "schoolCode": "6076",
+      "totalMarks": 953,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 84.78,
+  "totalFullAp": 4,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "SAYEDH MUHAMMED NAHAS A R (23126415) - HUMANITIES",
+    "SIDHARDH SANTHOSH (23126416) - HUMANITIES",
+    "SNEHA SHIJU (23126424) - HUMANITIES",
+    "JESNA LIZ BIJU (23126472) - COMMERCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "JESNA LIZ BIJU",
+      "rollNo": "23126472",
+      "group": "COMMERCE",
+      "totalMarks": 1197,
+      "rank": 1
+    },
+    {
+      "name": "SNEHA SHIJU",
+      "rollNo": "23126424",
+      "group": "HUMANITIES",
+      "totalMarks": 1178,
+      "rank": 2
+    },
+    {
+      "name": "SIDHARDH SANTHOSH",
+      "rollNo": "23126416",
+      "group": "HUMANITIES",
+      "totalMarks": 1131,
+      "rank": 3
+    },
+    {
+      "name": "SAYEDH MUHAMMED NAHAS A R",
+      "rollNo": "23126415",
+      "group": "HUMANITIES",
+      "totalMarks": 1120,
+      "rank": 4
+    },
+    {
+      "name": "FARSANA MUHAMMED",
+      "rollNo": "23126403",
+      "group": "HUMANITIES",
+      "totalMarks": 1059,
+      "rank": 5
+    },
+    {
+      "name": "ANN MARIYA BABY",
+      "rollNo": "23126445",
+      "group": "COMMERCE",
+      "totalMarks": 1054,
+      "rank": 6
+    },
+    {
+      "name": "ALFIYA ANAS",
+      "rollNo": "23126441",
+      "group": "COMMERCE",
+      "totalMarks": 1047,
+      "rank": 7
+    },
+    {
+      "name": "SREEHARI SUNIL",
+      "rollNo": "23126465",
+      "group": "COMMERCE",
+      "totalMarks": 1035,
+      "rank": 8
+    },
+    {
+      "name": "VIPIN T B",
+      "rollNo": "23126417",
+      "group": "HUMANITIES",
+      "totalMarks": 1035,
+      "rank": 8
+    },
+    {
+      "name": "ANISHA K A",
+      "rollNo": "23126466",
+      "group": "COMMERCE",
+      "totalMarks": 1019,
+      "rank": 10
+    },
+    {
+      "name": "DEVIKA MANOJ",
+      "rollNo": "23126423",
+      "group": "HUMANITIES",
+      "totalMarks": 1014,
+      "rank": 11
+    },
+    {
+      "name": "ELVIS BENNY",
+      "rollNo": "23126456",
+      "group": "COMMERCE",
+      "totalMarks": 1010,
+      "rank": 12
+    },
+    {
+      "name": "ANITTA ROY",
+      "rollNo": "23126420",
+      "group": "HUMANITIES",
+      "totalMarks": 991,
+      "rank": 13
+    },
+    {
+      "name": "FATHIMA ABBAS",
+      "rollNo": "23126405",
+      "group": "HUMANITIES",
+      "totalMarks": 967,
+      "rank": 14
+    },
+    {
+      "name": "MEERA M",
+      "rollNo": "23126473",
+      "group": "COMMERCE",
+      "totalMarks": 953,
+      "rank": 15
+    },
+    {
+      "name": "BISMI NIZAR",
+      "rollNo": "23126447",
+      "group": "COMMERCE",
+      "totalMarks": 940,
+      "rank": 16
+    },
+    {
+      "name": "BISMI SALIM",
+      "rollNo": "23126402",
+      "group": "HUMANITIES",
+      "totalMarks": 933,
+      "rank": 17
+    },
+    {
+      "name": "RESVIN K RASILY",
+      "rollNo": "23126436",
+      "group": "COMMERCE",
+      "totalMarks": 930,
+      "rank": 18
+    },
+    {
+      "name": "ANGEL MARIYA BAIJU",
+      "rollNo": "23126444",
+      "group": "COMMERCE",
+      "totalMarks": 916,
+      "rank": 19
+    },
+    {
+      "name": "ALEENA JOHNSON",
+      "rollNo": "23126418",
+      "group": "HUMANITIES",
+      "totalMarks": 910,
+      "rank": 20
+    },
+    {
+      "name": "ANN MARIA GEORGE",
+      "rollNo": "23126468",
+      "group": "COMMERCE",
+      "totalMarks": 907,
+      "rank": 21
+    },
+    {
+      "name": "ATHIRA T S",
+      "rollNo": "23126471",
+      "group": "COMMERCE",
+      "totalMarks": 890,
+      "rank": 22
+    },
+    {
+      "name": "FATHIHA RASHEED",
+      "rollNo": "23126404",
+      "group": "HUMANITIES",
+      "totalMarks": 886,
+      "rank": 23
+    },
+    {
+      "name": "MEHANA SUDHEER",
+      "rollNo": "23126448",
+      "group": "COMMERCE",
+      "totalMarks": 869,
+      "rank": 24
+    },
+    {
+      "name": "ABIYA BINOY",
+      "rollNo": "23126394",
+      "group": "HUMANITIES",
+      "totalMarks": 869,
+      "rank": 24
+    },
+    {
+      "name": "ANAND M S",
+      "rollNo": "23126409",
+      "group": "HUMANITIES",
+      "totalMarks": 863,
+      "rank": 26
+    },
+    {
+      "name": "AJANAMOL K S",
+      "rollNo": "23126396",
+      "group": "HUMANITIES",
+      "totalMarks": 861,
+      "rank": 27
+    },
+    {
+      "name": "JITHIN TOMY",
+      "rollNo": "23126457",
+      "group": "COMMERCE",
+      "totalMarks": 855,
+      "rank": 28
+    },
+    {
+      "name": "ANUGRAHA SUDHESH",
+      "rollNo": "23126399",
+      "group": "HUMANITIES",
+      "totalMarks": 849,
+      "rank": 29
+    },
+    {
+      "name": "ASWATHY C S",
+      "rollNo": "23126400",
+      "group": "HUMANITIES",
+      "totalMarks": 848,
+      "rank": 30
+    },
+    {
+      "name": "GEORGE NOBY",
+      "rollNo": "23126411",
+      "group": "HUMANITIES",
+      "totalMarks": 839,
+      "rank": 31
+    },
+    {
+      "name": "BELLA LENIN",
+      "rollNo": "23126401",
+      "group": "HUMANITIES",
+      "totalMarks": 837,
+      "rank": 32
+    },
+    {
+      "name": "RINCE REGI",
+      "rollNo": "23126437",
+      "group": "COMMERCE",
+      "totalMarks": 825,
+      "rank": 33
+    },
+    {
+      "name": "ASHNAMOL M. A",
+      "rollNo": "23126446",
+      "group": "COMMERCE",
+      "totalMarks": 825,
+      "rank": 33
+    },
+    {
+      "name": "ALFIYA C S",
+      "rollNo": "23126442",
+      "group": "COMMERCE",
+      "totalMarks": 815,
+      "rank": 35
+    },
+    {
+      "name": "ABIN AJO",
+      "rollNo": "23126426",
+      "group": "COMMERCE",
+      "totalMarks": 812,
+      "rank": 36
+    },
+    {
+      "name": "ALFIYA MOL P J",
+      "rollNo": "23126443",
+      "group": "COMMERCE",
+      "totalMarks": 809,
+      "rank": 37
+    },
+    {
+      "name": "ANJITHA M N",
+      "rollNo": "23126398",
+      "group": "HUMANITIES",
+      "totalMarks": 808,
+      "rank": 38
+    },
+    {
+      "name": "AFSIYA AKBAR",
+      "rollNo": "23126395",
+      "group": "HUMANITIES",
+      "totalMarks": 787,
+      "rank": 39
+    },
+    {
+      "name": "MAHIN SUBAIR",
+      "rollNo": "23126460",
+      "group": "COMMERCE",
+      "totalMarks": 780,
+      "rank": 40
+    },
+    {
+      "name": "ASWATHY BINESH",
+      "rollNo": "23126470",
+      "group": "COMMERCE",
+      "totalMarks": 771,
+      "rank": 41
+    },
+    {
+      "name": "DINO HAJI",
+      "rollNo": "23126432",
+      "group": "COMMERCE",
+      "totalMarks": 769,
+      "rank": 42
+    },
+    {
+      "name": "MUHAMMED ADIL",
+      "rollNo": "23126388",
+      "group": "HUMANITIES",
+      "totalMarks": 758,
+      "rank": 43
+    },
+    {
+      "name": "BILBERT SHIBY",
+      "rollNo": "23126410",
+      "group": "HUMANITIES",
+      "totalMarks": 757,
+      "rank": 44
+    },
+    {
+      "name": "AFNAS K NAZER",
+      "rollNo": "23126381",
+      "group": "HUMANITIES",
+      "totalMarks": 751,
+      "rank": 45
+    },
+    {
+      "name": "ALTHAF ASSIS",
+      "rollNo": "23126449",
+      "group": "COMMERCE",
+      "totalMarks": 735,
+      "rank": 46
+    },
+    {
+      "name": "RONY THOMAS",
+      "rollNo": "23126463",
+      "group": "COMMERCE",
+      "totalMarks": 726,
+      "rank": 47
+    },
+    {
+      "name": "AZHAR AMEER",
+      "rollNo": "23126431",
+      "group": "COMMERCE",
+      "totalMarks": 726,
+      "rank": 47
+    },
+    {
+      "name": "RABIYATHUL ADABIYA",
+      "rollNo": "23126406",
+      "group": "HUMANITIES",
+      "totalMarks": 707,
+      "rank": 49
+    },
+    {
+      "name": "ALFONSA SAJI",
+      "rollNo": "23126419",
+      "group": "HUMANITIES",
+      "totalMarks": 706,
+      "rank": 50
+    },
+    {
+      "name": "VISHNU BIJU",
+      "rollNo": "23126393",
+      "group": "HUMANITIES",
+      "totalMarks": 701,
+      "rank": 51
+    },
+    {
+      "name": "JOEL K ROY",
+      "rollNo": "23126414",
+      "group": "HUMANITIES",
+      "totalMarks": 701,
+      "rank": 51
+    },
+    {
+      "name": "DON BABU",
+      "rollNo": "23126455",
+      "group": "COMMERCE",
+      "totalMarks": 700,
+      "rank": 53
+    },
+    {
+      "name": "ALAN REJI",
+      "rollNo": "23126383",
+      "group": "HUMANITIES",
+      "totalMarks": 699,
+      "rank": 54
+    },
+    {
+      "name": "ABIN PAUL",
+      "rollNo": "23126427",
+      "group": "COMMERCE",
+      "totalMarks": 697,
+      "rank": 55
+    },
+    {
+      "name": "ASLAM ASSIS",
+      "rollNo": "23126453",
+      "group": "COMMERCE",
+      "totalMarks": 697,
+      "rank": 55
+    },
+    {
+      "name": "JOYAL MATHEW",
+      "rollNo": "23126459",
+      "group": "COMMERCE",
+      "totalMarks": 697,
+      "rank": 55
+    },
+    {
+      "name": "ABHIJITH SANTHOSH",
+      "rollNo": "23126425",
+      "group": "COMMERCE",
+      "totalMarks": 692,
+      "rank": 58
+    },
+    {
+      "name": "SOMY EMMANUEL",
+      "rollNo": "23126439",
+      "group": "COMMERCE",
+      "totalMarks": 688,
+      "rank": 59
+    },
+    {
+      "name": "ANJITH KRISHNA",
+      "rollNo": "23126450",
+      "group": "COMMERCE",
+      "totalMarks": 682,
+      "rank": 60
+    },
+    {
+      "name": "ANJUMOL.P.N",
+      "rollNo": "23126467",
+      "group": "COMMERCE",
+      "totalMarks": 679,
+      "rank": 61
+    },
+    {
+      "name": "ANWAR SHAJI",
+      "rollNo": "23126385",
+      "group": "HUMANITIES",
+      "totalMarks": 674,
+      "rank": 62
+    },
+    {
+      "name": "ALKA SURESH",
+      "rollNo": "23126397",
+      "group": "HUMANITIES",
+      "totalMarks": 666,
+      "rank": 63
+    },
+    {
+      "name": "ARYA BABU",
+      "rollNo": "23126469",
+      "group": "COMMERCE",
+      "totalMarks": 666,
+      "rank": 63
+    },
+    {
+      "name": "MUHAMMED RASHID K N",
+      "rollNo": "23126461",
+      "group": "COMMERCE",
+      "totalMarks": 663,
+      "rank": 65
+    },
+    {
+      "name": "RASSAL AMANULLA",
+      "rollNo": "23126391",
+      "group": "HUMANITIES",
+      "totalMarks": 657,
+      "rank": 66
+    },
+    {
+      "name": "ANN MARIYA SAJI",
+      "rollNo": "23126421",
+      "group": "HUMANITIES",
+      "totalMarks": 657,
+      "rank": 66
+    },
+    {
+      "name": "NIKHIL SHAJI",
+      "rollNo": "23126462",
+      "group": "COMMERCE",
+      "totalMarks": 652,
+      "rank": 68
+    },
+    {
+      "name": "ARJUN V ANIL",
+      "rollNo": "23126452",
+      "group": "COMMERCE",
+      "totalMarks": 652,
+      "rank": 68
+    },
+    {
+      "name": "ARUN SHAJI",
+      "rollNo": "23126386",
+      "group": "HUMANITIES",
+      "totalMarks": 649,
+      "rank": 70
+    },
+    {
+      "name": "JEFFIN JOLLY",
+      "rollNo": "23126433",
+      "group": "COMMERCE",
+      "totalMarks": 648,
+      "rank": 71
+    },
+    {
+      "name": "ASHIKA SHAJI",
+      "rollNo": "23126422",
+      "group": "HUMANITIES",
+      "totalMarks": 643,
+      "rank": 72
+    },
+    {
+      "name": "SHAMON SALIM",
+      "rollNo": "23126392",
+      "group": "HUMANITIES",
+      "totalMarks": 637,
+      "rank": 73
+    },
+    {
+      "name": "ASLAM MUHAMMAD",
+      "rollNo": "23126454",
+      "group": "COMMERCE",
+      "totalMarks": 633,
+      "rank": 74
+    },
+    {
+      "name": "IBRAHIM BADUSHA P A",
+      "rollNo": "23126412",
+      "group": "HUMANITIES",
+      "totalMarks": 624,
+      "rank": 75
+    },
+    {
+      "name": "AJO C J",
+      "rollNo": "23126428",
+      "group": "COMMERCE",
+      "totalMarks": 623,
+      "rank": 76
+    },
+    {
+      "name": "ANANTHU PUSHPARAJAN",
+      "rollNo": "23126430",
+      "group": "COMMERCE",
+      "totalMarks": 622,
+      "rank": 77
+    },
+    {
+      "name": "SHABIN K S",
+      "rollNo": "23126464",
+      "group": "COMMERCE",
+      "totalMarks": 617,
+      "rank": 78
+    },
+    {
+      "name": "JITHU JOJU",
+      "rollNo": "23126458",
+      "group": "COMMERCE",
+      "totalMarks": 613,
+      "rank": 79
+    },
+    {
+      "name": "JOHN BABY",
+      "rollNo": "23126434",
+      "group": "COMMERCE",
+      "totalMarks": 609,
+      "rank": 80
+    },
+    {
+      "name": "AHAMED SIDHAN M S",
+      "rollNo": "23126382",
+      "group": "HUMANITIES",
+      "totalMarks": 604,
+      "rank": 81
+    },
+    {
+      "name": "AMITH RAJU",
+      "rollNo": "23126429",
+      "group": "COMMERCE",
+      "totalMarks": 595,
+      "rank": 82
+    },
+    {
+      "name": "AHAMMAD NIYAZ C J",
+      "rollNo": "23126407",
+      "group": "HUMANITIES",
+      "totalMarks": 581,
+      "rank": 83
+    },
+    {
+      "name": "MUHAMMED BILAL V S",
+      "rollNo": "23126390",
+      "group": "HUMANITIES",
+      "totalMarks": 569,
+      "rank": 84
+    },
+    {
+      "name": "ALAN KUNJUMON",
+      "rollNo": "23126408",
+      "group": "HUMANITIES",
+      "totalMarks": 562,
+      "rank": 85
+    },
+    {
+      "name": "FAZIL SHAMEER",
+      "rollNo": "23126387",
+      "group": "HUMANITIES",
+      "totalMarks": 548,
+      "rank": 86
+    },
+    {
+      "name": "SHIHAB P H",
+      "rollNo": "23126438",
+      "group": "COMMERCE",
+      "totalMarks": 547,
+      "rank": 87
+    },
+    {
+      "name": "ANSHAD ANAS",
+      "rollNo": "23126451",
+      "group": "COMMERCE",
+      "totalMarks": 539,
+      "rank": 88
+    },
+    {
+      "name": "ALTHAF T T",
+      "rollNo": "23126384",
+      "group": "HUMANITIES",
+      "totalMarks": 539,
+      "rank": 88
+    },
+    {
+      "name": "RENJITH P P",
+      "rollNo": "23126435",
+      "group": "COMMERCE",
+      "totalMarks": 508,
+      "rank": 90
+    },
+    {
+      "name": "MUHAMMED ASLAM",
+      "rollNo": "23126389",
+      "group": "HUMANITIES",
+      "totalMarks": 489,
+      "rank": 91
+    },
+    {
+      "name": "ADIL HAMEED",
+      "rollNo": "23126380",
+      "group": "HUMANITIES",
+      "totalMarks": 452,
+      "rank": 92
+    }
+  ]
+}

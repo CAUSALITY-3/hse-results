@@ -1,3369 +1,4563 @@
-[
-  {
-    "rollNo": "22321433",
-    "regular": false,
-    "name": "AMNA KUNNATHERI",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22502180",
-    "regular": false,
-    "name": "NITHIN G R",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "D",
-      "marks": 77
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031005",
-    "regular": true,
-    "name": "FARHAN SALIM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 113
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031006",
-    "regular": true,
-    "name": "J JIBIN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031007",
-    "regular": true,
-    "name": "MOHAMMED IRFAN S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031008",
-    "regular": true,
-    "name": "MUHAMED YOOSUF A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 121
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031009",
-    "regular": true,
-    "name": "MUHAMMED FAHAD N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 111
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 100
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031010",
-    "regular": true,
-    "name": "MUHAMMED RASHID S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031011",
-    "regular": true,
-    "name": "ADHILA MEHABOOB",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 133
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031012",
-    "regular": true,
-    "name": "ARSHIDHA R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 81
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 102
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031013",
-    "regular": true,
-    "name": "FATHIMA BEEVI S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031014",
-    "regular": true,
-    "name": "HAFSA FATHIMA N A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 173
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 130
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031015",
-    "regular": true,
-    "name": "MARIA CLEMMY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031016",
-    "regular": true,
-    "name": "RANIA. S.N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031017",
-    "regular": true,
-    "name": "AL AMEEN. A",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 114
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 96
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031018",
-    "regular": true,
-    "name": "PRABITH B",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 107
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031019",
-    "regular": true,
-    "name": "ROHIT KUMAR R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 105
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031020",
-    "regular": true,
-    "name": "FATHIMA NEHYA FAIZAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031021",
-    "regular": true,
-    "name": "JOSHIA T J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "Ab",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 157
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031022",
-    "regular": true,
-    "name": "SHIRIN SHAHNAAS N. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031023",
-    "regular": true,
-    "name": "ADIL S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 78
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 97
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031024",
-    "regular": true,
-    "name": "JASARKHAN S S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 112
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 110
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031025",
-    "regular": true,
-    "name": "MOHAMMED KHAIZ. F.S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 186
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031026",
-    "regular": true,
-    "name": "MUHAMMED AFNAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 92
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031027",
-    "regular": true,
-    "name": "MUHAMMED RIZWAN S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 102
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031028",
-    "regular": true,
-    "name": "MUHAMMED S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 89
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 95
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031029",
-    "regular": true,
-    "name": "S MUHAMMAD AKMAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031030",
-    "regular": true,
-    "name": "SALMANUL FARIS S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 188
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031031",
-    "regular": true,
-    "name": "AFRA SHAFEEK J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031032",
-    "regular": true,
-    "name": "AFSANA BEEGUM R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 151
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 172
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031033",
-    "regular": true,
-    "name": "AFSHANA. A. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 116
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031034",
-    "regular": true,
-    "name": "ANSALNA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A",
-      "marks": 173
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031035",
-    "regular": true,
-    "name": "ASIYA SAJAD",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 186
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031036",
-    "regular": true,
-    "name": "ASNA FATHIMA A S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 154
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 147
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031037",
-    "regular": true,
-    "name": "MARIYAM N J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 195
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B+",
-      "marks": 151
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031038",
-    "regular": true,
-    "name": "SAFA S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031039",
-    "regular": true,
-    "name": "SONA SALIM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 114
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 107
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031040",
-    "regular": true,
-    "name": "MOHAMMED SHAN. M",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 112
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031041",
-    "regular": true,
-    "name": "MUHAMMAD AHSAN J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 97
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031042",
-    "regular": true,
-    "name": "MUHAMMED FARHAN S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031043",
-    "regular": true,
-    "name": "MUHAMMED SUHAIL S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 119
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031044",
-    "regular": true,
-    "name": "AFSAL S N",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 113
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031045",
-    "regular": true,
-    "name": "MUHAMMED FAIHAN H",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031046",
-    "regular": true,
-    "name": "AL MUNEER J",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "C+",
-      "marks": 118
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031047",
-    "regular": true,
-    "name": "MOHAMED SWALIH. S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "A+",
-      "marks": 180
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031048",
-    "regular": true,
-    "name": "MOHAMMAD FAYAAS F",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031049",
-    "regular": true,
-    "name": "MOHAMMED SUFYAN . S",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 104
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031050",
-    "regular": true,
-    "name": "USMAN MUFEER",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 74
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "COMPUTER SCIENCE",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "MATHEMATICS-SCI",
-      "grade": "D",
-      "marks": 97
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031051",
-    "regular": true,
-    "name": "MOHAMMED ASHFAK S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 66
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 104
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 82
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031052",
-    "regular": true,
-    "name": "MUBEEN M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 115
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031053",
-    "regular": true,
-    "name": "MUHAMMED SUFIYAN S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 118
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031054",
-    "regular": true,
-    "name": "ALFANA.S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031055",
-    "regular": true,
-    "name": "ASNA FATHIMA A S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031056",
-    "regular": true,
-    "name": "FATHIMA HAWRA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 160
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 138
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031057",
-    "regular": true,
-    "name": "FATHIMA S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 197
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 143
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 134
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031058",
-    "regular": true,
-    "name": "FATHIMA S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 159
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 169
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031059",
-    "regular": true,
-    "name": "LAKSHMI NANDANA D",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 145
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031060",
-    "regular": true,
-    "name": "MINHA S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 150
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 116
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031061",
-    "regular": true,
-    "name": "SREYA A P",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 152
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 164
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031062",
-    "regular": true,
-    "name": "SWALIHA S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 177
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 145
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031063",
-    "regular": true,
-    "name": "ZAINAB S.",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 189
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 167
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031064",
-    "regular": true,
-    "name": "ABDUL RAHUMAN S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031065",
-    "regular": true,
-    "name": "ABDULLA N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 130
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 122
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031066",
-    "regular": true,
-    "name": "ADHIL MUHAMMED A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 102
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031067",
-    "regular": true,
-    "name": "ADITHYAN . A.S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 108
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031068",
-    "regular": true,
-    "name": "AFSAL S M",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 131
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 125
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031069",
-    "regular": true,
-    "name": "AFSAL. D",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B+",
-      "marks": 142
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 135
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031070",
-    "regular": true,
-    "name": "HARIHAR SITHI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 94
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 108
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031071",
-    "regular": true,
-    "name": "MOHAMMED IRFAN S",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 101
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 98
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 123
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031072",
-    "regular": true,
-    "name": "MOHAMMED SABEEL A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 98
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031073",
-    "regular": true,
-    "name": "MUHAMMAD IRFAN. H.N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 92
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 107
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031074",
-    "regular": true,
-    "name": "MUHAMMED IRFAN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 108
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031075",
-    "regular": true,
-    "name": "S. MOHAMMED ANAS",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 116
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 107
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 109
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031076",
-    "regular": true,
-    "name": "SHEHZAD ALI ABDULLAH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 199
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 180
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 175
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031077",
-    "regular": true,
-    "name": "SREEHARI SANTHOSH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "C+",
-      "marks": 114
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 128
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031078",
-    "regular": true,
-    "name": "ANAMIKA SHARMA E K",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 194
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 198
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031079",
-    "regular": true,
-    "name": "TAMANNA TAHIR SHAIKH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 188
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031080",
-    "regular": true,
-    "name": "TARANNUM A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 196
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031081",
-    "regular": true,
-    "name": "ALI BATHISHA",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 84
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 161
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C",
-      "marks": 97
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 92
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031082",
-    "regular": true,
-    "name": "ASFIN NAZ",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 103
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 101
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 101
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031083",
-    "regular": true,
-    "name": "IJAS H",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 91
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 106
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 106
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C",
-      "marks": 98
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031084",
-    "regular": true,
-    "name": "MOHAMMED YOUSUF",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 164
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 107
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 105
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 97
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031085",
-    "regular": true,
-    "name": "MUHAMED RAMEES. R",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 100
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "D",
-      "marks": 102
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "C+",
-      "marks": 104
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23031086",
-    "regular": true,
-    "name": "MUHAMMAD JABIR. A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 126
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031087",
-    "regular": true,
-    "name": "MUHAMMED ADIL A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 102
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 176
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 110
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 120
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031088",
-    "regular": true,
-    "name": "MUHAMMED AFSAL A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 121
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 126
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031089",
-    "regular": true,
-    "name": "MUHAMMED NAHIN",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 112
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 166
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 132
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031090",
-    "regular": true,
-    "name": "MUHAMMED YASIN S A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 127
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 143
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031091",
-    "regular": true,
-    "name": "SAIYADHALI.A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 99
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 136
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 124
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23031092",
-    "regular": true,
-    "name": "SHIHAS KHAN A",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject2": {
-      "name": "ARABIC",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 135
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
-      "grade": "B",
-      "marks": 129
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 117
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 137
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23500444",
-    "regular": true,
-    "name": "NATHEEMSHA .P",
-    "group": "HUMANITIES",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 96
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "Computer Application-HUM",
-      "grade": "D",
-      "marks": 89
-    },
-    "subject4": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject5": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "1156",
+  "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+  "phoneNo": "04712383839",
+  "emailId": "cordovahss@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Thiruvananthapuram (C)Thiruvananthapuram",
+  "eduDistrict": "Thiruvananthapuram",
+  "assemblyConstituency": "Thiruvananthapuram",
+  "courseCode": "1,5,34,36,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "3,2,1",
+  "district": "THIRUVANANTHAPURAM",
+  "results": [
+    {
+      "rollNo": "23031005",
+      "regular": true,
+      "name": "FARHAN SALIM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 113
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 758,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031006",
+      "regular": true,
+      "name": "J JIBIN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 867,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031007",
+      "regular": true,
+      "name": "MOHAMMED IRFAN S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 710,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031008",
+      "regular": true,
+      "name": "MUHAMED YOOSUF A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 121
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 812,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031009",
+      "regular": true,
+      "name": "MUHAMMED FAHAD N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 111
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 100
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 722,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031010",
+      "regular": true,
+      "name": "MUHAMMED RASHID S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 814,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031011",
+      "regular": true,
+      "name": "ADHILA MEHABOOB",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 133
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 848,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031012",
+      "regular": true,
+      "name": "ARSHIDHA R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 81
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 102
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 689,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031013",
+      "regular": true,
+      "name": "FATHIMA BEEVI S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 795,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031014",
+      "regular": true,
+      "name": "HAFSA FATHIMA N A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 173
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 130
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 895,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031015",
+      "regular": true,
+      "name": "MARIA CLEMMY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1041,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031016",
+      "regular": true,
+      "name": "RANIA. S.N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1147,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23031017",
+      "regular": true,
+      "name": "AL AMEEN. A",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 114
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 96
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 757,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031018",
+      "regular": true,
+      "name": "PRABITH B",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 107
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 740,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031019",
+      "regular": true,
+      "name": "ROHIT KUMAR R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 105
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 833,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031020",
+      "regular": true,
+      "name": "FATHIMA NEHYA FAIZAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 932,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031021",
+      "regular": true,
+      "name": "JOSHIA T J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "HINDI",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 157
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 750,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031022",
+      "regular": true,
+      "name": "SHIRIN SHAHNAAS N. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 819,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031023",
+      "regular": true,
+      "name": "ADIL S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 78
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 107
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 97
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 679,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031024",
+      "regular": true,
+      "name": "JASARKHAN S S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 112
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 110
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 755,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031025",
+      "regular": true,
+      "name": "MOHAMMED KHAIZ. F.S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 186
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 877,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031026",
+      "regular": true,
+      "name": "MUHAMMED AFNAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 92
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 722,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031027",
+      "regular": true,
+      "name": "MUHAMMED RIZWAN S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 102
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 726,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031028",
+      "regular": true,
+      "name": "MUHAMMED S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 95
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 644,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031029",
+      "regular": true,
+      "name": "S MUHAMMAD AKMAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 899,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031030",
+      "regular": true,
+      "name": "SALMANUL FARIS S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 188
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 104
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 768,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031031",
+      "regular": true,
+      "name": "AFRA SHAFEEK J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 847,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031032",
+      "regular": true,
+      "name": "AFSANA BEEGUM R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 151
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 172
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 971,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031033",
+      "regular": true,
+      "name": "AFSHANA. A. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 116
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 844,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031034",
+      "regular": true,
+      "name": "ANSALNA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A",
+          "marks": 173
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1072,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031035",
+      "regular": true,
+      "name": "ASIYA SAJAD",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 186
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1033,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031036",
+      "regular": true,
+      "name": "ASNA FATHIMA A S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 154
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 147
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 957,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031037",
+      "regular": true,
+      "name": "MARIYAM N J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 195
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B+",
+          "marks": 151
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 927,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031038",
+      "regular": true,
+      "name": "SAFA S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 857,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031039",
+      "regular": true,
+      "name": "SONA SALIM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 114
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 107
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 772,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031040",
+      "regular": true,
+      "name": "MOHAMMED SHAN. M",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 112
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 879,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031041",
+      "regular": true,
+      "name": "MUHAMMAD AHSAN J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 97
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 765,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031042",
+      "regular": true,
+      "name": "MUHAMMED FARHAN S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 762,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031043",
+      "regular": true,
+      "name": "MUHAMMED SUHAIL S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 119
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 808,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031044",
+      "regular": true,
+      "name": "AFSAL S N",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 113
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 728,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031045",
+      "regular": true,
+      "name": "MUHAMMED FAIHAN H",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 752,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031046",
+      "regular": true,
+      "name": "AL MUNEER J",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "C+",
+          "marks": 118
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 740,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031047",
+      "regular": true,
+      "name": "MOHAMED SWALIH. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "A+",
+          "marks": 180
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1115,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23031048",
+      "regular": true,
+      "name": "MOHAMMAD FAYAAS F",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 787,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031049",
+      "regular": true,
+      "name": "MOHAMMED SUFYAN . S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 108
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 104
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 719,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031050",
+      "regular": true,
+      "name": "USMAN MUFEER",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 74
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 97
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 632,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031051",
+      "regular": true,
+      "name": "MOHAMMED ASHFAK S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 66
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 104
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 82
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 544,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031052",
+      "regular": true,
+      "name": "MUBEEN M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 115
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 679,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031053",
+      "regular": true,
+      "name": "MUHAMMED SUFIYAN S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 118
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 739,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031054",
+      "regular": true,
+      "name": "ALFANA.S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 919,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031055",
+      "regular": true,
+      "name": "ASNA FATHIMA A S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 934,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031056",
+      "regular": true,
+      "name": "FATHIMA HAWRA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 160
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 138
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 962,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031057",
+      "regular": true,
+      "name": "FATHIMA S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 197
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 143
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 134
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 905,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031058",
+      "regular": true,
+      "name": "FATHIMA S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 159
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 169
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1040,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031059",
+      "regular": true,
+      "name": "LAKSHMI NANDANA D",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 145
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 864,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031060",
+      "regular": true,
+      "name": "MINHA S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 150
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 116
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 732,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031061",
+      "regular": true,
+      "name": "SREYA A P",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 152
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 164
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1010,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031062",
+      "regular": true,
+      "name": "SWALIHA S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 177
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 145
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 925,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031063",
+      "regular": true,
+      "name": "ZAINAB S.",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 189
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 167
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1009,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031064",
+      "regular": true,
+      "name": "ABDUL RAHUMAN S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 851,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031065",
+      "regular": true,
+      "name": "ABDULLA N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 130
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 122
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 772,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031066",
+      "regular": true,
+      "name": "ADHIL MUHAMMED A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 102
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 703,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031067",
+      "regular": true,
+      "name": "ADITHYAN . A.S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 108
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 108
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 649,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031068",
+      "regular": true,
+      "name": "AFSAL S M",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 131
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 125
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 755,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031069",
+      "regular": true,
+      "name": "AFSAL. D",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "HINDI",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B+",
+          "marks": 142
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 135
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 784,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031070",
+      "regular": true,
+      "name": "HARIHAR SITHI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 94
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 108
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 651,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031071",
+      "regular": true,
+      "name": "MOHAMMED IRFAN S",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 101
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 98
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 123
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 677,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031072",
+      "regular": true,
+      "name": "MOHAMMED SABEEL A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 98
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 673,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031073",
+      "regular": true,
+      "name": "MUHAMMAD IRFAN. H.N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 92
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 107
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 702,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031074",
+      "regular": true,
+      "name": "MUHAMMED IRFAN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 108
+        },
+        {
+          "name": "HINDI",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 731,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031075",
+      "regular": true,
+      "name": "S. MOHAMMED ANAS",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 116
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 107
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 109
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 666,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031076",
+      "regular": true,
+      "name": "SHEHZAD ALI ABDULLAH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 199
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 180
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 175
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1100,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031077",
+      "regular": true,
+      "name": "SREEHARI SANTHOSH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "HINDI",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 128
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 703,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031078",
+      "regular": true,
+      "name": "ANAMIKA SHARMA E K",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 194
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 198
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1188,
+      "fullAp": true
+    },
+    {
+      "rollNo": "23031079",
+      "regular": true,
+      "name": "TAMANNA TAHIR SHAIKH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 188
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1097,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031080",
+      "regular": true,
+      "name": "TARANNUM A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 196
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 1134,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031081",
+      "regular": true,
+      "name": "ALI BATHISHA",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 84
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 161
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C",
+          "marks": 97
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 92
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 651,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031082",
+      "regular": true,
+      "name": "ASFIN NAZ",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 103
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 101
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 101
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 694,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031083",
+      "regular": true,
+      "name": "IJAS H",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 91
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 106
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 106
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C",
+          "marks": 98
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 689,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031084",
+      "regular": true,
+      "name": "MOHAMMED YOUSUF",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 164
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 107
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 105
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 97
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 649,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031085",
+      "regular": true,
+      "name": "MUHAMED RAMEES. R",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 100
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "D",
+          "marks": 102
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 93
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "C+",
+          "marks": 104
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 652,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031086",
+      "regular": true,
+      "name": "MUHAMMAD JABIR. A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 126
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 799,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031087",
+      "regular": true,
+      "name": "MUHAMMED ADIL A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 102
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 176
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 110
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 120
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 752,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031088",
+      "regular": true,
+      "name": "MUHAMMED AFSAL A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 121
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 126
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 763,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031089",
+      "regular": true,
+      "name": "MUHAMMED NAHIN",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 112
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 166
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 132
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 797,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031090",
+      "regular": true,
+      "name": "MUHAMMED YASIN S A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ARABIC",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 127
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 143
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 809,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031091",
+      "regular": true,
+      "name": "SAIYADHALI.A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 99
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 136
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 124
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 785,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23031092",
+      "regular": true,
+      "name": "SHIHAS KHAN A",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "ARABIC",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 135
+        },
+        {
+          "name": "ACCOUNTANCY WITH COMPUTER ACCOUNTING",
+          "grade": "B",
+          "marks": 129
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 117
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 137
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 794,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23500444",
+      "regular": true,
+      "name": "NATHEEMSHA .P",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 96
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "D",
+          "marks": 89
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 185,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22321433",
+      "regular": false,
+      "name": "AMNA KUNNATHERI",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 114
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 103
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 217,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22502180",
+      "regular": false,
+      "name": "NITHIN G R",
+      "group": "HUMANITIES",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "Computer Application-HUM",
+          "grade": "D",
+          "marks": 77
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "CORDOVA HSS, AMBALATHARA, POONTHURA., THIRUVANANTHAPURAM",
+      "schoolCode": "1156",
+      "totalMarks": 159,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 67.42,
+  "totalFullAp": 3,
+  "totalFullMarks": 0,
+  "fullApStudents": [
+    "RANIA. S.N (23031016) - SCIENCE",
+    "MOHAMED SWALIH. S (23031047) - SCIENCE",
+    "ANAMIKA SHARMA E K (23031078) - COMMERCE"
+  ],
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "ANAMIKA SHARMA E K",
+      "rollNo": "23031078",
+      "group": "COMMERCE",
+      "totalMarks": 1188,
+      "rank": 1
+    },
+    {
+      "name": "RANIA. S.N",
+      "rollNo": "23031016",
+      "group": "SCIENCE",
+      "totalMarks": 1147,
+      "rank": 2
+    },
+    {
+      "name": "TARANNUM A",
+      "rollNo": "23031080",
+      "group": "COMMERCE",
+      "totalMarks": 1134,
+      "rank": 3
+    },
+    {
+      "name": "MOHAMED SWALIH. S",
+      "rollNo": "23031047",
+      "group": "SCIENCE",
+      "totalMarks": 1115,
+      "rank": 4
+    },
+    {
+      "name": "SHEHZAD ALI ABDULLAH",
+      "rollNo": "23031076",
+      "group": "COMMERCE",
+      "totalMarks": 1100,
+      "rank": 5
+    },
+    {
+      "name": "TAMANNA TAHIR SHAIKH",
+      "rollNo": "23031079",
+      "group": "COMMERCE",
+      "totalMarks": 1097,
+      "rank": 6
+    },
+    {
+      "name": "ANSALNA S",
+      "rollNo": "23031034",
+      "group": "SCIENCE",
+      "totalMarks": 1072,
+      "rank": 7
+    },
+    {
+      "name": "MARIA CLEMMY",
+      "rollNo": "23031015",
+      "group": "SCIENCE",
+      "totalMarks": 1041,
+      "rank": 8
+    },
+    {
+      "name": "FATHIMA S",
+      "rollNo": "23031058",
+      "group": "COMMERCE",
+      "totalMarks": 1040,
+      "rank": 9
+    },
+    {
+      "name": "ASIYA SAJAD",
+      "rollNo": "23031035",
+      "group": "SCIENCE",
+      "totalMarks": 1033,
+      "rank": 10
+    },
+    {
+      "name": "SREYA A P",
+      "rollNo": "23031061",
+      "group": "COMMERCE",
+      "totalMarks": 1010,
+      "rank": 11
+    },
+    {
+      "name": "ZAINAB S.",
+      "rollNo": "23031063",
+      "group": "COMMERCE",
+      "totalMarks": 1009,
+      "rank": 12
+    },
+    {
+      "name": "AFSANA BEEGUM R",
+      "rollNo": "23031032",
+      "group": "SCIENCE",
+      "totalMarks": 971,
+      "rank": 13
+    },
+    {
+      "name": "FATHIMA HAWRA",
+      "rollNo": "23031056",
+      "group": "COMMERCE",
+      "totalMarks": 962,
+      "rank": 14
+    },
+    {
+      "name": "ASNA FATHIMA A S",
+      "rollNo": "23031036",
+      "group": "SCIENCE",
+      "totalMarks": 957,
+      "rank": 15
+    },
+    {
+      "name": "ASNA FATHIMA A S",
+      "rollNo": "23031055",
+      "group": "COMMERCE",
+      "totalMarks": 934,
+      "rank": 16
+    },
+    {
+      "name": "FATHIMA NEHYA FAIZAL",
+      "rollNo": "23031020",
+      "group": "SCIENCE",
+      "totalMarks": 932,
+      "rank": 17
+    },
+    {
+      "name": "MARIYAM N J",
+      "rollNo": "23031037",
+      "group": "SCIENCE",
+      "totalMarks": 927,
+      "rank": 18
+    },
+    {
+      "name": "SWALIHA S",
+      "rollNo": "23031062",
+      "group": "COMMERCE",
+      "totalMarks": 925,
+      "rank": 19
+    },
+    {
+      "name": "ALFANA.S",
+      "rollNo": "23031054",
+      "group": "COMMERCE",
+      "totalMarks": 919,
+      "rank": 20
+    },
+    {
+      "name": "FATHIMA S",
+      "rollNo": "23031057",
+      "group": "COMMERCE",
+      "totalMarks": 905,
+      "rank": 21
+    },
+    {
+      "name": "S MUHAMMAD AKMAL",
+      "rollNo": "23031029",
+      "group": "SCIENCE",
+      "totalMarks": 899,
+      "rank": 22
+    },
+    {
+      "name": "HAFSA FATHIMA N A",
+      "rollNo": "23031014",
+      "group": "SCIENCE",
+      "totalMarks": 895,
+      "rank": 23
+    },
+    {
+      "name": "MOHAMMED SHAN. M",
+      "rollNo": "23031040",
+      "group": "SCIENCE",
+      "totalMarks": 879,
+      "rank": 24
+    },
+    {
+      "name": "MOHAMMED KHAIZ. F.S",
+      "rollNo": "23031025",
+      "group": "SCIENCE",
+      "totalMarks": 877,
+      "rank": 25
+    },
+    {
+      "name": "J JIBIN",
+      "rollNo": "23031006",
+      "group": "SCIENCE",
+      "totalMarks": 867,
+      "rank": 26
+    },
+    {
+      "name": "LAKSHMI NANDANA D",
+      "rollNo": "23031059",
+      "group": "COMMERCE",
+      "totalMarks": 864,
+      "rank": 27
+    },
+    {
+      "name": "SAFA S",
+      "rollNo": "23031038",
+      "group": "SCIENCE",
+      "totalMarks": 857,
+      "rank": 28
+    },
+    {
+      "name": "ABDUL RAHUMAN S",
+      "rollNo": "23031064",
+      "group": "COMMERCE",
+      "totalMarks": 851,
+      "rank": 29
+    },
+    {
+      "name": "ADHILA MEHABOOB",
+      "rollNo": "23031011",
+      "group": "SCIENCE",
+      "totalMarks": 848,
+      "rank": 30
+    },
+    {
+      "name": "AFRA SHAFEEK J",
+      "rollNo": "23031031",
+      "group": "SCIENCE",
+      "totalMarks": 847,
+      "rank": 31
+    },
+    {
+      "name": "AFSHANA. A. S",
+      "rollNo": "23031033",
+      "group": "SCIENCE",
+      "totalMarks": 844,
+      "rank": 32
+    },
+    {
+      "name": "ROHIT KUMAR R",
+      "rollNo": "23031019",
+      "group": "SCIENCE",
+      "totalMarks": 833,
+      "rank": 33
+    },
+    {
+      "name": "SHIRIN SHAHNAAS N. S",
+      "rollNo": "23031022",
+      "group": "SCIENCE",
+      "totalMarks": 819,
+      "rank": 34
+    },
+    {
+      "name": "MUHAMMED RASHID S",
+      "rollNo": "23031010",
+      "group": "SCIENCE",
+      "totalMarks": 814,
+      "rank": 35
+    },
+    {
+      "name": "MUHAMED YOOSUF A S",
+      "rollNo": "23031008",
+      "group": "SCIENCE",
+      "totalMarks": 812,
+      "rank": 36
+    },
+    {
+      "name": "MUHAMMED YASIN S A",
+      "rollNo": "23031090",
+      "group": "COMMERCE",
+      "totalMarks": 809,
+      "rank": 37
+    },
+    {
+      "name": "MUHAMMED SUHAIL S",
+      "rollNo": "23031043",
+      "group": "SCIENCE",
+      "totalMarks": 808,
+      "rank": 38
+    },
+    {
+      "name": "MUHAMMAD JABIR. A",
+      "rollNo": "23031086",
+      "group": "COMMERCE",
+      "totalMarks": 799,
+      "rank": 39
+    },
+    {
+      "name": "MUHAMMED NAHIN",
+      "rollNo": "23031089",
+      "group": "COMMERCE",
+      "totalMarks": 797,
+      "rank": 40
+    },
+    {
+      "name": "FATHIMA BEEVI S",
+      "rollNo": "23031013",
+      "group": "SCIENCE",
+      "totalMarks": 795,
+      "rank": 41
+    },
+    {
+      "name": "SHIHAS KHAN A",
+      "rollNo": "23031092",
+      "group": "COMMERCE",
+      "totalMarks": 794,
+      "rank": 42
+    },
+    {
+      "name": "MOHAMMAD FAYAAS F",
+      "rollNo": "23031048",
+      "group": "SCIENCE",
+      "totalMarks": 787,
+      "rank": 43
+    },
+    {
+      "name": "SAIYADHALI.A",
+      "rollNo": "23031091",
+      "group": "COMMERCE",
+      "totalMarks": 785,
+      "rank": 44
+    },
+    {
+      "name": "AFSAL. D",
+      "rollNo": "23031069",
+      "group": "COMMERCE",
+      "totalMarks": 784,
+      "rank": 45
+    },
+    {
+      "name": "ABDULLA N",
+      "rollNo": "23031065",
+      "group": "COMMERCE",
+      "totalMarks": 772,
+      "rank": 46
+    },
+    {
+      "name": "SONA SALIM",
+      "rollNo": "23031039",
+      "group": "SCIENCE",
+      "totalMarks": 772,
+      "rank": 46
+    },
+    {
+      "name": "SALMANUL FARIS S",
+      "rollNo": "23031030",
+      "group": "SCIENCE",
+      "totalMarks": 768,
+      "rank": 48
+    },
+    {
+      "name": "MUHAMMAD AHSAN J",
+      "rollNo": "23031041",
+      "group": "SCIENCE",
+      "totalMarks": 765,
+      "rank": 49
+    },
+    {
+      "name": "MUHAMMED AFSAL A",
+      "rollNo": "23031088",
+      "group": "COMMERCE",
+      "totalMarks": 763,
+      "rank": 50
+    },
+    {
+      "name": "MUHAMMED FARHAN S",
+      "rollNo": "23031042",
+      "group": "SCIENCE",
+      "totalMarks": 762,
+      "rank": 51
+    },
+    {
+      "name": "FARHAN SALIM",
+      "rollNo": "23031005",
+      "group": "SCIENCE",
+      "totalMarks": 758,
+      "rank": 52
+    },
+    {
+      "name": "AL AMEEN. A",
+      "rollNo": "23031017",
+      "group": "SCIENCE",
+      "totalMarks": 757,
+      "rank": 53
+    },
+    {
+      "name": "AFSAL S M",
+      "rollNo": "23031068",
+      "group": "COMMERCE",
+      "totalMarks": 755,
+      "rank": 54
+    },
+    {
+      "name": "JASARKHAN S S",
+      "rollNo": "23031024",
+      "group": "SCIENCE",
+      "totalMarks": 755,
+      "rank": 54
+    },
+    {
+      "name": "MUHAMMED ADIL A",
+      "rollNo": "23031087",
+      "group": "COMMERCE",
+      "totalMarks": 752,
+      "rank": 56
+    },
+    {
+      "name": "MUHAMMED FAIHAN H",
+      "rollNo": "23031045",
+      "group": "SCIENCE",
+      "totalMarks": 752,
+      "rank": 56
+    },
+    {
+      "name": "JOSHIA T J",
+      "rollNo": "23031021",
+      "group": "SCIENCE",
+      "totalMarks": 750,
+      "rank": 58
+    },
+    {
+      "name": "PRABITH B",
+      "rollNo": "23031018",
+      "group": "SCIENCE",
+      "totalMarks": 740,
+      "rank": 59
+    },
+    {
+      "name": "AL MUNEER J",
+      "rollNo": "23031046",
+      "group": "SCIENCE",
+      "totalMarks": 740,
+      "rank": 59
+    },
+    {
+      "name": "MUHAMMED SUFIYAN S",
+      "rollNo": "23031053",
+      "group": "COMMERCE",
+      "totalMarks": 739,
+      "rank": 61
+    },
+    {
+      "name": "MINHA S",
+      "rollNo": "23031060",
+      "group": "COMMERCE",
+      "totalMarks": 732,
+      "rank": 62
+    },
+    {
+      "name": "MUHAMMED IRFAN",
+      "rollNo": "23031074",
+      "group": "COMMERCE",
+      "totalMarks": 731,
+      "rank": 63
+    },
+    {
+      "name": "AFSAL S N",
+      "rollNo": "23031044",
+      "group": "SCIENCE",
+      "totalMarks": 728,
+      "rank": 64
+    },
+    {
+      "name": "MUHAMMED RIZWAN S",
+      "rollNo": "23031027",
+      "group": "SCIENCE",
+      "totalMarks": 726,
+      "rank": 65
+    },
+    {
+      "name": "MUHAMMED FAHAD N",
+      "rollNo": "23031009",
+      "group": "SCIENCE",
+      "totalMarks": 722,
+      "rank": 66
+    },
+    {
+      "name": "MUHAMMED AFNAN",
+      "rollNo": "23031026",
+      "group": "SCIENCE",
+      "totalMarks": 722,
+      "rank": 66
+    },
+    {
+      "name": "MOHAMMED SUFYAN . S",
+      "rollNo": "23031049",
+      "group": "SCIENCE",
+      "totalMarks": 719,
+      "rank": 68
+    },
+    {
+      "name": "MOHAMMED IRFAN S",
+      "rollNo": "23031007",
+      "group": "SCIENCE",
+      "totalMarks": 710,
+      "rank": 69
+    },
+    {
+      "name": "SREEHARI SANTHOSH",
+      "rollNo": "23031077",
+      "group": "COMMERCE",
+      "totalMarks": 703,
+      "rank": 70
+    },
+    {
+      "name": "ADHIL MUHAMMED A",
+      "rollNo": "23031066",
+      "group": "COMMERCE",
+      "totalMarks": 703,
+      "rank": 70
+    },
+    {
+      "name": "MUHAMMAD IRFAN. H.N",
+      "rollNo": "23031073",
+      "group": "COMMERCE",
+      "totalMarks": 702,
+      "rank": 72
+    },
+    {
+      "name": "ASFIN NAZ",
+      "rollNo": "23031082",
+      "group": "COMMERCE",
+      "totalMarks": 694,
+      "rank": 73
+    },
+    {
+      "name": "ARSHIDHA R",
+      "rollNo": "23031012",
+      "group": "SCIENCE",
+      "totalMarks": 689,
+      "rank": 74
+    },
+    {
+      "name": "IJAS H",
+      "rollNo": "23031083",
+      "group": "COMMERCE",
+      "totalMarks": 689,
+      "rank": 74
+    },
+    {
+      "name": "MUBEEN M",
+      "rollNo": "23031052",
+      "group": "COMMERCE",
+      "totalMarks": 679,
+      "rank": 76
+    },
+    {
+      "name": "ADIL S",
+      "rollNo": "23031023",
+      "group": "SCIENCE",
+      "totalMarks": 679,
+      "rank": 76
+    },
+    {
+      "name": "MOHAMMED IRFAN S",
+      "rollNo": "23031071",
+      "group": "COMMERCE",
+      "totalMarks": 677,
+      "rank": 78
+    },
+    {
+      "name": "MOHAMMED SABEEL A",
+      "rollNo": "23031072",
+      "group": "COMMERCE",
+      "totalMarks": 673,
+      "rank": 79
+    },
+    {
+      "name": "S. MOHAMMED ANAS",
+      "rollNo": "23031075",
+      "group": "COMMERCE",
+      "totalMarks": 666,
+      "rank": 80
+    },
+    {
+      "name": "MUHAMED RAMEES. R",
+      "rollNo": "23031085",
+      "group": "COMMERCE",
+      "totalMarks": 652,
+      "rank": 81
+    },
+    {
+      "name": "HARIHAR SITHI",
+      "rollNo": "23031070",
+      "group": "COMMERCE",
+      "totalMarks": 651,
+      "rank": 82
+    },
+    {
+      "name": "ALI BATHISHA",
+      "rollNo": "23031081",
+      "group": "COMMERCE",
+      "totalMarks": 651,
+      "rank": 82
+    },
+    {
+      "name": "MOHAMMED YOUSUF",
+      "rollNo": "23031084",
+      "group": "COMMERCE",
+      "totalMarks": 649,
+      "rank": 84
+    },
+    {
+      "name": "ADITHYAN . A.S",
+      "rollNo": "23031067",
+      "group": "COMMERCE",
+      "totalMarks": 649,
+      "rank": 84
+    },
+    {
+      "name": "MUHAMMED S",
+      "rollNo": "23031028",
+      "group": "SCIENCE",
+      "totalMarks": 644,
+      "rank": 86
+    },
+    {
+      "name": "USMAN MUFEER",
+      "rollNo": "23031050",
+      "group": "SCIENCE",
+      "totalMarks": 632,
+      "rank": 87
+    },
+    {
+      "name": "MOHAMMED ASHFAK S",
+      "rollNo": "23031051",
+      "group": "COMMERCE",
+      "totalMarks": 544,
+      "rank": 88
+    },
+    {
+      "name": "NATHEEMSHA .P",
+      "rollNo": "23500444",
+      "group": "HUMANITIES",
+      "totalMarks": 185,
+      "rank": 89
+    }
+  ]
+}

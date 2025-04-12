@@ -28,6 +28,11 @@ func SetupRouter() {
 
 	app.Get("/:resultType/search", func(c *fiber.Ctx) error {
 		resultType := c.Params("resultType") // Get dynamic class name
+		searchType := c.Query("searchType")  // Get dynamic class name
+		log.Println(resultType, searchType)
+		if searchType == "school" {
+			return c.SendFile("./public/" + resultType + "/schoolSearch.html")
+		}
 		return c.SendFile("./public/" + resultType + "/search.html")
 	})
 
@@ -44,7 +49,7 @@ func SetupRouter() {
 		rollNo := c.Params("rollno")
 		log.Println(resultType, rollNo)
 
-		err := services.GetStudentResults(c, resultType, "23007265")
+		err := services.GetStudentResults(c, resultType, "23000592")
 		if err != nil {
 			log.Println("Error executing template:", err)
 			return c.Status(500).SendString("Error rendering template")

@@ -1,631 +1,859 @@
-[
-  {
-    "rollNo": "22154008",
-    "regular": false,
-    "name": "ANN ANDREA SEBASTIAN",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 82
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 93
-    },
-    "subject6": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "22154025",
-    "regular": false,
-    "name": "SHARON STANLY",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject2": {
-      "name": "",
-      "grade": "",
-      "marks": null
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "D",
-      "marks": 90
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 91
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "D",
-      "marks": 100
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "C+",
-      "marks": 117
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23152876",
-    "regular": true,
-    "name": "ANEENA JOSE",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 134
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 175
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "C+",
-      "marks": 109
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 97
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 128
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "D",
-      "marks": 100
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23152877",
-    "regular": true,
-    "name": "DELNA MARY P",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 163
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 126
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 122
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "B",
-      "marks": 132
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152878",
-    "regular": true,
-    "name": "HALA PARVEEN K R",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 168
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B+",
-      "marks": 153
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 148
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "A",
-      "marks": 179
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152879",
-    "regular": true,
-    "name": "KEZIAH GEORGE DICKSON",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 190
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 200
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "A+",
-      "marks": 192
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "A",
-      "marks": 178
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "A+",
-      "marks": 190
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152880",
-    "regular": true,
-    "name": "DHRUV KIRON AIYANKULAM",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A",
-      "marks": 171
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 187
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B+",
-      "marks": 158
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "B+",
-      "marks": 150
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152881",
-    "regular": true,
-    "name": "KAREN LIYA THOMAS",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 183
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 196
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 137
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "B",
-      "marks": 123
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "A",
-      "marks": 169
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "A",
-      "marks": 166
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152882",
-    "regular": true,
-    "name": "ADLIN LEON BINU",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C",
-      "marks": 95
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B+",
-      "marks": 155
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "D",
-      "marks": 72
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C",
-      "marks": 90
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "D",
-      "marks": 102
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23152883",
-    "regular": true,
-    "name": "DON K DANIEL",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "C+",
-      "marks": 119
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 115
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 113
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 131
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152884",
-    "regular": true,
-    "name": "JAISON VARGHESE",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 120
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A",
-      "marks": 179
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B",
-      "marks": 133
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 146
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 157
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 146
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152885",
-    "regular": true,
-    "name": "MUHAMMED JASIM N J",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B",
-      "marks": 125
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "B",
-      "marks": 139
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 104
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "D",
-      "marks": 83
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "C+",
-      "marks": 111
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B",
-      "marks": 127
-    },
-    "result": "NHS"
-  },
-  {
-    "rollNo": "23152886",
-    "regular": true,
-    "name": "V V EZHILL MAKIZHAVARTHNI",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "A+",
-      "marks": 184
-    },
-    "subject2": {
-      "name": "MALAYALAM",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A+",
-      "marks": 191
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A",
-      "marks": 172
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A+",
-      "marks": 193
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A+",
-      "marks": 192
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152887",
-    "regular": true,
-    "name": "DARSHAN RAJESH",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 181
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "A",
-      "marks": 165
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "A",
-      "marks": 174
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "A",
-      "marks": 170
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 156
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152888",
-    "regular": true,
-    "name": "RAASEEL ALI K B",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 149
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 185
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "C+",
-      "marks": 118
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 144
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "B+",
-      "marks": 149
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23152889",
-    "regular": true,
-    "name": "JYOTHIKA M N",
-    "group": "COMMERCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A+",
-      "marks": 182
-    },
-    "subject3": {
-      "name": "BUSINESS STUDIES WITH   FUNCTIONAL MANAGEMENT",
-      "grade": "B+",
-      "marks": 156
-    },
-    "subject4": {
-      "name": "ACCOUNTANCY WITH        AFS",
-      "grade": "B+",
-      "marks": 141
-    },
-    "subject5": {
-      "name": "ECONOMICS",
-      "grade": "B+",
-      "marks": 147
-    },
-    "subject6": {
-      "name": "COMPUTER APPLICATION-COM",
-      "grade": "A",
-      "marks": 162
-    },
-    "result": "EHS"
-  },
-  {
-    "rollNo": "23399115",
-    "regular": true,
-    "name": "AMAN FIROZ CHIRACKAL",
-    "group": "SCIENCE",
-    "subject1": {
-      "name": "ENGLISH",
-      "grade": "B+",
-      "marks": 140
-    },
-    "subject2": {
-      "name": "HINDI",
-      "grade": "A",
-      "marks": 162
-    },
-    "subject3": {
-      "name": "PHYSICS",
-      "grade": "B",
-      "marks": 124
-    },
-    "subject4": {
-      "name": "CHEMISTRY",
-      "grade": "D",
-      "marks": 109
-    },
-    "subject5": {
-      "name": "BIOLOGY",
-      "grade": "B",
-      "marks": 138
-    },
-    "subject6": {
-      "name": "HOME SCIENCE",
-      "grade": "C+",
-      "marks": 114
-    },
-    "result": "NHS"
-  }
-]
+{
+  "schoolCode": "7119",
+  "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+  "phoneNo": "0484-2577343",
+  "emailId": "lilyhillvalley@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "Kalamasseri(M)Kanayannoor",
+  "eduDistrict": "Ernakulam",
+  "assemblyConstituency": "Kalamassery",
+  "courseCode": "2,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "1,2",
+  "district": "ERNAKULAM",
+  "results": [
+    {
+      "rollNo": "23152876",
+      "regular": true,
+      "name": "ANEENA JOSE",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 134
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 175
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "C+",
+          "marks": 109
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 97
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 128
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "D",
+          "marks": 100
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 743,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152877",
+      "regular": true,
+      "name": "DELNA MARY P",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 163
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 126
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 122
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "B",
+          "marks": 132
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 892,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152878",
+      "regular": true,
+      "name": "HALA PARVEEN K R",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 168
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B+",
+          "marks": 153
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 148
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "A",
+          "marks": 179
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 1022,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152879",
+      "regular": true,
+      "name": "KEZIAH GEORGE DICKSON",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 190
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 200
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "A+",
+          "marks": 192
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "A",
+          "marks": 178
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "A+",
+          "marks": 190
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 1143,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152880",
+      "regular": true,
+      "name": "DHRUV KIRON AIYANKULAM",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A",
+          "marks": 171
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 187
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B+",
+          "marks": 158
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "B+",
+          "marks": 150
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 934,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152881",
+      "regular": true,
+      "name": "KAREN LIYA THOMAS",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 183
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 196
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 137
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "B",
+          "marks": 123
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "A",
+          "marks": 169
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "A",
+          "marks": 166
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 974,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152882",
+      "regular": true,
+      "name": "ADLIN LEON BINU",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 95
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B+",
+          "marks": 155
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "D",
+          "marks": 72
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C",
+          "marks": 90
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "D",
+          "marks": 102
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 597,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152883",
+      "regular": true,
+      "name": "DON K DANIEL",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C+",
+          "marks": 119
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 115
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 113
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 131
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 775,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152884",
+      "regular": true,
+      "name": "JAISON VARGHESE",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 120
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A",
+          "marks": 179
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B",
+          "marks": 133
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 146
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 157
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 146
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 881,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152885",
+      "regular": true,
+      "name": "MUHAMMED JASIM N J",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B",
+          "marks": 125
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "B",
+          "marks": 139
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 104
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "D",
+          "marks": 83
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "C+",
+          "marks": 111
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B",
+          "marks": 127
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 689,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152886",
+      "regular": true,
+      "name": "V V EZHILL MAKIZHAVARTHNI",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "A+",
+          "marks": 184
+        },
+        {
+          "name": "MALAYALAM",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A+",
+          "marks": 191
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A",
+          "marks": 172
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A+",
+          "marks": 193
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A+",
+          "marks": 192
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 1125,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152887",
+      "regular": true,
+      "name": "DARSHAN RAJESH",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 181
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "A",
+          "marks": 165
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "A",
+          "marks": 174
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "A",
+          "marks": 170
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 156
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 1002,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152888",
+      "regular": true,
+      "name": "RAASEEL ALI K B",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 149
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 185
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "C+",
+          "marks": 118
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 144
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "B+",
+          "marks": 149
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 863,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23152889",
+      "regular": true,
+      "name": "JYOTHIKA M N",
+      "group": "COMMERCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "HINDI",
+          "grade": "A+",
+          "marks": 182
+        },
+        {
+          "name": "BUSINESS STUDIES WITH FUNCTIONAL MANAGEMENT",
+          "grade": "B+",
+          "marks": 156
+        },
+        {
+          "name": "ACCOUNTANCY WITH AFS",
+          "grade": "B+",
+          "marks": 141
+        },
+        {
+          "name": "ECONOMICS",
+          "grade": "B+",
+          "marks": 147
+        },
+        {
+          "name": "COMPUTER APPLICATION-COM",
+          "grade": "A",
+          "marks": 162
+        }
+      ],
+      "result": "EHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 944,
+      "fullAp": false
+    },
+    {
+      "rollNo": "23399115",
+      "regular": true,
+      "name": "AMAN FIROZ CHIRACKAL",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "B+",
+          "marks": 140
+        },
+        {
+          "name": "HINDI",
+          "grade": "A",
+          "marks": 162
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "B",
+          "marks": 124
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 109
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "B",
+          "marks": 138
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "C+",
+          "marks": 114
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 787,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22154008",
+      "regular": false,
+      "name": "ANN ANDREA SEBASTIAN",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 82
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 93
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 257,
+      "fullAp": false
+    },
+    {
+      "rollNo": "22154025",
+      "regular": false,
+      "name": "SHARON STANLY",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "D",
+          "marks": 90
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "D",
+          "marks": 91
+        },
+        {
+          "name": "BIOLOGY",
+          "grade": "D",
+          "marks": 100
+        },
+        {
+          "name": "HOME SCIENCE",
+          "grade": "C+",
+          "marks": 117
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "HILL VALLEY HSS, THRIKKAKARA",
+      "schoolCode": "7119",
+      "totalMarks": 398,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 73.33,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "KEZIAH GEORGE DICKSON",
+      "rollNo": "23152879",
+      "group": "SCIENCE",
+      "totalMarks": 1143,
+      "rank": 1
+    },
+    {
+      "name": "V V EZHILL MAKIZHAVARTHNI",
+      "rollNo": "23152886",
+      "group": "COMMERCE",
+      "totalMarks": 1125,
+      "rank": 2
+    },
+    {
+      "name": "HALA PARVEEN K R",
+      "rollNo": "23152878",
+      "group": "SCIENCE",
+      "totalMarks": 1022,
+      "rank": 3
+    },
+    {
+      "name": "DARSHAN RAJESH",
+      "rollNo": "23152887",
+      "group": "COMMERCE",
+      "totalMarks": 1002,
+      "rank": 4
+    },
+    {
+      "name": "KAREN LIYA THOMAS",
+      "rollNo": "23152881",
+      "group": "SCIENCE",
+      "totalMarks": 974,
+      "rank": 5
+    },
+    {
+      "name": "JYOTHIKA M N",
+      "rollNo": "23152889",
+      "group": "COMMERCE",
+      "totalMarks": 944,
+      "rank": 6
+    },
+    {
+      "name": "DHRUV KIRON AIYANKULAM",
+      "rollNo": "23152880",
+      "group": "SCIENCE",
+      "totalMarks": 934,
+      "rank": 7
+    },
+    {
+      "name": "DELNA MARY P",
+      "rollNo": "23152877",
+      "group": "SCIENCE",
+      "totalMarks": 892,
+      "rank": 8
+    },
+    {
+      "name": "JAISON VARGHESE",
+      "rollNo": "23152884",
+      "group": "COMMERCE",
+      "totalMarks": 881,
+      "rank": 9
+    },
+    {
+      "name": "RAASEEL ALI K B",
+      "rollNo": "23152888",
+      "group": "COMMERCE",
+      "totalMarks": 863,
+      "rank": 10
+    },
+    {
+      "name": "AMAN FIROZ CHIRACKAL",
+      "rollNo": "23399115",
+      "group": "SCIENCE",
+      "totalMarks": 787,
+      "rank": 11
+    },
+    {
+      "name": "DON K DANIEL",
+      "rollNo": "23152883",
+      "group": "COMMERCE",
+      "totalMarks": 775,
+      "rank": 12
+    },
+    {
+      "name": "ANEENA JOSE",
+      "rollNo": "23152876",
+      "group": "SCIENCE",
+      "totalMarks": 743,
+      "rank": 13
+    },
+    {
+      "name": "MUHAMMED JASIM N J",
+      "rollNo": "23152885",
+      "group": "COMMERCE",
+      "totalMarks": 689,
+      "rank": 14
+    },
+    {
+      "name": "ADLIN LEON BINU",
+      "rollNo": "23152882",
+      "group": "COMMERCE",
+      "totalMarks": 597,
+      "rank": 15
+    }
+  ]
+}

@@ -3,38 +3,41 @@
   "regular": false,
   "name": "AISWARYA B",
   "group": "SCIENCE",
-  "subject1": {
-    "name": "",
-    "grade": "",
-    "marks": null
-  },
-  "subject2": {
-    "name": "",
-    "grade": "",
-    "marks": null
-  },
-  "subject3": {
-    "name": "",
-    "grade": "",
-    "marks": null
-  },
-  "subject4": {
-    "name": "CHEMISTRY",
-    "grade": "D",
-    "marks": 91
-  },
-  "subject5": {
-    "name": "BIOLOGY",
-    "grade": "D",
-    "marks": 107
-  },
-  "subject6": {
-    "name": "",
-    "grade": "",
-    "marks": null
-  },
+  "subjects": [
+    {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    {
+      "name": "",
+      "grade": "",
+      "marks": null
+    },
+    {
+      "name": "CHEMISTRY",
+      "grade": "D",
+      "marks": 91
+    },
+    {
+      "name": "BIOLOGY",
+      "grade": "D",
+      "marks": 107
+    },
+    {
+      "name": "",
+      "grade": "",
+      "marks": null
+    }
+  ],
   "result": "NHS",
   "schoolName": "GOVT. GIRLS HSS, COTTONHILL ,TRIVANDRUM",
   "schoolCode": "1002",
-  "totalMarks": 198
+  "totalMarks": 198,
+  "fullAp": false
 }
