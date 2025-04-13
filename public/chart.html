@@ -65,27 +65,11 @@
                 data.addRow([percentage, students, `color: ${color}`, tooltip]);
             });
 
-            // var options = {
-            // title: 'Student Percentage Distribution',
-            // legend: { position: 'none' },
-            // hAxis: {
-            //     title: 'Total Percentage (%)',
-            //     minValue: 0,
-            //     maxValue: 100,
-            //     gridlines: { count: 10 }
-            // },
-            // vAxis: {
-            //     title: 'Total Students',
-            //     minValue: 0
-            // },
-            // bar: { groupWidth: '75%' }
-            // };
-
             var options = {
                 width: '900%', // Allows dynamic resizing
-                height: window.innerHeight * 0.8, // Adjust height dynamically
+                height: window.innerHeight * 0.8, // 80% of viewport height
                 chartArea: {
-                    width: '80%', // Ensures bars are not cut off
+                    width: '80%',
                     height: '50%'
                 },
                 title: 'Student Percentage Distribution',

@@ -6,6 +6,8 @@ import (
 	"io"
 	"log"
 	"os"
+	"path/filepath"
+	"strings"
 
 	"github.com/gofiber/fiber/v2"
 )
@@ -22,6 +24,45 @@ func ParseBody[T any](c *fiber.Ctx) (*T, error) {
 		return nil, err
 	}
 	return &body, nil
+}
+
+func ServeCompressedFile(root string) fiber.Handler {
+	return func(c *fiber.Ctx) error {
+		filePath := filepath.Join(root, c.Params("*"))
+
+		// Check accepted encodings
+		acceptEncoding := c.Get("Accept-Encoding")
+
+		var tryEncodings []struct {
+			ext      string
+			encoding string
+		}
+
+		if strings.Contains(acceptEncoding, "br") {
+			tryEncodings = append(tryEncodings, struct {
+				ext, encoding string
+			}{".br", "br"})
+		}
+		if strings.Contains(acceptEncoding, "gzip") {
+			tryEncodings = append(tryEncodings, struct {
+				ext, encoding string
+			}{".gz", "gzip"})
+		}
+
+		for _, enc := range tryEncodings {
+			compressedPath := filePath + enc.ext
+			// Check if the compressed file exists
+			fmt.Println("Compressed path", compressedPath)
+			if _, err := os.Stat(compressedPath); err == nil {
+				c.Set("Content-Encoding", enc.encoding)
+				c.Type(filepath.Ext(filePath)) // Set original content type
+				return c.SendFile(compressedPath, false)
+			}
+		}
+
+		// fallback: serve original file
+		return c.SendFile(filePath, false)
+	}
 }
 
 // func GetUserCache(email string) *userModel.User {

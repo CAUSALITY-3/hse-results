@@ -5,8 +5,10 @@ import (
 	"time"
 
 	"hse-results/services"
+	"hse-results/utils"
 
 	"github.com/gofiber/fiber/v2"
+	"github.com/gofiber/fiber/v2/middleware/compress"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 )
@@ -15,8 +17,11 @@ func SetupRouter() {
 	app := fiber.New()
 	app.Use(cors.New())
 	app.Use(logger.New())
+	// app.Use(compress.New())
 
-	app.Static("/static/", "./public")
+	// app.Static("/static/", "./public")
+
+	app.Get("/static/*", utils.ServeCompressedFile("./public"))
 
 	app.Get("/", func(c *fiber.Ctx) error {
 		return c.SendFile("./public/index.html")
@@ -44,7 +49,7 @@ func SetupRouter() {
 		return c.JSON(res)
 	})
 
-	app.Get("/:resultType/search/student/:rollno", func(c *fiber.Ctx) error {
+	app.Get("/:resultType/search/student/:rollno", compress.New(), func(c *fiber.Ctx) error {
 		resultType := c.Params("resultType")
 		rollNo := c.Params("rollno")
 		log.Println(resultType, rollNo)
