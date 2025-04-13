@@ -8,11 +8,22 @@
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
     <link rel="stylesheet" href="/static/styles/index.css">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="/static/chart.js">
+    </script>
 </head>
 
 <body>
     <div id="students-page">
         <style>
+            /* #student-percentage-section {
+                width: 100%;
+                padding: 20px;
+                background-color: #333;
+                border-radius: 10px;
+                box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+            } */
+
             #students-page {
                 display: flex;
                 flex-direction: column;
@@ -190,6 +201,9 @@
                 </tbody>
             </table>
         </div>
+    </div>
+    <div id="student-percentage-section">
+        <div id="chart_div"></div>
     </div>
 </body>
 

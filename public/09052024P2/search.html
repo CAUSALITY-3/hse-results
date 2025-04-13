@@ -8,6 +8,7 @@
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
     <link rel="stylesheet" type="text/css" href="/static/styles/search.css">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <script src="/static/adjustZoom.js"></script>
 </head>
 
 <body>
@@ -232,6 +233,7 @@
                 let inputValStart;
                 let largeFileNames;
 
+
                 async function fetchData() {
                     try {
                         const largeFileNamesLS = localStorage.getItem("09052024P2_" + "largeFileNames");
@@ -397,8 +399,10 @@
                     const currentURL = window.location.pathname;
                     console.log("currentURL", currentURL)
                     if (currentURL.includes("/search")) {
+
                         const newURL = currentURL.split("/search")[0] + "/search";
                         window.history.pushState({}, "", newURL);
+                        adjustZoom(true);
                     }
                 }
             });

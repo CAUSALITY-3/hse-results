@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exam Results</title>
+    <script src="/static/adjustZoom.js"></script>
 
 </head>
 
@@ -179,28 +180,9 @@
         </div>
         <script>
             (function () {
-
-                function adjustZoom() {
-                    let pageWidth = 1400;
-                    let screenWidth = window.innerWidth;
-
-                    console.log(pageWidth, screenWidth, window)
-                    if (screenWidth < pageWidth) {
-                        let scaleFactor = screenWidth / pageWidth;
-                        document.body.style.zoom = scaleFactor;
-                        console.log(scaleFactor)
-                        // document.body.style.transformOrigin = 'top left';
-                    } else {
-                        document.body.style.zoom = 1;
-                    }
-                }
-
-                window.onload = adjustZoom;
-                window.onresize = adjustZoom;
-                adjustZoom()
-
                 const schoolResult = JSON.parse('{{ .SchoolResult }}');
-
+                window.onload = () => adjustZoom(false);
+                window.onresize = () => adjustZoom(false);
                 const tableBody = document.getElementById("resultTableBody");
                 schoolResult.forEach(student => {
                     const row = document.createElement("tr");
