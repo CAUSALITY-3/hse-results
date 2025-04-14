@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exam Results</title>
-    <script src="/static/adjustZoom.js"></script>
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+    <link rel="stylesheet" type="text/css" href="/static/styles/search.css">
 
 </head>
 
@@ -178,11 +179,13 @@
                 <tbody id="resultTableBody"></tbody>
             </table>
         </div>
+        <script src="/static/adjustZoom.js"></script>
         <script>
             (function () {
                 const schoolResult = JSON.parse('{{ .SchoolResult }}');
                 window.onload = () => adjustZoom(false);
                 window.onresize = () => adjustZoom(false);
+                adjustZoom(false);
                 const tableBody = document.getElementById("resultTableBody");
                 schoolResult.forEach(student => {
                     const row = document.createElement("tr");

@@ -16,13 +16,60 @@
 <body>
     <div id="students-page">
         <style>
-            /* #student-percentage-section {
+            #student-percentage-section {
                 width: 100%;
-                padding: 20px;
-                background-color: #333;
+            }
+
+            /* #chart-container {
+        width: 100%;
+        max-width: 700px;
+        margin: auto;
+      } */
+
+            /* #chart_div {
+        width: 100%;
+        height: 500px;
+        cursor: pointer;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+      } */
+
+            #fullscreen-modal {
+                position: fixed;
+                top: 0;
+                left: 0;
+                z-index: 9999;
+                width: 100vw;
+                height: 100vh;
+                background: rgba(0, 0, 0, 0.9);
+                display: none;
+                align-items: center;
+                justify-content: center;
+            }
+
+            #fullscreen_chart {
+                width: 95vw;
+                height: 90vh;
+                background: white;
+                border-radius: 8px;
+                padding: 10px;
+            }
+
+            #close-btn {
+                position: absolute;
+                top: 15px;
+                right: 20px;
+                color: white;
+                font-size: 30px;
+                cursor: pointer;
+            }
+
+            #chart_div {
+                /* width: 90%; */
+                width: -webkit-fill-available;
+                height: 500px;
                 border-radius: 10px;
-                box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
-            } */
+            }
 
             #students-page {
                 display: flex;
@@ -119,6 +166,10 @@
                     padding: 15px;
                 }
 
+                #chart_div {
+                    height: 300px;
+                }
+
                 .student-name {
                     font-size: 22px;
                 }
@@ -201,10 +252,22 @@
                 </tbody>
             </table>
         </div>
+        <div id="student-percentage-section">
+            <script src="https://www.gstatic.com/charts/loader.js"></script>
+            <script src="/static/chart.js">
+            </script>
+            <div id="chart_div"></div>
+        </div>
+        <script>
+            loadGoogleCharts('{{ .TotalMarks }}');
+        </script>
+        <!-- <div id="fullscreen-modal">
+            <div id="close-btn">&times;</div>
+            <div id="fullscreen_chart"></div>
+        </div> -->
+
     </div>
-    <div id="student-percentage-section">
-        <div id="chart_div"></div>
-    </div>
+
 </body>
 
 </html>
