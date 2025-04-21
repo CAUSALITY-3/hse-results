@@ -1,6 +1,6 @@
 async function loadGoogleCharts(userMark, group, modal) {
   google.charts.load("current", { packages: ["corechart"] });
-  // google.charts.setOnLoadCallback(drawChart);
+
   let markCount = {};
   if (group === "science") {
     await fetch(`/static/09052024P2/data/rank/scienceRankCount.json`)
@@ -16,9 +16,11 @@ async function loadGoogleCharts(userMark, group, modal) {
         console.log("Mark count data:", markCount);
       });
   }
-  // if (modal) {
-  drawChart();
-  // }
+  if (modal) {
+    await drawChart();
+  } else {
+    google.charts.setOnLoadCallback(drawChart);
+  }
 
   async function drawChart() {
     console.log("Drawing chart with userMark:", userMark);
@@ -79,7 +81,7 @@ async function loadGoogleCharts(userMark, group, modal) {
           group === "science" ? "chart_div_science" : "chart_div"
         )
       );
-      console.log("Drawing chart with data:", "chartData");
+      console.log("Drawing chart with data:", chartData);
       chart.draw(data, options);
     }
   }

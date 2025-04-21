@@ -8,9 +8,6 @@
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
     <link rel="stylesheet" href="/static/styles/index.css">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
-    <script src="https://www.gstatic.com/charts/loader.js"></script>
-    <script src="/static/chart.js">
-    </script>
 </head>
 
 <body>
@@ -80,22 +77,33 @@
             }
 
             .student-rollno,
+            .student-group {
+                font-weight: 600;
+                font-size: 18px;
+
+                color: #ffcc00;
+            }
+
+            .student-rollno {
+                color: #b6b6b6;
+            }
+
             .student-school {
                 font-weight: 500;
                 font-size: 18px;
-                color: #cccccc;
-            }
-
-            .student-group {
-                font-weight: 600;
-                font-size: 22px;
                 background-color: #333;
-                color: #ffcc00;
+                color: #cccccc;
                 padding: 8px 15px;
                 border-radius: 6px;
                 text-align: center;
                 width: fit-content;
                 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+            }
+
+            .student-school:hover {
+                background-color: #2e2e2e;
+                color: #ffcc0083;
+                cursor: pointer;
             }
 
             .student-mark-section {
@@ -153,11 +161,11 @@
                 }
 
                 .student-rollno,
-                .student-school {
+                .student-group {
                     font-size: 16px;
                 }
 
-                .student-group {
+                .student-school {
                     font-size: 18px;
                     padding: 6px 12px;
                 }
@@ -261,7 +269,9 @@
         <div class="student-page-top-section">
             <div class="student-name">{{ .Name }}</div>
             <div class="student-rollno">{{ .RollNo }}</div>
-            <div class="student-school">{{ .SchoolName }} - {{ .SchoolCode }}</div>
+            <div class="student-school" hx-get="/09052024P2/search/school/{{ .SchoolCode }}" hx-swap="outerHTML"
+                hx-target="body" hx-select="#school-page" hx-push-url="/09052024P2/search/school/{{ .SchoolCode }}">{{
+                .SchoolName }} - {{ .SchoolCode }}</div>
         </div>
         <div class="student-group">{{ .StudentGroup }}</div>
 
@@ -280,9 +290,6 @@
             </table>
         </div>
         <div id="student-percentage-section">
-            <script src="https://www.gstatic.com/charts/loader.js"></script>
-            <script src="/static/chart.js">
-            </script>
             <div class="chart-container">
                 <div class="chart-name">Mark vs Count (State wise)</div>
                 <div id="chart_div"
@@ -295,39 +302,68 @@
             </div>
         </div>
         <script>
-            loadGoogleCharts('{{ .TotalMarks }}', 'overall');
-            loadGoogleCharts('{{ .TotalMarks }}', 'science');
+            function loadScript(src, callback) {
+                // Check if script is already in the document
+                if (document.querySelector(`script[src="${src}"]`)) {
+                    console.log(`Script ${src} already loaded.`);
+                    if (callback) callback(); // still call the callback to continue flow
+                    return;
+                }
 
-            function openModalWithContent(totalMarks, title, group) {
-                // console.log('Element clicked:', element);
-                const modal = document.getElementById('fullscreen-modal');
-                const modalBody = document.getElementById('modal-body');
-
-                const modalTitle = document.getElementById('modal-title');
-                modalTitle.innerHTML = title;
-
-                modalBody.innerHTML = `<div id="fullscreen_chart"></div>`;
-                loadGoogleCharts(totalMarks, group, true);
-
-                // Option 2: Or dynamically render something custom
-                // modalBody.innerHTML = `<h1>Custom Rendered: ${element.dataset.id}</h1>`;
-                document.body.classList.add('modal-open');
-                modal.classList.remove('hidden');
+                const script = document.createElement('script');
+                script.src = src;
+                script.onload = callback;
+                script.onerror = function () {
+                    console.error(`Failed to load script: ${src}`);
+                };
+                document.head.appendChild(script);
             }
 
-            function closeModal() {
-                document.getElementById('fullscreen-modal').classList.add('hidden');
-                document.body.classList.remove('modal-open');
-            }
+            // Step 1: Load Google Charts loader.js first
+            loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+                console.log('Google Charts loader.js loaded');
+
+                // Step 2: Load your custom chart.js after loader.js
+                loadScript('/static/chart.js', async function () {
+                    console.log('Your chart.js loaded');
+
+                    // Step 3: Now it's safe to call loadGoogleCharts and define modal functions
+                    await loadGoogleCharts('{{ .TotalMarks }}', 'overall');
+                    await loadGoogleCharts('{{ .TotalMarks }}', 'science');
+
+                    window.openModalWithContent = async function (totalMarks, title, group) {
+                        const modal = document.getElementById('fullscreen-modal');
+                        const modalBody = document.getElementById('modal-body');
+                        const modalTitle = document.getElementById('modal-title');
+
+                        modalTitle.innerHTML = title;
+                        modalBody.innerHTML = `<div id="fullscreen_chart"></div>`;
+                        await loadGoogleCharts(totalMarks, group, true);
+
+                        document.body.classList.add('modal-open');
+                        modal.classList.remove('hidden');
+                    };
+
+                    window.closeModal = function () {
+                        document.getElementById('fullscreen-modal').classList.add('hidden');
+                        document.body.classList.remove('modal-open');
+                    };
+                });
+            });
+
+            loadScript("/static/adjustZoom.js", function () {
+                window.onload = () => adjustZoom(true);
+                window.onresize = () => adjustZoom(true);
+                adjustZoom(true);
+            });
         </script>
 
-    </div>
-
-    <div id="fullscreen-modal" class="modal hidden">
-        <div class="modal-content">
-            <button onclick="closeModal()">Close</button>
-            <div id="modal-title"></div>
-            <div id="modal-body"></div>
+        <div id="fullscreen-modal" class="modal hidden">
+            <div class="modal-content">
+                <button onclick="closeModal()">Close</button>
+                <div id="modal-title"></div>
+                <div id="modal-body"></div>
+            </div>
         </div>
     </div>
 </body>

@@ -8,7 +8,6 @@
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
     <link rel="stylesheet" type="text/css" href="/static/styles/search.css">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
-    <script src="/static/adjustZoom.js"></script>
 </head>
 
 <body>
@@ -230,6 +229,27 @@
                 let schoolInputValStart;
                 let schoolCodeName;
 
+                function loadScript(src, callback) {
+                    // Check if script is already in the document
+                    if (document.querySelector(`script[src="${src}"]`)) {
+                        console.log(`Script ${src} already loaded.`);
+                        if (callback) callback(); // still call the callback to continue flow
+                        return;
+                    }
+
+                    const script = document.createElement('script');
+                    script.src = src;
+                    script.onload = callback;
+                    script.onerror = function () {
+                        console.error(`Failed to load script: ${src}`);
+                    };
+                    document.head.appendChild(script);
+                }
+                loadScript("/static/adjustZoom.js", function () {
+                    window.onload = () => adjustZoom(true);
+                    window.onresize = () => adjustZoom(true);
+                    adjustZoom(true);
+                });
                 async function fetchData() {
                     try {
                         const schoolCodeNameMapping = localStorage.getItem("09052024P2_schoolCodeNameMapping");
