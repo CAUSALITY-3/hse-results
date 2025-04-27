@@ -239,16 +239,16 @@
             }
 
             #modal-body {
-                height: 100%;
+                /* height: 100%; */
                 /* overflow-y: auto; */
-                width: 100%;
+                /* width: 100%; */
             }
 
-            #fullscreen_chart {
+            /* #fullscreen_chart {
                 width: 100%;
                 min-height: 70vh;
                 height: 100%;
-            }
+            } */
 
             /* @media screen and (max-width: 768px) {
 
@@ -333,11 +333,11 @@
 
                     window.openModalWithContent = async function (totalMarks, title, group) {
                         const modal = document.getElementById('fullscreen-modal');
-                        const modalBody = document.getElementById('modal-body');
+                        // const modalBody = document.getElementById('fullscreen_chart');
                         const modalTitle = document.getElementById('modal-title');
 
                         modalTitle.innerHTML = title;
-                        modalBody.innerHTML = `<div id="fullscreen_chart"></div>`;
+                        // modalBody.innerHTML = `<div id="fullscreen_chart" style="width: 2400px; height: 600px; display: inline-block;"></div>`;
                         await loadGoogleCharts(totalMarks, group, true);
 
                         document.body.classList.add('modal-open');
@@ -362,7 +362,7 @@
             <div class="modal-content">
                 <button onclick="closeModal()">Close</button>
                 <div id="modal-title"></div>
-                <div id="modal-body"></div>
+                <div id="fullscreen_chart" style="width: 2400px; height: 600px; display: inline-block;"></div>
             </div>
         </div>
     </div>

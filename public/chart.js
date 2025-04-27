@@ -46,34 +46,41 @@ async function loadGoogleCharts(userMark, group, modal) {
       backgroundColor: "#252525",
       chartArea: {
         backgroundColor: "#252525",
-        width: "85%",
+        left: 100, // Enough space for Y-axis labels
+        // right: 20,
+        // top: 20,
+        // bottom: 40,
+        width: "80%",
         height: "70%",
       },
       legend: { position: "none" },
-      colors: ["#ff8080", "#00ff7f"], // default red, highlight green
+      colors: ["#ff8080", "#00ff7f"], // red for <1000, green for >1000
       hAxis: {
         direction: -1,
         textStyle: { color: "#ffffff" },
         titleTextStyle: { color: "#ffffff" },
         gridlines: { color: "#444444" },
         viewWindow: {
-          min: -1, // lower than your lowest mark (950)
-          max: 1201, // higher than your highest mark (1050)
+          min: -1,
+          max: 1201,
         },
       },
       vAxis: {
+        direction: 1,
         textStyle: { color: "#ffffff" },
         titleTextStyle: { color: "#ffffff" },
         gridlines: { color: "#444444" },
       },
     };
     if (modal) {
+      // document.getElementById("fullscreen_chart").style.width = 2400 + "px";
       const chart = new google.visualization.ColumnChart(
         document.getElementById("fullscreen_chart")
       );
-      document.getElementById("modal-body").style.width = 2400 + "px";
+      options.width = 2400;
+      options.height = 500;
 
-      console.log("Drawing chart with data:", chartData);
+      console.log("Drawing chart with data:", data);
       chart.draw(data, options);
     } else {
       const chart = new google.visualization.ColumnChart(
@@ -81,7 +88,7 @@ async function loadGoogleCharts(userMark, group, modal) {
           group === "science" ? "chart_div_science" : "chart_div"
         )
       );
-      console.log("Drawing chart with data:", chartData);
+      console.log("Drawing chart with data:", data);
       chart.draw(data, options);
     }
   }
