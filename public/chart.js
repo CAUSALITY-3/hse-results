@@ -3,18 +3,51 @@ async function loadGoogleCharts(userMark, group, modal) {
 
   let markCount = {};
   if (group === "science") {
-    await fetch(`/static/09052024P2/data/rank/scienceRankCount.json`)
-      .then((response) => response.json())
-      .then((data) => {
-        markCount = data;
-      });
+    const lsValue = localStorage.getItem("09052024P2_" + "scienceRankCount");
+    if (lsValue) {
+      markCount = JSON.parse(lsValue);
+      console.log("Using cached data:", markCount);
+    } else {
+      await fetch(`/static/09052024P2/data/rank/scienceRankCount.json`)
+        .then((response) => response.json())
+        .then((data) => {
+          markCount = data;
+          localStorage.setItem(
+            "09052024P2_" + "scienceRankCount",
+            JSON.stringify(data)
+          );
+          console.log("Fetched and cached data:", markCount);
+        });
+    }
+    // await fetch(`/static/09052024P2/data/rank/scienceRankCount.json`)
+    //   .then((response) => response.json())
+    //   .then((data) => {
+    //     markCount = data;
+    //   });
   } else {
-    await fetch(`/static/09052024P2/data/rank/markMappingCount.json`)
-      .then((response) => response.json())
-      .then((data) => {
-        markCount = data;
-        console.log("Mark count data:", markCount);
-      });
+    const lsValue = localStorage.getItem("09052024P2_" + "markMappingCount");
+    if (lsValue) {
+      markCount = JSON.parse(lsValue);
+      console.log("Using cached data:", markCount);
+    } else {
+      await fetch(`/static/09052024P2/data/rank/markMappingCount.json`)
+        .then((response) => response.json())
+        .then((data) => {
+          markCount = data;
+          localStorage.setItem(
+            "09052024P2_" + "markMappingCount",
+            JSON.stringify(data)
+          );
+          console.log("Fetched and cached data:", markCount);
+        });
+    }
+
+    // await fetch(`/static/09052024P2/data/rank/markMappingCount.json`)
+    //   .then((response) => response.json())
+    //   .then((data) => {
+    //     markCount = data;
+    //     console.log("Mark count data:", markCount);
+    //   });
   }
   if (modal) {
     await drawChart();
@@ -43,9 +76,9 @@ async function loadGoogleCharts(userMark, group, modal) {
     data.addRows(chartData);
 
     const options = {
-      backgroundColor: "#252525",
+      backgroundColor: "#2e2e2e",
       chartArea: {
-        backgroundColor: "#252525",
+        backgroundColor: "#2e2e2e",
         left: 100, // Enough space for Y-axis labels
         // right: 20,
         // top: 20,
@@ -56,6 +89,7 @@ async function loadGoogleCharts(userMark, group, modal) {
       legend: { position: "none" },
       colors: ["#ff8080", "#00ff7f"], // red for <1000, green for >1000
       hAxis: {
+        title: "Mark",
         direction: -1,
         textStyle: { color: "#ffffff" },
         titleTextStyle: { color: "#ffffff" },
@@ -66,6 +100,7 @@ async function loadGoogleCharts(userMark, group, modal) {
         },
       },
       vAxis: {
+        title: "Count of Students",
         direction: 1,
         textStyle: { color: "#ffffff" },
         titleTextStyle: { color: "#ffffff" },

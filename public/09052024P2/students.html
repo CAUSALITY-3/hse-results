@@ -17,6 +17,62 @@
                 width: 100%;
             }
 
+            ::-webkit-scrollbar {
+                width: 8px;
+                height: 8px;
+            }
+
+            ::-webkit-scrollbar-track {
+                background: #252525;
+                border-radius: 10px;
+            }
+
+            ::-webkit-scrollbar-thumb {
+                background: linear-gradient(180deg, #444, #666);
+                border-radius: 10px;
+                border: 2px solid #252525;
+            }
+
+            ::-webkit-scrollbar-thumb:hover {
+                background: linear-gradient(180deg, #555, #777);
+            }
+
+            /* Firefox */
+            * {
+                scrollbar-width: thin;
+                scrollbar-color: #444 #252525;
+            }
+
+            .chart-container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+
+                padding: 20px 0;
+                background-color: #2e2e2e;
+                border-radius: 10px;
+                margin: 20px 0;
+            }
+
+            .chart-section {
+                width: 100%;
+                height: 520px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+
+            @media (max-width: 1200px) {
+                .chart-section {
+                    overflow-x: scroll;
+                    overflow-y: auto;
+                    align-items: start;
+                    justify-content: start;
+                }
+            }
+
             #fullscreen-modal {
                 position: fixed;
                 top: 0;
@@ -40,10 +96,15 @@
             }
 
             #chart_div {
-                /* width: 90%; */
-                width: -webkit-fill-available;
                 height: 500px;
                 border-radius: 10px;
+                width: 1200px;
+            }
+
+            #chart_div_science {
+                height: 500px;
+                border-radius: 10px;
+                width: 1200px;
             }
 
             #students-page {
@@ -52,8 +113,8 @@
                 align-items: center;
                 justify-content: center;
                 gap: 20px;
-                width: 90%;
-                max-width: 800px;
+                width: 95%;
+                /* max-width: 800px; */
                 padding: 20px;
                 background: #252525;
                 border-radius: 10px;
@@ -108,6 +169,7 @@
 
             .student-mark-section {
                 width: 100%;
+                max-width: 800px;
                 padding: 15px 0;
             }
 
@@ -291,14 +353,16 @@
         </div>
         <div id="student-percentage-section">
             <div class="chart-container">
-                <div class="chart-name">Mark vs Count (State wise)</div>
-                <div id="chart_div"
-                    onclick="openModalWithContent('{{ .TotalMarks }}', 'Mark vs Count (State wise)', 'overall')"></div>
+                <div class="chart-name">Overall Rank details</div>
+                <div class="chart-section">
+                    <div id="chart_div" class="chart-only"></div>
+                </div>
             </div>
             <div class="chart-container">
                 <div class="chart-name">Mark vs Count (Group wise)</div>
-                <div id="chart_div_science"
-                    onclick="openModalWithContent('{{ .TotalMarks }}', 'Mark vs Count (Group wise)', 'science')"></div>
+                <div class="chart-section">
+                    <div id="chart_div_science" class="chart-only"></div>
+                </div>
             </div>
         </div>
         <script>
