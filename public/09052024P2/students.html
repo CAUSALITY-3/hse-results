@@ -389,6 +389,9 @@
 
                 // Step 2: Load your custom chart.js after loader.js
                 loadScript('/static/chart.js', async function () {
+                    // loadScript('/static/indexDb.js', async function () {
+                    //     console.log('indexDb.js loaded');
+                    // });
                     console.log('Your chart.js loaded');
 
                     // Step 3: Now it's safe to call loadGoogleCharts and define modal functions
