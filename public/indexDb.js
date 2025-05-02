@@ -1,21 +1,21 @@
-const indexedDB =
-  window.indexedDB ||
-  window.mozIndexedDB ||
-  window.webkitIndexedDB ||
-  window.msIndexedDB ||
-  window.shimIndexedDB;
-
-if (!indexedDB) {
-  console.log("IndexedDB could not be found in this browser.");
-}
-
 function storeData(key, collection, value) {
+  const indexedDB =
+    window.indexedDB ||
+    window.mozIndexedDB ||
+    window.webkitIndexedDB ||
+    window.msIndexedDB ||
+    window.shimIndexedDB;
+
+  if (!indexedDB) {
+    console.log("IndexedDB could not be found in this browser.");
+  }
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open("hse-results", 1);
+    const request = indexedDB.open("hseResults", 1);
 
     request.onupgradeneeded = (event) => {
       const db = event.target.result;
       if (!db.objectStoreNames.contains(collection)) {
+        console.log("Creating object store:", collection);
         db.createObjectStore(collection, { keyPath: "id" });
       }
     };
@@ -23,6 +23,7 @@ function storeData(key, collection, value) {
     request.onsuccess = (event) => {
       const db = event.target.result;
       if (!db.objectStoreNames.contains(collection)) {
+        console.log("hahahahahah", db.objectStoreNames);
         reject(`Object store "${collection}" not found.`);
         db.close();
         return;
@@ -30,7 +31,7 @@ function storeData(key, collection, value) {
       const tx = db.transaction(collection, "readwrite");
 
       tx.onerror = function (event) {
-        console.error("Transaction error:", event.target.error);
+        console.log("Transaction error:", event.target.error);
         alert("Storage operation failed. Possibly no space left.");
       };
 
@@ -43,7 +44,7 @@ function storeData(key, collection, value) {
           resolve("Data stored successfully.");
         };
         addRequest.onerror = function (event) {
-          console.error("Put error:", event.target.error);
+          console.log("Put error:", event.target.error);
           reject("Failed to write to the database.", event.target.error);
         };
       } catch (e) {
@@ -73,26 +74,46 @@ function storeData(key, collection, value) {
 }
 
 function getData(key, collection) {
+  const indexedDB =
+    window.indexedDB ||
+    window.mozIndexedDB ||
+    window.webkitIndexedDB ||
+    window.msIndexedDB ||
+    window.shimIndexedDB;
+
+  if (!indexedDB) {
+    console.log("IndexedDB could not be found in this browser.");
+  }
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open("hse-results", 1);
+    const request = indexedDB.open("hseResults", 1);
 
     request.onsuccess = (event) => {
-      const db = event.target.result;
-      const tx = db.transaction(collection, "readonly");
-      const store = tx.objectStore(collection);
+      try {
+        const db = event.target.result;
+        const tx = db.transaction(collection, "readonly");
+        const store = tx.objectStore(collection);
 
-      const getRequest = store.get(key);
+        const getRequest = store.get(key);
 
-      getRequest.onsuccess = () => {
-        resolve(getRequest.result.value);
-        console.log("Data retrieved successfully:", getRequest.result.value);
-        db.close();
-      };
+        getRequest.onsuccess = () => {
+          resolve(getRequest?.result?.value);
+          console.log("Data retrieved successfully:", getRequest.result.value);
+          db.close();
+        };
 
-      getRequest.onerror = () => {
-        reject(getRequest.error);
-        db.close();
-      };
+        getRequest.onerror = () => {
+          reject(getRequest.error);
+          db.close();
+        };
+      } catch (e) {
+        if (e.name === "NotFoundError") {
+          console.log("Data not found in the database:", e);
+          reject("Data not found in the database.");
+        } else {
+          console.log("Unexpected error:", e);
+          reject("Unexpected error:", e);
+        }
+      }
     };
 
     request.onerror = (event) => {
@@ -101,6 +122,16 @@ function getData(key, collection) {
   });
 }
 function deleteData(key, collection) {
+  const indexedDB =
+    window.indexedDB ||
+    window.mozIndexedDB ||
+    window.webkitIndexedDB ||
+    window.msIndexedDB ||
+    window.shimIndexedDB;
+
+  if (!indexedDB) {
+    console.log("IndexedDB could not be found in this browser.");
+  }
   return new Promise((resolve, reject) => {
     const request = indexedDB.open("hse-results", 1);
 

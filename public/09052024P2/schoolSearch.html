@@ -250,15 +250,24 @@
                     window.onresize = () => adjustZoom(true);
                     adjustZoom(true);
                 });
+                loadScript('/static/indexDb.js', function () {
+                    console.log('indexDb.js loaded');
+                });
                 async function fetchData() {
                     try {
-                        const schoolCodeNameMapping = localStorage.getItem("09052024P2_schoolCodeNameMapping");
+                        let schoolCodeNameMapping;
+                        try {
+                            schoolCodeNameMapping = await getData("09052024P2_schoolCodeNameMapping", "main");
+                        } catch (e) {
+                            console.log("Error retrieving data from IndexedDB:", e);
+                            schoolCodeNameMapping = null; // Set to null if there's an error
+                        }
                         if (schoolCodeNameMapping) {
-                            schoolCodeName = JSON.parse(schoolCodeNameMapping);
+                            schoolCodeName = schoolCodeNameMapping;
                         } else {
                             const schoolNamesApi = await fetch(`/static/09052024P2/schoolCodeName.json`);
                             schoolCodeName = await schoolNamesApi.json()
-                            localStorage.setItem("09052024P2_schoolCodeNameMapping", JSON.stringify(schoolCodeName))
+                            await storeData("09052024P2_schoolCodeNameMapping", "main", schoolCodeName)
                         }
                     } catch (error) {
                         console.error("Error fetching data:", error);
@@ -345,8 +354,15 @@
                     removeSchools()
                     let schools;
                     spinner.style.display = 'inline';
-                    const lsValue = localStorage.getItem("09052024P2_schoolCodeNameMapping")
-                    const parsedValue = JSON.parse(lsValue);
+                    let lsValue;
+                    try {
+                        lsValue = await getData("09052024P2_schoolCodeNameMapping", "main");
+                    } catch (e) {
+                        console.log("Error retrieving data from IndexedDB:", e);
+                        lsValue = null; // Set to null if there's an error
+                    }
+                    // const lsValue = localStorage.getItem("09052024P2_schoolCodeNameMapping")
+                    const parsedValue = lsValue;
                     console.log("eeeeeeeeeeeeeeeeeeeeeeeeeeee", parsedValue)
                     schools = parsedValue[code] ? [{ code, name: parsedValue[code] }] : [];
                     if (schools.length) {
@@ -357,7 +373,8 @@
                     try {
                         const apiRes = await fetch("/static/09052024P2/schoolCodeName.json");
                         const parsedData = await apiRes.json();
-                        localStorage.setItem("09052024P2_schoolCodeNameMapping", JSON.stringify(parsedData))
+                        await storeData("09052024P2_schoolCodeNameMapping", "main", parsedData)
+                        // localStorage.setItem("09052024P2_schoolCodeNameMapping", JSON.stringify(parsedData))
                         schools = parsedData[code] ? [parsedData[code]] : [];
                     } catch (err) {
                         console.log(err)
@@ -370,12 +387,19 @@
                 }
 
                 async function getAndStoreQuery(url, lsKey, pattern) {
-                    const lsValue = localStorage.getItem("09052024P2_" + lsKey)
-                    if (lsValue) return findPatternMatchingSchoolName(pattern, JSON.parse(lsValue));
+                    let lsValue;
+                    try {
+                        lsValue = await getData("09052024P2_" + lsKey, "main");
+                    } catch (e) {
+                        console.log("Error retrieving data from IndexedDB:", e);
+                        lsValue = null; // Set to null if there's an error
+                    }
+                    // const lsValue = localStorage.getItem("09052024P2_" + lsKey)
+                    if (lsValue) return findPatternMatchingSchoolName(pattern, lsValue);
                     try {
                         const apiRes = await fetch(url);
                         const parsedData = await apiRes.json();
-                        localStorage.setItem("09052024P2_" + lsKey, JSON.stringify(parsedData))
+                        await storeData("09052024P2_" + lsKey, "main", parsedData)
                         return findPatternMatchingSchoolName(pattern, parsedData);
                     } catch (err) {
                         console.log(err)

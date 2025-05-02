@@ -386,7 +386,9 @@
             // Step 1: Load Google Charts loader.js first
             loadScript('https://www.gstatic.com/charts/loader.js', async function () {
                 console.log('Google Charts loader.js loaded');
-
+                loadScript('/static/indexDb.js', function () {
+                    console.log('indexDb.js loaded');
+                });
                 // Step 2: Load your custom chart.js after loader.js
                 loadScript('/static/chart.js', async function () {
                     // loadScript('/static/indexDb.js', async function () {
