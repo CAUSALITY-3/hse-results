@@ -7,6 +7,7 @@ import (
 	"hse-results/utils"
 	"html/template"
 	"log"
+	"math"
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
@@ -102,8 +103,16 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	studentTemplateMapping.SchoolName = student.SchoolName
 	studentTemplateMapping.SchoolCode = student.SchoolCode
 	studentTemplateMapping.FullAp = student.FullAp
-	studentTemplateMapping.Result = student.Result
 	studentTemplateMapping.TotalMarks = student.TotalMarks
+	studentTemplateMapping.SchoolRankCode = "school_" + student.SchoolCode
+	studentTemplateMapping.Group = student.Group
+
+	if student.Result == "EHS" {
+		studentTemplateMapping.Result = "Passed"
+	} else {
+		studentTemplateMapping.Result = "Failed"
+	}
+	studentTemplateMapping.Percentage = math.Round((float64(student.TotalMarks)/1200)*100*100) / 100
 	// studentTemplateMapping.Xvg = string(sub1)
 
 	strTemp := ""

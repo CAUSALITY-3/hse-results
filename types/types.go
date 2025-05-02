@@ -21,17 +21,20 @@ type Subject struct {
 }
 
 type TemplateMappedStudentData struct {
-	RollNo       string
-	Regular      bool
-	Name         string
-	StudentGroup string
-	Subjects     template.HTML
-	SchoolName   string
-	SchoolCode   string
-	FullAp       bool
-	TotalMarks   int16
-	Result       string
-	Xvg          string
+	RollNo         string
+	Regular        bool
+	Name           string
+	StudentGroup   string
+	Subjects       template.HTML
+	SchoolName     string
+	SchoolCode     string
+	FullAp         bool
+	TotalMarks     int16
+	Result         string
+	Xvg            string
+	SchoolRankCode string
+	Group          string
+	Percentage     float64
 }
 
 type SchoolResults []SchoolResult

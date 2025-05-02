@@ -1,34 +1,8 @@
-async function loadGoogleCharts(userMark, group, modal) {
+async function loadGoogleCharts(userMark, group, elementId) {
   google.charts.load("current", { packages: ["corechart"] });
 
   let markCount = {};
-  if (group === "science") {
-    let lsValue;
-    try {
-      lsValue = await getData("09052024P2_scienceRankCount", "main");
-    } catch (e) {
-      console.log("Error retrieving data from IndexedDB:", e);
-      lsValue = null; // Set to null if there's an error}
-    }
-    //  = await getData("09052024P2_scienceRankCount", "rank");
-    if (lsValue) {
-      markCount = lsValue;
-      console.log("Using cached data:", markCount);
-    } else {
-      await fetch(`/static/09052024P2/data/rank/scienceRankCount.json`)
-        .then((response) => response.json())
-        .then(async (data) => {
-          markCount = data;
-          await storeData("09052024P2_scienceRankCount", "main", data);
-          console.log("Fetched and cached data:", markCount);
-        });
-    }
-    // await fetch(`/static/09052024P2/data/rank/scienceRankCount.json`)
-    //   .then((response) => response.json())
-    //   .then((data) => {
-    //     markCount = data;
-    //   });
-  } else {
+  if (group === "overall") {
     let lsValue;
     try {
       lsValue = await getData("09052024P2_markMappingCount", "main");
@@ -48,22 +22,62 @@ async function loadGoogleCharts(userMark, group, modal) {
           console.log("Fetched and cached data:", markCount);
         });
     }
-
-    // await fetch(`/static/09052024P2/data/rank/markMappingCount.json`)
-    //   .then((response) => response.json())
-    //   .then((data) => {
-    //     markCount = data;
-    //     console.log("Mark count data:", markCount);
-    //   });
-  }
-  if (modal) {
-    await drawChart();
+    setRankDetails(userMark, "overall", markCount);
+  } else if (group.startsWith("school_")) {
+    const schoolCode = group.split("_")[1];
+    const key = "09052024P2_" + schoolCode + "_rankCount";
+    let lsValue;
+    try {
+      lsValue = await getData(key, "main");
+    } catch (e) {
+      console.log("Error retrieving data from IndexedDB:", e);
+      lsValue = null; // Set to null if there's an error
+    }
+    if (lsValue) {
+      markCount = lsValue;
+      console.log("Using cached data:", markCount);
+    } else {
+      await fetch(
+        `/static/09052024P2/data/schoolRank/${schoolCode}_rankCount.json`
+      )
+        .then((response) => response.json())
+        .then(async (data) => {
+          markCount = data;
+          await storeData(key, "main", data);
+          console.log("Fetched and cached data:", markCount);
+        });
+    }
+    setRankDetails(userMark, "school", markCount);
   } else {
-    google.charts.setOnLoadCallback(drawChart);
+    let groupValue = group.toLowerCase();
+    let lsValue;
+    const key = "09052024P2_" + groupValue + "RankCount";
+    try {
+      lsValue = await getData(key, "main");
+    } catch (e) {
+      console.log("Error retrieving data from IndexedDB:", e);
+      lsValue = null; // Set to null if there's an error}
+    }
+    //  = await getData("09052024P2_scienceRankCount", "rank");
+    if (lsValue) {
+      markCount = lsValue;
+      console.log("Using cached data:", markCount);
+    } else {
+      await fetch(`/static/09052024P2/data/rank/${groupValue}RankCount.json`)
+        .then((response) => response.json())
+        .then(async (data) => {
+          markCount = data;
+          await storeData(key, "main", data);
+          console.log("Fetched and cached data:", markCount);
+        });
+    }
+    setRankDetails(userMark, "group", markCount);
   }
+  console.log(elementId, "markCount:");
+  google.charts.setOnLoadCallback(() => drawChart(elementId));
 
-  async function drawChart() {
-    console.log("Drawing chart with userMark:", userMark);
+  async function drawChart(elementId) {
+    console.log("Drawing chart with userMark:", userMark, elementId);
     const data = new google.visualization.DataTable();
     data.addColumn("number", "Mark");
     data.addColumn("number", "Number of Students");
@@ -93,45 +107,73 @@ async function loadGoogleCharts(userMark, group, modal) {
         width: "80%",
         height: "70%",
       },
+      width: 1200,
+      height: 500,
       legend: { position: "none" },
       colors: ["#ff8080", "#00ff7f"], // red for <1000, green for >1000
       hAxis: {
         title: "Mark",
         direction: -1,
-        textStyle: { color: "#ffffff" },
+        textStyle: { color: "#ababab" },
         titleTextStyle: { color: "#ffffff" },
         gridlines: { color: "#444444" },
         viewWindow: {
-          min: -1,
-          max: 1201,
+          min: elementId === "chart_div" ? 1 : -2,
+          max: 1200,
         },
       },
       vAxis: {
         title: "Count of Students",
         direction: 1,
-        textStyle: { color: "#ffffff" },
+        textStyle: { color: "#ababab" },
         titleTextStyle: { color: "#ffffff" },
         gridlines: { color: "#444444" },
       },
     };
-    if (modal) {
-      // document.getElementById("fullscreen_chart").style.width = 2400 + "px";
-      const chart = new google.visualization.ColumnChart(
-        document.getElementById("fullscreen_chart")
-      );
-      options.width = 2400;
-      options.height = 500;
+    const chart = new google.visualization.ColumnChart(
+      document.getElementById(elementId)
+    );
+    console.log("Drawing chart with data:", data);
+    chart.draw(data, options);
+  }
 
-      console.log("Drawing chart with data:", data);
-      chart.draw(data, options);
-    } else {
-      const chart = new google.visualization.ColumnChart(
-        document.getElementById(
-          group === "science" ? "chart_div_science" : "chart_div"
-        )
-      );
-      console.log("Drawing chart with data:", data);
-      chart.draw(data, options);
+  function setRankDetails(userMark, group, markCount) {
+    const rankCount = markCount[userMark] || 0;
+    const totalCount = Object.values(markCount).reduce((a, b) => a + b, 0);
+    let rank = 0;
+    let behindMe = 0;
+    for (const mark in markCount) {
+      if (parseInt(mark) > parseInt(userMark)) {
+        rank += markCount[mark];
+      } else if (parseInt(mark) < parseInt(userMark)) {
+        behindMe += markCount[mark]; // Count the number of students behind the user
+      }
     }
+
+    if (group === "overall") {
+      console.log("Overall group rank:", rank);
+    }
+    const rankElement = document.getElementById(`student-${group}-rank`);
+    if (rankElement) rankElement.innerText = rank;
+
+    const totalCountElement = document.getElementById(
+      `student-total-${group}-count`
+    );
+    if (totalCountElement) totalCountElement.innerText = totalCount;
+
+    const aheadCountElement = document.getElementById(
+      `student-total-${group}-ahead-count`
+    );
+    if (aheadCountElement) aheadCountElement.innerText = rank;
+
+    const behindCountElement = document.getElementById(
+      `student-total-${group}-behind-count`
+    );
+    if (behindCountElement) behindCountElement.innerText = behindMe;
+
+    const sameCountElement = document.getElementById(
+      `student-total-${group}-same-count`
+    );
+    if (sameCountElement) sameCountElement.innerText = rankCount;
   }
 }
