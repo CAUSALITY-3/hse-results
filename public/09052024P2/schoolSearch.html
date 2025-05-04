@@ -245,11 +245,11 @@
                     };
                     document.head.appendChild(script);
                 }
-                loadScript("/static/adjustZoom.js", function () {
-                    window.onload = () => adjustZoom(true);
-                    window.onresize = () => adjustZoom(true);
-                    adjustZoom(true);
-                });
+                // loadScript("/static/adjustZoom.js", function () {
+                //     window.onload = () => adjustZoom(true);
+                //     window.onresize = () => adjustZoom(true);
+                //     adjustZoom(true);
+                // });
                 loadScript('/static/indexDb.js', function () {
                     console.log('indexDb.js loaded');
                 });
@@ -473,6 +473,18 @@
                         document.getElementById("school-search-response").innerText = "";
                     }
 
+                });
+                document.body.addEventListener("htmx:afterSwap", function (evt) {
+                    if (evt.target.id === "school-search-page") {
+                        const currentURL = window.location.pathname;
+                        console.log("currentURL", currentURL)
+                        if (currentURL.includes("/search")) {
+
+                            const newURL = currentURL.split("/search")[0] + "/search?searchType=school";
+                            window.history.pushState({}, "", newURL);
+                            // adjustZoom(true);
+                        }
+                    }
                 });
             } catch (e) {
                 console.log(e)

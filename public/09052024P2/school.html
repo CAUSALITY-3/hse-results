@@ -12,7 +12,28 @@
 
 <body>
     <div id="school-page" class="container">
+        <div id="school-page-back-to-search" hx-get="/static/09052024P2/schoolSearch.html" hx-swap="outerHTML"
+            hx-target="#school-page" hx-select="#school-search-page"> 🔙 Search
+        </div>
         <style>
+            #school-page-back-to-search {
+                position: absolute;
+                padding: 10px;
+                background-color: #3d3d3d;
+                border-radius: 5px;
+                background: linear-gradient(90deg,
+                        rgba(255, 255, 255, 0.1) 25%,
+                        rgba(255, 255, 255, 0.171) 50%,
+                        rgba(255, 255, 255, 0.1) 75%);
+                background-size: 200% 100%;
+                animation: shimmer 2.5s infinite linear;
+                left: 15px;
+                top: 15px;
+                cursor: pointer;
+                font-weight: bold;
+                color: #b1a886;
+            }
+
             * {
                 box-sizing: border-box;
                 margin: 0;
@@ -71,7 +92,6 @@
                 background-color: #1e1e1e;
                 color: #ffffff;
                 font-family: Arial, sans-serif;
-                overflow: hidden;
                 transform-origin: top left;
                 height: auto;
             }
@@ -84,7 +104,6 @@
                 background: #252525;
                 border-radius: 10px;
                 box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
-                overflow: hidden;
             }
 
             h1,
@@ -160,7 +179,7 @@
         <h1>School Exam Results</h1>
         <h2>School Name: {{ .Name }} (Code: {{ .SchoolCode }})
         </h2>
-        <div class="result-section">
+        <div class="result-section" id="resultSection">
             <table>
                 <thead>
                     <tr>
@@ -221,7 +240,25 @@
                 });
             };
         </script>
-    </div>
+        <div class="school-rank-container">
+            <div class="school-chart-name">School Rank details</div>
+            <div class="school-rank-details">
+                <div class="school-rank-details-item">Rank: <span id="school-school-rank"
+                        class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools: <span id="school-total-school-count"
+                        class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools Ahead of you: <span
+                        id="school-total-school-ahead-count" class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools Behind you: <span
+                        id="school-total-school-behind-count" class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools same as you: <span
+                        id="school-total-school-same-count" class="school-rank-value"></span></div>
+            </div>
+            <div class="school-chart-section">
+                <div id="chart_div_school" class="chart-only"></div>
+            </div>
+
+        </div>
 
 
 </body>

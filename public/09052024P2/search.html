@@ -200,7 +200,7 @@
                 hx-target="#search-page" hx-select="#school-search-page" hx-push-url="?searchType=school">School Wise 🡺
             </div>
         </div>
-        <script src="/static/adjustZoom.js"></script>
+        <!-- <script src="/static/adjustZoom.js"></script> -->
         <div class="input-container">
             <form id="myForm">
                 <label for="nameOrRollNo">Search Name or RollNo</label>
@@ -436,7 +436,7 @@
 
                         const newURL = currentURL.split("/search")[0] + "/search";
                         window.history.pushState({}, "", newURL);
-                        adjustZoom(true);
+                        // adjustZoom(true);
                     }
                 }
             });

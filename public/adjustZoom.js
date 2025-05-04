@@ -3,12 +3,17 @@ function adjustZoom(flag) {
   let screenWidth = window.innerWidth;
 
   console.log(pageWidth, screenWidth, window);
+  const element = document.getElementById("resultSection");
+  if (!element) {
+    console.error("Element with ID 'resultSection' not found.");
+    return;
+  }
   if (!flag && screenWidth < pageWidth) {
     let scaleFactor = screenWidth / pageWidth;
-    document.body.style.zoom = scaleFactor;
+    element.style.zoom = scaleFactor;
     console.log(scaleFactor);
     // document.body.style.transformOrigin = 'top left';
   } else {
-    document.body.style.zoom = 1;
+    element.style.zoom = 1;
   }
 }
