@@ -146,9 +146,9 @@ type Visitor struct {
 var (
 	visitors      = make(map[string]*Visitor)
 	mu            sync.Mutex
-	rateLimiting  = false
-	cpuThreshold  = 5.0
-	memThreshold  = 5.0
+	rateLimiting  = true
+	cpuThreshold  = 75.0
+	memThreshold  = 75.0
 	checkInterval = 5 * time.Second
 )
 
@@ -175,7 +175,7 @@ func getVisitor(ip string) *rate.Limiter {
 	fmt.Println("Visitor IP", ip)
 	v, exists := visitors[ip]
 	if !exists {
-		limiter := rate.NewLimiter(1, 3) //
+		limiter := rate.NewLimiter(5, 10) // 5 requests per second, burst of 10
 		visitors[ip] = &Visitor{limiter, time.Now()}
 		return limiter
 	}
@@ -198,13 +198,13 @@ func CeanupVisitors() {
 }
 
 func RateLimiterMiddleware(c *fiber.Ctx) error {
-	if rateLimiting {
-		ip := c.IP()
-		limiter := getVisitor(ip)
+	// if rateLimiting {
+	ip := c.IP()
+	limiter := getVisitor(ip)
 
-		if !limiter.Allow() {
-			return c.Status(fiber.StatusTooManyRequests).SendString("Rate limited due to high system load.")
-		}
+	if !limiter.Allow() {
+		return c.Status(fiber.StatusTooManyRequests).SendString("Rate limited due to high system load.")
 	}
+	// }
 	return c.Next()
 }

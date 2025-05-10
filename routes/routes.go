@@ -2,6 +2,7 @@ package routes
 
 import (
 	"log"
+	"os"
 	"time"
 
 	"hse-results/services"
@@ -18,7 +19,9 @@ func SetupRouter() {
 	app.Use(cors.New())
 	app.Use(logger.New())
 
-	go utils.MnitorSystem()
+	if os.Getenv("ENABLE_RESOURCE_LIMIT_FOR_RATE_LIMIT") == "true" {
+		go utils.MnitorSystem()
+	}
 	go utils.CeanupVisitors()
 
 	app.Use(utils.RateLimiterMiddleware)
