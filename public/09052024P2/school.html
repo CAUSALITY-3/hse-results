@@ -69,8 +69,8 @@
                     const row = document.createElement("tr");
                     row.className = index % 2 === 0 ? "even-row" : "odd-row";
                     row.innerHTML = `
-                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-replace-url="/{{ .MainRoute }}/search/student/${student.rollNo}">${student.rollNo}</td>
-                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-replace-url="/{{ .MainRoute }}/search/student/${student.rollNo}">${student.name}</td>
+                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
+                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
                     <td>${student.group}</td>
                     ${student.subjects.map((subject, index) => {
                         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
