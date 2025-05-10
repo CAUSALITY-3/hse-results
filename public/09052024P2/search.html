@@ -261,11 +261,9 @@
                 }
                 loadScript('/static/indexDb.js', function () {
                     console.log('indexDb.js loaded');
-                });
 
-                async function fetchData() {
-                    try {
-                        let largeFileNamesLS;
+
+                    async function fetchData() {
                         try {
                             largeFileNamesLS = await getData(`${mainRoute}_largeFileNames`, "main");
                         } catch (e) {
@@ -279,158 +277,156 @@
                             largeFileNames = await largeFileNamesApi.json()
                             await storeData(`${mainRoute}_largeFileNames`, "main", largeFileNames)
                         }
-                    } catch (error) {
-                        console.error("Error fetching data:", error);
                     }
-                }
 
-                function findPatternMatchingUserName(pattern, users) {
-                    return users.filter(str => str.split("(")?.[0]?.includes(pattern))
-                }
-                function delay(ms) {
-                    return new Promise(resolve => setTimeout(resolve, ms));
-                }
 
-                function removeUsers() {
-                    const container = document.getElementById("search-response");
-                    const items = document.querySelectorAll(".user-query-result");
+                    function findPatternMatchingUserName(pattern, users) {
+                        return users.filter(str => str.split("(")?.[0]?.includes(pattern))
+                    }
+                    function delay(ms) {
+                        return new Promise(resolve => setTimeout(resolve, ms));
+                    }
 
-                    items.forEach((item, index) => {
-                        setTimeout(() => {
-                            item.classList.add("hide"); // Add fade-out effect
-                            setTimeout(() => item.remove(), 100); // Remove after transition
-                        }, index * 50); // Delay each removal slightly
-                    });
-                }
-
-                async function getSearchResults(inputValue, slicedInputVal) {
-                    let spinner = document.getElementById('spinner');
-                    removeUsers()
-                    spinner.style.display = 'inline';
-                    const users = await getAndStoreQuery(`/static/${mainRoute}/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
-                    console.log("users", users)
-
-                    await delay(330)
-                    if (users.length && users.length < 1000) {
+                    function removeUsers() {
                         const container = document.getElementById("search-response");
-                        container.innerHTML = '';
-                        users.forEach((user, index) => {
-                            const div = document.createElement("div");
-                            div.className = "user-query-result";
-                            div.innerHTML = user;
-                            const rollno = user.split("(")[1].split(")")[0]
-                            div.style.opacity = "0";
-                            div.style.transform = "translateY(10px)";
+                        const items = document.querySelectorAll(".user-query-result");
 
-                            div.setAttribute("hx-get", `/${mainRoute}/search/student/${rollno}`);
-                            div.setAttribute("hx-trigger", "click");
-                            div.setAttribute("hx-swap", "outerHTML");
-                            div.setAttribute("hx-target", "#search-page");
-                            div.setAttribute("hx-select", "#students-page");
-                            div.setAttribute("hx-push-url", `/${mainRoute}/search/student/${rollno}`);
-
-                            container.appendChild(div);
-
+                        items.forEach((item, index) => {
                             setTimeout(() => {
-                                div.style.transition = "opacity 0.3s ease-in-out, transform 0.3s ease-in-out";
-                                div.style.opacity = "1";
-                                div.style.transform = "translateY(0)";
-                            }, index * 30); // Delays each item
+                                item.classList.add("hide"); // Add fade-out effect
+                                setTimeout(() => item.remove(), 100); // Remove after transition
+                            }, index * 50); // Delay each removal slightly
                         });
-                        // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
-                    } else if (users.length && users.length > 100) {
-                        document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
-                    } else {
-                        document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
                     }
-                    htmx.process(document.getElementById("search-response"));
 
-                    spinner.style.display = 'none';
-                }
+                    async function getSearchResults(inputValue, slicedInputVal) {
+                        let spinner = document.getElementById('spinner');
+                        removeUsers()
+                        spinner.style.display = 'inline';
+                        const users = await getAndStoreQuery(`/static/${mainRoute}/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
+                        console.log("users", users)
 
-                async function getAndStoreQuery(url, lsKey, pattern) {
-                    let lsValue;
-                    try {
-                        lsValue = await getData(`${mainRoute}_` + lsKey, "main");
-                    } catch (e) {
-                        console.log("Error retrieving data from IndexedDB:", e);
-                        lsValue = null;
+                        await delay(330)
+                        if (users.length && users.length < 1000) {
+                            const container = document.getElementById("search-response");
+                            container.innerHTML = '';
+                            users.forEach((user, index) => {
+                                const div = document.createElement("div");
+                                div.className = "user-query-result";
+                                div.innerHTML = user;
+                                const rollno = user.split("(")[1].split(")")[0]
+                                div.style.opacity = "0";
+                                div.style.transform = "translateY(10px)";
+
+                                div.setAttribute("hx-get", `/${mainRoute}/search/student/${rollno}`);
+                                div.setAttribute("hx-trigger", "click");
+                                div.setAttribute("hx-swap", "outerHTML");
+                                div.setAttribute("hx-target", "#search-page");
+                                div.setAttribute("hx-select", "#students-page");
+                                div.setAttribute("hx-push-url", `/${mainRoute}/search/student/${rollno}`);
+
+                                container.appendChild(div);
+
+                                setTimeout(() => {
+                                    div.style.transition = "opacity 0.3s ease-in-out, transform 0.3s ease-in-out";
+                                    div.style.opacity = "1";
+                                    div.style.transform = "translateY(0)";
+                                }, index * 30); // Delays each item
+                            });
+                            // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
+                        } else if (users.length && users.length > 100) {
+                            document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
+                        } else {
+                            document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
+                        }
+                        htmx.process(document.getElementById("search-response"));
+
+                        spinner.style.display = 'none';
                     }
-                    if (lsValue) return findPatternMatchingUserName(pattern, lsValue);
-                    try {
-                        const apiRes = await fetch(url);
-                        const parsedData = await apiRes.json();
-                        await storeData(`${mainRoute}_` + lsKey, "main", parsedData);
-                        return findPatternMatchingUserName(pattern, parsedData);
-                    } catch (err) {
-                        console.log(err)
-                        return []
+
+                    async function getAndStoreQuery(url, lsKey, pattern) {
+                        let lsValue;
+                        try {
+                            lsValue = await getData(`${mainRoute}_` + lsKey, "main");
+                        } catch (e) {
+                            console.log("Error retrieving data from IndexedDB:", e);
+                            lsValue = null;
+                        }
+                        if (lsValue) return findPatternMatchingUserName(pattern, lsValue);
+                        try {
+                            const apiRes = await fetch(url);
+                            const parsedData = await apiRes.json();
+                            await storeData(`${mainRoute}_` + lsKey, "main", parsedData);
+                            return findPatternMatchingUserName(pattern, parsedData);
+                        } catch (err) {
+                            console.log(err)
+                            return []
+                        }
                     }
-                }
 
 
 
-                const observer = new IntersectionObserver((entries, observer) => {
-                    entries.forEach(entry => {
-                        if (entry.isIntersecting) {
-                            fetchData(); // Call API when div is visible
-                            observer.disconnect(); // Stop observing after first load
+                    const observer = new IntersectionObserver((entries, observer) => {
+                        entries.forEach(entry => {
+                            if (entry.isIntersecting) {
+                                fetchData(); // Call API when div is visible
+                                observer.disconnect(); // Stop observing after first load
+                            }
+                        });
+                    }, { threshold: 0.5 }); // 50% of the div must be visible
+
+                    observer.observe(document.getElementById("myForm"));
+
+                    document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
+                        if (event.key === "Enter") {
+                            event.preventDefault(); // Stop Enter key from submitting the form
                         }
                     });
-                }, { threshold: 0.5 }); // 50% of the div must be visible
 
-                observer.observe(document.getElementById("myForm"));
+                    let timeout = null;
+                    inputField.addEventListener('input', async () => {
+                        clearTimeout(timeout);
 
-                document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
-                    if (event.key === "Enter") {
-                        event.preventDefault(); // Stop Enter key from submitting the form
-                    }
-                });
+                        const inputValue = inputField.value.trim();
+                        if (inputValue?.length >= 3) {
+                            if (!isNaN(inputValue)) {
+                                // let startSearchBtn = document.getElementById('search-go');
+                                // console.log('Roll No:', Number(inputValue), inputValue.length);
+                                // if (inputValue.length === 8) {
 
-                let timeout = null;
-                inputField.addEventListener('input', async () => {
-                    clearTimeout(timeout);
+                                //     startSearchBtn.style.display = 'inline';
+                                // } else {
+                                //     startSearchBtn.style.display = 'none';
+                                // }
 
-                    const inputValue = inputField.value.trim();
-                    if (inputValue?.length >= 3) {
-                        if (!isNaN(inputValue)) {
-                            // let startSearchBtn = document.getElementById('search-go');
-                            // console.log('Roll No:', Number(inputValue), inputValue.length);
-                            // if (inputValue.length === 8) {
-
-                            //     startSearchBtn.style.display = 'inline';
-                            // } else {
-                            //     startSearchBtn.style.display = 'none';
-                            // }
-
-                        } else {
-                            if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
-                                document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
-                            } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
-                                const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
-
-                                timeout = setTimeout(() => {
-                                    getSearchResults(inputValue.toUpperCase(), slicedInputVal)
-                                }, 500);
                             } else {
-                                console.log('Name:', inputValue);
+                                if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
+                                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
+                                } else if (inputValue.length > 3 && largeFileNames.includes(inputValue.slice(0, 3).toUpperCase())) {
+                                    const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
 
-                                inputValStart = inputValue.slice(0, 3);
-                                const slicedInputVal = inputValStart.toUpperCase()
+                                    timeout = setTimeout(() => {
+                                        getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                                    }, 500);
+                                } else {
+                                    console.log('Name:', inputValue);
 
-                                timeout = setTimeout(() => {
-                                    getSearchResults(inputValue.toUpperCase(), slicedInputVal)
-                                }, 500);
+                                    inputValStart = inputValue.slice(0, 3);
+                                    const slicedInputVal = inputValStart.toUpperCase()
 
+                                    timeout = setTimeout(() => {
+                                        getSearchResults(inputValue.toUpperCase(), slicedInputVal)
+                                    }, 500);
+
+                                }
                             }
+                            spinner.style.display = 'none';
+                        } else {
+                            document.getElementById("search-response").innerText = "";
                         }
-                        spinner.style.display = 'none';
-                    } else {
-                        document.getElementById("search-response").innerText = "";
-                    }
 
+                    });
                 });
-
                 // }
             } catch (e) {
                 console.log(e)
