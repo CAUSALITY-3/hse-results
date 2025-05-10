@@ -259,6 +259,9 @@
                     };
                     document.head.appendChild(script);
                 }
+                loadScript('/static/toast.js', function () {
+                    console.log('toast.js loaded');
+                });
                 loadScript('/static/indexDb.js', function () {
                     console.log('indexDb.js loaded');
 
@@ -293,9 +296,9 @@
 
                         items.forEach((item, index) => {
                             setTimeout(() => {
-                                item.classList.add("hide"); // Add fade-out effect
-                                setTimeout(() => item.remove(), 100); // Remove after transition
-                            }, index * 50); // Delay each removal slightly
+                                item.classList.add("hide");
+                                setTimeout(() => item.remove(), 100);
+                            }, index * 50);
                         });
                     }
 
@@ -331,9 +334,8 @@
                                     div.style.transition = "opacity 0.3s ease-in-out, transform 0.3s ease-in-out";
                                     div.style.opacity = "1";
                                     div.style.transform = "translateY(0)";
-                                }, index * 30); // Delays each item
+                                }, index * 30);
                             });
-                            // document.getElementById("search-response").innerHTML = users.map(item => `<div class="user-query-result" hx-get="/search">${item}</div>`).join('');
                         } else if (users.length && users.length > 100) {
                             document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`
                         } else {
@@ -369,17 +371,17 @@
                     const observer = new IntersectionObserver((entries, observer) => {
                         entries.forEach(entry => {
                             if (entry.isIntersecting) {
-                                fetchData(); // Call API when div is visible
-                                observer.disconnect(); // Stop observing after first load
+                                fetchData();
+                                observer.disconnect();
                             }
                         });
-                    }, { threshold: 0.5 }); // 50% of the div must be visible
+                    }, { threshold: 0.5 });
 
                     observer.observe(document.getElementById("myForm"));
 
                     document.getElementById("nameOrRollNo").addEventListener("keydown", function (event) {
                         if (event.key === "Enter") {
-                            event.preventDefault(); // Stop Enter key from submitting the form
+                            event.preventDefault();
                         }
                     });
 
@@ -390,15 +392,6 @@
                         const inputValue = inputField.value.trim();
                         if (inputValue?.length >= 3) {
                             if (!isNaN(inputValue)) {
-                                // let startSearchBtn = document.getElementById('search-go');
-                                // console.log('Roll No:', Number(inputValue), inputValue.length);
-                                // if (inputValue.length === 8) {
-
-                                //     startSearchBtn.style.display = 'inline';
-                                // } else {
-                                //     startSearchBtn.style.display = 'none';
-                                // }
-
                             } else {
                                 if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
                                     document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;

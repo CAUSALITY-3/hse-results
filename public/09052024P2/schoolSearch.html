@@ -7,6 +7,7 @@
     <title>HSE Results</title>
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
     <link rel="stylesheet" type="text/css" href="/static/styles/search.css">
+    <script src="/static/toast.js"></script>
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
 </head>
 
@@ -256,13 +257,11 @@
                     };
                     document.head.appendChild(script);
                 }
-                // loadScript("/static/adjustZoom.js", function () {
-                //     window.onload = () => adjustZoom(true);
-                //     window.onresize = () => adjustZoom(true);
-                //     adjustZoom(true);
-                // });
                 loadScript('/static/indexDb.js', function () {
                     console.log('indexDb.js loaded');
+                });
+                loadScript('/static/toast.js', function () {
+                    console.log('toast.js loaded');
                 });
                 async function fetchData() {
                     try {
@@ -339,7 +338,6 @@
                                 div.style.transform = "translateY(0)";
                             }, index * 30); // Delays each item
                         });
-                        // document.getElementById("school-search-response").innerHTML = Schools.map(item => `<div class="school-query-result" hx-get="/search">${item}</div>`).join('');
                     } else if (schools.length && schools.length > 100) {
                         document.getElementById("school-search-response").innerHTML = `<div class="school-query-no-result">Lots of results! Please type more to filter them.</div>`
                     } else {
@@ -373,7 +371,6 @@
                         lsValue = null;
                     }
                     const parsedValue = lsValue;
-                    console.log("eeeeeeeeeeeeeeeeeeeeeeeeeeee", parsedValue)
                     schools = parsedValue[code] ? [{ code, name: parsedValue[code] }] : [];
                     if (schools.length) {
                         await loadResults(schools)
@@ -452,29 +449,12 @@
                                 }
                                 await getSearchByCode(code)
                             } else {
-                                // startSearchBtn.style.display = 'none';
                             }
 
                         } else {
-                            // if (inputValue.length === 3 && schoolCodeName.includes(inputValue.toUpperCase())) {
-                            //     document.getElementById("school-search-response").innerHTML = `<div class="school-query-no-result">Lots of results! Please type more to filter them.</div>`;
-                            // } else if (inputValue.length > 3 && schoolCodeName.includes(inputValue.slice(0, 3).toUpperCase())) {
-                            //     const slicedInputVal = inputValue.slice(0, 4).toUpperCase()
-
-                            //     schoolTimeout = setTimeout(() => {
-                            //         getSearchResults(inputValue.toUpperCase())
-                            //     }, 500);
-                            // } else {
-                            //     console.log('Name:', inputValue);
-
-                            //     schoolInputValStart = inputValue.slice(0, 3);
-                            //     const slicedInputVal = schoolInputValStart.toUpperCase()
-
                             schoolTimeout = setTimeout(() => {
                                 getSearchResults(inputValue.toUpperCase())
                             }, 500);
-
-                            // }
                         }
                         spinner.style.display = 'none';
                     } else {

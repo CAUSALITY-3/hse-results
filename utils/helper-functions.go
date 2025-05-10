@@ -8,8 +8,13 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"sync"
+	"time"
 
 	"github.com/gofiber/fiber/v2"
+	"github.com/shirou/gopsutil/v3/cpu"
+	"github.com/shirou/gopsutil/v3/mem"
+	"golang.org/x/time/rate"
 )
 
 // func UpdateUsersCache(user userModel.User) bool {
@@ -131,4 +136,75 @@ func ReadFile[T any](fileName string) (*T, error) {
 	json.Unmarshal(byteValue, &typeData)
 	return &typeData, nil
 
+}
+
+type Visitor struct {
+	limiter  *rate.Limiter
+	lastSeen time.Time
+}
+
+var (
+	visitors      = make(map[string]*Visitor)
+	mu            sync.Mutex
+	rateLimiting  = false
+	cpuThreshold  = 5.0
+	memThreshold  = 5.0
+	checkInterval = 5 * time.Second
+)
+
+func MnitorSystem() {
+	for {
+		cpuPercent, _ := cpu.Percent(0, false)
+		memStats, _ := mem.VirtualMemory()
+
+		log.Printf("CPU Usage: %.2f%%, Memory Usage: %.2f%%\n", cpuPercent[0], memStats.UsedPercent)
+		if cpuPercent[0] > cpuThreshold || memStats.UsedPercent > memThreshold {
+			rateLimiting = true
+		} else {
+			rateLimiting = false
+		}
+
+		time.Sleep(checkInterval)
+	}
+}
+
+func getVisitor(ip string) *rate.Limiter {
+	mu.Lock()
+	defer mu.Unlock()
+
+	fmt.Println("Visitor IP", ip)
+	v, exists := visitors[ip]
+	if !exists {
+		limiter := rate.NewLimiter(1, 3) //
+		visitors[ip] = &Visitor{limiter, time.Now()}
+		return limiter
+	}
+
+	v.lastSeen = time.Now()
+	return v.limiter
+}
+
+func CeanupVisitors() {
+	for {
+		time.Sleep(time.Minute)
+		mu.Lock()
+		for ip, v := range visitors {
+			if time.Since(v.lastSeen) > 3*time.Minute {
+				delete(visitors, ip)
+			}
+		}
+		mu.Unlock()
+	}
+}
+
+func RateLimiterMiddleware(c *fiber.Ctx) error {
+	if rateLimiting {
+		ip := c.IP()
+		limiter := getVisitor(ip)
+
+		if !limiter.Allow() {
+			return c.Status(fiber.StatusTooManyRequests).SendString("Rate limited due to high system load.")
+		}
+	}
+	return c.Next()
 }

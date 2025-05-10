@@ -17,6 +17,11 @@ func SetupRouter() {
 	app := fiber.New()
 	app.Use(cors.New())
 	app.Use(logger.New())
+
+	go utils.MnitorSystem()
+	go utils.CeanupVisitors()
+
+	app.Use(utils.RateLimiterMiddleware)
 	// app.Use(compress.New())
 
 	// app.Static("/static/", "./public")
