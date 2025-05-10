@@ -16,160 +16,6 @@
             hx-target="#school-page" hx-select="#school-search-page"> 🔙 Search
         </div>
         <style>
-            #school-page-back-to-search {
-                position: absolute;
-                padding: 10px;
-                background-color: #3d3d3d;
-                border-radius: 5px;
-                background: linear-gradient(90deg,
-                        rgba(255, 255, 255, 0.1) 25%,
-                        rgba(255, 255, 255, 0.171) 50%,
-                        rgba(255, 255, 255, 0.1) 75%);
-                background-size: 200% 100%;
-                animation: shimmer 2.5s infinite linear;
-                left: 15px;
-                top: 15px;
-                cursor: pointer;
-                font-weight: bold;
-                color: #b1a886;
-            }
-
-            * {
-                box-sizing: border-box;
-                margin: 0;
-                padding: 0;
-            }
-
-
-            /* WebKit Browsers (Chrome, Edge, Safari) */
-            ::-webkit-scrollbar {
-                width: 8px;
-                height: 8px;
-            }
-
-            ::-webkit-scrollbar-track {
-                background: #252525;
-                border-radius: 10px;
-            }
-
-            ::-webkit-scrollbar-thumb {
-                background: linear-gradient(180deg, #444, #666);
-                border-radius: 10px;
-                border: 2px solid #252525;
-            }
-
-            ::-webkit-scrollbar-thumb:hover {
-                background: linear-gradient(180deg, #555, #777);
-            }
-
-            /* Firefox */
-            * {
-                scrollbar-width: thin;
-                scrollbar-color: #444 #252525;
-            }
-
-
-            html {
-                display: flex;
-                justify-content: center;
-
-                align-items: center;
-            }
-
-            body {
-                display: flex;
-                justify-content: center;
-
-                align-items: center;
-                /* height: 100vh; */
-                width: fit-content;
-                /* width: auto; */
-                background-color: #1e1e1e;
-                color: #ffffff;
-                font-family: Arial, sans-serif;
-                transform-origin: top left;
-                height: auto;
-            }
-
-            .container {
-                /* width: 1200px;
-                max-width: 1200px; */
-                /* width: 1400px; */
-                padding: 20px;
-                background: #252525;
-                border-radius: 10px;
-                box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
-            }
-
-            h1,
-            h2 {
-                text-align: center;
-                margin-bottom: 15px;
-            }
-
-            .result-section {
-                max-height: 85vh;
-                overflow-y: auto;
-                border-radius: 5px;
-                border: 1px solid #444;
-            }
-
-            @media (max-width: 600px) {
-                .result-section {
-                    overflow-y: scroll;
-                    border-radius: 5px;
-                    border: 1px solid #444;
-                    max-height: 300vh;
-                }
-
-
-            }
-
-            table {
-                width: 100%;
-                border-collapse: collapse;
-                table-layout: fixed;
-                background: #333;
-            }
-
-            thead {
-                position: sticky;
-                top: 0;
-                background: #3e3e3e;
-                z-index: 100;
-            }
-
-            th,
-            td {
-                padding: 12px;
-                text-align: center;
-                border: 1px solid #444;
-            }
-
-            th {
-                background: #3e3e3e;
-                font-weight: bold;
-            }
-
-            .pass {
-                color: #4caf50;
-                font-weight: bold;
-            }
-
-            .fail {
-                color: #ff5252;
-                font-weight: bold;
-            }
-
-            .marks {
-                color: #ffd700;
-                font-weight: bold;
-            }
-
-            .grade {
-                color: #00bcd4;
-                font-weight: bold;
-            }
         </style>
         <h1>School Exam Results</h1>
         <h2>School Name: {{ .Name }} (Code: {{ .SchoolCode }})
@@ -213,18 +59,18 @@
             }
 
             loadScript("/static/main.js", zoomFn);
-
             function zoomFn() {
                 const schoolResult = JSON.parse('{{ .SchoolResult }}');
                 window.onload = () => adjustZoom(false);
                 window.onresize = () => adjustZoom(false);
                 adjustZoom(false);
                 const tableBody = document.getElementById("resultTableBody");
-                schoolResult.forEach(student => {
+                schoolResult.forEach((student, index) => {
                     const row = document.createElement("tr");
+                    row.className = index % 2 === 0 ? "even-row" : "odd-row";
                     row.innerHTML = `
-                    <td>${student.rollNo}</td>
-                    <td>${student.name}</td>
+                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-replace-url="/{{ .MainRoute }}/search/student/${student.rollNo}">${student.rollNo}</td>
+                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-replace-url="/{{ .MainRoute }}/search/student/${student.rollNo}">${student.name}</td>
                     <td>${student.group}</td>
                     ${student.subjects.map((subject, index) => {
                         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
@@ -233,6 +79,8 @@
                 `;
                     tableBody.appendChild(row);
                 });
+                htmx.process(document.getElementById("resultTableBody"));
+
             };
         </script>
         <div class="school-rank-container">

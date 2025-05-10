@@ -281,6 +281,16 @@ tr:hover {
     background-color: #2e2e2e;
 }
 
+.school-student-redirect{
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.even-row {
+    background-color: #3b3b3b;
+}
+
 tbody tr:last-child td {
     border-bottom: none;
 }

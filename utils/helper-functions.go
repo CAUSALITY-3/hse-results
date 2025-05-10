@@ -37,6 +37,15 @@ func ServeCompressedFile(root string) fiber.Handler {
 			encoding string
 		}
 
+		if _, err := os.Stat(filePath + ".gz"); err == nil {
+
+			fmt.Println("Got Compressed path", filePath+".gz")
+			c.Set("Content-Encoding", "gzip")
+			c.Type(filepath.Ext(filePath)) // Set original content type
+			return c.SendFile(filePath+".gz", false)
+		}
+
+		// From line 46 to 67 can be removed
 		if strings.Contains(acceptEncoding, "br") {
 			tryEncodings = append(tryEncodings, struct {
 				ext, encoding string

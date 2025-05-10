@@ -13,6 +13,11 @@
 
 <body>
     <div id="students-page">
+        <style>
+            body {
+                width: 100vw;
+            }
+        </style>
         <div id="student-page-back-to-search" hx-get="/static/{{ .MainRoute }}/search.html" hx-swap="outerHTML"
             hx-target="#students-page" hx-select="#search-page"> 🔙 Search
         </div>
@@ -70,7 +75,7 @@
                 </div>
             </div>
             <div class="student-rank-container">
-                <div class="student-chart-name">Group Wise ({{.Group}}) Rank</div>
+                <div class="student-chart-name">Group ({{.Group}}) Wise Rank</div>
                 <div class="student-rank-details">
                     <div class="student-rank-details-item">Rank: <span id="student-group-rank"
                             class="student-rank-value"></span></div>
@@ -89,7 +94,7 @@
                 </div>
             </div>
             <div class="student-rank-container">
-                <div class="student-chart-name">Overall Rank details</div>
+                <div class="student-chart-name">Overall Rank</div>
                 <div class="student-rank-details">
                     <div class="student-rank-details-item">Rank: <span id="student-overall-rank"
                             class="student-rank-value"></span></div>

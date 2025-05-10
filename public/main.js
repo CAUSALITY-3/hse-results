@@ -122,10 +122,7 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
       backgroundColor: "#2e2e2e",
       chartArea: {
         backgroundColor: "#2e2e2e",
-        left: 100, // Enough space for Y-axis labels
-        // right: 20,
-        // top: 20,
-        // bottom: 40,
+        left: 100,
         width: "80%",
         height: "70%",
       },
@@ -483,8 +480,8 @@ function showRateLimitToast(
   }, duration);
 }
 
-document.body.addEventListener("htmx:responseError", function (evt) {
-  if (evt.detail.xhr.status === 429) {
+document?.body?.addEventListener("htmx:responseError", function (evt) {
+  if (evt?.detail?.xhr?.status === 429) {
     showRateLimitToast();
   }
 });
