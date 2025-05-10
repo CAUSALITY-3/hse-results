@@ -54,7 +54,7 @@ func SetupRouter() {
 		rollNo := c.Params("rollno")
 		log.Println(resultType, rollNo)
 
-		err := services.GetStudentResults(c, resultType, "23000729")
+		err := services.GetStudentResults(c, resultType, "23000613")
 		if err != nil {
 			log.Println("Error executing template:", err)
 			return c.Status(500).SendString("Error rendering template")

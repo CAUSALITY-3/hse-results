@@ -113,7 +113,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	} else {
 		studentTemplateMapping.Result = "Failed"
 	}
-	studentTemplateMapping.Percentage = math.Round((float64(student.TotalMarks) / 1200) * 100)
+	studentTemplateMapping.Percentage = math.Round((float64(student.TotalMarks)/1200)*100*100) / 100.0
 	// studentTemplateMapping.Xvg = string(sub1)
 
 	strTemp := ""
