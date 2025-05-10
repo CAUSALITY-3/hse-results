@@ -9,11 +9,13 @@ function storeData(key, collection, value) {
   if (!indexedDB) {
     console.log("IndexedDB could not be found in this browser.");
   }
+  const version = +localStorage.getItem("dbVersion") || 1;
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open("hseResults", 1);
+    const request = indexedDB.open("hseResults", version);
 
     request.onupgradeneeded = (event) => {
       const db = event.target.result;
+
       if (!db.objectStoreNames.contains(collection)) {
         console.log("Creating object store:", collection);
         db.createObjectStore(collection, { keyPath: "id" });
@@ -21,22 +23,25 @@ function storeData(key, collection, value) {
     };
 
     request.onsuccess = (event) => {
+      document.getElementById("school-search-route").innerText =
+        "Rajan " + version;
       const db = event.target.result;
+
+      console.log("collections", db.objectStoreNames.length);
       if (!db.objectStoreNames.contains(collection)) {
-        console.log("hahahahahah", db.objectStoreNames);
-        reject(`Object store "${collection}" not found.`);
+        console.log(`Object store "${collection}" not found.`);
         db.close();
-        return;
+        localStorage.setItem("dbVersion", version + 1);
+
+        return storeData(key, collection, value, version + 1);
       }
       const tx = db.transaction(collection, "readwrite");
-
       tx.onerror = function (event) {
+        db.close();
         console.log("Transaction error:", event.target.error);
-        alert("Storage operation failed. Possibly no space left.");
       };
 
       const store = tx.objectStore(collection);
-
       try {
         const addRequest = store.put({ id: key, value: value });
         addRequest.onsuccess = function (event) {
@@ -45,9 +50,11 @@ function storeData(key, collection, value) {
         };
         addRequest.onerror = function (event) {
           console.log("Put error:", event.target.error);
+          db.close();
           reject("Failed to write to the database.", event.target.error);
         };
       } catch (e) {
+        db.close();
         if (e.name === "QuotaExceededError") {
           reject("Not enough storage space to save your data.");
         } else {
@@ -55,8 +62,6 @@ function storeData(key, collection, value) {
         }
       }
 
-      //   store.put({ id: key, value: value }); // stores the JSON object directly
-      //   resolve("Data stored successfully.");
       tx.oncomplete = () => {
         db.close();
         console.log("Transaction completed: database modification finished.");
@@ -68,7 +73,15 @@ function storeData(key, collection, value) {
     };
 
     request.onerror = (event) => {
+      db.close();
       reject(event.target.error);
+    };
+    request.onblocked = (event) => {
+      db.close();
+      // Close all existing connections
+      if (event.target.result) {
+        event.target.result.close();
+      }
     };
   });
 }
@@ -84,8 +97,16 @@ function getData(key, collection) {
   if (!indexedDB) {
     console.log("IndexedDB could not be found in this browser.");
   }
+  const version = localStorage.getItem("dbVersion") || 1;
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open("hseResults", 1);
+    const request = indexedDB.open("hseResults", version);
+    request.onupgradeneeded = (event) => {
+      const db = event.target.result;
+      if (!db.objectStoreNames.contains(collection)) {
+        console.log("Creating object store:", collection);
+        db.createObjectStore(collection, { keyPath: "id" });
+      }
+    };
 
     request.onsuccess = (event) => {
       try {
@@ -132,8 +153,9 @@ function deleteData(key, collection) {
   if (!indexedDB) {
     console.log("IndexedDB could not be found in this browser.");
   }
+  const version = localStorage.getItem("dbVersion") || 1;
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open("hse-results", 1);
+    const request = indexedDB.open("hse-results", version);
 
     request.onsuccess = (event) => {
       const db = event.target.result;
@@ -144,6 +166,7 @@ function deleteData(key, collection) {
 
       deleteRequest.onsuccess = () => {
         resolve("Data deleted successfully.");
+        db.close();
       };
 
       deleteRequest.onerror = () => {
@@ -153,6 +176,7 @@ function deleteData(key, collection) {
 
     request.onerror = (event) => {
       reject(event.target.error);
+      db.close();
     };
   });
 }

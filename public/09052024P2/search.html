@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HSE Results</title>
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
-    <link rel="stylesheet" type="text/css" href="/static/styles/search.css">
+    <link rel="stylesheet" type="text/css" href="/static/styles/index.css">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
 </head>
 
 <body>
     <div id="search-page">
-        <style>
+        <!-- <style>
             #search-page {
                 width: 720px;
                 height: 100vh;
@@ -188,22 +188,17 @@
             #school-search-route:hover {
                 background-color: rgb(7, 95, 7, .4);
             }
-
-            #individual-route-title {
-                font-weight: 700;
-                font-size: larger;
-            }
-        </style>
+        </style> -->
         <div id="individual-school-route-container">
-            <div id="individual-route-title">Student Search</div>
+            <div id="individual-route-title">Student Search 👤</div>
             <div id="school-search-route" hx-get="" hx-swap="outerHTML" hx-target="#search-page"
-                hx-select="#school-search-page" hx-push-url="?searchType=school">School Wise 🡺
+                hx-select="#school-search-page" hx-push-url="?searchType=school">School Wise 🏫
             </div>
         </div>
         <!-- <script src="/static/adjustZoom.js"></script> -->
         <div class="input-container">
             <form id="myForm">
-                <label for="nameOrRollNo">Search Name or RollNo</label>
+                <label for="nameOrRollNo">Search by Name or RollNo</label>
                 <div class="input-div-container">
                     <input type="text" id="nameOrRollNo" name="nameOrRollNo" hx-get="/hello"
                         hx-target="#search-response" hx-swap="innerHTML"
@@ -277,7 +272,7 @@
                             largeFileNames = largeFileNamesLS;
                         } else {
                             const largeFileNamesApi = await fetch(`/static/${mainRoute}/data/largeFileNames.json`);
-                            largeFileNames = await largeFileNamesApi.json()
+                            largeFileNames = await largeFileNamesApi.json();
                             await storeData(`${mainRoute}_largeFileNames`, "main", largeFileNames)
                         }
                     }

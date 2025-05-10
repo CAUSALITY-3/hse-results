@@ -8,12 +8,11 @@
 
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <link rel="stylesheet" href="/static/styles/index.css">
 </head>
 
 <body>
     <div id="students-page">
-        <link rel="stylesheet" href="/static/styles/index.css">
-        <link rel="stylesheet" href="/static/styles/students.css">
         <div id="student-page-back-to-search" hx-get="/static/{{ .MainRoute }}/search.html" hx-swap="outerHTML"
             hx-target="#students-page" hx-select="#search-page"> 🔙 Search
         </div>
