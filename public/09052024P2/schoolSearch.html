@@ -197,8 +197,8 @@
 
         <div id="individual-school-route-container">
             <div id="individual-route-title">School Search</div>
-            <div id="school-search-route" hx-get="/static/09052024P2/search.html" hx-swap="outerHTML"
-                hx-target="#school-search-page" hx-select="#search-page" hx-push-url="?searchType=student">Student Wise
+            <div id="school-search-route" hx-get="" hx-swap="outerHTML" hx-target="#school-search-page"
+                hx-select="#search-page" hx-push-url="?searchType=student">Student Wise
                 🡺</div>
         </div>
         <div class="school-search-input-container">
@@ -224,6 +224,17 @@
 
         <script>
             try {
+                function getMainRouteOfUrl() {
+                    const urlPath = window.location.pathname;
+                    const firstPart = urlPath.split('/')[1];
+                    return firstPart;
+                }
+
+                const mainRoute = getMainRouteOfUrl();
+
+                const schoolSearchRoute = document.getElementById("school-search-route");
+                schoolSearchRoute.setAttribute("hx-get", `/static/${mainRoute}/search.html`);
+
                 const schoolInputField = document.getElementById('schoolNameOrCode');
 
                 let schoolInputValStart;
@@ -257,7 +268,7 @@
                     try {
                         let schoolCodeNameMapping;
                         try {
-                            schoolCodeNameMapping = await getData("09052024P2_schoolCodeNameMapping", "main");
+                            schoolCodeNameMapping = await getData(`${mainRoute}_schoolCodeNameMapping`, "main");
                         } catch (e) {
                             console.log("Error retrieving data from IndexedDB:", e);
                             schoolCodeNameMapping = null; // Set to null if there's an error
@@ -265,9 +276,9 @@
                         if (schoolCodeNameMapping) {
                             schoolCodeName = schoolCodeNameMapping;
                         } else {
-                            const schoolNamesApi = await fetch(`/static/09052024P2/schoolCodeName.json`);
+                            const schoolNamesApi = await fetch(`/static/${mainRoute}/schoolCodeName.json`);
                             schoolCodeName = await schoolNamesApi.json()
-                            await storeData("09052024P2_schoolCodeNameMapping", "main", schoolCodeName)
+                            await storeData(`${mainRoute}_schoolCodeNameMapping`, "main", schoolCodeName)
                         }
                     } catch (error) {
                         console.error("Error fetching data:", error);
@@ -313,12 +324,12 @@
                             div.innerHTML = school.name;
                             div.style.opacity = "0"; // Start hidden
                             div.style.transform = "translateY(10px)";
-                            div.setAttribute("hx-get", `/09052024P2/search/school/${school.code}`); // Example URL
+                            div.setAttribute("hx-get", `/${mainRoute}/search/school/${school.code}`); // Example URL
                             div.setAttribute("hx-trigger", "click");
                             div.setAttribute("hx-swap", "outerHTML");
                             div.setAttribute("hx-target", "body");
                             div.setAttribute("hx-select", "#school-page");
-                            div.setAttribute("hx-push-url", `/09052024P2/search/school/${school.code}`);
+                            div.setAttribute("hx-push-url", `/${mainRoute}/search/school/${school.code}`);
 
                             container.appendChild(div);
 
@@ -341,7 +352,7 @@
                     let spinner = document.getElementById('spinner');
                     removeSchools()
                     spinner.style.display = 'inline';
-                    const schools = await getAndStoreQuery(`/static/09052024P2/schoolCodeName.json`, "schoolCodeNameMapping", inputValue.toUpperCase());
+                    const schools = await getAndStoreQuery(`/static/${mainRoute}/schoolCodeName.json`, "schoolCodeNameMapping", inputValue.toUpperCase());
                     console.log("schools", schools)
 
                     await loadResults(schools)
@@ -356,12 +367,11 @@
                     spinner.style.display = 'inline';
                     let lsValue;
                     try {
-                        lsValue = await getData("09052024P2_schoolCodeNameMapping", "main");
+                        lsValue = await getData(`${mainRoute}_schoolCodeNameMapping`, "main");
                     } catch (e) {
                         console.log("Error retrieving data from IndexedDB:", e);
-                        lsValue = null; // Set to null if there's an error
+                        lsValue = null;
                     }
-                    // const lsValue = localStorage.getItem("09052024P2_schoolCodeNameMapping")
                     const parsedValue = lsValue;
                     console.log("eeeeeeeeeeeeeeeeeeeeeeeeeeee", parsedValue)
                     schools = parsedValue[code] ? [{ code, name: parsedValue[code] }] : [];
@@ -371,10 +381,9 @@
                         return
                     }
                     try {
-                        const apiRes = await fetch("/static/09052024P2/schoolCodeName.json");
+                        const apiRes = await fetch(`/static/${mainRoute}/schoolCodeName.json`);
                         const parsedData = await apiRes.json();
-                        await storeData("09052024P2_schoolCodeNameMapping", "main", parsedData)
-                        // localStorage.setItem("09052024P2_schoolCodeNameMapping", JSON.stringify(parsedData))
+                        await storeData(`${mainRoute}_schoolCodeNameMapping`, "main", parsedData)
                         schools = parsedData[code] ? [parsedData[code]] : [];
                     } catch (err) {
                         console.log(err)
@@ -389,17 +398,16 @@
                 async function getAndStoreQuery(url, lsKey, pattern) {
                     let lsValue;
                     try {
-                        lsValue = await getData("09052024P2_" + lsKey, "main");
+                        lsValue = await getData(mainRoute + "_" + lsKey, "main");
                     } catch (e) {
                         console.log("Error retrieving data from IndexedDB:", e);
-                        lsValue = null; // Set to null if there's an error
+                        lsValue = null;
                     }
-                    // const lsValue = localStorage.getItem("09052024P2_" + lsKey)
                     if (lsValue) return findPatternMatchingSchoolName(pattern, lsValue);
                     try {
                         const apiRes = await fetch(url);
                         const parsedData = await apiRes.json();
-                        await storeData("09052024P2_" + lsKey, "main", parsedData)
+                        await storeData(mainRoute + "_" + lsKey, "main", parsedData)
                         return findPatternMatchingSchoolName(pattern, parsedData);
                     } catch (err) {
                         console.log(err)

@@ -106,13 +106,14 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	studentTemplateMapping.TotalMarks = student.TotalMarks
 	studentTemplateMapping.SchoolRankCode = "school_" + student.SchoolCode
 	studentTemplateMapping.Group = student.Group
+	studentTemplateMapping.MainRoute = requestType
 
 	if student.Result == "EHS" {
 		studentTemplateMapping.Result = "Passed"
 	} else {
 		studentTemplateMapping.Result = "Failed"
 	}
-	studentTemplateMapping.Percentage = math.Round((float64(student.TotalMarks)/1200)*100*100) / 100
+	studentTemplateMapping.Percentage = math.Round((float64(student.TotalMarks) / 1200) * 100)
 	// studentTemplateMapping.Xvg = string(sub1)
 
 	strTemp := ""
@@ -157,6 +158,7 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 		SchoolResult string
 		Name         string
 		SchoolCode   string
+		MainRoute    string
 	}
 
 	// SchoolResult, err := json.Marshal(school)
@@ -175,6 +177,7 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 	temp.SchoolResult = string(SchoolResultJSON)
 	temp.Name = school.SchoolName
 	temp.SchoolCode = school.SchoolCode
+	temp.MainRoute = requestType
 	c.Set("Content-Type", "text/html")
 	err = tmpl.Execute(c.Response().BodyWriter(), temp)
 	if err != nil {

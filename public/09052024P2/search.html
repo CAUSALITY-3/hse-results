@@ -196,8 +196,8 @@
         </style>
         <div id="individual-school-route-container">
             <div id="individual-route-title">Student Search</div>
-            <div id="school-search-route" hx-get="/static/09052024P2/schoolSearch.html" hx-swap="outerHTML"
-                hx-target="#search-page" hx-select="#school-search-page" hx-push-url="?searchType=school">School Wise 🡺
+            <div id="school-search-route" hx-get="" hx-swap="outerHTML" hx-target="#search-page"
+                hx-select="#school-search-page" hx-push-url="?searchType=school">School Wise 🡺
             </div>
         </div>
         <!-- <script src="/static/adjustZoom.js"></script> -->
@@ -226,6 +226,17 @@
 
         <script>
             try {
+
+                function getMainRouteOfUrl() {
+                    const urlPath = window.location.pathname;
+                    const firstPart = urlPath.split('/')[1];
+                    return firstPart;
+                }
+
+                const mainRoute = getMainRouteOfUrl();
+
+                const schoolSearchRoute = document.getElementById("school-search-route");
+                schoolSearchRoute.setAttribute("hx-get", `/static/${mainRoute}/schoolSearch.html`);
                 // if (inputField) {
                 const inputField = document.getElementById('nameOrRollNo');
 
@@ -256,19 +267,17 @@
                     try {
                         let largeFileNamesLS;
                         try {
-                            largeFileNamesLS = await getData("09052024P2_largeFileNames", "main");
+                            largeFileNamesLS = await getData(`${mainRoute}_largeFileNames`, "main");
                         } catch (e) {
                             console.log("Error retrieving data from IndexedDB:", e);
-                            largeFileNamesLS = null; // Set to null if there's an error
+                            largeFileNamesLS = null;
                         }
-                        // const largeFileNamesLS = localStorage.getItem("09052024P2_largeFileNames");
                         if (largeFileNamesLS) {
                             largeFileNames = largeFileNamesLS;
                         } else {
-                            const largeFileNamesApi = await fetch(`/static/09052024P2/data/largeFileNames.json`);
+                            const largeFileNamesApi = await fetch(`/static/${mainRoute}/data/largeFileNames.json`);
                             largeFileNames = await largeFileNamesApi.json()
-                            // localStorage.setItem("09052024P2_" + "largeFileNames", JSON.stringify(largeFileNames))
-                            await storeData("09052024P2_largeFileNames", "main", largeFileNames)
+                            await storeData(`${mainRoute}_largeFileNames`, "main", largeFileNames)
                         }
                     } catch (error) {
                         console.error("Error fetching data:", error);
@@ -298,7 +307,7 @@
                     let spinner = document.getElementById('spinner');
                     removeUsers()
                     spinner.style.display = 'inline';
-                    const users = await getAndStoreQuery(`/static/09052024P2/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
+                    const users = await getAndStoreQuery(`/static/${mainRoute}/data/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
                     console.log("users", users)
 
                     await delay(330)
@@ -313,12 +322,12 @@
                             div.style.opacity = "0";
                             div.style.transform = "translateY(10px)";
 
-                            div.setAttribute("hx-get", `/09052024P2/search/student/${rollno}`);
+                            div.setAttribute("hx-get", `/${mainRoute}/search/student/${rollno}`);
                             div.setAttribute("hx-trigger", "click");
                             div.setAttribute("hx-swap", "outerHTML");
                             div.setAttribute("hx-target", "#search-page");
                             div.setAttribute("hx-select", "#students-page");
-                            div.setAttribute("hx-push-url", `/09052024P2/search/student/${rollno}`);
+                            div.setAttribute("hx-push-url", `/${mainRoute}/search/student/${rollno}`);
 
                             container.appendChild(div);
 
@@ -342,18 +351,16 @@
                 async function getAndStoreQuery(url, lsKey, pattern) {
                     let lsValue;
                     try {
-                        lsValue = await getData("09052024P2_" + lsKey, "main");
+                        lsValue = await getData(`${mainRoute}_` + lsKey, "main");
                     } catch (e) {
                         console.log("Error retrieving data from IndexedDB:", e);
-                        lsValue = null; // Set to null if there's an error
+                        lsValue = null;
                     }
-                    // const lsValue = localStorage.getItem("09052024P2_" + lsKey)
                     if (lsValue) return findPatternMatchingUserName(pattern, lsValue);
                     try {
                         const apiRes = await fetch(url);
                         const parsedData = await apiRes.json();
-                        await storeData("09052024P2_" + lsKey, "main", parsedData);
-                        // localStorage.setItem("09052024P2_" + lsKey, JSON.stringify(parsedData))
+                        await storeData(`${mainRoute}_` + lsKey, "main", parsedData);
                         return findPatternMatchingUserName(pattern, parsedData);
                     } catch (err) {
                         console.log(err)

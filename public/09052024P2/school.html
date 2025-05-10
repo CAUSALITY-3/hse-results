@@ -12,7 +12,7 @@
 
 <body>
     <div id="school-page" class="container">
-        <div id="school-page-back-to-search" hx-get="/static/09052024P2/schoolSearch.html" hx-swap="outerHTML"
+        <div id="school-page-back-to-search" hx-get="/static/{{ .MainRoute }}/schoolSearch.html" hx-swap="outerHTML"
             hx-target="#school-page" hx-select="#school-search-page"> 🔙 Search
         </div>
         <style>

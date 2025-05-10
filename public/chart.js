@@ -1,11 +1,11 @@
-async function loadGoogleCharts(userMark, group, elementId) {
+async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
   google.charts.load("current", { packages: ["corechart"] });
 
   let markCount = {};
   if (group === "overall") {
     let lsValue;
     try {
-      lsValue = await getData("09052024P2_markMappingCount", "main");
+      lsValue = await getData(`${mainRoute}_markMappingCount`, "main");
     } catch (e) {
       console.log("Error retrieving data from IndexedDB:", e);
       lsValue = null; // Set to null if there's an error
@@ -14,18 +14,18 @@ async function loadGoogleCharts(userMark, group, elementId) {
       markCount = lsValue;
       console.log("Using cached data:", markCount);
     } else {
-      await fetch(`/static/09052024P2/data/rank/markMappingCount.json`)
+      await fetch(`/static/${mainRoute}/data/rank/markMappingCount.json`)
         .then((response) => response.json())
         .then(async (data) => {
           markCount = data;
-          await storeData("09052024P2_markMappingCount", "main", data);
+          await storeData(`${mainRoute}_markMappingCount`, "main", data);
           console.log("Fetched and cached data:", markCount);
         });
     }
     setRankDetails(userMark, "overall", markCount);
   } else if (group.startsWith("school_")) {
     const schoolCode = group.split("_")[1];
-    const key = "09052024P2_" + schoolCode + "_rankCount";
+    const key = mainRoute + "_" + schoolCode + "_rankCount";
     let lsValue;
     try {
       lsValue = await getData(key, "main");
@@ -38,7 +38,7 @@ async function loadGoogleCharts(userMark, group, elementId) {
       console.log("Using cached data:", markCount);
     } else {
       await fetch(
-        `/static/09052024P2/data/schoolRank/${schoolCode}_rankCount.json`
+        `/static/${mainRoute}/data/schoolRank/${schoolCode}_rankCount.json`
       )
         .then((response) => response.json())
         .then(async (data) => {
@@ -51,19 +51,18 @@ async function loadGoogleCharts(userMark, group, elementId) {
   } else {
     let groupValue = group.toLowerCase();
     let lsValue;
-    const key = "09052024P2_" + groupValue + "RankCount";
+    const key = mainRoute + "_" + groupValue + "RankCount";
     try {
       lsValue = await getData(key, "main");
     } catch (e) {
       console.log("Error retrieving data from IndexedDB:", e);
-      lsValue = null; // Set to null if there's an error}
+      lsValue = null;
     }
-    //  = await getData("09052024P2_scienceRankCount", "rank");
     if (lsValue) {
       markCount = lsValue;
       console.log("Using cached data:", markCount);
     } else {
-      await fetch(`/static/09052024P2/data/rank/${groupValue}RankCount.json`)
+      await fetch(`/static/${mainRoute}/data/rank/${groupValue}RankCount.json`)
         .then((response) => response.json())
         .then(async (data) => {
           markCount = data;

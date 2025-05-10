@@ -35,6 +35,7 @@ type TemplateMappedStudentData struct {
 	SchoolRankCode string
 	Group          string
 	Percentage     float64
+	MainRoute      string
 }
 
 type SchoolResults []SchoolResult

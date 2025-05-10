@@ -14,15 +14,16 @@
     <div id="students-page">
         <link rel="stylesheet" href="/static/styles/index.css">
         <link rel="stylesheet" href="/static/styles/students.css">
-        <div id="student-page-back-to-search" hx-get="/static/09052024P2/search.html" hx-swap="outerHTML"
+        <div id="student-page-back-to-search" hx-get="/static/{{ .MainRoute }}/search.html" hx-swap="outerHTML"
             hx-target="#students-page" hx-select="#search-page"> 🔙 Search
         </div>
 
         <div class="student-page-top-section">
             <div class="student-name">{{ .Name }}</div>
             <div class="student-rollno">{{ .RollNo }}</div>
-            <div class="student-school" hx-get="/09052024P2/search/school/{{ .SchoolCode }}" hx-swap="outerHTML"
-                hx-target="body" hx-select="#school-page" hx-push-url="/09052024P2/search/school/{{ .SchoolCode }}">{{
+            <div class="student-school" hx-get="/{{ .MainRoute }}/search/school/{{ .SchoolCode }}" hx-swap="outerHTML"
+                hx-target="body" hx-select="#school-page"
+                hx-push-url="/{{ .MainRoute }}/search/school/{{ .SchoolCode }}">{{
                 .SchoolName }} - {{ .SchoolCode }}</div>
         </div>
         <div class="student-group">{{ .StudentGroup }}</div>
@@ -133,9 +134,9 @@
                 });
                 // Step 2: Load your custom chart.js after loader.js
                 loadScript('/static/chart.js', async function () {
-                    await loadGoogleCharts('{{ .TotalMarks }}', 'overall', "chart_div");
-                    await loadGoogleCharts('{{ .TotalMarks }}', '{{.Group}}', "chart_div_group");
-                    await loadGoogleCharts('{{ .TotalMarks }}', '{{ .SchoolRankCode }}', "chart_div_school");
+                    await loadGoogleCharts('{{ .TotalMarks }}', '{{ .MainRoute }}', 'overall', "chart_div");
+                    await loadGoogleCharts('{{ .TotalMarks }}', '{{ .MainRoute }}', '{{.Group}}', "chart_div_group");
+                    await loadGoogleCharts('{{ .TotalMarks }}', '{{ .MainRoute }}', '{{ .SchoolRankCode }}', "chart_div_school");
                 });
             });
 
