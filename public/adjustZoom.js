@@ -9,6 +9,7 @@ function adjustZoom(flag) {
     return;
   }
   if (!flag && screenWidth < pageWidth) {
+    console.log(pageWidth, screenWidth, "kklklklklk");
     let scaleFactor = screenWidth / pageWidth;
     element.style.zoom = scaleFactor;
     console.log(scaleFactor);

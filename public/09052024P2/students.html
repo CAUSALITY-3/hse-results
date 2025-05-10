@@ -125,16 +125,9 @@
                 document.head.appendChild(script);
             }
 
-            loadScript('/static/toast.js', function () {
-                console.log('toast.js loaded');
-            });
             loadScript('https://www.gstatic.com/charts/loader.js', async function () {
-                console.log('Google Charts loader.js loaded');
-                loadScript('/static/indexDb.js', function () {
-                    console.log('indexDb.js loaded');
-                });
 
-                loadScript('/static/chart.js', async function () {
+                loadScript('/static/main.js', async function () {
                     await loadGoogleCharts('{{ .TotalMarks }}', '{{ .MainRoute }}', 'overall', "chart_div");
                     await loadGoogleCharts('{{ .TotalMarks }}', '{{ .MainRoute }}', '{{.Group}}', "chart_div_group");
                     await loadGoogleCharts('{{ .TotalMarks }}', '{{ .MainRoute }}', '{{ .SchoolRankCode }}', "chart_div_school");

@@ -38,11 +38,6 @@
                 box-sizing: border-box;
                 margin: 0;
                 padding: 0;
-
-                /* display: flex;
-                justify-content: center;
-    
-                align-items: center; */
             }
 
 
@@ -217,10 +212,7 @@
                 document.head.appendChild(script);
             }
 
-            loadScript('/static/toast.js', function () {
-                console.log('toast.js loaded');
-            });
-            loadScript("/static/adjustZoom.js", zoomFn);
+            loadScript("/static/main.js", zoomFn);
 
             function zoomFn() {
                 const schoolResult = JSON.parse('{{ .SchoolResult }}');
@@ -258,7 +250,7 @@
                         id="school-total-school-same-count" class="school-rank-value"></span></div>
             </div>
             <div class="school-chart-section">
-                <div id="chart_div_school" class="chart-only"></div>
+                <div id="chart_div_school" class=""></div>
             </div>
 
         </div>

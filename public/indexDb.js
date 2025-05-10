@@ -23,8 +23,6 @@ function storeData(key, collection, value) {
     };
 
     request.onsuccess = (event) => {
-      document.getElementById("school-search-route").innerText =
-        "Rajan " + version;
       const db = event.target.result;
 
       console.log("collections", db.objectStoreNames.length);
