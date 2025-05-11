@@ -281,6 +281,11 @@ tr:hover {
     background-color: #2e2e2e;
 }
 
+.school-student-redirect:hover {
+        text-decoration: underline;
+        color: #00a2ff;
+    }
+
 .school-student-redirect{
     text-decoration: none;
     cursor: pointer;
@@ -892,7 +897,7 @@ tbody tr:last-child td {
     /* width: 1200px;
                 max-width: 1200px; */
     /* width: 1400px; */
-    padding: 20px;
+    padding: 60px 20px;
     background: #252525;
     border-radius: 10px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);

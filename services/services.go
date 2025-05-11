@@ -153,12 +153,7 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 		log.Println("Error loading template:", err)
 		return err
 	}
-	var temp struct {
-		SchoolResult string
-		Name         string
-		SchoolCode   string
-		MainRoute    string
-	}
+	var temp types.TemplateMappedSchoolResultData
 
 	// SchoolResult, err := json.Marshal(school)
 	// if err != nil {

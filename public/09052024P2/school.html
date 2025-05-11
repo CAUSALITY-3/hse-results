@@ -17,7 +17,7 @@
         </div>
         <style>
         </style>
-        <h1>School Exam Results</h1>
+        <h1>School Wise Results</h1>
         <h2>School Name: {{ .Name }} (Code: {{ .SchoolCode }})
         </h2>
         <div class="result-section" id="resultSection">
@@ -65,6 +65,10 @@
                 window.onresize = () => adjustZoom(false);
                 adjustZoom(false);
                 const tableBody = document.getElementById("resultTableBody");
+                if (!schoolResult || schoolResult.length === 0) {
+                    tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
+                    return;
+                }
                 schoolResult.forEach((student, index) => {
                     const row = document.createElement("tr");
                     row.className = index % 2 === 0 ? "even-row" : "odd-row";

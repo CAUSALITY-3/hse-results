@@ -91,3 +91,18 @@ type TemplateMappedSchoolResult struct {
 	FullMarkStudents     []string      `json:"fullMarkStudents"`
 	RankList             []RankList    `json:"rankList"`
 }
+
+type TemplateMappedSchoolResultData struct {
+	SchoolResult           string  `json:"schoolResult"`
+	Name                   string  `json:"name"`
+	SchoolCode             string  `json:"schoolCode"`
+	MainRoute              string  `json:"mainRoute"`
+	District               string  `json:"district"`
+	PhoneNo                string  `json:"phoneNo"`
+	TotalStudentsAppeared  int     `json:"totalStudentsAppeared"`
+	TotalStudentsPassed    int     `json:"totalStudentsPassed"`
+	TotalStudentsFailed    int     `json:"totalStudentsFailed"`
+	TotalStudentsFullAp    int     `json:"totalStudentsFullAp"`
+	TotalStudentsFullMarks int     `json:"totalStudentsFullMarks"`
+	PassPercentage         float64 `json:"passPercentage"`
+}
