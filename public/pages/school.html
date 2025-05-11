@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Results</title>
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+    <link rel="stylesheet" type="text/css" href="/static/styles/style.css">
+
+</head>
+
+<body>
+    <div id="school-page" class="container">
+        <div id="school-page-back-to-search" hx-get="/static/pages/schoolSearch.html" hx-swap="outerHTML"
+            hx-target="#school-page" hx-select="#school-search-page"> 🔙 Search
+        </div>
+        <style>
+        </style>
+        <div class="school-top-section">
+            <div class="school-name">{{ .SchoolName }}</div>
+            <div class="school-details-section">
+                <div class="school-details-item">School Code: <span class="school-details-value">{{ .SchoolCode
+                        }}</span></div>
+                <div class="school-details-item">District: <span class="school-details-value">{{ .District }}</span>
+                </div>
+                <div class="school-result-analysis-section">
+                    <div class="school-result-analysis-item">Total Students (Regular) Appeared: <span
+                            class="school-result-analysis-value">{{ .TotalStudentsAppeared }}</span></div>
+                    <div class="school-result-analysis-item">Total Pass: <span class="school-result-analysis-value">{{
+                            .TotalStudentsPassed }}</span></div>
+                    <div class="school-result-analysis-item">Total Fail: <span class="school-result-analysis-value">{{
+                            .TotalStudentsFailed }}</span></div>
+                    <div class="school-result-analysis-item">Pass Percentage: <span
+                            class="school-result-analysis-value">{{ .PassPercentage }}</span></div>
+                    <div class="school-result-analysis-item">Total Full A+ Students: <span
+                            class="school-result-analysis-value">{{ .TotalFullAPlus }}</span></div>
+                    <div class="school-result-analysis-item">Total Full Mark Students: <span
+                            class="school-result-analysis-value">{{ .TotalFullMarks }}</span></div>
+                </div>
+                <div class="school-pass-percent-chart">
+
+                </div>
+            </div>
+        </div>
+        <style>
+            .school-top-section {
+                padding: 20px;
+                background-color: #2e2e2e;
+                border: 1px solid #444;
+                border-radius: 8px;
+                margin-bottom: 20px;
+            }
+
+            .school-name {
+                font-size: 24px;
+                font-weight: bold;
+                margin-bottom: 10px;
+                color: #fff;
+                text-align: center;
+            }
+
+            .school-details-section {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 15px;
+            }
+
+            .school-details-item {
+                font-size: 16px;
+                color: #ccc;
+            }
+
+            .school-details-value {
+                font-weight: bold;
+                color: #fff;
+            }
+
+            .school-result-analysis-section {
+                margin-top: 15px;
+                display: flex;
+                flex-wrap: wrap;
+                gap: 15px;
+            }
+
+            .school-result-analysis-item {
+                font-size: 14px;
+                color: #bbb;
+            }
+
+            .school-result-analysis-value {
+                font-weight: bold;
+                color: #4a90e2;
+            }
+
+            .school-pass-percent-chart {
+                margin-top: 20px;
+                width: 100%;
+                height: 200px;
+                background-color: #3e3e3e;
+                border: 1px dashed #555;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: #aaa;
+                font-style: italic;
+            }
+        </style>
+        <div class="result-section" id="resultSection">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Roll No</th>
+                        <th>Name</th>
+                        <th>Group</th>
+                        <th>Subject-1</th>
+                        <th>Subject-2</th>
+                        <th>Subject-3</th>
+                        <th>Subject-4</th>
+                        <th>Subject-5</th>
+                        <th>Subject-6</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody id="resultTableBody"></tbody>
+            </table>
+        </div>
+        <script>
+
+            function loadScript(src, callback) {
+                // Check if script is already in the document
+                if (document.querySelector(`script[src="${src}"]`)) {
+                    console.log(`Script ${src} already loaded.`);
+                    if (callback) callback(); // still call the callback to continue flow
+                    return;
+                }
+
+                const script = document.createElement('script');
+                script.src = src;
+                script.onload = callback;
+                script.onerror = function () {
+                    console.error(`Failed to load script: ${src}`);
+                };
+                document.head.appendChild(script);
+            }
+
+            loadScript("/static/js/main.js", zoomFn);
+            function zoomFn() {
+                const schoolResult = JSON.parse('{{ .SchoolResult }}');
+                window.onload = () => adjustZoom(false);
+                window.onresize = () => adjustZoom(false);
+                adjustZoom(false);
+                const tableBody = document.getElementById("resultTableBody");
+                if (!schoolResult || schoolResult.length === 0) {
+                    tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
+                    return;
+                }
+                schoolResult.forEach((student, index) => {
+                    const row = document.createElement("tr");
+                    row.className = index % 2 === 0 ? "even-row" : "odd-row";
+                    row.innerHTML = `
+                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
+                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
+                    <td>${student.group}</td>
+                    ${student.subjects.map((subject, index) => {
+                        return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
+                    }).join('')}
+                    <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
+                `;
+                    tableBody.appendChild(row);
+                });
+                htmx.process(document.getElementById("resultTableBody"));
+
+            };
+        </script>
+        <div class="school-rank-container">
+            <div class="school-chart-name">School Rank details</div>
+            <div class="school-rank-details">
+                <div class="school-rank-details-item">Rank: <span id="school-school-rank"
+                        class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools: <span id="school-total-school-count"
+                        class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools Ahead of you: <span
+                        id="school-total-school-ahead-count" class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools Behind you: <span
+                        id="school-total-school-behind-count" class="school-rank-value"></span></div>
+                <div class="school-rank-details-item">Total schools same as you: <span
+                        id="school-total-school-same-count" class="school-rank-value"></span></div>
+            </div>
+            <div class="school-chart-section">
+                <div id="chart_div_school" class=""></div>
+            </div>
+
+        </div>
+
+
+</body>
+
+</html>
