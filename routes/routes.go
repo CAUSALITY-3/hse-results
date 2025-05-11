@@ -44,9 +44,9 @@ func SetupRouter() {
 		searchType := c.Query("searchType")  // Get dynamic class name
 		log.Println(resultType, searchType)
 		if searchType == "school" {
-			return c.SendFile("./public/" + resultType + "/schoolSearch.html")
+			return c.SendFile("./public/pages/schoolSearch.html")
 		}
-		return c.SendFile("./public/" + resultType + "/search.html")
+		return c.SendFile("./public/pages/search.html")
 	})
 
 	app.Get("/search/indivitual", func(c *fiber.Ctx) error {

@@ -88,7 +88,7 @@ func SearchStudentByName(name string) ([]string, error) {
 
 func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 
-	student, err := utils.ReadFile[types.Student]("./public/" + requestType + "/data/students/" + rollNo + ".json")
+	student, err := utils.ReadFile[types.Student]("./public/" + requestType + "/students/" + rollNo + ".json")
 	if err != nil {
 		log.Println("Error Reading student data:", err)
 		return c.Status(500).SendString("Error reading student data")
@@ -135,7 +135,7 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 
 	studentTemplateMapping.Subjects = template.HTML(strTemp)
 
-	tmpl, err := template.ParseFiles("./public/" + requestType + "/students.html")
+	tmpl, err := template.ParseFiles("./public/pages/students.html")
 	if err != nil {
 		log.Println("Error loading template:", err)
 		return c.Status(500).SendString("Error loading template")
@@ -151,14 +151,14 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 }
 
 func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
-	school, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/data/schools/" + schoolCode + ".json")
+	school, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/schools/" + schoolCode + ".json")
 	if err != nil {
 		log.Println("Error Reading school data:", err)
 		return c.Status(500).SendString("Error reading school data")
 	}
 
 	// var schoolTemplateMapping types.SchoolResults
-	tmpl, err := template.ParseFiles("./public/" + requestType + "/school.html")
+	tmpl, err := template.ParseFiles("./public/pages/school.html")
 	if err != nil {
 		log.Println("Error loading template:", err)
 		return c.Status(500).SendString("Error loading template")
@@ -200,7 +200,7 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 
 // func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 
-// 	student, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/data/schools/" + schoolCode + ".json")
+// 	student, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/schools/" + schoolCode + ".json")
 // 	if err != nil {
 // 		log.Println("Error Reading student data:", err)
 // 		return err
@@ -208,7 +208,7 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 
 // 	var studentTemplateMapping types.TemplateMappedStudentData
 
-// 	tmpl, err := template.ParseFiles("./public/" + requestType + "/students.html")
+// 	tmpl, err := template.ParseFiles("./public/pages/students.html")
 // 	if err != nil {
 // 		log.Println("Error loading template:", err)
 // 		return err

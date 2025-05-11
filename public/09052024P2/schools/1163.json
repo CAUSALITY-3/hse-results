@@ -1,0 +1,76 @@
+{
+  "schoolCode": "1163",
+  "schoolName": "SRI SATHYA SAI HSS, VELLANAD, TVM, 695543",
+  "phoneNo": "04722883779",
+  "emailId": "sssems.tvm@gmail.com",
+  "schoolType": "Un-Aided",
+  "localBody": "VellanadNedumangad",
+  "eduDistrict": "Attingal",
+  "assemblyConstituency": "Nedumangad",
+  "courseCode": "2,5,33,39",
+  "schoolGender": "Co-Education",
+  "secondLanguage": "2,1",
+  "district": "THIRUVANANTHAPURAM",
+  "results": [
+    {
+      "rollNo": "23500448",
+      "regular": true,
+      "name": "ANAND. A. S",
+      "group": "SCIENCE",
+      "subjects": [
+        {
+          "name": "ENGLISH",
+          "grade": "C",
+          "marks": 89
+        },
+        {
+          "name": "",
+          "grade": "",
+          "marks": null
+        },
+        {
+          "name": "PHYSICS",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "CHEMISTRY",
+          "grade": "Ab",
+          "marks": 0
+        },
+        {
+          "name": "COMPUTER SCIENCE",
+          "grade": "D",
+          "marks": 73
+        },
+        {
+          "name": "MATHEMATICS-SCI",
+          "grade": "D",
+          "marks": 40
+        }
+      ],
+      "result": "NHS",
+      "schoolName": "SRI SATHYA SAI HSS, VELLANAD, TVM, 695543",
+      "schoolCode": "1163",
+      "totalMarks": 202,
+      "fullAp": false
+    }
+  ],
+  "passPercentage": 0,
+  "totalFullAp": 0,
+  "totalFullMarks": 0,
+  "fullApStudents": null,
+  "fullMarkStudents": null,
+  "rankList": [
+    {
+      "name": "ANAND. A. S",
+      "rollNo": "23500448",
+      "group": "SCIENCE",
+      "totalMarks": 202,
+      "rank": 1,
+      "pass": false
+    }
+  ],
+  "totalPass": 0,
+  "totalFailure": 1
+}
