@@ -1056,147 +1056,170 @@
       "rollNo": "23025732",
       "group": "SCIENCE",
       "totalMarks": 1148,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "DEVANUSH TROPHY",
       "rollNo": "23025739",
       "group": "SCIENCE",
       "totalMarks": 1134,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "ALEENA N",
       "rollNo": "23025744",
       "group": "SCIENCE",
       "totalMarks": 1108,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "YUSUF SHANAVAS",
       "rollNo": "23025743",
       "group": "SCIENCE",
       "totalMarks": 1107,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "FATHIMA NAZAR",
       "rollNo": "23025746",
       "group": "SCIENCE",
       "totalMarks": 1066,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "AMINA S",
       "rollNo": "23025745",
       "group": "SCIENCE",
       "totalMarks": 1057,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "SIRAJ S",
       "rollNo": "23025740",
       "group": "SCIENCE",
       "totalMarks": 968,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "MOHAMMED NABEEL M S",
       "rollNo": "23025730",
       "group": "SCIENCE",
       "totalMarks": 924,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "VARNA S BABU",
       "rollNo": "23025733",
       "group": "SCIENCE",
       "totalMarks": 920,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "HAREESHMA.G",
       "rollNo": "23025747",
       "group": "SCIENCE",
       "totalMarks": 902,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "ASHIK J",
       "rollNo": "23025738",
       "group": "SCIENCE",
       "totalMarks": 894,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "SREERAG S",
       "rollNo": "23025742",
       "group": "SCIENCE",
       "totalMarks": 879,
-      "rank": 12
+      "rank": 12,
+      "pass": true
     },
     {
       "name": "RAHNA. A",
       "rollNo": "23025749",
       "group": "SCIENCE",
       "totalMarks": 868,
-      "rank": 13
+      "rank": 13,
+      "pass": true
     },
     {
       "name": "NAVYA B G",
       "rollNo": "23025748",
       "group": "SCIENCE",
       "totalMarks": 868,
-      "rank": 13
+      "rank": 13,
+      "pass": true
     },
     {
       "name": "SIRAJ T",
       "rollNo": "23025741",
       "group": "SCIENCE",
       "totalMarks": 835,
-      "rank": 15
+      "rank": 15,
+      "pass": true
     },
     {
       "name": "SAHAD S S",
       "rollNo": "23025731",
       "group": "SCIENCE",
       "totalMarks": 830,
-      "rank": 16
+      "rank": 16,
+      "pass": true
     },
     {
       "name": "ADISH B S",
       "rollNo": "23025735",
       "group": "SCIENCE",
       "totalMarks": 829,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "IJAS N S",
       "rollNo": "23025729",
       "group": "SCIENCE",
       "totalMarks": 796,
-      "rank": 18
+      "rank": 18,
+      "pass": true
     },
     {
       "name": "AJAYSURYA S",
       "rollNo": "23025737",
       "group": "SCIENCE",
       "totalMarks": 765,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "ADITHIYA RAJEEV",
       "rollNo": "23025736",
       "group": "SCIENCE",
       "totalMarks": 765,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "ABHIL S KUMAR",
       "rollNo": "23025734",
       "group": "SCIENCE",
       "totalMarks": 735,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 17,
+  "totalFailure": 4
 }

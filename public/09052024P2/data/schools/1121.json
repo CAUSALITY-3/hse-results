@@ -540,84 +540,98 @@
       "rollNo": "23026589",
       "group": "HUMANITIES",
       "totalMarks": 935,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "JIFY THERESA",
       "rollNo": "23026590",
       "group": "HUMANITIES",
       "totalMarks": 929,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "BEESHMA BIJU",
       "rollNo": "23026594",
       "group": "COMMERCE",
       "totalMarks": 838,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "VINEETHA M",
       "rollNo": "23026598",
       "group": "COMMERCE",
       "totalMarks": 808,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "SANDRA A . S",
       "rollNo": "23026591",
       "group": "HUMANITIES",
       "totalMarks": 778,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "SANCHANA V",
       "rollNo": "23026596",
       "group": "COMMERCE",
       "totalMarks": 771,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "ASWATHY.C",
       "rollNo": "23026588",
       "group": "HUMANITIES",
       "totalMarks": 759,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "ANNAMMA.S",
       "rollNo": "23026587",
       "group": "HUMANITIES",
       "totalMarks": 725,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "ANNA A",
       "rollNo": "23026586",
       "group": "HUMANITIES",
       "totalMarks": 701,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "SWETHA D",
       "rollNo": "23026592",
       "group": "HUMANITIES",
       "totalMarks": 683,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "VARNA LAL J .B",
       "rollNo": "23026597",
       "group": "COMMERCE",
       "totalMarks": 650,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "ANILA Y N",
       "rollNo": "23026593",
       "group": "COMMERCE",
       "totalMarks": 631,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 10,
+  "totalFailure": 2
 }

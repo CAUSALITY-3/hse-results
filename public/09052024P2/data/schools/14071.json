@@ -2,7 +2,7 @@
   "schoolCode": "14071",
   "schoolName": "MARTHOMA HSS FOR DEAF,KASARGODE., 671541",
   "phoneNo": "04994282382",
-  "emailId": "mthssdeaf@gmail.com",
+  "emailId": "marthomadeaf@gmail.com",
   "schoolType": "Special",
   "localBody": "ChengalaKasaragod",
   "eduDistrict": "Kasargode",
@@ -540,84 +540,98 @@
       "rollNo": "23418114",
       "group": "COMMERCE",
       "totalMarks": 938,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "SHRAVANI",
       "rollNo": "23418117",
       "group": "COMMERCE",
       "totalMarks": 898,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "MOHAMMED RIFAY",
       "rollNo": "23418112",
       "group": "COMMERCE",
       "totalMarks": 870,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "THABSHEERA N. H.",
       "rollNo": "23418118",
       "group": "COMMERCE",
       "totalMarks": 869,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "KHADEEJATH NASHMA A. K.",
       "rollNo": "23418116",
       "group": "COMMERCE",
       "totalMarks": 790,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "AHMED SINAN",
       "rollNo": "23418109",
       "group": "COMMERCE",
       "totalMarks": 710,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "ADIL AHMED A.S.",
       "rollNo": "23418108",
       "group": "COMMERCE",
       "totalMarks": 682,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "HAJIRA C. A.",
       "rollNo": "23418115",
       "group": "COMMERCE",
       "totalMarks": 672,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "VIGISHA BABU",
       "rollNo": "23418119",
       "group": "COMMERCE",
       "totalMarks": 641,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "ANANTHU M. V.",
       "rollNo": "23418110",
       "group": "COMMERCE",
       "totalMarks": 622,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "JOSHWIN K RAJESH",
       "rollNo": "23418111",
       "group": "COMMERCE",
       "totalMarks": 618,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "VIGHNESH K. V.",
       "rollNo": "23418113",
       "group": "COMMERCE",
       "totalMarks": 534,
-      "rank": 12
+      "rank": 12,
+      "pass": true
     }
-  ]
+  ],
+  "totalPass": 12,
+  "totalFailure": 0
 }

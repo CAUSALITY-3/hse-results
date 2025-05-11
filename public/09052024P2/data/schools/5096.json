@@ -239,35 +239,42 @@
       "rollNo": "23113133",
       "group": "SCIENCE",
       "totalMarks": 838,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "SABARI T V",
       "rollNo": "23113131",
       "group": "SCIENCE",
       "totalMarks": 751,
-      "rank": 2
+      "rank": 2,
+      "pass": false
     },
     {
       "name": "ADARSH P ANIL",
       "rollNo": "23113134",
       "group": "SCIENCE",
       "totalMarks": 650,
-      "rank": 3
+      "rank": 3,
+      "pass": false
     },
     {
       "name": "ABHIRAJ C R",
       "rollNo": "23113132",
       "group": "SCIENCE",
       "totalMarks": 609,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "SIDHARTH PRADEEP",
       "rollNo": "23113135",
       "group": "SCIENCE",
       "totalMarks": 548,
-      "rank": 5
+      "rank": 5,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 1,
+  "totalFailure": 4
 }

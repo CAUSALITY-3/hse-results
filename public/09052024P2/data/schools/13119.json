@@ -411,63 +411,74 @@
       "rollNo": "23394206",
       "group": "COMMERCE",
       "totalMarks": 1075,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "ARSHIDHA K P",
       "rollNo": "23394202",
       "group": "COMMERCE",
       "totalMarks": 994,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "NIHALA M P",
       "rollNo": "23394207",
       "group": "COMMERCE",
       "totalMarks": 886,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "MARWANA K",
       "rollNo": "23394205",
       "group": "COMMERCE",
       "totalMarks": 822,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "FATHIMATHUL RASLA P",
       "rollNo": "23394204",
       "group": "COMMERCE",
       "totalMarks": 782,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "FATHIMA O",
       "rollNo": "23394208",
       "group": "COMMERCE",
       "totalMarks": 736,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "FATHIMATH SAFA O K",
       "rollNo": "23394209",
       "group": "COMMERCE",
       "totalMarks": 725,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "FADIYA KP",
       "rollNo": "23394203",
       "group": "COMMERCE",
       "totalMarks": 605,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "SHAZIYA K.",
       "rollNo": "23394210",
       "group": "COMMERCE",
       "totalMarks": 512,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 7,
+  "totalFailure": 2
 }

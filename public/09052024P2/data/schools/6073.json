@@ -671,91 +671,106 @@
       "rollNo": "23126210",
       "group": "COMMERCE",
       "totalMarks": 1170,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "ALBERT GEORGE MANUEL",
       "rollNo": "23126200",
       "group": "COMMERCE",
       "totalMarks": 806,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "AL AMEEN SHAJI",
       "rollNo": "23126199",
       "group": "COMMERCE",
       "totalMarks": 756,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "TIYA JOY",
       "rollNo": "23126212",
       "group": "COMMERCE",
       "totalMarks": 753,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "BEEMA THAJUDHEEN",
       "rollNo": "23126209",
       "group": "COMMERCE",
       "totalMarks": 725,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "ROSEMARIA ANISH",
       "rollNo": "23126211",
       "group": "COMMERCE",
       "totalMarks": 705,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     },
     {
       "name": "ABBUL ABBAS A R",
       "rollNo": "23126198",
       "group": "COMMERCE",
       "totalMarks": 691,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "SALMAN NAZAR",
       "rollNo": "23126204",
       "group": "COMMERCE",
       "totalMarks": 668,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "PAUL M PHILIP",
       "rollNo": "23126203",
       "group": "COMMERCE",
       "totalMarks": 651,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "VISHNU KRISHNA K R",
       "rollNo": "23126207",
       "group": "COMMERCE",
       "totalMarks": 638,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "NIJO PHILIP",
       "rollNo": "23126202",
       "group": "COMMERCE",
       "totalMarks": 623,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "SHARUK KABEER",
       "rollNo": "23126205",
       "group": "COMMERCE",
       "totalMarks": 562,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "ALFIA T E",
       "rollNo": "23126208",
       "group": "COMMERCE",
       "totalMarks": 545,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 9,
+  "totalFailure": 4
 }

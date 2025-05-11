@@ -626,84 +626,98 @@
       "rollNo": "23115327",
       "group": "COMMERCE",
       "totalMarks": 968,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "THAMEEM ALI",
       "rollNo": "23115324",
       "group": "COMMERCE",
       "totalMarks": 936,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "PRANAV S MOOZHAYIL",
       "rollNo": "23115323",
       "group": "COMMERCE",
       "totalMarks": 857,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "ASWATHY ANEESH",
       "rollNo": "23115326",
       "group": "COMMERCE",
       "totalMarks": 847,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "ASHIRVAD E M",
       "rollNo": "23115320",
       "group": "COMMERCE",
       "totalMarks": 771,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "ADARSH SIBI",
       "rollNo": "23115317",
       "group": "COMMERCE",
       "totalMarks": 744,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "MUHAMMED AATHIL",
       "rollNo": "23115321",
       "group": "COMMERCE",
       "totalMarks": 674,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "ALTHAF SAKKEER",
       "rollNo": "23115319",
       "group": "COMMERCE",
       "totalMarks": 519,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "ALAN MATHEW",
       "rollNo": "23115318",
       "group": "COMMERCE",
       "totalMarks": 480,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "AATHIL MUHAMMED",
       "rollNo": "23115316",
       "group": "COMMERCE",
       "totalMarks": 357,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "TINTO SABU",
       "rollNo": "23115325",
       "group": "COMMERCE",
       "totalMarks": 313,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "SAJAD KASIM",
       "rollNo": "23501121",
       "group": "COMMERCE",
       "totalMarks": 133,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 7,
+  "totalFailure": 5
 }

@@ -1,8 +1,8 @@
 {
   "schoolCode": "14074",
   "schoolName": "MALABAR ISLAMIC COMPLEX HSS, CHATTANCHAL, KASARGODE, 671541",
-  "phoneNo": "9961212454",
-  "emailId": "mic799@gmail.com",
+  "phoneNo": "9895417114",
+  "emailId": "micschoolksd@gmail.com",
   "schoolType": "Un-Aided",
   "localBody": "ChemmanadKasaragod",
   "eduDistrict": "Kasargode",
@@ -1013,147 +1013,170 @@
       "rollNo": "23418319",
       "group": "HUMANITIES",
       "totalMarks": 932,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "AJMAL NASRUDHEEN",
       "rollNo": "23418318",
       "group": "HUMANITIES",
       "totalMarks": 836,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "AYSHATH THABSEERA P",
       "rollNo": "23418342",
       "group": "COMMERCE",
       "totalMarks": 812,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "MUHAMMAD ZAYID PK",
       "rollNo": "23418321",
       "group": "HUMANITIES",
       "totalMarks": 800,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "UMAIR U",
       "rollNo": "23418323",
       "group": "HUMANITIES",
       "totalMarks": 692,
-      "rank": 5
+      "rank": 5,
+      "pass": false
     },
     {
       "name": "MUHAMMAD ALTHAF",
       "rollNo": "23418338",
       "group": "COMMERCE",
       "totalMarks": 647,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     },
     {
       "name": "AYSHATH FAHIZA",
       "rollNo": "23418341",
       "group": "COMMERCE",
       "totalMarks": 642,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "ABDUL HAFIL HADI",
       "rollNo": "23418316",
       "group": "HUMANITIES",
       "totalMarks": 636,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "FATHIMATH THANVEERA P",
       "rollNo": "23418343",
       "group": "COMMERCE",
       "totalMarks": 615,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "ABDULLA MUZAMMIL M",
       "rollNo": "23418326",
       "group": "COMMERCE",
       "totalMarks": 560,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "ABDULLA HALEEM M",
       "rollNo": "23418325",
       "group": "COMMERCE",
       "totalMarks": 557,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "ASHKAR ALI T N",
       "rollNo": "23418328",
       "group": "COMMERCE",
       "totalMarks": 541,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "ABDUL RAHMAN R",
       "rollNo": "23418324",
       "group": "COMMERCE",
       "totalMarks": 509,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "MOHAMMAD IRFAN M",
       "rollNo": "23418333",
       "group": "COMMERCE",
       "totalMarks": 508,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "UMARUL FAROOQ E B",
       "rollNo": "23418339",
       "group": "COMMERCE",
       "totalMarks": 499,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "EDUL ASHFAQ",
       "rollNo": "23418329",
       "group": "COMMERCE",
       "totalMarks": 480,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "MOHAMMED SALIM . P . H",
       "rollNo": "23418337",
       "group": "COMMERCE",
       "totalMarks": 476,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "MOHAMMED JUNAID T Y",
       "rollNo": "23418336",
       "group": "COMMERCE",
       "totalMarks": 473,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     },
     {
       "name": "MIDHLAJ A I",
       "rollNo": "23418332",
       "group": "COMMERCE",
       "totalMarks": 460,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "MOHAMMED AFSAL T L",
       "rollNo": "23418334",
       "group": "COMMERCE",
       "totalMarks": 442,
-      "rank": 20
+      "rank": 20,
+      "pass": false
     },
     {
       "name": "IBRAHIM BADHISHA M",
       "rollNo": "23418330",
       "group": "COMMERCE",
       "totalMarks": 432,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 4,
+  "totalFailure": 17
 }

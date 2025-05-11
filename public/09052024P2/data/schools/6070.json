@@ -540,77 +540,90 @@
       "rollNo": "23126122",
       "group": "HUMANITIES",
       "totalMarks": 842,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "JAMUNA.M",
       "rollNo": "23126123",
       "group": "HUMANITIES",
       "totalMarks": 764,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "LAKSHMANAN.K",
       "rollNo": "23126115",
       "group": "HUMANITIES",
       "totalMarks": 756,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "VIGNESHWARAN.R",
       "rollNo": "23126119",
       "group": "HUMANITIES",
       "totalMarks": 596,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "PULAMATHI.T",
       "rollNo": "23126125",
       "group": "HUMANITIES",
       "totalMarks": 589,
-      "rank": 5
+      "rank": 5,
+      "pass": false
     },
     {
       "name": "POOPATHY.S",
       "rollNo": "23126124",
       "group": "HUMANITIES",
       "totalMarks": 557,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     },
     {
       "name": "SUJAN S",
       "rollNo": "23126117",
       "group": "HUMANITIES",
       "totalMarks": 543,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "DHIYA.S",
       "rollNo": "23126121",
       "group": "HUMANITIES",
       "totalMarks": 534,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "NATHINRAJ.M",
       "rollNo": "23126116",
       "group": "HUMANITIES",
       "totalMarks": 532,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "SURENDHRAN.J",
       "rollNo": "23126118",
       "group": "HUMANITIES",
       "totalMarks": 490,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "BANUMATHI.M",
       "rollNo": "23126120",
       "group": "HUMANITIES",
       "totalMarks": 460,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 3,
+  "totalFailure": 8
 }

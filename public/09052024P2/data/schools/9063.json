@@ -282,42 +282,50 @@
       "rollNo": "23218626",
       "group": "SCIENCE",
       "totalMarks": 1009,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "LAKSHMI PRAVEEN",
       "rollNo": "23218628",
       "group": "SCIENCE",
       "totalMarks": 948,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "SREYA S",
       "rollNo": "23203421",
       "group": "SCIENCE",
       "totalMarks": 929,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "COLLINHEBRON K",
       "rollNo": "23218627",
       "group": "SCIENCE",
       "totalMarks": 835,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "NASIRI C",
       "rollNo": "23218629",
       "group": "SCIENCE",
       "totalMarks": 826,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "RUHAMAH.K.P",
       "rollNo": "23218630",
       "group": "SCIENCE",
       "totalMarks": 594,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 4,
+  "totalFailure": 2
 }

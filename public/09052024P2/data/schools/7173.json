@@ -1013,161 +1013,186 @@
       "rollNo": "23157002",
       "group": "COMMERCE",
       "totalMarks": 1103,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "SURAYYA FAMIN.T.S",
       "rollNo": "23157004",
       "group": "COMMERCE",
       "totalMarks": 1033,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "NAIMA NEHAREEN NIZAR",
       "rollNo": "23156987",
       "group": "COMMERCE",
       "totalMarks": 898,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "MUHAMMED FAZIL FIROZE",
       "rollNo": "23156997",
       "group": "COMMERCE",
       "totalMarks": 841,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "SHABNA S",
       "rollNo": "23157003",
       "group": "COMMERCE",
       "totalMarks": 824,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "SADIYA P K",
       "rollNo": "23156989",
       "group": "COMMERCE",
       "totalMarks": 799,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "ZAHID KHAN",
       "rollNo": "23157006",
       "group": "COMMERCE",
       "totalMarks": 768,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "SIDHARTH T.S",
       "rollNo": "23156999",
       "group": "COMMERCE",
       "totalMarks": 723,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "THEJUS MANOJ",
       "rollNo": "23157000",
       "group": "COMMERCE",
       "totalMarks": 718,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "DANIEL XAVIER",
       "rollNo": "23156993",
       "group": "COMMERCE",
       "totalMarks": 708,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "TINO VARGHESE",
       "rollNo": "23157001",
       "group": "COMMERCE",
       "totalMarks": 694,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "MUHAMMED ALTHAF. O.S.",
       "rollNo": "23156996",
       "group": "COMMERCE",
       "totalMarks": 663,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "MOHAMMAD ANZIL C S",
       "rollNo": "23157005",
       "group": "COMMERCE",
       "totalMarks": 648,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "MOHAMMED SINAN",
       "rollNo": "23156995",
       "group": "COMMERCE",
       "totalMarks": 608,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "ABDUL SABITH N N",
       "rollNo": "23156991",
       "group": "COMMERCE",
       "totalMarks": 595,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "IRSHAD SHAKEER",
       "rollNo": "23156994",
       "group": "COMMERCE",
       "totalMarks": 579,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "AADHIL FARHAN",
       "rollNo": "23156990",
       "group": "COMMERCE",
       "totalMarks": 570,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "SANJU E SANNAN",
       "rollNo": "23156998",
       "group": "COMMERCE",
       "totalMarks": 556,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     },
     {
       "name": "AJAS NAVAS",
       "rollNo": "23156992",
       "group": "COMMERCE",
       "totalMarks": 539,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "ASHKAR S",
       "rollNo": "23156986",
       "group": "COMMERCE",
       "totalMarks": 537,
-      "rank": 20
+      "rank": 20,
+      "pass": false
     },
     {
       "name": "FARSANA K S",
       "rollNo": "23156988",
       "group": "COMMERCE",
       "totalMarks": 529,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     },
     {
       "name": "MUHAMMED ANSIF",
       "rollNo": "23501361",
       "group": "COMMERCE",
       "totalMarks": 153,
-      "rank": 22
+      "rank": 22,
+      "pass": false
     },
     {
       "name": "ARUN JOSEPH K J",
       "rollNo": "23501362",
       "group": "COMMERCE",
       "totalMarks": 62,
-      "rank": 23
+      "rank": 23,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 10,
+  "totalFailure": 13
 }

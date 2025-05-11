@@ -91,11 +91,12 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	student, err := utils.ReadFile[types.Student]("./public/" + requestType + "/data/students/" + rollNo + ".json")
 	if err != nil {
 		log.Println("Error Reading student data:", err)
-		return err
+		return c.Status(500).SendString("Error reading student data")
 	}
 
 	var studentTemplateMapping types.TemplateMappedStudentData
 
+	// Safely map student data to avoid nil pointer dereferences
 	studentTemplateMapping.Name = student.Name
 	studentTemplateMapping.RollNo = student.RollNo
 	studentTemplateMapping.Regular = student.Regular
@@ -113,14 +114,22 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	} else {
 		studentTemplateMapping.Result = "Failed"
 	}
-	studentTemplateMapping.Percentage = math.Round((float64(student.TotalMarks)/1200)*100*100) / 100.0
-	// studentTemplateMapping.Xvg = string(sub1)
+
+	if student.TotalMarks > 0 {
+		studentTemplateMapping.Percentage = math.Round((float64(student.TotalMarks)/1200)*100*100) / 100.0
+	} else {
+		studentTemplateMapping.Percentage = 0
+	}
 
 	strTemp := ""
 
 	for i := 0; i <= 5; i++ {
-		if student.Subjects[i].Name != "" {
-			strTemp += "<tr><td>" + student.Subjects[i].Name + "</td><td>" + fmt.Sprint(*student.Subjects[i].Marks) + "</td><td>" + student.Subjects[i].Grade + "</td></tr>"
+		if i < len(student.Subjects) && student.Subjects[i].Name != "" {
+			marks := "N/A"
+			if student.Subjects[i].Marks != nil {
+				marks = fmt.Sprint(*student.Subjects[i].Marks)
+			}
+			strTemp += "<tr><td>" + student.Subjects[i].Name + "</td><td>" + marks + "</td><td>" + student.Subjects[i].Grade + "</td></tr>"
 		}
 	}
 
@@ -129,8 +138,9 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 	tmpl, err := template.ParseFiles("./public/" + requestType + "/students.html")
 	if err != nil {
 		log.Println("Error loading template:", err)
-		return err
+		return c.Status(500).SendString("Error loading template")
 	}
+
 	c.Set("Content-Type", "text/html")
 	err = tmpl.Execute(c.Response().BodyWriter(), studentTemplateMapping)
 	if err != nil {
@@ -143,15 +153,15 @@ func GetStudentResults(c *fiber.Ctx, requestType, rollNo string) error {
 func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 	school, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/data/schools/" + schoolCode + ".json")
 	if err != nil {
-		log.Println("Error Reading student data:", err)
-		return err
+		log.Println("Error Reading school data:", err)
+		return c.Status(500).SendString("Error reading school data")
 	}
 
 	// var schoolTemplateMapping types.SchoolResults
 	tmpl, err := template.ParseFiles("./public/" + requestType + "/school.html")
 	if err != nil {
 		log.Println("Error loading template:", err)
-		return err
+		return c.Status(500).SendString("Error loading template")
 	}
 	var temp types.TemplateMappedSchoolResultData
 
@@ -169,12 +179,18 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 	}
 	fmt.Println("SchoolResult", string(SchoolResultJSON))
 	temp.SchoolResult = string(SchoolResultJSON)
-	temp.Name = school.SchoolName
+	temp.SchoolName = school.SchoolName
 	temp.SchoolCode = school.SchoolCode
 	temp.MainRoute = requestType
+	temp.District = school.District
+	temp.TotalStudentsAppeared = len(school.RankList)
+	temp.TotalStudentsPassed = school.TotalPass
+	temp.TotalStudentsFailed = school.TotalFailure
+	temp.PassPercentage = int(math.Round(school.PassPercentage*100) / 100.0)
+	temp.TotalFullAPlus = school.TotalFullAp
+	temp.TotalFullMarks = school.TotalFullMarks
 	c.Set("Content-Type", "text/html")
-	err = tmpl.Execute(c.Response().BodyWriter(), temp)
-	if err != nil {
+	if err := tmpl.Execute(c.Response().BodyWriter(), temp); err != nil {
 		log.Println("Error executing template:", err)
 		return c.Status(500).SendString("Error rendering template")
 	}

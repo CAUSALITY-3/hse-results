@@ -2,7 +2,7 @@
   "schoolCode": "5105",
   "schoolName": "Mangalam EM HSS , Vettimukal P.O., Ettumanur, club to 05023, 686631",
   "phoneNo": "0481-2537945",
-  "emailId": "school.mangalam43@gmail.com",
+  "emailId": "emrhs@mangalam.in",
   "schoolType": "Un-Aided",
   "localBody": "Ettumanoor(M)Kottayam",
   "eduDistrict": "Pala",
@@ -282,42 +282,50 @@
       "rollNo": "23113816",
       "group": "SCIENCE",
       "totalMarks": 1029,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "THOMAS TOMSY KIZHAKETHIL",
       "rollNo": "23425420",
       "group": "SCIENCE",
       "totalMarks": 984,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "JOSSIN ROY",
       "rollNo": "23425419",
       "group": "SCIENCE",
       "totalMarks": 835,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "JERIN K.K.",
       "rollNo": "23113815",
       "group": "SCIENCE",
       "totalMarks": 776,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "B SHARUN",
       "rollNo": "23113813",
       "group": "SCIENCE",
       "totalMarks": 753,
-      "rank": 5
+      "rank": 5,
+      "pass": false
     },
     {
       "name": "DAVID JESSO",
       "rollNo": "23113814",
       "group": "SCIENCE",
       "totalMarks": 623,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 3,
+  "totalFailure": 3
 }

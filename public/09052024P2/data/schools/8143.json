@@ -1,7 +1,7 @@
 {
   "schoolCode": "8143",
   "schoolName": "VIDHYA JYOTHI HSS, MATHILAKOM, THRISSUR, 680685",
-  "phoneNo": "04802853636",
+  "phoneNo": "7012710267",
   "emailId": "vidyajyothimathilakam@gmail.com",
   "schoolType": "Un-Aided",
   "localBody": "MathilakomKodungalloor",
@@ -712,112 +712,130 @@
       "rollNo": "23187929",
       "group": "COMMERCE",
       "totalMarks": 801,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "SALIHA T N",
       "rollNo": "23187930",
       "group": "COMMERCE",
       "totalMarks": 779,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "SHARON P.V",
       "rollNo": "23187928",
       "group": "COMMERCE",
       "totalMarks": 775,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "SHAHZAD P S",
       "rollNo": "23187926",
       "group": "SCIENCE",
       "totalMarks": 667,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "SHAHANA P I",
       "rollNo": "23187931",
       "group": "COMMERCE",
       "totalMarks": 664,
-      "rank": 5
+      "rank": 5,
+      "pass": false
     },
     {
       "name": "ABHIJITH P M",
       "rollNo": "23187933",
       "group": "COMMERCE",
       "totalMarks": 598,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     },
     {
       "name": "NAFEESATHUL MISRIYA P N",
       "rollNo": "23187924",
       "group": "SCIENCE",
       "totalMarks": 588,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "MOHAMMED NAJAD T S",
       "rollNo": "23187934",
       "group": "COMMERCE",
       "totalMarks": 561,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "ANZIL V A",
       "rollNo": "23187921",
       "group": "SCIENCE",
       "totalMarks": 529,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "MUHAMMED ISMAIL K R",
       "rollNo": "23187936",
       "group": "COMMERCE",
       "totalMarks": 518,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "MOHAMMED RISUVAN M R",
       "rollNo": "23187922",
       "group": "SCIENCE",
       "totalMarks": 462,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "MOHAMMED YASIN P R",
       "rollNo": "23187935",
       "group": "COMMERCE",
       "totalMarks": 461,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "SHAHAN SHAJI M S",
       "rollNo": "23187923",
       "group": "SCIENCE",
       "totalMarks": 448,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "ISMAIL M.H",
       "rollNo": "23187927",
       "group": "COMMERCE",
       "totalMarks": 329,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "SHANI MOL P.S",
       "rollNo": "23187932",
       "group": "COMMERCE",
       "totalMarks": 321,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "SREERAG TW",
       "rollNo": "23501558",
       "group": "HUMANITIES",
       "totalMarks": 87,
-      "rank": 16
+      "rank": 16,
+      "pass": true
     }
-  ]
+  ],
+  "totalPass": 4,
+  "totalFailure": 12
 }

@@ -757,91 +757,106 @@
       "rollNo": "23187909",
       "group": "SCIENCE",
       "totalMarks": 1168,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "RISHANA KABEER",
       "rollNo": "23187912",
       "group": "SCIENCE",
       "totalMarks": 1074,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "AFIYA THASNIM",
       "rollNo": "23187913",
       "group": "COMMERCE",
       "totalMarks": 998,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "U AKSHAYA DEVI",
       "rollNo": "23187911",
       "group": "SCIENCE",
       "totalMarks": 982,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "FATHIMA RIZANA V.A",
       "rollNo": "23187910",
       "group": "SCIENCE",
       "totalMarks": 968,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "SAHEENA P.A",
       "rollNo": "23187916",
       "group": "COMMERCE",
       "totalMarks": 963,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "SHIFANA ASHRAF",
       "rollNo": "23187920",
       "group": "COMMERCE",
       "totalMarks": 927,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "FATHIMATH RAIBA",
       "rollNo": "23187919",
       "group": "COMMERCE",
       "totalMarks": 883,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "SAFA P Y",
       "rollNo": "23187915",
       "group": "COMMERCE",
       "totalMarks": 835,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "ZAMRAH MARIYAM P S",
       "rollNo": "23187918",
       "group": "COMMERCE",
       "totalMarks": 764,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "MINSA FARHATH P.A",
       "rollNo": "23187914",
       "group": "COMMERCE",
       "totalMarks": 747,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "ABINAYA K DHEER",
       "rollNo": "23187908",
       "group": "SCIENCE",
       "totalMarks": 606,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "SHIFANA P N",
       "rollNo": "23187917",
       "group": "COMMERCE",
       "totalMarks": 326,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 10,
+  "totalFailure": 3
 }

@@ -583,91 +583,106 @@
       "rollNo": "23152789",
       "group": "COMMERCE",
       "totalMarks": 925,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "JOMSON JOSE",
       "rollNo": "23152779",
       "group": "COMMERCE",
       "totalMarks": 896,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "MUHAMMED SHEHIN P.S",
       "rollNo": "23152783",
       "group": "COMMERCE",
       "totalMarks": 840,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "ABEENA P H",
       "rollNo": "23152787",
       "group": "COMMERCE",
       "totalMarks": 691,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "NOYAL MARTIN",
       "rollNo": "23152786",
       "group": "COMMERCE",
       "totalMarks": 679,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "MOHMMED AFLAH K.M",
       "rollNo": "23152780",
       "group": "COMMERCE",
       "totalMarks": 652,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "BIBIN GEORGE JACOB",
       "rollNo": "23152777",
       "group": "COMMERCE",
       "totalMarks": 578,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "MUHAMMED FAYIS P U",
       "rollNo": "23152781",
       "group": "COMMERCE",
       "totalMarks": 556,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "MUHAMMED YASIN",
       "rollNo": "23152784",
       "group": "COMMERCE",
       "totalMarks": 483,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "IRFAN K I",
       "rollNo": "23152778",
       "group": "COMMERCE",
       "totalMarks": 475,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "BAYAN.T.U",
       "rollNo": "23152776",
       "group": "COMMERCE",
       "totalMarks": 404,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "NAHBIN K S",
       "rollNo": "23152785",
       "group": "COMMERCE",
       "totalMarks": 393,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "ANAND N S",
       "rollNo": "23152775",
       "group": "COMMERCE",
       "totalMarks": 346,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 5,
+  "totalFailure": 8
 }

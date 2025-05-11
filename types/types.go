@@ -60,6 +60,8 @@ type SchoolResult struct {
 	FullApStudents       []string   `json:"fullApStudents"`
 	FullMarkStudents     []string   `json:"fullMarkStudents"`
 	RankList             []RankList `json:"rankList"`
+	TotalPass            int        `json:"totalPass"`
+	TotalFailure         int        `json:"totalFailure"`
 }
 
 type RankList struct {
@@ -93,16 +95,16 @@ type TemplateMappedSchoolResult struct {
 }
 
 type TemplateMappedSchoolResultData struct {
-	SchoolResult           string  `json:"schoolResult"`
-	Name                   string  `json:"name"`
-	SchoolCode             string  `json:"schoolCode"`
-	MainRoute              string  `json:"mainRoute"`
-	District               string  `json:"district"`
-	PhoneNo                string  `json:"phoneNo"`
-	TotalStudentsAppeared  int     `json:"totalStudentsAppeared"`
-	TotalStudentsPassed    int     `json:"totalStudentsPassed"`
-	TotalStudentsFailed    int     `json:"totalStudentsFailed"`
-	TotalStudentsFullAp    int     `json:"totalStudentsFullAp"`
-	TotalStudentsFullMarks int     `json:"totalStudentsFullMarks"`
-	PassPercentage         float64 `json:"passPercentage"`
+	SchoolResult          string `json:"schoolResult"`
+	SchoolName            string `json:"schoolName"`
+	SchoolCode            string `json:"schoolCode"`
+	MainRoute             string `json:"mainRoute"`
+	District              string `json:"district"`
+	PhoneNo               string `json:"phoneNo"`
+	TotalStudentsAppeared int    `json:"totalStudentsAppeared"`
+	TotalStudentsPassed   int    `json:"totalStudentsPassed"`
+	TotalStudentsFailed   int    `json:"totalStudentsFailed"`
+	TotalFullAPlus        int    `json:"totalFullAPlus"`
+	TotalFullMarks        int    `json:"totalFullMarks"`
+	PassPercentage        int    `json:"passPercentage"`
 }

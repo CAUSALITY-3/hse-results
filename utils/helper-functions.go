@@ -112,18 +112,20 @@ func Includes[T any](slice []T, condition func(T) bool) bool {
 
 func ReadFile[T any](fileName string) (*T, error) {
 	jsonFile, err := os.Open(fileName)
-	fmt.Println("Successfully Opened ", fileName)
 	if err != nil {
-		log.Fatal(err)
-		jsonFile.Close()
+		log.Printf("Error opening file %s: %v", fileName, err)
 		return nil, err
 	}
-	defer jsonFile.Close()
+	defer func() {
+		if cerr := jsonFile.Close(); cerr != nil {
+			log.Printf("Error closing file %s: %v", fileName, cerr)
+		}
+	}()
 
 	// Read the JSON file content into a byte array
 	byteValue, err := io.ReadAll(jsonFile)
 	if err != nil {
-		log.Fatal(err)
+		log.Printf("Error reading file %s: %v", fileName, err)
 		return nil, err
 	}
 
@@ -131,9 +133,12 @@ func ReadFile[T any](fileName string) (*T, error) {
 	var typeData T
 
 	// Decode the JSON data into the variable
-	json.Unmarshal(byteValue, &typeData)
-	return &typeData, nil
+	if err := json.Unmarshal(byteValue, &typeData); err != nil {
+		log.Printf("Error unmarshalling JSON from file %s: %v", fileName, err)
+		return nil, err
+	}
 
+	return &typeData, nil
 }
 
 type Visitor struct {

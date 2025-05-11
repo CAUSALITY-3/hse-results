@@ -798,126 +798,146 @@
       "rollNo": "23125073",
       "group": "COMMERCE",
       "totalMarks": 1097,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "MANOJ R.",
       "rollNo": "23125066",
       "group": "COMMERCE",
       "totalMarks": 993,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "B PRADEEP",
       "rollNo": "23125057",
       "group": "COMMERCE",
       "totalMarks": 903,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "MADESH K",
       "rollNo": "23125065",
       "group": "COMMERCE",
       "totalMarks": 861,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "SHABIN M.",
       "rollNo": "23125072",
       "group": "COMMERCE",
       "totalMarks": 860,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "PRAJAN M",
       "rollNo": "23125067",
       "group": "COMMERCE",
       "totalMarks": 856,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "BENNY D",
       "rollNo": "23125058",
       "group": "COMMERCE",
       "totalMarks": 845,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "SAM M",
       "rollNo": "23125071",
       "group": "COMMERCE",
       "totalMarks": 809,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "RANJANKUMAR R",
       "rollNo": "23125070",
       "group": "COMMERCE",
       "totalMarks": 754,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "KARTHIKRAJA R",
       "rollNo": "23125062",
       "group": "COMMERCE",
       "totalMarks": 722,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "ALBIN V",
       "rollNo": "23125056",
       "group": "COMMERCE",
       "totalMarks": 713,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "KIRANKANTH.C",
       "rollNo": "23125064",
       "group": "COMMERCE",
       "totalMarks": 708,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "VIGNESH S",
       "rollNo": "23125074",
       "group": "COMMERCE",
       "totalMarks": 707,
-      "rank": 13
+      "rank": 13,
+      "pass": true
     },
     {
       "name": "R.SUBIN",
       "rollNo": "23125069",
       "group": "COMMERCE",
       "totalMarks": 698,
-      "rank": 14
+      "rank": 14,
+      "pass": true
     },
     {
       "name": "K KARTHIK",
       "rollNo": "23125060",
       "group": "COMMERCE",
       "totalMarks": 636,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "JASMINE G",
       "rollNo": "23125075",
       "group": "COMMERCE",
       "totalMarks": 634,
-      "rank": 16
+      "rank": 16,
+      "pass": true
     },
     {
       "name": "KAVILAN.K",
       "rollNo": "23125063",
       "group": "COMMERCE",
       "totalMarks": 630,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "THANGESWARY K",
       "rollNo": "23125076",
       "group": "COMMERCE",
       "totalMarks": 600,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 13,
+  "totalFailure": 5
 }

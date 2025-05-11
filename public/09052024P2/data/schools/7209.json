@@ -1187,189 +1187,218 @@
       "rollNo": "23160496",
       "group": "SCIENCE",
       "totalMarks": 1147,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "NAKSHATHRA BIJU",
       "rollNo": "23160497",
       "group": "SCIENCE",
       "totalMarks": 1009,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "ANANTHA KRISHNAN",
       "rollNo": "23160509",
       "group": "COMMERCE",
       "totalMarks": 1000,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "LOYD BIJU KURUVILA",
       "rollNo": "23160491",
       "group": "SCIENCE",
       "totalMarks": 969,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "GOURIKRISHNA K S",
       "rollNo": "23160495",
       "group": "SCIENCE",
       "totalMarks": 949,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "ASWIN PRASAD",
       "rollNo": "23160510",
       "group": "COMMERCE",
       "totalMarks": 917,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "ADITHYAN SIJU",
       "rollNo": "23160508",
       "group": "COMMERCE",
       "totalMarks": 855,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "ANDRIYA SUSSAN BIJU",
       "rollNo": "23160492",
       "group": "SCIENCE",
       "totalMarks": 840,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "MANYA MADHU",
       "rollNo": "23160507",
       "group": "COMMERCE",
       "totalMarks": 788,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "BINS JOSE",
       "rollNo": "23160490",
       "group": "SCIENCE",
       "totalMarks": 773,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "ABIJITH BIJU",
       "rollNo": "23160498",
       "group": "COMMERCE",
       "totalMarks": 764,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "ANJANA BIJU",
       "rollNo": "23160493",
       "group": "SCIENCE",
       "totalMarks": 761,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "ALEENA RAJESH",
       "rollNo": "23160487",
       "group": "SCIENCE",
       "totalMarks": 709,
-      "rank": 13
+      "rank": 13,
+      "pass": true
     },
     {
       "name": "ELDHO JOSHI",
       "rollNo": "23160503",
       "group": "COMMERCE",
       "totalMarks": 706,
-      "rank": 14
+      "rank": 14,
+      "pass": true
     },
     {
       "name": "ELBY JOHNY",
       "rollNo": "23160502",
       "group": "COMMERCE",
       "totalMarks": 703,
-      "rank": 15
+      "rank": 15,
+      "pass": true
     },
     {
       "name": "ASHNA N SHIJU",
       "rollNo": "23160494",
       "group": "SCIENCE",
       "totalMarks": 678,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "ALENCIA SUNNY",
       "rollNo": "23160512",
       "group": "COMMERCE",
       "totalMarks": 674,
-      "rank": 17
+      "rank": 17,
+      "pass": true
     },
     {
       "name": "MUHAMMAD ASHIQ K S",
       "rollNo": "23160504",
       "group": "COMMERCE",
       "totalMarks": 671,
-      "rank": 18
+      "rank": 18,
+      "pass": true
     },
     {
       "name": "NIVED RAJESH",
       "rollNo": "23160505",
       "group": "COMMERCE",
       "totalMarks": 666,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "SACHU LALICHAN",
       "rollNo": "23160511",
       "group": "COMMERCE",
       "totalMarks": 632,
-      "rank": 20
+      "rank": 20,
+      "pass": true
     },
     {
       "name": "ASWIN REGHU",
       "rollNo": "23160501",
       "group": "COMMERCE",
       "totalMarks": 597,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     },
     {
       "name": "ADITHYAN P S",
       "rollNo": "23160499",
       "group": "COMMERCE",
       "totalMarks": 584,
-      "rank": 22
+      "rank": 22,
+      "pass": true
     },
     {
       "name": "ARAVIND K.R",
       "rollNo": "23160500",
       "group": "COMMERCE",
       "totalMarks": 566,
-      "rank": 23
+      "rank": 23,
+      "pass": false
     },
     {
       "name": "TOMY SHAJI",
       "rollNo": "23160506",
       "group": "COMMERCE",
       "totalMarks": 473,
-      "rank": 24
+      "rank": 24,
+      "pass": false
     },
     {
       "name": "AJMAL ASHRAF",
       "rollNo": "23501382",
       "group": "COMMERCE",
       "totalMarks": 109,
-      "rank": 25
+      "rank": 25,
+      "pass": true
     },
     {
       "name": "ANANDHU KRISHNA",
       "rollNo": "23501383",
       "group": "COMMERCE",
       "totalMarks": 105,
-      "rank": 26
+      "rank": 26,
+      "pass": false
     },
     {
       "name": "HARI PRESANNAN",
       "rollNo": "23501384",
       "group": "COMMERCE",
       "totalMarks": 81,
-      "rank": 27
+      "rank": 27,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 19,
+  "totalFailure": 8
 }

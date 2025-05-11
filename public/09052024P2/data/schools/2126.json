@@ -1142,182 +1142,210 @@
       "rollNo": "23060302",
       "group": "HUMANITIES",
       "totalMarks": 747,
-      "rank": 1
+      "rank": 1,
+      "pass": false
     },
     {
       "name": "SALMAN UL FARIZI . A",
       "rollNo": "23060314",
       "group": "HUMANITIES",
       "totalMarks": 743,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "MUHSINA M.",
       "rollNo": "23060320",
       "group": "HUMANITIES",
       "totalMarks": 729,
-      "rank": 3
+      "rank": 3,
+      "pass": false
     },
     {
       "name": "MUHAMMED ANAS. H",
       "rollNo": "23060306",
       "group": "HUMANITIES",
       "totalMarks": 721,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "NAISHANA N.",
       "rollNo": "23060321",
       "group": "HUMANITIES",
       "totalMarks": 706,
-      "rank": 5
+      "rank": 5,
+      "pass": false
     },
     {
       "name": "MUHAMMED AFZAL.N",
       "rollNo": "23060305",
       "group": "HUMANITIES",
       "totalMarks": 683,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "SHABANA K.",
       "rollNo": "23060322",
       "group": "HUMANITIES",
       "totalMarks": 667,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "ALTHAF S",
       "rollNo": "23060299",
       "group": "HUMANITIES",
       "totalMarks": 629,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "ASIF. B",
       "rollNo": "23060301",
       "group": "HUMANITIES",
       "totalMarks": 597,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "ALTHAF N",
       "rollNo": "23060298",
       "group": "HUMANITIES",
       "totalMarks": 592,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "MUHAMMED SHAFI A.",
       "rollNo": "23060311",
       "group": "HUMANITIES",
       "totalMarks": 588,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "MUHAMMED ASLAM N",
       "rollNo": "23060307",
       "group": "HUMANITIES",
       "totalMarks": 520,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "MUHAMMED SAALIM A",
       "rollNo": "23060310",
       "group": "HUMANITIES",
       "totalMarks": 516,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "MUHAMMED FOUZAN N.",
       "rollNo": "23060309",
       "group": "HUMANITIES",
       "totalMarks": 495,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "SHEHINSHA S.",
       "rollNo": "23060315",
       "group": "HUMANITIES",
       "totalMarks": 485,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "SINAN SALIM",
       "rollNo": "23060319",
       "group": "HUMANITIES",
       "totalMarks": 479,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "SHINAS M",
       "rollNo": "23060317",
       "group": "HUMANITIES",
       "totalMarks": 457,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "MAHEEN A",
       "rollNo": "23060304",
       "group": "HUMANITIES",
       "totalMarks": 435,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     },
     {
       "name": "SHINAS I.",
       "rollNo": "23060316",
       "group": "HUMANITIES",
       "totalMarks": 433,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "SHINAS S.",
       "rollNo": "23060318",
       "group": "HUMANITIES",
       "totalMarks": 431,
-      "rank": 20
+      "rank": 20,
+      "pass": false
     },
     {
       "name": "MUHAMMED BILAL N",
       "rollNo": "23060308",
       "group": "HUMANITIES",
       "totalMarks": 425,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     },
     {
       "name": "ANAND S.",
       "rollNo": "23060300",
       "group": "HUMANITIES",
       "totalMarks": 421,
-      "rank": 22
+      "rank": 22,
+      "pass": false
     },
     {
       "name": "RAMEES .N",
       "rollNo": "23060313",
       "group": "HUMANITIES",
       "totalMarks": 399,
-      "rank": 23
+      "rank": 23,
+      "pass": false
     },
     {
       "name": "MUHAMMED SHAFI.M",
       "rollNo": "23060312",
       "group": "HUMANITIES",
       "totalMarks": 393,
-      "rank": 24
+      "rank": 24,
+      "pass": false
     },
     {
       "name": "MARSELIN ISAC VAIDYAN",
       "rollNo": "23500669",
       "group": "SCIENCE",
       "totalMarks": 349,
-      "rank": 25
+      "rank": 25,
+      "pass": false
     },
     {
       "name": "RASHID .R",
       "rollNo": "23500670",
       "group": "HUMANITIES",
       "totalMarks": 77,
-      "rank": 26
+      "rank": 26,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 5,
+  "totalFailure": 21
 }

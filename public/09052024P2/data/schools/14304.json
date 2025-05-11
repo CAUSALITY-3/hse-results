@@ -1058,161 +1058,186 @@
       "rollNo": "23421952",
       "group": "COMMERCE",
       "totalMarks": 1168,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "AYSHA NUHA",
       "rollNo": "23421953",
       "group": "COMMERCE",
       "totalMarks": 1043,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "FATHIMATH AHSHANA",
       "rollNo": "23421958",
       "group": "COMMERCE",
       "totalMarks": 1022,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "ZAINABA RASHEEDA. K",
       "rollNo": "23421968",
       "group": "COMMERCE",
       "totalMarks": 917,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "MAHAMOOD FARHAN",
       "rollNo": "23421946",
       "group": "COMMERCE",
       "totalMarks": 802,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "ASREEFA UMMER",
       "rollNo": "23421951",
       "group": "COMMERCE",
       "totalMarks": 791,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "MUZAMMIL NIZAH",
       "rollNo": "23421948",
       "group": "COMMERCE",
       "totalMarks": 779,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "SAYYID AHAMMED SAYEED",
       "rollNo": "23421949",
       "group": "COMMERCE",
       "totalMarks": 774,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "FATHIMATH NASAIBA",
       "rollNo": "23421961",
       "group": "COMMERCE",
       "totalMarks": 762,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "AYSHATH RAZEENA A P",
       "rollNo": "23421955",
       "group": "COMMERCE",
       "totalMarks": 759,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "MUSKAN FATHIMA",
       "rollNo": "23421966",
       "group": "COMMERCE",
       "totalMarks": 756,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "AZEEFA UMMER",
       "rollNo": "23421956",
       "group": "COMMERCE",
       "totalMarks": 730,
-      "rank": 12
+      "rank": 12,
+      "pass": true
     },
     {
       "name": "MOHAMMED IRSHAD",
       "rollNo": "23421947",
       "group": "COMMERCE",
       "totalMarks": 720,
-      "rank": 13
+      "rank": 13,
+      "pass": true
     },
     {
       "name": "FATHIMATH MUMTHAZ K A",
       "rollNo": "23421960",
       "group": "COMMERCE",
       "totalMarks": 693,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "KHALANDAR SHAMA",
       "rollNo": "23421965",
       "group": "COMMERCE",
       "totalMarks": 688,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "SAYYID MUHAMMED FUAD SHIHAB. P.M",
       "rollNo": "23421950",
       "group": "COMMERCE",
       "totalMarks": 684,
-      "rank": 16
+      "rank": 16,
+      "pass": true
     },
     {
       "name": "JASMIN.S",
       "rollNo": "23421964",
       "group": "COMMERCE",
       "totalMarks": 680,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "FATHIMATH AZMEENA",
       "rollNo": "23421959",
       "group": "COMMERCE",
       "totalMarks": 678,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     },
     {
       "name": "D FATHIMA THOUFIRA",
       "rollNo": "23421957",
       "group": "COMMERCE",
       "totalMarks": 667,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "AYSHATH FARHATH",
       "rollNo": "23421954",
       "group": "COMMERCE",
       "totalMarks": 645,
-      "rank": 20
+      "rank": 20,
+      "pass": false
     },
     {
       "name": "JAINAB",
       "rollNo": "23421963",
       "group": "COMMERCE",
       "totalMarks": 584,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     },
     {
       "name": "NAELA",
       "rollNo": "23421967",
       "group": "COMMERCE",
       "totalMarks": 526,
-      "rank": 22
+      "rank": 22,
+      "pass": false
     },
     {
       "name": "FATHIMATH SAHALABI",
       "rollNo": "23421962",
       "group": "COMMERCE",
       "totalMarks": 0,
-      "rank": 23
+      "rank": 23,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 14,
+  "totalFailure": 9
 }

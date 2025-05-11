@@ -62,7 +62,7 @@ func SetupRouter() {
 		rollNo := c.Params("rollno")
 		log.Println(resultType, rollNo)
 
-		err := services.GetStudentResults(c, resultType, "23000613")
+		err := services.GetStudentResults(c, resultType, "23274662")
 		if err != nil {
 			log.Println("Error executing template:", err)
 			return c.Status(500).SendString("Error rendering template")
@@ -98,6 +98,16 @@ func SetupRouter() {
 
 	app.Use(func(c *fiber.Ctx) error {
 		return c.Redirect("/", 302) // 302 Found (Temporary Redirect)
+	})
+
+	app.Use(func(c *fiber.Ctx) error {
+		defer func() {
+			if r := recover(); r != nil {
+				log.Printf("Recovered from panic: %v", r)
+				c.Status(500).SendString("Internal Server Error")
+			}
+		}()
+		return c.Next()
 	})
 
 	log.Fatal(app.Listen(":3000"))

@@ -1185,147 +1185,170 @@
       "rollNo": "23071744",
       "group": "HUMANITIES",
       "totalMarks": 1041,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "ASWIN N G",
       "rollNo": "23071737",
       "group": "HUMANITIES",
       "totalMarks": 886,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "AKHILA JAMES",
       "rollNo": "23071743",
       "group": "HUMANITIES",
       "totalMarks": 829,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "ARYA REGHU P R",
       "rollNo": "23071747",
       "group": "COMMERCE",
       "totalMarks": 815,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "SREELAKSHMI S",
       "rollNo": "23071741",
       "group": "HUMANITIES",
       "totalMarks": 758,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "RENJANA KRISHNA RAJ",
       "rollNo": "23071750",
       "group": "COMMERCE",
       "totalMarks": 727,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "KARTHIKA KANNAN",
       "rollNo": "23071749",
       "group": "COMMERCE",
       "totalMarks": 717,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "DEVIKA SAJI",
       "rollNo": "23071748",
       "group": "COMMERCE",
       "totalMarks": 659,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "ALBI MATHEW",
       "rollNo": "23071736",
       "group": "HUMANITIES",
       "totalMarks": 618,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "ADARSH S",
       "rollNo": "23071734",
       "group": "HUMANITIES",
       "totalMarks": 615,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "VINAYA OMANAKUTTAN",
       "rollNo": "23071752",
       "group": "COMMERCE",
       "totalMarks": 583,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "JOSINMON E J",
       "rollNo": "23071746",
       "group": "COMMERCE",
       "totalMarks": 581,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "AKASH P K",
       "rollNo": "23071735",
       "group": "HUMANITIES",
       "totalMarks": 563,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "RENJITH.A.R",
       "rollNo": "23071738",
       "group": "HUMANITIES",
       "totalMarks": 538,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "ANAKHA SIVAKUMAR",
       "rollNo": "23071740",
       "group": "HUMANITIES",
       "totalMarks": 531,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "BLESSON BINOY",
       "rollNo": "23071742",
       "group": "HUMANITIES",
       "totalMarks": 490,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "RIYA BIJU",
       "rollNo": "23071751",
       "group": "COMMERCE",
       "totalMarks": 482,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "VISHNU NARAYANAN",
       "rollNo": "23071754",
       "group": "COMMERCE",
       "totalMarks": 477,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     },
     {
       "name": "ATHITHYAN O A",
       "rollNo": "23071753",
       "group": "COMMERCE",
       "totalMarks": 472,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "AMAL RAJ R",
       "rollNo": "23071745",
       "group": "COMMERCE",
       "totalMarks": 444,
-      "rank": 20
+      "rank": 20,
+      "pass": false
     },
     {
       "name": "SAJO SANTHOSH",
       "rollNo": "23071739",
       "group": "HUMANITIES",
       "totalMarks": 405,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 9,
+  "totalFailure": 12
 }

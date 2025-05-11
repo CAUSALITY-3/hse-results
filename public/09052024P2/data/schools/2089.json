@@ -626,98 +626,114 @@
       "rollNo": "23056488",
       "group": "SCIENCE",
       "totalMarks": 1084,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "ANDREENA ANNU ANIL",
       "rollNo": "23056487",
       "group": "SCIENCE",
       "totalMarks": 842,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "ROSHIK.S",
       "rollNo": "23056484",
       "group": "SCIENCE",
       "totalMarks": 841,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "JUAN SAJI",
       "rollNo": "23056483",
       "group": "SCIENCE",
       "totalMarks": 837,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "JOSNA THOMAS",
       "rollNo": "23056489",
       "group": "SCIENCE",
       "totalMarks": 833,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "SHARON VARGHESE",
       "rollNo": "23056477",
       "group": "SCIENCE",
       "totalMarks": 810,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "SHARON S",
       "rollNo": "23056485",
       "group": "SCIENCE",
       "totalMarks": 798,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "JIBIN SAJI",
       "rollNo": "23056482",
       "group": "SCIENCE",
       "totalMarks": 790,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "ALWIN C ALEX",
       "rollNo": "23056476",
       "group": "SCIENCE",
       "totalMarks": 777,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "LEKSHMI.J.S",
       "rollNo": "23056490",
       "group": "SCIENCE",
       "totalMarks": 774,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "JASMI SAMUEL",
       "rollNo": "23056479",
       "group": "SCIENCE",
       "totalMarks": 713,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "ALEXES C SUNIL",
       "rollNo": "23056480",
       "group": "SCIENCE",
       "totalMarks": 692,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "THOMAS C MATHEW",
       "rollNo": "23056486",
       "group": "SCIENCE",
       "totalMarks": 670,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "AMAL DEV S P",
       "rollNo": "23056481",
       "group": "SCIENCE",
       "totalMarks": 664,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 9,
+  "totalFailure": 5
 }

@@ -1488,126 +1488,146 @@
       "rollNo": "23389861",
       "group": "COMMERCE",
       "totalMarks": 1121,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "MUHAMMED RAZI",
       "rollNo": "23425312",
       "group": "COMMERCE",
       "totalMarks": 908,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "MUHAMMED SAFVAN T P",
       "rollNo": "23425308",
       "group": "COMMERCE",
       "totalMarks": 896,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "MUHAMMAD NIYAS P P",
       "rollNo": "23425311",
       "group": "COMMERCE",
       "totalMarks": 790,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "ANEES K P",
       "rollNo": "23425310",
       "group": "COMMERCE",
       "totalMarks": 780,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "SHAMMAS A P",
       "rollNo": "23389867",
       "group": "COMMERCE",
       "totalMarks": 741,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "FYMA K V",
       "rollNo": "23389869",
       "group": "COMMERCE",
       "totalMarks": 729,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "MOHAMMED WAZEEM",
       "rollNo": "23600030",
       "group": "COMMERCE",
       "totalMarks": 706,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "HISHAM S",
       "rollNo": "23389863",
       "group": "COMMERCE",
       "totalMarks": 683,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "MUHAMMED SAHAL O",
       "rollNo": "23425313",
       "group": "COMMERCE",
       "totalMarks": 661,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "MUHAMMED UNAIS",
       "rollNo": "23425309",
       "group": "COMMERCE",
       "totalMarks": 627,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "AL AMEEN P C",
       "rollNo": "23389862",
       "group": "COMMERCE",
       "totalMarks": 603,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "MUHAMAD SHAMMAS K P",
       "rollNo": "23425307",
       "group": "COMMERCE",
       "totalMarks": 588,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "MUHAMMED MAZIN C K T",
       "rollNo": "23389866",
       "group": "COMMERCE",
       "totalMarks": 588,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "MUHAMMED SHAMIL",
       "rollNo": "23425314",
       "group": "COMMERCE",
       "totalMarks": 575,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "MUHAMMED C",
       "rollNo": "23389865",
       "group": "COMMERCE",
       "totalMarks": 545,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "MOHAMMED IQBAL B S",
       "rollNo": "23389860",
       "group": "COMMERCE",
       "totalMarks": 496,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "MUHAMMED SAJNAS B",
       "rollNo": "23503369",
       "group": "COMMERCE",
       "totalMarks": 58,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 9,
+  "totalFailure": 9
 }

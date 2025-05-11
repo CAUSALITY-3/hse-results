@@ -540,42 +540,50 @@
       "rollNo": "23056546",
       "group": "SCIENCE",
       "totalMarks": 737,
-      "rank": 1
+      "rank": 1,
+      "pass": false
     },
     {
       "name": "JEROME JOHNSON",
       "rollNo": "23056549",
       "group": "SCIENCE",
       "totalMarks": 720,
-      "rank": 2
+      "rank": 2,
+      "pass": false
     },
     {
       "name": "SIVA PRASAD",
       "rollNo": "23056544",
       "group": "SCIENCE",
       "totalMarks": 697,
-      "rank": 3
+      "rank": 3,
+      "pass": false
     },
     {
       "name": "RAHUL R S",
       "rollNo": "23056550",
       "group": "SCIENCE",
       "totalMarks": 657,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "MEGHA S RAJAN",
       "rollNo": "23056545",
       "group": "SCIENCE",
       "totalMarks": 651,
-      "rank": 5
+      "rank": 5,
+      "pass": false
     },
     {
       "name": "AQUIN P RAJAN",
       "rollNo": "23056542",
       "group": "SCIENCE",
       "totalMarks": 596,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 0,
+  "totalFailure": 6
 }

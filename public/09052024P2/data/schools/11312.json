@@ -411,63 +411,74 @@
       "rollNo": "23358025",
       "group": "SCIENCE",
       "totalMarks": 946,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "MOHAMMED SHANIL K K",
       "rollNo": "23358026",
       "group": "SCIENCE",
       "totalMarks": 937,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "MUHAMMED ASLAM .M",
       "rollNo": "23358028",
       "group": "SCIENCE",
       "totalMarks": 899,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "SIVANANDHANA.M.K",
       "rollNo": "23358032",
       "group": "SCIENCE",
       "totalMarks": 895,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "SREEKUTTAN T.R",
       "rollNo": "23358030",
       "group": "SCIENCE",
       "totalMarks": 885,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "MUHAMMAD SHIBIL T",
       "rollNo": "23358027",
       "group": "SCIENCE",
       "totalMarks": 883,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "VINAYAN T.P",
       "rollNo": "23358031",
       "group": "SCIENCE",
       "totalMarks": 853,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "MUHAMMED FAVAS. E",
       "rollNo": "23358029",
       "group": "SCIENCE",
       "totalMarks": 798,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "VRINDA",
       "rollNo": "23358033",
       "group": "SCIENCE",
       "totalMarks": 791,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     }
-  ]
+  ],
+  "totalPass": 9,
+  "totalFailure": 0
 }

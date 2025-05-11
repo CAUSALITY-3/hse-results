@@ -1017,161 +1017,186 @@
       "rollNo": "23422556",
       "group": "SCIENCE",
       "totalMarks": 1165,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "SHERBIN SHIHAB",
       "rollNo": "23422565",
       "group": "COMMERCE",
       "totalMarks": 1155,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "MARIYAM YOONUS",
       "rollNo": "23422554",
       "group": "SCIENCE",
       "totalMarks": 1147,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "MEHRIN ABDUL KARIM",
       "rollNo": "23422561",
       "group": "SCIENCE",
       "totalMarks": 1135,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "JABIR SHAMNAVAS",
       "rollNo": "23422564",
       "group": "COMMERCE",
       "totalMarks": 1054,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "ALEENA ZAINAB C K",
       "rollNo": "23422553",
       "group": "SCIENCE",
       "totalMarks": 1001,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "AMAN ASHKAR",
       "rollNo": "23422563",
       "group": "COMMERCE",
       "totalMarks": 996,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "BASSIRA YOUSAF KHAN",
       "rollNo": "23422559",
       "group": "SCIENCE",
       "totalMarks": 960,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "HAMDA MUSTHAFA",
       "rollNo": "23422574",
       "group": "COMMERCE",
       "totalMarks": 943,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "NAJMA ABDUL KAREEM",
       "rollNo": "23422562",
       "group": "SCIENCE",
       "totalMarks": 936,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "FAYAS MOHAMMED RAFI",
       "rollNo": "23422570",
       "group": "COMMERCE",
       "totalMarks": 885,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "ADILA SHAMSHER KHAN",
       "rollNo": "23422573",
       "group": "COMMERCE",
       "totalMarks": 880,
-      "rank": 12
+      "rank": 12,
+      "pass": true
     },
     {
       "name": "NAJAH FATHIMA KANNAN PARAMBATH",
       "rollNo": "23422555",
       "group": "SCIENCE",
       "totalMarks": 877,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "BASEL AHMED",
       "rollNo": "23422569",
       "group": "COMMERCE",
       "totalMarks": 868,
-      "rank": 14
+      "rank": 14,
+      "pass": true
     },
     {
       "name": "MAHMOOD",
       "rollNo": "23422572",
       "group": "COMMERCE",
       "totalMarks": 865,
-      "rank": 15
+      "rank": 15,
+      "pass": true
     },
     {
       "name": "BIBI ASYA ZAMIN GUL",
       "rollNo": "23422560",
       "group": "SCIENCE",
       "totalMarks": 841,
-      "rank": 16
+      "rank": 16,
+      "pass": true
     },
     {
       "name": "SAFA ABDUL WAHEED",
       "rollNo": "23422575",
       "group": "COMMERCE",
       "totalMarks": 828,
-      "rank": 17
+      "rank": 17,
+      "pass": true
     },
     {
       "name": "SYED ATIQ UR REHMAN",
       "rollNo": "23422568",
       "group": "COMMERCE",
       "totalMarks": 825,
-      "rank": 18
+      "rank": 18,
+      "pass": true
     },
     {
       "name": "SAEED WALI SHAH CHUN MOHAMMAD",
       "rollNo": "23422558",
       "group": "SCIENCE",
       "totalMarks": 808,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "SHIVNATH KOLLAMPARAMBIL SHAIN",
       "rollNo": "23422566",
       "group": "COMMERCE",
       "totalMarks": 789,
-      "rank": 20
+      "rank": 20,
+      "pass": true
     },
     {
       "name": "MOHAMMED SAIF HUSSAIN",
       "rollNo": "23422557",
       "group": "SCIENCE",
       "totalMarks": 773,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     },
     {
       "name": "KHALED RIDA MOHAMAD AL BLOUSHI",
       "rollNo": "23422571",
       "group": "COMMERCE",
       "totalMarks": 745,
-      "rank": 22
+      "rank": 22,
+      "pass": true
     },
     {
       "name": "MOHAMED AJMAL",
       "rollNo": "23422567",
       "group": "COMMERCE",
       "totalMarks": 515,
-      "rank": 23
+      "rank": 23,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 19,
+  "totalFailure": 4
 }

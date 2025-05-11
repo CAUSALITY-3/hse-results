@@ -712,112 +712,130 @@
       "rollNo": "23368794",
       "group": "HUMANITIES",
       "totalMarks": 862,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "SUBINA SUNIL",
       "rollNo": "23368799",
       "group": "HUMANITIES",
       "totalMarks": 833,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "SNEHA SANTHOSH C",
       "rollNo": "23368798",
       "group": "HUMANITIES",
       "totalMarks": 807,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "ALAN T JOSHY",
       "rollNo": "23368786",
       "group": "HUMANITIES",
       "totalMarks": 806,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "LIBIN K T",
       "rollNo": "23368791",
       "group": "HUMANITIES",
       "totalMarks": 804,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "ABDUL ANSHAD",
       "rollNo": "23368784",
       "group": "HUMANITIES",
       "totalMarks": 773,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "AYANA C VINOD",
       "rollNo": "23368797",
       "group": "HUMANITIES",
       "totalMarks": 721,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "JISHNU C R",
       "rollNo": "23368790",
       "group": "HUMANITIES",
       "totalMarks": 699,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "SREERAG M K",
       "rollNo": "23368793",
       "group": "HUMANITIES",
       "totalMarks": 659,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "ATHUL JOSE",
       "rollNo": "23368788",
       "group": "HUMANITIES",
       "totalMarks": 586,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "ANJUSHA P",
       "rollNo": "23368795",
       "group": "HUMANITIES",
       "totalMarks": 578,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "ANURAG OM",
       "rollNo": "23368787",
       "group": "HUMANITIES",
       "totalMarks": 529,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "ABINAV P R",
       "rollNo": "23368785",
       "group": "HUMANITIES",
       "totalMarks": 522,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "RASMI P R",
       "rollNo": "23505579",
       "group": "HUMANITIES",
       "totalMarks": 181,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "VINEETHA. C",
       "rollNo": "23503269",
       "group": "HUMANITIES",
       "totalMarks": 84,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "MEGHAN K M",
       "rollNo": "23505578",
       "group": "HUMANITIES",
       "totalMarks": 52,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 9,
+  "totalFailure": 7
 }

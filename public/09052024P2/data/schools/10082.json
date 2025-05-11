@@ -454,70 +454,82 @@
       "rollNo": "23259371",
       "group": "SCIENCE",
       "totalMarks": 974,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "PRATHAM PHUKAN",
       "rollNo": "23259372",
       "group": "SCIENCE",
       "totalMarks": 972,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "ABDUL RAIF V",
       "rollNo": "23259379",
       "group": "COMMERCE",
       "totalMarks": 853,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "T RONIYA",
       "rollNo": "23259380",
       "group": "COMMERCE",
       "totalMarks": 820,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "YUG SUBEDI",
       "rollNo": "23259374",
       "group": "SCIENCE",
       "totalMarks": 781,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "GHAZI AKTHER",
       "rollNo": "23259370",
       "group": "SCIENCE",
       "totalMarks": 757,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     },
     {
       "name": "SABITH DILEEP",
       "rollNo": "23259373",
       "group": "SCIENCE",
       "totalMarks": 715,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "VISHNU A",
       "rollNo": "23259377",
       "group": "COMMERCE",
       "totalMarks": 696,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "UNNI K P",
       "rollNo": "23259376",
       "group": "COMMERCE",
       "totalMarks": 642,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "MOHAMMED . O",
       "rollNo": "23259375",
       "group": "COMMERCE",
       "totalMarks": 600,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 7,
+  "totalFailure": 3
 }

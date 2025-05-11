@@ -67,7 +67,10 @@
       "rollNo": "23500448",
       "group": "SCIENCE",
       "totalMarks": 202,
-      "rank": 1
+      "rank": 1,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 0,
+  "totalFailure": 1
 }

@@ -755,119 +755,138 @@
       "rollNo": "23234702",
       "group": "HUMANITIES",
       "totalMarks": 930,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "SANJAY C",
       "rollNo": "23234698",
       "group": "HUMANITIES",
       "totalMarks": 727,
-      "rank": 2
+      "rank": 2,
+      "pass": false
     },
     {
       "name": "HARIJITH H",
       "rollNo": "23234693",
       "group": "HUMANITIES",
       "totalMarks": 720,
-      "rank": 3
+      "rank": 3,
+      "pass": false
     },
     {
       "name": "AKASH .S",
       "rollNo": "23234690",
       "group": "HUMANITIES",
       "totalMarks": 696,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "SREE VISHNU S",
       "rollNo": "23234699",
       "group": "HUMANITIES",
       "totalMarks": 636,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "KIRANDAS S",
       "rollNo": "23234704",
       "group": "HUMANITIES",
       "totalMarks": 623,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "AFNA H",
       "rollNo": "23234705",
       "group": "HUMANITIES",
       "totalMarks": 620,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "MANU . M",
       "rollNo": "23234695",
       "group": "HUMANITIES",
       "totalMarks": 610,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "LOGESH S",
       "rollNo": "23234694",
       "group": "HUMANITIES",
       "totalMarks": 589,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "BIBIN . V",
       "rollNo": "23234703",
       "group": "HUMANITIES",
       "totalMarks": 586,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "CHALANJ S",
       "rollNo": "23234692",
       "group": "HUMANITIES",
       "totalMarks": 580,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "PRASAD .K",
       "rollNo": "23234696",
       "group": "HUMANITIES",
       "totalMarks": 575,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "ADITH . H",
       "rollNo": "23234689",
       "group": "HUMANITIES",
       "totalMarks": 559,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "KAVYA . S",
       "rollNo": "23234700",
       "group": "HUMANITIES",
       "totalMarks": 525,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "ALTHAF RAHMAN .S",
       "rollNo": "23234691",
       "group": "HUMANITIES",
       "totalMarks": 516,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "ROHITH KUMAR D",
       "rollNo": "23234697",
       "group": "HUMANITIES",
       "totalMarks": 437,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "SREELATHA S",
       "rollNo": "23234701",
       "group": "HUMANITIES",
       "totalMarks": 397,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 4,
+  "totalFailure": 13
 }

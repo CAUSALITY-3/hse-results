@@ -368,56 +368,66 @@
       "rollNo": "23183533",
       "group": "COMMERCE",
       "totalMarks": 736,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "MUHAMMED ZAQIB . V . A",
       "rollNo": "23183539",
       "group": "COMMERCE",
       "totalMarks": 697,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "MUHAMED AMAN",
       "rollNo": "23183537",
       "group": "COMMERCE",
       "totalMarks": 667,
-      "rank": 3
+      "rank": 3,
+      "pass": false
     },
     {
       "name": "HANNATH K I",
       "rollNo": "23183534",
       "group": "COMMERCE",
       "totalMarks": 576,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "MOHAMMED ANAS . K . A",
       "rollNo": "23183536",
       "group": "COMMERCE",
       "totalMarks": 576,
-      "rank": 4
+      "rank": 4,
+      "pass": false
     },
     {
       "name": "ABDUL HASEEB T H",
       "rollNo": "23183535",
       "group": "COMMERCE",
       "totalMarks": 544,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     },
     {
       "name": "MURRATH K M",
       "rollNo": "23183540",
       "group": "COMMERCE",
       "totalMarks": 530,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "MUHAMMED RISHAN . C . H",
       "rollNo": "23183538",
       "group": "COMMERCE",
       "totalMarks": 519,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 2,
+  "totalFailure": 6
 }

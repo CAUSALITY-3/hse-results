@@ -1,7 +1,7 @@
 {
   "schoolCode": "14036",
   "schoolName": "UDAYA HSS, UDAYA NAGAR, MANJESHWAR.P.O, KASARGODE, 671323",
-  "phoneNo": "9846919455",
+  "phoneNo": "9746367372",
   "emailId": "udayahss@gmail.com",
   "schoolType": "Un-Aided",
   "localBody": "ManjeswaramKasaragod",
@@ -798,119 +798,138 @@
       "rollNo": "23412139",
       "group": "COMMERCE",
       "totalMarks": 939,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "MOHAMMED FARHAN U K",
       "rollNo": "23412131",
       "group": "COMMERCE",
       "totalMarks": 862,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "AYESHA SHALEEN",
       "rollNo": "23412136",
       "group": "COMMERCE",
       "totalMarks": 817,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "AFRAN AHAMED",
       "rollNo": "23412130",
       "group": "COMMERCE",
       "totalMarks": 752,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "AYSHATH AZMINA",
       "rollNo": "23412141",
       "group": "COMMERCE",
       "totalMarks": 717,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "MOHAMMED SAFWAAZ KHAN",
       "rollNo": "23412133",
       "group": "COMMERCE",
       "totalMarks": 628,
-      "rank": 6
+      "rank": 6,
+      "pass": false
     },
     {
       "name": "AZMA BANU",
       "rollNo": "23412137",
       "group": "COMMERCE",
       "totalMarks": 608,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "ASIAMMA",
       "rollNo": "23412140",
       "group": "COMMERCE",
       "totalMarks": 600,
-      "rank": 8
+      "rank": 8,
+      "pass": false
     },
     {
       "name": "ABBAS IMRAN",
       "rollNo": "23412127",
       "group": "COMMERCE",
       "totalMarks": 596,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "KHATHIJAMMA",
       "rollNo": "23412142",
       "group": "COMMERCE",
       "totalMarks": 587,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "T A MUHAMMAD NAFIH",
       "rollNo": "23412135",
       "group": "COMMERCE",
       "totalMarks": 587,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "MOIDEEN ASHFAK",
       "rollNo": "23412134",
       "group": "COMMERCE",
       "totalMarks": 529,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "ABOOBACKER MABSHER",
       "rollNo": "23412129",
       "group": "COMMERCE",
       "totalMarks": 519,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "ABDUL MUZZAMIL",
       "rollNo": "23412128",
       "group": "COMMERCE",
       "totalMarks": 440,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "FATHIMATH SHIFA.A.K",
       "rollNo": "23412138",
       "group": "COMMERCE",
       "totalMarks": 420,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "MOHAMMED SABEEL HASSAN",
       "rollNo": "23412132",
       "group": "COMMERCE",
       "totalMarks": 381,
-      "rank": 16
+      "rank": 16,
+      "pass": false
     },
     {
       "name": "SAIMA",
       "rollNo": "23412143",
       "group": "COMMERCE",
       "totalMarks": 0,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 5,
+  "totalFailure": 12
 }

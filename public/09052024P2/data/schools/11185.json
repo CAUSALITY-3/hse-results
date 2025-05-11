@@ -1142,175 +1142,202 @@
       "rollNo": "23342786",
       "group": "HUMANITIES",
       "totalMarks": 1157,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "FATHIMATHU SWALIHA",
       "rollNo": "23342801",
       "group": "HUMANITIES",
       "totalMarks": 884,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "AJVAS MUHAMMED K",
       "rollNo": "23342779",
       "group": "HUMANITIES",
       "totalMarks": 775,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "RINSHA .O",
       "rollNo": "23342788",
       "group": "HUMANITIES",
       "totalMarks": 744,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "RAFANA K P",
       "rollNo": "23342802",
       "group": "HUMANITIES",
       "totalMarks": 740,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "SHAHID M",
       "rollNo": "23342798",
       "group": "HUMANITIES",
       "totalMarks": 707,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "SHAMNA BANU.T.K",
       "rollNo": "23342803",
       "group": "HUMANITIES",
       "totalMarks": 699,
-      "rank": 7
+      "rank": 7,
+      "pass": false
     },
     {
       "name": "FAHAD C P",
       "rollNo": "23342790",
       "group": "HUMANITIES",
       "totalMarks": 698,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "MUHAMMED JASIQ A P",
       "rollNo": "23342792",
       "group": "HUMANITIES",
       "totalMarks": 694,
-      "rank": 9
+      "rank": 9,
+      "pass": false
     },
     {
       "name": "FASALU RAHMAN P",
       "rollNo": "23342781",
       "group": "HUMANITIES",
       "totalMarks": 668,
-      "rank": 10
+      "rank": 10,
+      "pass": false
     },
     {
       "name": "MOHAMMED SABITH K P",
       "rollNo": "23342783",
       "group": "HUMANITIES",
       "totalMarks": 661,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "SARJAS.P",
       "rollNo": "23342796",
       "group": "HUMANITIES",
       "totalMarks": 658,
-      "rank": 12
+      "rank": 12,
+      "pass": false
     },
     {
       "name": "MOHAMMED SUFIYAN. M.",
       "rollNo": "23342791",
       "group": "HUMANITIES",
       "totalMarks": 649,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "SAYED ZAHIR AFDHAL V M",
       "rollNo": "23342797",
       "group": "HUMANITIES",
       "totalMarks": 637,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "ASKKAR ALI K",
       "rollNo": "23342780",
       "group": "HUMANITIES",
       "totalMarks": 627,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     },
     {
       "name": "FASALIYA SHARI A K",
       "rollNo": "23342787",
       "group": "HUMANITIES",
       "totalMarks": 620,
-      "rank": 16
+      "rank": 16,
+      "pass": true
     },
     {
       "name": "FATHIMA NAFSHA P V",
       "rollNo": "23342799",
       "group": "HUMANITIES",
       "totalMarks": 611,
-      "rank": 17
+      "rank": 17,
+      "pass": true
     },
     {
       "name": "ASHIFA SAFA B",
       "rollNo": "23342785",
       "group": "HUMANITIES",
       "totalMarks": 574,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     },
     {
       "name": "MIDLAJ E P",
       "rollNo": "23342782",
       "group": "HUMANITIES",
       "totalMarks": 557,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "MUHAMMED RISHAN THALIPPAT",
       "rollNo": "23342784",
       "group": "HUMANITIES",
       "totalMarks": 541,
-      "rank": 20
+      "rank": 20,
+      "pass": false
     },
     {
       "name": "NASARUDHEEN.V.P",
       "rollNo": "23342794",
       "group": "HUMANITIES",
       "totalMarks": 513,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     },
     {
       "name": "ABDUL BASITH V P",
       "rollNo": "23342778",
       "group": "HUMANITIES",
       "totalMarks": 499,
-      "rank": 22
+      "rank": 22,
+      "pass": false
     },
     {
       "name": "FATHIMA NASHIDA M K",
       "rollNo": "23342800",
       "group": "HUMANITIES",
       "totalMarks": 490,
-      "rank": 23
+      "rank": 23,
+      "pass": false
     },
     {
       "name": "MUHAMMED RINSHAD P P",
       "rollNo": "23342793",
       "group": "HUMANITIES",
       "totalMarks": 479,
-      "rank": 24
+      "rank": 24,
+      "pass": false
     },
     {
       "name": "SALMANUL FARIS K P",
       "rollNo": "23342795",
       "group": "HUMANITIES",
       "totalMarks": 476,
-      "rank": 25
+      "rank": 25,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 9,
+  "totalFailure": 16
 }

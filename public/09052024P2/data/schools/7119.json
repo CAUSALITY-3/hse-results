@@ -5,7 +5,7 @@
   "emailId": "lilyhillvalley@gmail.com",
   "schoolType": "Un-Aided",
   "localBody": "Kalamasseri(M)Kanayannoor",
-  "eduDistrict": "Ernakulam",
+  "eduDistrict": "Aluva",
   "assemblyConstituency": "Kalamassery",
   "courseCode": "2,39",
   "schoolGender": "Co-Education",
@@ -755,105 +755,122 @@
       "rollNo": "23152879",
       "group": "SCIENCE",
       "totalMarks": 1143,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "V V EZHILL MAKIZHAVARTHNI",
       "rollNo": "23152886",
       "group": "COMMERCE",
       "totalMarks": 1125,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "HALA PARVEEN K R",
       "rollNo": "23152878",
       "group": "SCIENCE",
       "totalMarks": 1022,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "DARSHAN RAJESH",
       "rollNo": "23152887",
       "group": "COMMERCE",
       "totalMarks": 1002,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "KAREN LIYA THOMAS",
       "rollNo": "23152881",
       "group": "SCIENCE",
       "totalMarks": 974,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "JYOTHIKA M N",
       "rollNo": "23152889",
       "group": "COMMERCE",
       "totalMarks": 944,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "DHRUV KIRON AIYANKULAM",
       "rollNo": "23152880",
       "group": "SCIENCE",
       "totalMarks": 934,
-      "rank": 7
+      "rank": 7,
+      "pass": true
     },
     {
       "name": "DELNA MARY P",
       "rollNo": "23152877",
       "group": "SCIENCE",
       "totalMarks": 892,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "JAISON VARGHESE",
       "rollNo": "23152884",
       "group": "COMMERCE",
       "totalMarks": 881,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "RAASEEL ALI K B",
       "rollNo": "23152888",
       "group": "COMMERCE",
       "totalMarks": 863,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "AMAN FIROZ CHIRACKAL",
       "rollNo": "23399115",
       "group": "SCIENCE",
       "totalMarks": 787,
-      "rank": 11
+      "rank": 11,
+      "pass": false
     },
     {
       "name": "DON K DANIEL",
       "rollNo": "23152883",
       "group": "COMMERCE",
       "totalMarks": 775,
-      "rank": 12
+      "rank": 12,
+      "pass": true
     },
     {
       "name": "ANEENA JOSE",
       "rollNo": "23152876",
       "group": "SCIENCE",
       "totalMarks": 743,
-      "rank": 13
+      "rank": 13,
+      "pass": false
     },
     {
       "name": "MUHAMMED JASIM N J",
       "rollNo": "23152885",
       "group": "COMMERCE",
       "totalMarks": 689,
-      "rank": 14
+      "rank": 14,
+      "pass": false
     },
     {
       "name": "ADLIN LEON BINU",
       "rollNo": "23152882",
       "group": "COMMERCE",
       "totalMarks": 597,
-      "rank": 15
+      "rank": 15,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 11,
+  "totalFailure": 4
 }

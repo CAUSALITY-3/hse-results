@@ -970,154 +970,178 @@
       "rollNo": "23055882",
       "group": "SCIENCE",
       "totalMarks": 856,
-      "rank": 1
+      "rank": 1,
+      "pass": true
     },
     {
       "name": "NISHANA N",
       "rollNo": "23055887",
       "group": "SCIENCE",
       "totalMarks": 844,
-      "rank": 2
+      "rank": 2,
+      "pass": true
     },
     {
       "name": "LOPEZ.A",
       "rollNo": "23055879",
       "group": "SCIENCE",
       "totalMarks": 783,
-      "rank": 3
+      "rank": 3,
+      "pass": true
     },
     {
       "name": "AKHIL S",
       "rollNo": "23055876",
       "group": "SCIENCE",
       "totalMarks": 774,
-      "rank": 4
+      "rank": 4,
+      "pass": true
     },
     {
       "name": "VRINDA B",
       "rollNo": "23055900",
       "group": "COMMERCE",
       "totalMarks": 753,
-      "rank": 5
+      "rank": 5,
+      "pass": true
     },
     {
       "name": "VISAKH R",
       "rollNo": "23055884",
       "group": "SCIENCE",
       "totalMarks": 752,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "MAHIMA PRASAD",
       "rollNo": "23055895",
       "group": "COMMERCE",
       "totalMarks": 752,
-      "rank": 6
+      "rank": 6,
+      "pass": true
     },
     {
       "name": "NITHIN T M",
       "rollNo": "23055880",
       "group": "SCIENCE",
       "totalMarks": 744,
-      "rank": 8
+      "rank": 8,
+      "pass": true
     },
     {
       "name": "SATHIKA S",
       "rollNo": "23055898",
       "group": "COMMERCE",
       "totalMarks": 740,
-      "rank": 9
+      "rank": 9,
+      "pass": true
     },
     {
       "name": "SUMITH.M .S",
       "rollNo": "23055883",
       "group": "SCIENCE",
       "totalMarks": 730,
-      "rank": 10
+      "rank": 10,
+      "pass": true
     },
     {
       "name": "SHANU SHAJI",
       "rollNo": "23055881",
       "group": "SCIENCE",
       "totalMarks": 718,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "RADHIKA R",
       "rollNo": "23055896",
       "group": "COMMERCE",
       "totalMarks": 718,
-      "rank": 11
+      "rank": 11,
+      "pass": true
     },
     {
       "name": "DEVIKA B",
       "rollNo": "23055885",
       "group": "SCIENCE",
       "totalMarks": 715,
-      "rank": 13
+      "rank": 13,
+      "pass": true
     },
     {
       "name": "SNEHA VINOD",
       "rollNo": "23055899",
       "group": "COMMERCE",
       "totalMarks": 712,
-      "rank": 14
+      "rank": 14,
+      "pass": true
     },
     {
       "name": "EBY JAMES",
       "rollNo": "23055878",
       "group": "SCIENCE",
       "totalMarks": 687,
-      "rank": 15
+      "rank": 15,
+      "pass": true
     },
     {
       "name": "RITHIK S",
       "rollNo": "23055891",
       "group": "COMMERCE",
       "totalMarks": 647,
-      "rank": 16
+      "rank": 16,
+      "pass": true
     },
     {
       "name": "GOURI MANOHARI S R",
       "rollNo": "23055894",
       "group": "COMMERCE",
       "totalMarks": 630,
-      "rank": 17
+      "rank": 17,
+      "pass": false
     },
     {
       "name": "NAVEEN A",
       "rollNo": "23055890",
       "group": "COMMERCE",
       "totalMarks": 594,
-      "rank": 18
+      "rank": 18,
+      "pass": false
     },
     {
       "name": "VAISAKH KRISHNAN M",
       "rollNo": "23055892",
       "group": "COMMERCE",
       "totalMarks": 562,
-      "rank": 19
+      "rank": 19,
+      "pass": false
     },
     {
       "name": "VISHNU MOHAN",
       "rollNo": "23055893",
       "group": "COMMERCE",
       "totalMarks": 500,
-      "rank": 20
+      "rank": 20,
+      "pass": false
     },
     {
       "name": "ARUNKUMAR R",
       "rollNo": "23055888",
       "group": "COMMERCE",
       "totalMarks": 457,
-      "rank": 21
+      "rank": 21,
+      "pass": false
     },
     {
       "name": "REMYA M",
       "rollNo": "23055897",
       "group": "COMMERCE",
       "totalMarks": 0,
-      "rank": 22
+      "rank": 22,
+      "pass": false
     }
-  ]
+  ],
+  "totalPass": 16,
+  "totalFailure": 6
 }
