@@ -185,9 +185,10 @@
                         console.log("Error retrieving data from IndexedDB:", e);
                         lsValue = null;
                     }
-                    const parsedValue = lsValue;
-                    schools = parsedValue[code] ? [{ code, name: parsedValue[code] }] : [];
-                    if (schools.length) {
+                    const kvPair = lsValue ? Object.entries(lsValue) : [];
+                    schools = kvPair.filter(([key, value]) => key.startsWith(code)).map(([key, value]) => ({ code: key, name: value + ` (${key})` }));
+                    // schools = parsedValue[code] ? [{ code, name: parsedValue[code] }] : [];
+                    if (schools) {
                         await loadResults(schools)
                         spinner.style.display = 'none';
                         return
@@ -196,7 +197,9 @@
                         const apiRes = await fetch(`/static/data/schoolCodeName.json`);
                         const parsedData = await apiRes.json();
                         await storeData("schoolCodeNameMapping", "main", parsedData)
-                        schools = parsedData[code] ? [parsedData[code]] : [];
+                        const kvPair = parsedData ? Object.entries(parsedData) : [];
+                        schools = kvPair.filter(([key, value]) => key.startsWith(code)).map(([key, value]) => ({ code: key, name: value + ` (${key})` }));
+                        // schools = parsedData[code] ? [parsedData[code]] : [];
                     } catch (err) {
                         console.log(err)
                         schools = []
@@ -258,17 +261,13 @@
                     const inputValue = schoolInputField.value.trim();
                     if (inputValue?.length >= 3) {
                         if (!isNaN(inputValue)) {
-                            // let startSearchBtn = document.getElementById('school-search-go');
-                            console.log('Roll No:', Number(inputValue), inputValue.length);
-                            if (inputValue.length === 4 || inputValue.length === 5) {
+                            if (inputValue.length > 2 && inputValue[0] != 0 || inputValue.length > 3 && inputValue[0] == 0) {
                                 let code = +inputValue;
-                                console.log('Code:', code);
-                                if (inputValue.length === 5 && inputValue[0] == 0) {
-                                    code = +inputValue.slice(1, 5)
+                                if (inputValue[0] == 0) {
+                                    code = +inputValue.slice(1, inputValue.length)
                                 }
                                 await getSearchByCode(code)
                             }
-
                         } else {
                             schoolTimeout = setTimeout(() => {
                                 getSearchResults(inputValue.toUpperCase())

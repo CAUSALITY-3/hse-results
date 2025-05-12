@@ -237,6 +237,7 @@
 
                 let inputValStart;
                 let largeFileNames;
+                let rollnoFiles;
 
                 function loadScript(src, callback) {
                     // Check if script is already in the document
@@ -257,7 +258,7 @@
                 loadScript('/static/js/main.js', function () {
 
 
-                    async function fetchData() {
+                    async function fetchLargeFileNames() {
                         try {
                             largeFileNamesLS = await getData(`${mainRoute}_largeFileNames`, "main");
                         } catch (e) {
@@ -273,9 +274,30 @@
                         }
                     }
 
+                    async function fetchRollnoFiles() {
+                        if (rollnoFiles) return rollnoFiles;
+                        try {
+                            rollnoFilesLS = await getData(`${mainRoute}_rollnoFiles`, "main");
+                        } catch (e) {
+                            console.log("Error retrieving data from IndexedDB:", e);
+                            rollnoFilesLS = null;
+                        }
+                        if (rollnoFilesLS) {
+                            rollnoFiles = rollnoFilesLS;
+                        } else {
+                            const rollnoFilesApi = await fetch(`/static/${mainRoute}/rollno_files.json`);
+                            rollnoFiles = await rollnoFilesApi.json();
+                            await storeData(`${mainRoute}_rollnoFiles`, "main", rollnoFiles)
+                        }
+                        return rollnoFiles;
+                    }
+
 
                     function findPatternMatchingUserName(pattern, users) {
                         return users.filter(str => str.split("(")?.[0]?.includes(pattern))
+                    }
+                    function findPatternMatchingUserRollno(pattern, users) {
+                        return users.filter(str => str.split("(")?.[1]?.split(")")[0]?.startsWith(pattern))
                     }
                     function delay(ms) {
                         return new Promise(resolve => setTimeout(resolve, ms));
@@ -293,12 +315,44 @@
                         });
                     }
 
-                    async function getSearchResults(inputValue, slicedInputVal) {
+                    async function findRollNoFileName(rollno) {
+                        const rollnoFiles = await fetchRollnoFiles();
+                        if (rollnoFiles) {
+                            if (rollno.length < 8) {
+                                rollno = rollno.padEnd(8, '0');
+                            }
+                            console.log("rollnoFiles", rollno)
+                            const rollnoFileIndex = rollnoFiles.findIndex(file => +file > +rollno);
+                            if (rollnoFileIndex === -1) {
+                                return rollnoFiles[rollnoFiles.length - 1];
+                            } else if (rollnoFileIndex === 0) {
+                                return rollnoFiles[0];
+                            } else {
+                                return rollnoFiles[rollnoFileIndex - 1];
+                            }
+                        } else {
+                            console.log("rollnoFiles is empty or undefined");
+                            return null;
+                        }
+                    }
+
+                    async function getSearchResults(inputValue, slicedInputVal, isRollno = false) {
                         let spinner = document.getElementById('spinner');
                         removeUsers()
                         spinner.style.display = 'inline';
-                        const users = await getAndStoreQuery(`/static/${mainRoute}/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
-                        console.log("users", users)
+                        let users = [];
+                        if (isRollno) {
+                            const rollnoFileName = await findRollNoFileName(inputValue);
+                            console.log("rollnoFileName @@@@@@", rollnoFileName)
+                            if (!rollnoFileName) {
+                                document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">No matches! Give it another shot.</div>`;
+                                spinner.style.display = 'none';
+                                return;
+                            }
+                            users = await getAndStoreQuery(`/static/${mainRoute}/rollno-search/${rollnoFileName}.json`, rollnoFileName, inputValue, true);
+                        } else {
+                            users = await getAndStoreQuery(`/static/${mainRoute}/user-search/_${slicedInputVal}.json`, slicedInputVal, inputValue.toUpperCase());
+                        }
 
                         await delay(330)
                         if (users.length && users.length < 1000) {
@@ -337,20 +391,20 @@
                         spinner.style.display = 'none';
                     }
 
-                    async function getAndStoreQuery(url, lsKey, pattern) {
+                    async function getAndStoreQuery(url, lsKey, pattern, isRollno = false) {
                         let lsValue;
                         try {
-                            lsValue = await getData(`${mainRoute}_` + lsKey, "main");
+                            lsValue = await getData(`${mainRoute}_rollno_file_` + lsKey, "main");
                         } catch (e) {
                             console.log("Error retrieving data from IndexedDB:", e);
                             lsValue = null;
                         }
-                        if (lsValue) return findPatternMatchingUserName(pattern, lsValue);
+                        if (lsValue) return isRollno ? findPatternMatchingUserRollno(pattern, lsValue) : findPatternMatchingUserName(pattern, lsValue);
                         try {
                             const apiRes = await fetch(url);
                             const parsedData = await apiRes.json();
-                            await storeData(`${mainRoute}_` + lsKey, "main", parsedData);
-                            return findPatternMatchingUserName(pattern, parsedData);
+                            await storeData(`${mainRoute}_rollno_file_` + lsKey, "main", parsedData);
+                            return isRollno ? findPatternMatchingUserRollno(pattern, parsedData) : findPatternMatchingUserName(pattern, parsedData);
                         } catch (err) {
                             console.log(err)
                             return []
@@ -362,8 +416,11 @@
                     const observer = new IntersectionObserver((entries, observer) => {
                         entries.forEach(entry => {
                             if (entry.isIntersecting) {
-                                fetchData();
-                                observer.disconnect();
+                                setTimeout(() => {
+                                    fetchLargeFileNames();
+                                    fetchRollnoFiles();
+                                    observer.disconnect();
+                                }, 500)
                             }
                         });
                     }, { threshold: 0.5 });
@@ -383,6 +440,13 @@
                         const inputValue = inputField.value.trim();
                         if (inputValue?.length >= 3) {
                             if (!isNaN(inputValue)) {
+                                if (!inputValue.startsWith("2") || inputValue.length > 8) {
+                                    document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Please enter a valid roll number.</div>`;
+                                } else if (inputValue.length > 4) {
+                                    timeout = setTimeout(() => {
+                                        getSearchResults(inputValue, inputValue, true)
+                                    }, 500);
+                                }
                             } else {
                                 if (inputValue.length === 3 && largeFileNames.includes(inputValue.toUpperCase())) {
                                     document.getElementById("search-response").innerHTML = `<div class="user-query-no-result">Lots of results! Please type more to filter them.</div>`;
