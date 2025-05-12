@@ -38,8 +38,23 @@
                     <div class="school-result-analysis-item">Total Full Mark Students: <span
                             class="school-result-analysis-value">{{ .TotalFullMarks }}</span></div>
                 </div>
+                <div class="school-rank-container">
+                    <div class="school-chart-name">Overall Rank</div>
+                    <div class="school-rank-details">
+                        <div class="school-rank-details-item">Rank: <span id="school-overall-rank"
+                                class="school-rank-value"></span></div>
+                        <div class="school-rank-details-item">Total schools: <span id="school-total-overall-count"
+                                class="school-rank-value"></span></div>
+                        <div class="school-rank-details-item">Total schools Ahead of you: <span
+                                id="school-total-overall-ahead-count" class="school-rank-value"></span></div>
+                        <div class="school-rank-details-item">Total schools Behind you: <span
+                                id="school-total-overall-behind-count" class="school-rank-value"></span></div>
+                        <div class="school-rank-details-item">Total schools same as you: <span
+                                id="school-total-overall-same-count" class="school-rank-value"></span></div>
+                    </div>
+                </div>
                 <div class="school-pass-percent-chart">
-
+                    <div id="chart_div_school_page" class="chart-only"></div>
                 </div>
             </div>
         </div>
@@ -96,7 +111,7 @@
             .school-pass-percent-chart {
                 margin-top: 20px;
                 width: 100%;
-                height: 200px;
+                height: 700px;
                 background-color: #3e3e3e;
                 border: 1px dashed #555;
                 display: flex;
@@ -172,26 +187,16 @@
                 htmx.process(document.getElementById("resultTableBody"));
 
             };
-        </script>
-        <div class="school-rank-container">
-            <div class="school-chart-name">School Rank details</div>
-            <div class="school-rank-details">
-                <div class="school-rank-details-item">Rank: <span id="school-school-rank"
-                        class="school-rank-value"></span></div>
-                <div class="school-rank-details-item">Total schools: <span id="school-total-school-count"
-                        class="school-rank-value"></span></div>
-                <div class="school-rank-details-item">Total schools Ahead of you: <span
-                        id="school-total-school-ahead-count" class="school-rank-value"></span></div>
-                <div class="school-rank-details-item">Total schools Behind you: <span
-                        id="school-total-school-behind-count" class="school-rank-value"></span></div>
-                <div class="school-rank-details-item">Total schools same as you: <span
-                        id="school-total-school-same-count" class="school-rank-value"></span></div>
-            </div>
-            <div class="school-chart-section">
-                <div id="chart_div_school" class=""></div>
-            </div>
 
-        </div>
+            loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+
+                loadScript('/static/js/main.js', async function () {
+                    await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+                });
+            });
+        </script>
+
+    </div>
 
 
 </body>

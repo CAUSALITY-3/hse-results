@@ -71,6 +71,28 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
         });
     }
     setRankDetails(userMark, "school", markCount);
+  } else if (group === "passPercentageCount") {
+    let lsValue;
+    const key = mainRoute + "_" + group;
+    try {
+      lsValue = await getData(key, "main");
+    } catch (e) {
+      console.log("Error retrieving data from IndexedDB:", e);
+      lsValue = null;
+    }
+    if (lsValue) {
+      markCount = lsValue;
+      console.log("Using cached data:", markCount);
+    } else {
+      await fetch(`/static/${mainRoute}/rank/${group}.json`)
+        .then((response) => response.json())
+        .then(async (data) => {
+          markCount = data;
+          await storeData(key, "main", data);
+          console.log("Fetched and cached data:", markCount);
+        });
+    }
+    setRankDetails(userMark, "group", markCount, true);
   } else {
     let groupValue = group.toLowerCase();
     let lsValue;
@@ -138,7 +160,7 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
         gridlines: { color: "#444444" },
         viewWindow: {
           min: elementId === "chart_div" ? 1 : -2,
-          max: 1200,
+          max: elementId === "chart_div_school_page" ? 100 : 1200,
         },
       },
       vAxis: {
@@ -156,7 +178,7 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
     chart.draw(data, options);
   }
 
-  function setRankDetails(userMark, group, markCount) {
+  function setRankDetails(userMark, group, markCount, school = false) {
     const rankCount = markCount[userMark] || 0;
     const totalCount = Object.values(markCount).reduce((a, b) => a + b, 0);
     let rank = 0;
@@ -169,29 +191,33 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
       }
     }
 
+    let prefix = "student";
+    if (school) {
+      prefix = "school";
+    }
     if (group === "overall") {
       console.log("Overall group rank:", rank);
     }
-    const rankElement = document.getElementById(`student-${group}-rank`);
+    const rankElement = document.getElementById(`${prefix}-${group}-rank`);
     if (rankElement) rankElement.innerText = rank;
 
     const totalCountElement = document.getElementById(
-      `student-total-${group}-count`
+      `${prefix}-total-${group}-count`
     );
     if (totalCountElement) totalCountElement.innerText = totalCount;
 
     const aheadCountElement = document.getElementById(
-      `student-total-${group}-ahead-count`
+      `${prefix}-total-${group}-ahead-count`
     );
     if (aheadCountElement) aheadCountElement.innerText = rank;
 
     const behindCountElement = document.getElementById(
-      `student-total-${group}-behind-count`
+      `${prefix}-total-${group}-behind-count`
     );
     if (behindCountElement) behindCountElement.innerText = behindMe;
 
     const sameCountElement = document.getElementById(
-      `student-total-${group}-same-count`
+      `${prefix}-total-${group}-same-count`
     );
     if (sameCountElement) sameCountElement.innerText = rankCount;
   }
