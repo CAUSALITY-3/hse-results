@@ -303,10 +303,10 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 				student.Rank,
 			))
 			resultClass := "fail"
-			resultText := "Failed"
+			resultText := "Fail"
 			if student.Pass {
 				resultClass = "pass"
-				resultText = "Passed"
+				resultText = "Pass"
 			}
 			rankTableRows.WriteString(fmt.Sprintf(`<td class="%s">%s</td></tr>`, resultClass, resultText))
 		}

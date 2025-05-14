@@ -147,27 +147,33 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
       backgroundColor: "#2e2e2e",
       chartArea: {
         backgroundColor: "#2e2e2e",
-        left: 100,
-        width: "80%",
-        height: "70%",
+        left: elementId === "chart_div_school_page" ? 100 : 100,
+        right: elementId === "chart_div_school_page" ? -200 : 0,
+        ...(elementId === "chart_div_school_page"
+          ? {}
+          : { width: "80%", height: "70%" }),
       },
-      width: 1200,
+      width: elementId === "chart_div_school_page" ? 1200 : 1200,
       height: 500,
       legend: { position: "none" },
       colors: ["#ff8080", "#00ff7f"], // red for <1000, green for >1000
       hAxis: {
-        title: "Mark",
-        direction: -1,
+        title:
+          elementId === "chart_div_school_page" ? "Pass Percentage" : "Mark",
+        direction: elementId === "chart_div_school_page" ? 1 : -1,
         textStyle: { color: "#ababab" },
         titleTextStyle: { color: "#ffffff" },
         gridlines: { color: "#444444" },
         viewWindow: {
           min: elementId === "chart_div" ? 1 : -2,
-          max: elementId === "chart_div_school_page" ? 100 : 1200,
+          max: elementId === "chart_div_school_page" ? 105 : 1200,
         },
       },
       vAxis: {
-        title: "Count of Students",
+        title:
+          elementId === "chart_div_school_page"
+            ? "Count of Schools"
+            : "Count of Students",
         direction: 1,
         textStyle: { color: "#ababab" },
         titleTextStyle: { color: "#ffffff" },

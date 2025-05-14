@@ -112,7 +112,7 @@
             </table>
         </div>
         <div class="school-result-analysis-section">
-            <!-- <div class="school-rank-container">
+            <div class="school-rank-container">
                 <div class="school-chart-name">Overall Rank based on pass percentage</div>
                 <div class="school-rank-details">
                     <div class="school-rank-details-item">Rank: <span id="school-overall-rank"
@@ -127,11 +127,13 @@
                             id="school-total-overall-same-count" class="school-rank-value"></span></div>
                 </div>
                 <div class="school-chart-section">
-                    <div id="chart_div" class="chart-only"></div>
+                    <div id="chart_div_school_page" class="chart-only-school"></div>
                 </div>
-            </div> -->
+            </div>
 
+            <div class="school-rank-list-title">Rank List</div>
             <div id="resultRankSection" class="result-section {{ .DisplayRank }}">
+
                 <table>
                     <thead>
                         <tr>
@@ -193,11 +195,11 @@
                 // htmx.process(document.getElementById("resultTableBody"));
             };
 
-            // loadScript('https://www.gstatic.com/charts/loader.js', async function () {
-            //     loadScript('/static/js/main.js', async function () {
-            //         await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-            //     });
-            // });
+            loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+                loadScript('/static/js/main.js', async function () {
+                    await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+                });
+            });
         </script>
     </div>
 </body>
