@@ -11,34 +11,61 @@
 </head>
 
 <body>
-    <div id="school-page" class="container">
+    <div id="school-page" class=".school-page-container">
         <div id="school-page-back-to-search" hx-get="/static/pages/schoolSearch.html" hx-swap="outerHTML"
             hx-target="#school-page" hx-select="#school-search-page"> 🔙 Search
         </div>
         <style>
         </style>
         <div class="school-top-section">
-            <div class="school-name">{{ .SchoolName }}</div>
-            <div class="school-details-section">
-                <div class="school-details-item">School Code: <span class="school-details-value">{{ .SchoolCode
-                        }}</span></div>
-                <div class="school-details-item">District: <span class="school-details-value">{{ .District }}</span>
+            <div class="school-header">
+                <div class="school-name">{{ .SchoolName }}</div>
+                <div class="school-details-section">
+                    <div class="school-details-item">
+                        <span class="school-details-label">School Code:</span>
+                        <span class="school-details-value">{{ .SchoolCode }}</span>
+                    </div>
+                    <div class="school-details-item">
+                        <span class="school-details-label">District:</span>
+                        <span class="school-details-value">{{ .District }}</span>
+                    </div>
                 </div>
                 <div class="school-result-analysis-section">
-                    <div class="school-result-analysis-item">Total Students (Regular) Appeared: <span
-                            class="school-result-analysis-value">{{ .TotalStudentsAppeared }}</span></div>
-                    <div class="school-result-analysis-item">Total Pass: <span class="school-result-analysis-value">{{
-                            .TotalStudentsPassed }}</span></div>
-                    <div class="school-result-analysis-item">Total Fail: <span class="school-result-analysis-value">{{
-                            .TotalStudentsFailed }}</span></div>
-                    <div class="school-result-analysis-item">Pass Percentage: <span
-                            class="school-result-analysis-value">{{ .PassPercentage }}</span></div>
-                    <div class="school-result-analysis-item">Total Full A+ Students: <span
-                            class="school-result-analysis-value">{{ .TotalFullAPlus }}</span></div>
-                    <div class="school-result-analysis-item">Total Full Mark Students: <span
-                            class="school-result-analysis-value">{{ .TotalFullMarks }}</span></div>
+                    <div class="school-result-analysis-item">
+                        <span class="school-result-analysis-label">Total Students (Regular) Appeared:</span>
+                        <span class="school-result-analysis-value">{{ .TotalStudentsAppeared }}</span>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <span class="school-result-analysis-label">Total Pass:</span>
+                        <span class="school-result-analysis-value pass-value">{{ .TotalStudentsPassed }}</span>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <span class="school-result-analysis-label">Total Fail:</span>
+                        <span class="school-result-analysis-value fail-value">{{ .TotalStudentsFailed }}</span>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <span class="school-result-analysis-label">Pass Percentage:</span>
+                        <span class="school-result-analysis-value percent-value">{{ .PassPercentage }}</span>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <span class="school-result-analysis-label">Total Full A+ Students:</span>
+                        <span class="school-result-analysis-value highlight-value">{{ .TotalFullAPlus }}</span>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <span class="school-result-analysis-label">Total Full Mark Students:</span>
+                        <span class="school-result-analysis-value highlight-value">{{ .TotalFullMarks }}</span>
+                    </div>
                 </div>
-                <div class="school-rank-container">
+            </div>
+            <style>
+                body {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                }
+            </style>
+            <!-- <div class="school-rank-container">
                     <div class="school-chart-name">Overall Rank</div>
                     <div class="school-rank-details">
                         <div class="school-rank-details-item">Rank: <span id="school-overall-rank"
@@ -52,104 +79,42 @@
                         <div class="school-rank-details-item">Total schools same as you: <span
                                 id="school-total-overall-same-count" class="school-rank-value"></span></div>
                     </div>
-                </div>
-                <div class="school-pass-percent-chart">
+                </div> -->
+            <!-- <div class="school-pass-percent-chart">
                     <div id="chart_div_school_page" class="chart-only"></div>
-                </div>
-            </div>
+                </div> -->
         </div>
         <style>
-            .school-top-section {
-                padding: 20px;
-                background-color: #2e2e2e;
-                border: 1px solid #444;
-                border-radius: 8px;
-                margin-bottom: 20px;
-            }
 
-            .school-name {
-                font-size: 24px;
-                font-weight: bold;
-                margin-bottom: 10px;
-                color: #fff;
-                text-align: center;
-            }
-
-            .school-details-section {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 15px;
-            }
-
-            .school-details-item {
-                font-size: 16px;
-                color: #ccc;
-            }
-
-            .school-details-value {
-                font-weight: bold;
-                color: #fff;
-            }
-
-            .school-result-analysis-section {
-                margin-top: 15px;
-                display: flex;
-                flex-wrap: wrap;
-                gap: 15px;
-            }
-
-            .school-result-analysis-item {
-                font-size: 14px;
-                color: #bbb;
-            }
-
-            .school-result-analysis-value {
-                font-weight: bold;
-                color: #4a90e2;
-            }
-
-            .school-pass-percent-chart {
-                margin-top: 20px;
-                width: 100%;
-                height: 700px;
-                background-color: #3e3e3e;
-                border: 1px dashed #555;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                color: #aaa;
-                font-style: italic;
-            }
         </style>
         <div class="result-section" id="resultSection">
             <table>
                 <thead>
                     <tr>
-                        <th>Roll No</th>
-                        <th>Name</th>
-                        <th>Group</th>
-                        <th>Subject-1</th>
-                        <th>Subject-2</th>
-                        <th>Subject-3</th>
-                        <th>Subject-4</th>
-                        <th>Subject-5</th>
-                        <th>Subject-6</th>
-                        <th>Result</th>
+                        <th class="result-table-header first-header">Roll No</th>
+                        <th class="result-table-header">Name</th>
+                        <th class="result-table-header">Group</th>
+                        <th class="result-table-header">Subject-1</th>
+                        <th class="result-table-header">Subject-2</th>
+                        <th class="result-table-header">Subject-3</th>
+                        <th class="result-table-header">Subject-4</th>
+                        <th class="result-table-header">Subject-5</th>
+                        <th class="result-table-header">Subject-6</th>
+                        <th class="result-table-header last-header">Result</th>
+                        <style>
+
+                        </style>
                     </tr>
                 </thead>
                 <tbody id="resultTableBody"></tbody>
             </table>
         </div>
         <script>
-
             function loadScript(src, callback) {
-                // Check if script is already in the document
                 if (document.querySelector(`script[src="${src}"]`)) {
-                    console.log(`Script ${src} already loaded.`);
-                    if (callback) callback(); // still call the callback to continue flow
+                    if (callback) callback();
                     return;
                 }
-
                 const script = document.createElement('script');
                 script.src = src;
                 script.onload = callback;
@@ -185,20 +150,15 @@
                     tableBody.appendChild(row);
                 });
                 htmx.process(document.getElementById("resultTableBody"));
-
             };
 
-            loadScript('https://www.gstatic.com/charts/loader.js', async function () {
-
-                loadScript('/static/js/main.js', async function () {
-                    await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-                });
-            });
+            // loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+            //     loadScript('/static/js/main.js', async function () {
+            //         await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+            //     });
+            // });
         </script>
-
     </div>
-
-
 </body>
 
 </html>
