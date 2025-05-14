@@ -111,6 +111,44 @@
                 </tbody>
             </table>
         </div>
+        <div class="school-result-analysis-section">
+            <!-- <div class="school-rank-container">
+                <div class="school-chart-name">Overall Rank based on pass percentage</div>
+                <div class="school-rank-details">
+                    <div class="school-rank-details-item">Rank: <span id="school-overall-rank"
+                            class="school-rank-value"></span></div>
+                    <div class="school-rank-details-item">Total schools: <span id="school-total-overall-count"
+                            class="school-rank-value"></span></div>
+                    <div class="school-rank-details-item">Total schools Ahead: <span
+                            id="school-total-overall-ahead-count" class="school-rank-value"></span></div>
+                    <div class="school-rank-details-item">Total schools Behind: <span
+                            id="school-total-overall-behind-count" class="school-rank-value"></span></div>
+                    <div class="school-rank-details-item">Total schools with same pass %: <span
+                            id="school-total-overall-same-count" class="school-rank-value"></span></div>
+                </div>
+                <div class="school-chart-section">
+                    <div id="chart_div" class="chart-only"></div>
+                </div>
+            </div> -->
+
+            <div id="resultRankSection" class="result-section {{ .DisplayRank }}">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="result-table-header first-header">Roll No</th>
+                            <th class="result-table-header">Name</th>
+                            <th class="result-table-header">Group</th>
+                            <th class="result-table-header">Total Marks</th>
+                            <th class="result-table-header">Rank</th>
+                            <th class="result-table-header last-header">Result</th>
+                        </tr>
+                    </thead>
+                    <tbody id="rankResultTableBody">
+                        {{ .RankTableRows }}
+                    </tbody>
+                </table>
+            </div>
+        </div>
         <script>
             function loadScript(src, callback) {
                 if (document.querySelector(`script[src="${src}"]`)) {
@@ -128,9 +166,9 @@
 
             loadScript("/static/js/main.js", zoomFn);
             function zoomFn() {
-                window.onload = () => adjustZoom(false);
-                window.onresize = () => adjustZoom(false);
-                adjustZoom(false);
+                window.onload = () => adjustZoom(["resultSection", "resultRankSection"]);
+                window.onresize = () => adjustZoom(["resultSection", "resultRankSection"]);
+                adjustZoom(["resultSection", "resultRankSection"]);
 
                 // const schoolResult = JSON.parse('{{ .SchoolResult }}');
                 // const tableBody = document.getElementById("resultTableBody");

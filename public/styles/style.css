@@ -1336,3 +1336,13 @@ tbody tr:nth-child(odd) {
         width: 100%;
     }
 }
+
+.school-student-rank {
+    color: #00f7ff;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.display-none {
+    display: none;
+}

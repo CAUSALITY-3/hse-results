@@ -70,6 +70,7 @@ type RankList struct {
 	Group      string `json:"group"`
 	TotalMarks int16  `json:"totalMarks"`
 	Rank       int16  `json:"rank"`
+	Pass       bool   `json:"pass"`
 }
 
 type TemplateMappedSchoolResult struct {
@@ -108,4 +109,6 @@ type TemplateMappedSchoolResultData struct {
 	TotalFullMarks        int           `json:"totalFullMarks"`
 	PassPercentage        int           `json:"passPercentage"`
 	TableRows             template.HTML `json:"tableRows"`
+	RankTableRows         template.HTML `json:"rankTableRows"`
+	DisplayRank           string        `json:"displayRank"`
 }

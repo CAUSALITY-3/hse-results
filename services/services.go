@@ -237,8 +237,10 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 	temp.PassPercentage = int(math.Round(school.PassPercentage*100) / 100.0)
 	temp.TotalFullAPlus = school.TotalFullAp
 	temp.TotalFullMarks = school.TotalFullMarks
+	temp.DisplayRank = "true"
 	var tableRows strings.Builder
 	if len(school.Results) == 0 {
+		temp.DisplayRank = "display-none"
 		tableRows.WriteString("<tr><td colspan='10'>No data available</td></tr>")
 	} else {
 		for i, student := range school.Results {
@@ -278,6 +280,38 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 		}
 	}
 	temp.TableRows = template.HTML(tableRows.String())
+
+	var rankTableRows strings.Builder
+	if len(school.RankList) > 0 {
+		for i, student := range school.RankList {
+			rowClass := "even-row"
+			if i%2 != 0 {
+				rowClass = "odd-row"
+			}
+			rankTableRows.WriteString(fmt.Sprintf(
+				`<tr class="%s">
+                    <td class="school-student-redirect" hx-get="/%s/search/student/%s" hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">%s</td>
+                    <td class="school-student-redirect" hx-get="/%s/search/student/%s" hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">%s</td>
+                    <td>%s</td>
+					<td>%d</td>
+					<td class="school-student-rank">%d</td>`,
+				rowClass,
+				requestType, student.RollNo, student.RollNo,
+				requestType, student.RollNo, student.Name,
+				student.Group,
+				student.TotalMarks,
+				student.Rank,
+			))
+			resultClass := "fail"
+			resultText := "Failed"
+			if student.Pass {
+				resultClass = "pass"
+				resultText = "Passed"
+			}
+			rankTableRows.WriteString(fmt.Sprintf(`<td class="%s">%s</td></tr>`, resultClass, resultText))
+		}
+	}
+	temp.RankTableRows = template.HTML(rankTableRows.String())
 
 	c.Set("Content-Type", "text/html")
 	if err := tmpl.Execute(c.Response().BodyWriter(), temp); err != nil {
