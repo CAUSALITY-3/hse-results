@@ -95,16 +95,17 @@ type TemplateMappedSchoolResult struct {
 }
 
 type TemplateMappedSchoolResultData struct {
-	SchoolResult          string `json:"schoolResult"`
-	SchoolName            string `json:"schoolName"`
-	SchoolCode            string `json:"schoolCode"`
-	MainRoute             string `json:"mainRoute"`
-	District              string `json:"district"`
-	PhoneNo               string `json:"phoneNo"`
-	TotalStudentsAppeared int    `json:"totalStudentsAppeared"`
-	TotalStudentsPassed   int    `json:"totalStudentsPassed"`
-	TotalStudentsFailed   int    `json:"totalStudentsFailed"`
-	TotalFullAPlus        int    `json:"totalFullAPlus"`
-	TotalFullMarks        int    `json:"totalFullMarks"`
-	PassPercentage        int    `json:"passPercentage"`
+	SchoolResult          string        `json:"schoolResult"`
+	SchoolName            string        `json:"schoolName"`
+	SchoolCode            string        `json:"schoolCode"`
+	MainRoute             string        `json:"mainRoute"`
+	District              string        `json:"district"`
+	PhoneNo               string        `json:"phoneNo"`
+	TotalStudentsAppeared int           `json:"totalStudentsAppeared"`
+	TotalStudentsPassed   int           `json:"totalStudentsPassed"`
+	TotalStudentsFailed   int           `json:"totalStudentsFailed"`
+	TotalFullAPlus        int           `json:"totalFullAPlus"`
+	TotalFullMarks        int           `json:"totalFullMarks"`
+	PassPercentage        int           `json:"passPercentage"`
+	TableRows             template.HTML `json:"tableRows"`
 }

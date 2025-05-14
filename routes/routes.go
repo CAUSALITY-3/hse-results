@@ -77,7 +77,7 @@ func SetupRouter() {
 		schoolCode := c.Params("schoolCode")
 		log.Println(resultType, schoolCode)
 
-		err := services.GetSchoolResults(c, resultType, schoolCode)
+		err := services.GetSchoolResultsServerSide(c, resultType, schoolCode)
 		if err != nil {
 			log.Println("Error executing template:", err)
 			return c.Status(500).SendString("Error rendering template")

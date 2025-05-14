@@ -106,7 +106,9 @@
                         </style>
                     </tr>
                 </thead>
-                <tbody id="resultTableBody"></tbody>
+                <tbody id="resultTableBody">
+                    {{ .TableRows }}
+                </tbody>
             </table>
         </div>
         <script>
@@ -126,30 +128,31 @@
 
             loadScript("/static/js/main.js", zoomFn);
             function zoomFn() {
-                const schoolResult = JSON.parse('{{ .SchoolResult }}');
                 window.onload = () => adjustZoom(false);
                 window.onresize = () => adjustZoom(false);
                 adjustZoom(false);
-                const tableBody = document.getElementById("resultTableBody");
-                if (!schoolResult || schoolResult.length === 0) {
-                    tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
-                    return;
-                }
-                schoolResult.forEach((student, index) => {
-                    const row = document.createElement("tr");
-                    row.className = index % 2 === 0 ? "even-row" : "odd-row";
-                    row.innerHTML = `
-                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
-                    <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
-                    <td>${student.group}</td>
-                    ${student.subjects.map((subject, index) => {
-                        return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
-                    }).join('')}
-                    <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
-                `;
-                    tableBody.appendChild(row);
-                });
-                htmx.process(document.getElementById("resultTableBody"));
+
+                // const schoolResult = JSON.parse('{{ .SchoolResult }}');
+                // const tableBody = document.getElementById("resultTableBody");
+                // if (!schoolResult || schoolResult.length === 0) {
+                //     tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
+                //     return;
+                // }
+                // schoolResult.forEach((student, index) => {
+                //     const row = document.createElement("tr");
+                //     row.className = index % 2 === 0 ? "even-row" : "odd-row";
+                //     row.innerHTML = `
+                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
+                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
+                //     <td>${student.group}</td>
+                //     ${student.subjects.map((subject, index) => {
+                //         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
+                //     }).join('')}
+                //     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
+                // `;
+                //     tableBody.appendChild(row);
+                // });
+                // htmx.process(document.getElementById("resultTableBody"));
             };
 
             // loadScript('https://www.gstatic.com/charts/loader.js', async function () {

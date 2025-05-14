@@ -198,6 +198,102 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 
 }
 
+func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) error {
+	school, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/schools/" + schoolCode + ".json")
+	if err != nil {
+		log.Println("Error Reading school data:", err)
+		return c.Status(500).SendString("Error reading school data")
+	}
+
+	// var schoolTemplateMapping types.SchoolResults
+	tmpl, err := template.ParseFiles("./public/pages/school.html")
+	if err != nil {
+		log.Println("Error loading template:", err)
+		return c.Status(500).SendString("Error loading template")
+	}
+	var temp types.TemplateMappedSchoolResultData
+
+	// SchoolResult, err := json.Marshal(school)
+	// if err != nil {
+	// 	fmt.Println("Error:", err)
+	// 	return err
+	// }
+	// fmt.Println("SchoolResult", string(SchoolResult))
+
+	SchoolResultJSON, err := json.Marshal(school.Results)
+	if err != nil {
+		log.Println("Error marshaling school results:", err)
+		return c.Status(500).SendString("Error processing school results")
+	}
+	fmt.Println("SchoolResult", string(SchoolResultJSON))
+	temp.SchoolResult = string(SchoolResultJSON)
+	temp.SchoolName = school.SchoolName
+	temp.SchoolCode = school.SchoolCode
+	temp.MainRoute = requestType
+	temp.District = school.District
+	temp.TotalStudentsAppeared = len(school.RankList)
+	temp.TotalStudentsPassed = school.TotalPass
+	temp.TotalStudentsFailed = school.TotalFailure
+	temp.PassPercentage = int(math.Round(school.PassPercentage*100) / 100.0)
+	temp.TotalFullAPlus = school.TotalFullAp
+	temp.TotalFullMarks = school.TotalFullMarks
+	var tableRows strings.Builder
+	if len(school.Results) == 0 {
+		tableRows.WriteString("<tr><td colspan='10'>No data available</td></tr>")
+	} else {
+		for i, student := range school.Results {
+			rowClass := "even-row"
+			if i%2 != 0 {
+				rowClass = "odd-row"
+			}
+			tableRows.WriteString(fmt.Sprintf(
+				`<tr class="%s">
+                    <td class="school-student-redirect" hx-get="/%s/search/student/%s" hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">%s</td>
+                    <td class="school-student-redirect" hx-get="/%s/search/student/%s" hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">%s</td>
+                    <td>%s</td>`,
+				rowClass,
+				requestType, student.RollNo, student.RollNo,
+				requestType, student.RollNo, student.Name,
+				student.Group,
+			))
+			for _, subject := range student.Subjects {
+				subjectCell := ""
+				if subject.Name != "" {
+					marks := ""
+					if subject.Marks != nil {
+						marks = fmt.Sprintf("%v", *subject.Marks)
+					}
+					subjectCell = fmt.Sprintf(
+						`%s: <span class='marks'>%s</span> (<span class='grade'>%s</span>)`,
+						subject.Name, marks, subject.Grade,
+					)
+				}
+				tableRows.WriteString(fmt.Sprintf("<td>%s</td>", subjectCell))
+			}
+			resultClass := "fail"
+			if student.Result == "EHS" {
+				resultClass = "pass"
+			}
+			tableRows.WriteString(fmt.Sprintf(`<td class="%s">%s</td></tr>`, resultClass, student.Result))
+		}
+	}
+	temp.TableRows = template.HTML(tableRows.String())
+
+	c.Set("Content-Type", "text/html")
+	if err := tmpl.Execute(c.Response().BodyWriter(), temp); err != nil {
+		log.Println("Error executing template:", err)
+		return c.Status(500).SendString("Error rendering template")
+	}
+	return nil
+	c.Set("Content-Type", "text/html")
+	if err := tmpl.Execute(c.Response().BodyWriter(), temp); err != nil {
+		log.Println("Error executing template:", err)
+		return c.Status(500).SendString("Error rendering template")
+	}
+	return nil
+
+}
+
 // func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 
 // 	student, err := utils.ReadFile[types.SchoolResult]("./public/" + requestType + "/schools/" + schoolCode + ".json")
