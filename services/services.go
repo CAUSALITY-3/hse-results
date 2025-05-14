@@ -285,13 +285,6 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 		return c.Status(500).SendString("Error rendering template")
 	}
 	return nil
-	c.Set("Content-Type", "text/html")
-	if err := tmpl.Execute(c.Response().BodyWriter(), temp); err != nil {
-		log.Println("Error executing template:", err)
-		return c.Status(500).SendString("Error rendering template")
-	}
-	return nil
-
 }
 
 // func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
