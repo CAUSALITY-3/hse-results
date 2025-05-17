@@ -84,9 +84,6 @@
                     <div id="chart_div_school_page" class="chart-only"></div>
                 </div> -->
         </div>
-        <style>
-
-        </style>
         <div class="result-section" id="resultSection">
             <table>
                 <thead>
@@ -165,74 +162,70 @@
                 </tbody>
             </table>
         </div>
-    </div>
-    <script>
-        function loadScript(src, callback) {
-            if (document.querySelector(`script[src="${src}"]`)) {
-                if (callback) callback();
-                return;
+        <script>
+            function loadScript(src, callback) {
+                if (document.querySelector(`script[src="${src}"]`)) {
+                    if (callback) callback();
+                    return;
+                }
+                const script = document.createElement('script');
+                script.src = src;
+                script.onload = callback;
+                script.onerror = function () {
+                    console.error(`Failed to load script: ${src}`);
+                };
+                document.head.appendChild(script);
             }
-            const script = document.createElement('script');
-            script.src = src;
-            script.onload = callback;
-            script.onerror = function () {
-                console.error(`Failed to load script: ${src}`);
+
+            function zoomFn() {
+                window.onload = () => adjustZoom(["resultSection", "resultRankSection"]);
+                window.onresize = () => adjustZoom(["resultSection", "resultRankSection"]);
+                adjustZoom(["resultSection", "resultRankSection"]);
+
+                // const schoolResult = JSON.parse('{{ .SchoolResult }}');
+                // const tableBody = document.getElementById("resultTableBody");
+                // if (!schoolResult || schoolResult.length === 0) {
+                //     tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
+                //     return;
+                // }
+                // schoolResult.forEach((student, index) => {
+                //     const row = document.createElement("tr");
+                //     row.className = index % 2 === 0 ? "even-row" : "odd-row";
+                //     row.innerHTML = `
+                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
+                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
+                //     <td>${student.group}</td>
+                //     ${student.subjects.map((subject, index) => {
+                //         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
+                //     }).join('')}
+                //     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
+                // `;
+                //     tableBody.appendChild(row);
+                // });
+                // htmx.process(document.getElementById("resultTableBody"));
             };
-            document.head.appendChild(script);
-        }
 
-        function zoomFn() {
-            window.onload = () => adjustZoom(["resultSection", "resultRankSection"]);
-            window.onresize = () => adjustZoom(["resultSection", "resultRankSection"]);
-            adjustZoom(["resultSection", "resultRankSection"]);
+            // loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+            //     loadScript('/static/js/main.js', async function () {
 
-            // const schoolResult = JSON.parse('{{ .SchoolResult }}');
-            // const tableBody = document.getElementById("resultTableBody");
-            // if (!schoolResult || schoolResult.length === 0) {
-            //     tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
-            //     return;
-            // }
-            // schoolResult.forEach((student, index) => {
-            //     const row = document.createElement("tr");
-            //     row.className = index % 2 === 0 ? "even-row" : "odd-row";
-            //     row.innerHTML = `
-            //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
-            //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
-            //     <td>${student.group}</td>
-            //     ${student.subjects.map((subject, index) => {
-            //         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
-            //     }).join('')}
-            //     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
-            // `;
-            //     tableBody.appendChild(row);
+            //     console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+            //     await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+            //     zoomFn()
+            //     });
             // });
-            // htmx.process(document.getElementById("resultTableBody"));
-        };
 
-        // loadScript('https://www.gstatic.com/charts/loader.js', async function () {
-        //     loadScript('/static/js/main.js', async function () {
+            loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+                loadScript('/static/js/main.js', async function () {
 
-        //     console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-        //     await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-        //     zoomFn()
-        //     });
-        // });
-
-        // Ensure the above code runs when the page loads
-        // window.addEventListener('DOMContentLoaded', function () {
-        loadScript('https://www.gstatic.com/charts/loader.js', async function () {
-            loadScript('/static/js/main.js', async function () {
-
-                console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-                await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-                zoomFn()
+                    console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+                    await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+                    zoomFn()
+                });
             });
-        });
-        // });
 
-
-    </script>
+        </script>
     </div>
+
 </body>
 
 </html>
