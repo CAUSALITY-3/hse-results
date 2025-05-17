@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div id="school-page" class=".school-page-container">
+    <div id="school-page" class="school-page-container">
         <div id="school-page-back-to-search" hx-get="/static/pages/schoolSearch.html" hx-swap="outerHTML"
             hx-target="#school-page" hx-select="#school-search-page"> 🔙 Search
         </div>
@@ -115,92 +115,123 @@
             <div class="school-rank-container">
                 <div class="school-chart-name">Overall Rank based on pass percentage</div>
                 <div class="school-rank-details">
-                    <div class="school-rank-details-item">Rank: <span id="school-overall-rank"
-                            class="school-rank-value"></span></div>
-                    <div class="school-rank-details-item">Total schools: <span id="school-total-overall-count"
-                            class="school-rank-value"></span></div>
-                    <div class="school-rank-details-item">Total schools Ahead: <span
-                            id="school-total-overall-ahead-count" class="school-rank-value"></span></div>
-                    <div class="school-rank-details-item">Total schools Behind: <span
-                            id="school-total-overall-behind-count" class="school-rank-value"></span></div>
-                    <div class="school-rank-details-item">Total schools with same pass %: <span
-                            id="school-total-overall-same-count" class="school-rank-value"></span></div>
+                    <div class="school-result-analysis-item">
+                        <div class="school-rank-details-item">Rank:
+                            <span id="school-overall-rank" class="school-rank-value"></span>
+                        </div>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <div class="school-rank-details-item">Total Schools:
+                            <span id="school-total-overall-count" class="school-rank-value"></span>
+                        </div>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <div class="school-rank-details-item">Total Schools Ahead:
+                            <span id="school-total-overall-ahead-count" class="school-rank-value"></span>
+                        </div>
+                    </div>
+                    <div class="school-result-analysis-item">
+                        <div class="school-rank-details-item">Total Schools Behind:
+                            <span id="school-total-overall-behind-count" class="school-rank-value"></span>
+                        </div>
+                    </div>
+                    <div class="school-rank-details-item">Total Schools with same Rank:
+                        <span id="school-total-overall-same-count" class="school-rank-value"></span>
+                    </div>
                 </div>
+
                 <div class="school-chart-section">
                     <div id="chart_div_school_page" class="chart-only-school"></div>
                 </div>
             </div>
-
-            <div class="school-rank-list-title">Rank List</div>
-            <div id="resultRankSection" class="result-section {{ .DisplayRank }}">
-
-                <table>
-                    <thead>
-                        <tr>
-                            <th class="result-table-header first-header">Roll No</th>
-                            <th class="result-table-header">Name</th>
-                            <th class="result-table-header">Group</th>
-                            <th class="result-table-header">Total Marks</th>
-                            <th class="result-table-header">Rank</th>
-                            <th class="result-table-header last-header">Result</th>
-                        </tr>
-                    </thead>
-                    <tbody id="rankResultTableBody">
-                        {{ .RankTableRows }}
-                    </tbody>
-                </table>
-            </div>
         </div>
-        <script>
-            function loadScript(src, callback) {
-                if (document.querySelector(`script[src="${src}"]`)) {
-                    if (callback) callback();
-                    return;
-                }
-                const script = document.createElement('script');
-                script.src = src;
-                script.onload = callback;
-                script.onerror = function () {
-                    console.error(`Failed to load script: ${src}`);
-                };
-                document.head.appendChild(script);
+
+        <div class="school-rank-list-title">Rank List</div>
+        <div id="resultRankSection" class="result-section {{ .DisplayRank }}">
+
+            <table>
+                <thead>
+                    <tr>
+                        <th class="result-table-header first-header">Roll No</th>
+                        <th class="result-table-header">Name</th>
+                        <th class="result-table-header">Group</th>
+                        <th class="result-table-header">Total Marks</th>
+                        <th class="result-table-header">Rank</th>
+                        <th class="result-table-header last-header">Result</th>
+                    </tr>
+                </thead>
+                <tbody id="rankResultTableBody">
+                    {{ .RankTableRows }}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script>
+        function loadScript(src, callback) {
+            if (document.querySelector(`script[src="${src}"]`)) {
+                if (callback) callback();
+                return;
             }
-
-            loadScript("/static/js/main.js", zoomFn);
-            function zoomFn() {
-                window.onload = () => adjustZoom(["resultSection", "resultRankSection"]);
-                window.onresize = () => adjustZoom(["resultSection", "resultRankSection"]);
-                adjustZoom(["resultSection", "resultRankSection"]);
-
-                // const schoolResult = JSON.parse('{{ .SchoolResult }}');
-                // const tableBody = document.getElementById("resultTableBody");
-                // if (!schoolResult || schoolResult.length === 0) {
-                //     tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
-                //     return;
-                // }
-                // schoolResult.forEach((student, index) => {
-                //     const row = document.createElement("tr");
-                //     row.className = index % 2 === 0 ? "even-row" : "odd-row";
-                //     row.innerHTML = `
-                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
-                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
-                //     <td>${student.group}</td>
-                //     ${student.subjects.map((subject, index) => {
-                //         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
-                //     }).join('')}
-                //     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
-                // `;
-                //     tableBody.appendChild(row);
-                // });
-                // htmx.process(document.getElementById("resultTableBody"));
+            const script = document.createElement('script');
+            script.src = src;
+            script.onload = callback;
+            script.onerror = function () {
+                console.error(`Failed to load script: ${src}`);
             };
+            document.head.appendChild(script);
+        }
 
-            loadScript('https://www.gstatic.com/charts/loader.js', async function () {
-                loadScript('/static/js/main.js', async function () {
-                    await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-                });
+        function zoomFn() {
+            window.onload = () => adjustZoom(["resultSection", "resultRankSection"]);
+            window.onresize = () => adjustZoom(["resultSection", "resultRankSection"]);
+            adjustZoom(["resultSection", "resultRankSection"]);
+
+            // const schoolResult = JSON.parse('{{ .SchoolResult }}');
+            // const tableBody = document.getElementById("resultTableBody");
+            // if (!schoolResult || schoolResult.length === 0) {
+            //     tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
+            //     return;
+            // }
+            // schoolResult.forEach((student, index) => {
+            //     const row = document.createElement("tr");
+            //     row.className = index % 2 === 0 ? "even-row" : "odd-row";
+            //     row.innerHTML = `
+            //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
+            //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
+            //     <td>${student.group}</td>
+            //     ${student.subjects.map((subject, index) => {
+            //         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
+            //     }).join('')}
+            //     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
+            // `;
+            //     tableBody.appendChild(row);
+            // });
+            // htmx.process(document.getElementById("resultTableBody"));
+        };
+
+        // loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+        //     loadScript('/static/js/main.js', async function () {
+
+        //     console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+        //     await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+        //     zoomFn()
+        //     });
+        // });
+
+        // Ensure the above code runs when the page loads
+        // window.addEventListener('DOMContentLoaded', function () {
+        loadScript('https://www.gstatic.com/charts/loader.js', async function () {
+            loadScript('/static/js/main.js', async function () {
+
+                console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+                await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+                zoomFn()
             });
-        </script>
+        });
+        // });
+
+
+    </script>
     </div>
 </body>
 

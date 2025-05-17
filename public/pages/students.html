@@ -26,7 +26,7 @@
             <div class="student-name">{{ .Name }}</div>
             <div class="student-rollno">{{ .RollNo }}</div>
             <div class="student-school" hx-get="/{{ .MainRoute }}/search/school/{{ .SchoolCode }}" hx-swap="outerHTML"
-                hx-target="body" hx-select="#school-page"
+                hx-target="#students-page" hx-select="#school-page"
                 hx-push-url="/{{ .MainRoute }}/search/school/{{ .SchoolCode }}">{{
                 .SchoolName }} - {{ .SchoolCode }}</div>
         </div>

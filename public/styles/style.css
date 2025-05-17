@@ -898,7 +898,11 @@ tbody tr:last-child td {
     /* width: 1200px;
                 max-width: 1200px; */
     /* width: 1400px; */
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
     padding: 60px 20px;
     background: #252525;
     border-radius: 10px;
@@ -1066,12 +1070,12 @@ th {
     scrollbar-color: #444 #252525;
 }
 
-.school-page-container {
+/* .school-page-container {
     padding: 60px 20px;
     background: #252525;
     border-radius: 10px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
-}
+} */
 
 h1,
 h2 {
@@ -1212,6 +1216,7 @@ tbody tr:nth-child(odd) {
 
 .school-header {
     /* background: linear-gradient(90deg, #232526 0%, #414345 100%); */
+    width: 100vw;
     border-radius: 12px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
     padding: 32px 24px 24px 24px;
@@ -1274,19 +1279,9 @@ tbody tr:nth-child(odd) {
     flex-wrap: wrap;
     justify-content: center;
     gap: 18px 32px;
-    margin-top: 10px;
-}
-
-.school-result-analysis-item {
-    background: rgba(74, 144, 226, 0.08);
-    border-radius: 6px;
-    padding: 10px 18px;
-    min-width: 150px;
-    display: flex;
-    /* flex-direction: column; */
-    align-items: center;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
-    gap: 5px;
+    padding: 20px 0;
+    background-color: #2e2e2e;
+    border-radius: 10px;
 }
 
 .school-result-analysis-label {
@@ -1330,11 +1325,6 @@ tbody tr:nth-child(odd) {
         align-items: center;
         gap: 10px;
     }
-
-    .school-result-analysis-item {
-        min-width: 160px;
-        width: 100%;
-    }
 }
 
 .school-student-rank {
@@ -1352,7 +1342,6 @@ tbody tr:nth-child(odd) {
     font-weight: 700;
     color: #ffd700;
     text-align: center;
-    margin: 10px 0;
 }
 
 .school-chart-section {
@@ -1360,7 +1349,50 @@ tbody tr:nth-child(odd) {
     height: 520px;
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
     justify-content: center;
     overflow: auto;
+}
+@media (max-width: 700px) {
+    .school-chart-section {
+        align-items: start;
+    }
+}
+
+.school-chart-name {
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffcc00b2;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 0 10px;
+}
+
+.school-rank-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 16px;
+    border-radius: 12px;
+    justify-content: center;
+    align-items: center;
+}
+
+.school-rank-details-item {
+    padding: 16px;
+    border-radius: 10px;
+    background: #3b3b3b;
+    font-size: 16px;
+    font-weight: 700;
+    white-space: nowrap;
+    flex: 0 1 auto;
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+.school-rank-value {
+    font-weight: 700;
+    color: #ffd000b4;
+    font-size: 18px;
 }

@@ -95,7 +95,7 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
           console.log("Fetched and cached data:", markCount);
         });
     }
-    setRankDetails(userMark, "group", markCount, true);
+    setRankDetails(userMark, "overall", markCount, true);
   } else {
     let groupValue = group.toLowerCase();
     let lsValue;
@@ -127,8 +127,18 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
     console.log("Drawing chart with userMark:", userMark, elementId);
     const data = new google.visualization.DataTable();
     data.addColumn("number", "Mark");
-    data.addColumn("number", "Number of Students");
-    data.addColumn("number", "Number of Students");
+    data.addColumn(
+      "number",
+      elementId === "chart_div_school_page"
+        ? "Number of Schools"
+        : "Number of Students"
+    );
+    data.addColumn(
+      "number",
+      elementId === "chart_div_school_page"
+        ? "Number of Schools"
+        : "Number of Students"
+    );
 
     const chartData = Object.entries(markCount).map(([mark, count]) => {
       const m = parseInt(mark);
@@ -160,13 +170,13 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
       hAxis: {
         title:
           elementId === "chart_div_school_page" ? "Pass Percentage" : "Mark",
-        direction: elementId === "chart_div_school_page" ? 1 : -1,
+        direction: -1,
         textStyle: { color: "#ababab" },
         titleTextStyle: { color: "#ffffff" },
         gridlines: { color: "#444444" },
         viewWindow: {
           min: elementId === "chart_div" ? 1 : -2,
-          max: elementId === "chart_div_school_page" ? 105 : 1200,
+          max: elementId === "chart_div_school_page" ? 100 : 1200,
         },
       },
       vAxis: {
@@ -207,12 +217,15 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
     if (group === "overall") {
       console.log("Overall group rank:", rank);
     }
+    console.log(prefix, group);
     const rankElement = document.getElementById(`${prefix}-${group}-rank`);
+    console.log({ rankElement: `${prefix}-${group}-rank` });
     if (rankElement) rankElement.innerText = rank;
 
     const totalCountElement = document.getElementById(
       `${prefix}-total-${group}-count`
     );
+    console.log({ totalCountElement: `${prefix}-${group}-rank` });
     if (totalCountElement) totalCountElement.innerText = totalCount;
 
     const aheadCountElement = document.getElementById(
