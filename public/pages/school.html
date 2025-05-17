@@ -144,6 +144,17 @@
         </div>
 
         <div class="school-rank-list-title">Rank List</div>
+        <div class="student-rank-container">
+            <div class="student-chart-name">School Wise Rank</div>
+            <div class="student-rank-details">
+                <div class="student-rank-details-item">Total Students: <span id="student-total-school-count"
+                        class="student-rank-value"></span>
+                </div>
+            </div>
+            <div class="student-chart-section">
+                <div id="chart_div_school" class="chart-only"></div>
+            </div>
+        </div>
         <div id="resultRankSection" class="result-section {{ .DisplayRank }}">
 
             <table>
@@ -219,6 +230,7 @@
 
                     console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
                     await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
+                    await loadGoogleCharts(null, '{{ .MainRoute }}', '{{ .SchoolRankCode }}', "chart_div_school");
                     zoomFn()
                 });
             });

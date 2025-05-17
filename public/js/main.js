@@ -27,6 +27,7 @@ function adjustZoom(elementIds) {
 async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
   google.charts.load("current", { packages: ["corechart"] });
 
+  console.log("assssddddddd", userMark, mainRoute, group, elementId);
   let markCount = {};
   if (group === "overall") {
     let lsValue;
@@ -51,6 +52,7 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
     setRankDetails(userMark, "overall", markCount);
   } else if (group.startsWith("school_")) {
     const schoolCode = group.split("_")[1];
+    console.log("zxcvbbnn", mainRoute + "_" + schoolCode + "_rankCount");
     const key = mainRoute + "_" + schoolCode + "_rankCount";
     let lsValue;
     try {
@@ -143,11 +145,13 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
     const chartData = Object.entries(markCount).map(([mark, count]) => {
       const m = parseInt(mark);
 
-      return [
-        m,
-        m === parseInt(userMark) ? null : count, // Default line skips 1000
-        m === parseInt(userMark) ? count : null, // Only 1000 goes in highlight line
-      ];
+      return !userMark
+        ? [m, count, null]
+        : [
+            m,
+            m === parseInt(userMark) ? null : count, // Default line skips 1000
+            m === parseInt(userMark) ? count : null, // Only 1000 goes in highlight line
+          ];
     });
 
     chartData.sort((a, b) => a[0] - b[0]);

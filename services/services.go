@@ -183,6 +183,7 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 	temp.SchoolCode = school.SchoolCode
 	temp.MainRoute = requestType
 	temp.District = school.District
+	temp.SchoolRankCode = "school_" + school.SchoolCode
 	temp.TotalStudentsAppeared = len(school.RankList)
 	temp.TotalStudentsPassed = school.TotalPass
 	temp.TotalStudentsFailed = school.TotalFailure
@@ -230,6 +231,7 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 	temp.SchoolName = school.SchoolName
 	temp.SchoolCode = school.SchoolCode
 	temp.MainRoute = requestType
+	temp.SchoolRankCode = "school_" + school.SchoolCode
 	temp.District = school.District
 	temp.TotalStudentsAppeared = len(school.RankList)
 	temp.TotalStudentsPassed = school.TotalPass

@@ -111,4 +111,5 @@ type TemplateMappedSchoolResultData struct {
 	TableRows             template.HTML `json:"tableRows"`
 	RankTableRows         template.HTML `json:"rankTableRows"`
 	DisplayRank           string        `json:"displayRank"`
+	SchoolRankCode        string        `json:"schoolRankCode"`
 }
