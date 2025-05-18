@@ -7,6 +7,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"regexp"
 	"strings"
 	"sync"
 	"time"
@@ -210,4 +211,13 @@ func RateLimiterMiddleware(c *fiber.Ctx) error {
 	}
 	// }
 	return c.Next()
+}
+
+func ExtractRollNo(input string) string {
+	re := regexp.MustCompile(`\((\d+)\)`)
+	match := re.FindStringSubmatch(input)
+	if len(match) > 1 {
+		return match[1]
+	}
+	return ""
 }

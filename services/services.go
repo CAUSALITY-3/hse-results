@@ -240,6 +240,9 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 	temp.TotalFullAPlus = school.TotalFullAp
 	temp.TotalFullMarks = school.TotalFullMarks
 	temp.DisplayRank = "true"
+	temp.DisplayToppers = "true"
+	temp.DisplayFullAplus = "display-none"
+	temp.DisplayFullMark = "display-none"
 	var tableRows strings.Builder
 	if len(school.Results) == 0 {
 		temp.DisplayRank = "display-none"
@@ -282,6 +285,35 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 		}
 	}
 	temp.TableRows = template.HTML(tableRows.String())
+
+	var fullMarkStudentsRows strings.Builder
+	var fullApStudentsRows strings.Builder
+	if len(school.FullMarkStudents) == 0 && len(school.FullApStudents) == 0 {
+		temp.DisplayToppers = "display-none"
+	} else {
+		if len(school.FullMarkStudents) > 0 {
+			temp.DisplayFullMark = "true"
+			for _, student := range school.FullMarkStudents {
+				studentRollNo := utils.ExtractRollNo(student)
+				fullMarkStudentsRows.WriteString(fmt.Sprintf(
+					`<div class="school-student-redirect school-topper-student" hx-get="/%s/search/student/%s" hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">%s</div>`,
+					requestType, studentRollNo, student,
+				))
+			}
+		}
+		if len(school.FullApStudents) > 0 {
+			temp.DisplayFullAplus = "true"
+			for _, student := range school.FullApStudents {
+				studentRollNo := utils.ExtractRollNo(student)
+				fullApStudentsRows.WriteString(fmt.Sprintf(
+					`<div class="school-student-redirect school-topper-student" hx-get="/%s/search/student/%s" hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">%s</div>`,
+					requestType, studentRollNo, student,
+				))
+			}
+		}
+	}
+	temp.FullMarkStudents = template.HTML(fullMarkStudentsRows.String())
+	temp.FullApStudents = template.HTML(fullApStudentsRows.String())
 
 	var rankTableRows strings.Builder
 	if len(school.RankList) > 0 {
