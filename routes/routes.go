@@ -32,21 +32,27 @@ func SetupRouter() {
 	app.Get("/static/*", utils.ServeCompressedFile("./public"))
 
 	app.Get("/", func(c *fiber.Ctx) error {
-		return c.SendFile("./public/index.html")
+		c.Set("Content-Encoding", "gzip")
+		c.Type("html")
+		return c.SendFile("./public/index.html.gz")
 	})
 
 	app.Get("/chart", func(c *fiber.Ctx) error {
-		return c.SendFile("./public/chart.html")
+		c.Set("Content-Encoding", "gzip")
+		c.Type("html")
+		return c.SendFile("./public/chart.html.gz")
 	})
 
 	app.Get("/:resultType/search", func(c *fiber.Ctx) error {
 		resultType := c.Params("resultType") // Get dynamic class name
 		searchType := c.Query("searchType")  // Get dynamic class name
 		log.Println(resultType, searchType)
+		c.Set("Content-Encoding", "gzip")
+		c.Type("html")
 		if searchType == "school" {
-			return c.SendFile("./public/pages/schoolSearch.html")
+			return c.SendFile("./public/pages/schoolSearch.html.gz")
 		}
-		return c.SendFile("./public/pages/search.html")
+		return c.SendFile("./public/pages/search.html.gz")
 	})
 
 	app.Get("/search/indivitual", func(c *fiber.Ctx) error {
