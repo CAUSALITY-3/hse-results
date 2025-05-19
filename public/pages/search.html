@@ -20,12 +20,12 @@
         </div>
         <div class="input-container">
             <form id="myForm">
-                <label for="nameOrRollNo">Search by Name or RollNo</label>
+                <label for="nameOrRollNo">Search by Name or Reg Number</label>
                 <div class="input-div-container">
                     <input type="text" id="nameOrRollNo" name="nameOrRollNo" hx-get="/hello"
                         hx-target="#search-response" hx-swap="innerHTML"
                         hx-trigger="keyup[keyCode==13 && this.value.length === 8 && !isNaN(this.value)]"
-                        placeholder="Enter your name or roll number">
+                        placeholder="Enter your name or reg number">
                     <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
                     <!-- <img id="search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]" hx-swap="outerHTML"
                         hx-select="#index-page" hx-target="#search-page"

@@ -203,6 +203,7 @@ func CeanupVisitors() {
 
 func RateLimiterMiddleware(c *fiber.Ctx) error {
 	// if rateLimiting {
+	// return c.Next()
 	ip := c.IP()
 	limiter := getVisitor(ip)
 

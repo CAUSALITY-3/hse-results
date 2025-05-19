@@ -177,7 +177,6 @@ func GetSchoolResults(c *fiber.Ctx, requestType, schoolCode string) error {
 		log.Println("Error marshaling school results:", err)
 		return c.Status(500).SendString("Error processing school results")
 	}
-	fmt.Println("SchoolResult", string(SchoolResultJSON))
 	temp.SchoolResult = string(SchoolResultJSON)
 	temp.SchoolName = school.SchoolName
 	temp.SchoolCode = school.SchoolCode
@@ -214,19 +213,11 @@ func GetSchoolResultsServerSide(c *fiber.Ctx, requestType, schoolCode string) er
 	}
 	var temp types.TemplateMappedSchoolResultData
 
-	// SchoolResult, err := json.Marshal(school)
-	// if err != nil {
-	// 	fmt.Println("Error:", err)
-	// 	return err
-	// }
-	// fmt.Println("SchoolResult", string(SchoolResult))
-
 	SchoolResultJSON, err := json.Marshal(school.Results)
 	if err != nil {
 		log.Println("Error marshaling school results:", err)
 		return c.Status(500).SendString("Error processing school results")
 	}
-	fmt.Println("SchoolResult", string(SchoolResultJSON))
 	temp.SchoolResult = string(SchoolResultJSON)
 	temp.SchoolName = school.SchoolName
 	temp.SchoolCode = school.SchoolCode

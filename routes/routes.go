@@ -66,9 +66,8 @@ func SetupRouter() {
 	app.Get("/:resultType/search/student/:rollno", compress.New(), func(c *fiber.Ctx) error {
 		resultType := c.Params("resultType")
 		rollNo := c.Params("rollno")
-		log.Println(resultType, rollNo)
 
-		err := services.GetStudentResults(c, resultType, "23274662")
+		err := services.GetStudentResults(c, resultType, rollNo)
 		if err != nil {
 			log.Println("Error executing template:", err)
 			return c.Status(500).SendString("Error rendering template")
@@ -83,13 +82,16 @@ func SetupRouter() {
 		schoolCode := c.Params("schoolCode")
 		log.Println(resultType, schoolCode)
 
-		err := services.GetSchoolResultsServerSide(c, resultType, schoolCode)
-		if err != nil {
-			log.Println("Error executing template:", err)
-			return c.Status(500).SendString("Error rendering template")
-		}
+		c.Set("Content-Encoding", "gzip")
+		c.Type("html")
+		return c.SendFile("./public/" + resultType + "/schoolPages/" + schoolCode + ".html.gz")
+		// err := services.GetSchoolResultsServerSide(c, resultType, schoolCode)
+		// if err != nil {
+		// 	log.Println("Error executing template:", err)
+		// 	return c.Status(500).SendString("Error rendering template")
+		// }
 
-		return nil
+		// return nil
 
 	})
 

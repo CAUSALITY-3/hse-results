@@ -12,11 +12,8 @@ function adjustZoom(elementIds) {
       continue;
     }
     if (screenWidth < pageWidth) {
-      console.log(pageWidth, screenWidth, "kklklklklk");
       let scaleFactor = screenWidth / pageWidth;
       element.style.zoom = scaleFactor;
-      console.log(scaleFactor);
-      // document.body.style.transformOrigin = 'top left';
     } else {
       element.style.zoom = 1;
     }
@@ -26,8 +23,6 @@ function adjustZoom(elementIds) {
 // Function to load Google Charts and draw the chart
 async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
   google.charts.load("current", { packages: ["corechart"] });
-
-  console.log("assssddddddd", userMark, mainRoute, group, elementId);
   let markCount = {};
   if (group === "overall") {
     let lsValue;
