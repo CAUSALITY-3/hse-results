@@ -175,8 +175,6 @@ func MnitorSystem() {
 func getVisitor(ip string) *rate.Limiter {
 	mu.Lock()
 	defer mu.Unlock()
-
-	fmt.Println("Visitor IP", ip)
 	v, exists := visitors[ip]
 	if !exists {
 		limiter := rate.NewLimiter(5, 10) // 5 requests per second, burst of 10
@@ -201,15 +199,20 @@ func CeanupVisitors() {
 	}
 }
 
-func RateLimiterMiddleware(c *fiber.Ctx) error {
-	// if rateLimiting {
-	// return c.Next()
-	fmt.Println("X-Real-IP:", c.Get("X-Real-IP"))
-	fmt.Println("X-Forwarded-For:", c.Get("X-Forwarded-For"))
-	fmt.Println("RemoteAddr:", c.Context().RemoteAddr().String())
-	fmt.Println("Fiber IP:", c.IP())
+func getClientIP(c *fiber.Ctx) string {
+	if xff := c.Get("X-Forwarded-For"); xff != "" {
+		parts := strings.Split(xff, ",")
+		return strings.TrimSpace(parts[0])
+	}
+	if xrip := c.Get("X-Real-IP"); xrip != "" {
+		return xrip
+	}
+	return c.IP()
+}
 
-	ip := c.IP()
+func RateLimiterMiddleware(c *fiber.Ctx) error {
+
+	ip := getClientIP(c)
 	limiter := getVisitor(ip)
 
 	if !limiter.Allow() {
