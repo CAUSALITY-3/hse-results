@@ -16,7 +16,6 @@ import (
 
 func SetupRouter() {
 	app := fiber.New(fiber.Config{
-		ProxyHeader:             "X-Forwarded-For",
 		EnableTrustedProxyCheck: true,
 	})
 	app.Use(cors.New())
