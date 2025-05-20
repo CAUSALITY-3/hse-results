@@ -30,45 +30,13 @@ func ServeCompressedFile(root string) fiber.Handler {
 	return func(c *fiber.Ctx) error {
 		filePath := filepath.Join(root, c.Params("*"))
 
-		// Check accepted encodings
-		acceptEncoding := c.Get("Accept-Encoding")
-
-		var tryEncodings []struct {
-			ext      string
-			encoding string
-		}
-
 		if _, err := os.Stat(filePath + ".gz"); err == nil {
 
 			fmt.Println("Got Compressed path", filePath+".gz")
 			c.Set("Content-Encoding", "gzip")
-			c.Type(filepath.Ext(filePath)) // Set original content type
+			c.Type(filepath.Ext(filePath))
 			return c.SendFile(filePath+".gz", false)
 		}
-
-		// From line 46 to 67 can be removed
-		if strings.Contains(acceptEncoding, "br") {
-			tryEncodings = append(tryEncodings, struct {
-				ext, encoding string
-			}{".br", "br"})
-		}
-		if strings.Contains(acceptEncoding, "gzip") {
-			tryEncodings = append(tryEncodings, struct {
-				ext, encoding string
-			}{".gz", "gzip"})
-		}
-
-		for _, enc := range tryEncodings {
-			compressedPath := filePath + enc.ext
-			// Check if the compressed file exists
-			fmt.Println("Compressed path", compressedPath)
-			if _, err := os.Stat(compressedPath); err == nil {
-				c.Set("Content-Encoding", enc.encoding)
-				c.Type(filepath.Ext(filePath)) // Set original content type
-				return c.SendFile(compressedPath, false)
-			}
-		}
-
 		// fallback: serve original file
 		return c.SendFile(filePath, false)
 	}
@@ -198,6 +166,12 @@ func CeanupVisitors() {
 			}
 		}
 		mu.Unlock()
+		statsMu.Lock()
+		activeUserStats = append(activeUserStats, ActiveUserStat{
+			Timestamp: time.Now().Truncate(time.Second),
+			Count:     len(visitors),
+		})
+		statsMu.Unlock()
 	}
 }
 
@@ -233,4 +207,65 @@ func ExtractRollNo(input string) string {
 		return match[1]
 	}
 	return ""
+}
+
+type ActiveUserStat struct {
+	Timestamp time.Time `json:"timestamp"`
+	Count     int       `json:"count"`
+}
+
+var (
+	activeUserStats []ActiveUserStat
+	statsMu         sync.Mutex
+)
+
+func ActiveUsers() int {
+	mu.Lock()
+	defer mu.Unlock()
+	count := 0
+	now := time.Now()
+	for _, v := range visitors {
+		if now.Sub(v.lastSeen) <= 3*time.Minute {
+			count++
+		}
+	}
+	return count
+}
+
+func TrackActiveUsers() {
+	ticker := time.NewTicker(3 * time.Minute)
+	defer ticker.Stop()
+	for {
+		<-ticker.C
+		count := len(visitors)
+		statsMu.Lock()
+		activeUserStats = append(activeUserStats, ActiveUserStat{
+			Timestamp: time.Now().Truncate(time.Second),
+			Count:     count,
+		})
+		statsMu.Unlock()
+	}
+}
+
+func PersistActiveUserStats() {
+	ticker := time.NewTicker(1 * time.Hour)
+	defer ticker.Stop()
+	for {
+		<-ticker.C
+		statsMu.Lock()
+		if len(activeUserStats) > 0 {
+			filename := fmt.Sprintf("./active-users/active_users_%s.json", time.Now().Format("2006-01-02T15"))
+			file, err := os.Create(filename)
+			if err == nil {
+				enc := json.NewEncoder(file)
+				enc.SetIndent("", "  ")
+				enc.Encode(activeUserStats)
+				file.Close()
+			} else {
+				log.Printf("Error creating stats file: %v", err)
+			}
+			activeUserStats = nil
+		}
+		statsMu.Unlock()
+	}
 }

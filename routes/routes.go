@@ -20,6 +20,7 @@ func SetupRouter() {
 	})
 	app.Use(cors.New())
 	app.Use(logger.New())
+	go utils.PersistActiveUserStats()
 
 	if os.Getenv("ENABLE_RESOURCE_LIMIT_FOR_RATE_LIMIT") == "true" {
 		go utils.MnitorSystem()
