@@ -199,7 +199,7 @@ async function loadGoogleCharts(userMark, mainRoute, group, elementId) {
   function setRankDetails(userMark, group, markCount, school = false) {
     const rankCount = markCount[userMark] || 0;
     const totalCount = Object.values(markCount).reduce((a, b) => a + b, 0);
-    let rank = 0;
+    let rank = 1;
     let behindMe = 0;
     for (const mark in markCount) {
       if (parseInt(mark) > parseInt(userMark)) {
