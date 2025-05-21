@@ -27,13 +27,6 @@
                     <input type="text" id="schoolNameOrCode" name="schoolNameOrCode"
                         placeholder="Enter your school name or code ...">
                     <img id="spinner" class="spinner" src="https://htmx.org/img/bars.svg" />
-                    <!-- <img id="school-search-go" hx-get="/hello" hx-trigger="click, keyup[keyCode==13]"
-                        hx-swap="outerHTML" hx-select="#index-page" hx-target="#school-search-page"
-                        hx-vals='js:{ schoolNameOrCode: document.getElementById("schoolNameOrCode").value }'
-                        src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c0c0c0' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 12h12M12 6l6 6-6 6'/></svg>"
-                        alt="Right Arrow"> -->
-
-
                 </div>
             </form>
             <div id="school-search-response">
@@ -60,10 +53,9 @@
                 let schoolCodeName;
 
                 function loadScript(src, callback) {
-                    // Check if script is already in the document
                     if (document.querySelector(`script[src="${src}"]`)) {
                         console.log(`Script ${src} already loaded.`);
-                        if (callback) callback(); // still call the callback to continue flow
+                        if (callback) callback();
                         return;
                     }
 
@@ -104,7 +96,7 @@
                     for (const code in schools) {
                         if (schools[code]?.toUpperCase()?.includes(pattern)) {
                             filteredSchools.push({
-                                name: schools[code],
+                                name: schools[code] + ` (${code})`,
                                 code
                             })
                         }
@@ -121,9 +113,9 @@
 
                     items.forEach((item, index) => {
                         setTimeout(() => {
-                            item.classList.add("hide"); // Add fade-out effect
-                            setTimeout(() => item.remove(), 100); // Remove after transition
-                        }, index * 50); // Delay each removal slightly
+                            item.classList.add("hide");
+                            setTimeout(() => item.remove(), 100);
+                        }, index * 50);
                     });
                 }
 
@@ -138,7 +130,7 @@
                             div.innerHTML = school.name;
                             div.style.opacity = "0"; // Start hidden
                             div.style.transform = "translateY(10px)";
-                            div.setAttribute("hx-get", `/${mainRoute}/search/school/${school.code}`); // Example URL
+                            div.setAttribute("hx-get", `/${mainRoute}/search/school/${school.code}`);
                             div.setAttribute("hx-trigger", "click");
                             div.setAttribute("hx-swap", "outerHTML");
                             div.setAttribute("hx-target", "body");
@@ -238,19 +230,17 @@
                             setTimeout(() => {
                                 fetchData();
                             }, 500)
-
-                            // Call API when div is visible
-                            observer.disconnect(); // Stop observing after first load
+                            observer.disconnect();
                         }
                     });
-                }, { threshold: 0.5 }); // 50% of the div must be visible
+                }, { threshold: 0.5 });
 
 
                 schoolObserver.observe(document.getElementById("school-search-myForm"));
 
                 document.getElementById("schoolNameOrCode").addEventListener("keydown", function (event) {
                     if (event.key === "Enter") {
-                        event.preventDefault(); // Stop Enter key from submitting the form
+                        event.preventDefault();
                     }
                 });
 

@@ -3,7 +3,6 @@ package routes
 import (
 	"log"
 	"os"
-	"time"
 
 	"hse-results/services"
 	"hse-results/utils"
@@ -40,15 +39,9 @@ func SetupRouter() {
 		return c.SendFile("./public/index.html.gz")
 	})
 
-	app.Get("/chart", func(c *fiber.Ctx) error {
-		c.Set("Content-Encoding", "gzip")
-		c.Type("html")
-		return c.SendFile("./public/chart.html.gz")
-	})
-
 	app.Get("/:resultType/search", func(c *fiber.Ctx) error {
-		resultType := c.Params("resultType") // Get dynamic class name
-		searchType := c.Query("searchType")  // Get dynamic class name
+		resultType := c.Params("resultType")
+		searchType := c.Query("searchType")
 		log.Println(resultType, searchType)
 		c.Set("Content-Encoding", "gzip")
 		c.Type("html")
@@ -96,15 +89,6 @@ func SetupRouter() {
 
 		// return nil
 
-	})
-
-	app.Get("/hello", func(c *fiber.Ctx) error {
-		time.Sleep(0 * time.Second)
-		searchText := c.Query("nameOrRollNo")
-
-		log.Println("query params : ", searchText)
-		// return c.SendString("<li>Hello World!</li>")
-		return c.SendFile("./public/index.html")
 	})
 
 	app.Use(func(c *fiber.Ctx) error {

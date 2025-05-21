@@ -25,9 +25,30 @@ html {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 20px;
     height: 100vh;
     width: 100vw;
     background-color: #1e1e1e;
+}
+
+.available-results-new {
+    position: relative;
+}
+.available-results-new > .available-results-title {
+    color: #646464;
+}
+
+.coming-soon-tag {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #ffcc00;
+    color: #000;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
 }
 
 @keyframes fadeIn {
@@ -42,7 +63,7 @@ html {
     }
 }
 
-#available-results {
+.available-results {
     animation: fadeIn .5s ease-in-out;
     display: flex;
     flex-direction: column;
@@ -59,14 +80,14 @@ html {
 }
 
 @media screen and (max-width: 800px) {
-    #available-results {
+    .available-results {
         width: 80vw;
         height: 150px;
     }
 }
 
 
-#available-results-title {
+.available-results-title {
     font-size: 24px;
     font-weight: bold;
     color: #dadada;
@@ -131,6 +152,7 @@ html {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-right: 20px;
 }
 
 .school-student-chart-section{
@@ -216,6 +238,7 @@ html {
     gap: 10px;
     padding: 15px;
     border-bottom: 2px solid #444;
+    margin-top: 50px;
 }
 
 .student-name {
@@ -932,24 +955,6 @@ h2 {
     margin-bottom: 15px;
 }
 
-.result-section {
-    max-height: 85vh;
-    overflow-y: auto;
-    border-radius: 5px;
-    border: 1px solid #444;
-}
-
-@media (max-width: 600px) {
-    .result-section {
-        overflow-y: scroll;
-        border-radius: 5px;
-        border: 1px solid #444;
-        max-height: 300vh;
-    }
-
-
-}
-
 table {
     width: 100%;
     border-collapse: collapse;
@@ -996,6 +1001,22 @@ th {
     font-weight: bold;
 }
 
+.school-table-head {
+    display: flex;
+    width: 100%;
+    background: #2d2d2d;
+    letter-spacing: 0.5px;
+    text-shadow: 0 2px 8px rgba(255, 215, 0, 0.18);
+    padding: 0 15px 0 5px;
+}
+
+.school-table-head > div {
+    flex: 1 1 0;
+    text-align: center;
+    padding: 0 8px;
+    border-right: 1px solid #b1a886;
+}
+
 .result-table-header {
     background: #2d2d2d;
     font-weight: 800;
@@ -1004,18 +1025,18 @@ th {
     text-shadow: 0 2px 8px rgba(255, 215, 0, 0.18);
     padding: 14px 10px;
     text-align: center;
-    border: 1px solid #b1a886;
+    border: 1px solid #a5a299;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 1.12rem;
     box-shadow: 0 2px 8px rgba(255, 215, 0, 0.10);
 }
 
-.result-table-header.first-header {
-    border-top-left-radius: 10px;
-}
-
 
 .school-top-section {
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 @keyframes shimmer {
@@ -1087,17 +1108,37 @@ th {
     scrollbar-color: #444 #252525;
 }
 
-/* .school-page-container {
-    padding: 60px 20px;
-    background: #252525;
-    border-radius: 10px;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
-} */
-
 h1,
 h2 {
     text-align: center;
     margin-bottom: 15px;
+}
+
+.school-main-result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0;
+    background: #2e2e2e;
+    border-radius: 10px;
+}
+
+.school-main-result-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffcc00b2;
+}
+
+@media screen and (max-width: 800px) {
+    .school-main-result-title {
+        font-size: 20px;
+    }
+    .school-main-result {
+        padding: 10px 0;
+        gap: 10px;
+    }
 }
 
 .result-section {
@@ -1105,13 +1146,13 @@ h2 {
     /* margin-top: 32px; */
     /* max-width: 1200px; */
     background: linear-gradient(90deg, #232526 0%, #414345 100%);
-    border-radius: 12px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
     /* padding: 32px 24px 24px 24px; */
     border: 1px solid #444;
     max-height: 85vh;
-    overflow-y: auto;
     transition: box-shadow 0.2s;
+    overflow-y: auto;
+    border-radius: 5px;
 }
 
 .result-section:hover,
@@ -1200,11 +1241,6 @@ tbody tr:nth-child(odd) {
 }
 
 @media (max-width: 900px) {
-    .result-section {
-        /* padding: 16px 4px 12px 4px; */
-        /* max-width: 100vw; */
-    }
-
     th,
     td {
         padding: 8px 4px;
@@ -1237,7 +1273,6 @@ tbody tr:nth-child(odd) {
     border-radius: 12px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
     padding: 32px 24px 24px 24px;
-    margin-bottom: 24px;
     position: relative;
     overflow: hidden;
 }
@@ -1351,7 +1386,7 @@ tbody tr:nth-child(odd) {
 }
 
 .display-none {
-    display: none;
+    display: none !important;
 }
 
 .school-rank-list-title {
@@ -1369,10 +1404,12 @@ tbody tr:nth-child(odd) {
     align-items: center;
     justify-content: center;
     overflow: auto;
+    padding-left: 20px;
 }
 @media (max-width: 700px) {
     .school-chart-section {
         align-items: start;
+        padding-left: 0;
     }
 }
 
@@ -1425,14 +1462,14 @@ tbody tr:nth-child(odd) {
     background-color: #2e2e2e;
     border-radius: 8px;
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
-    height: 70vh;
-    overflow-y: auto;
+    /* max-height: 70vh; */
+    /* overflow-y: auto; */
 }
 
 .top-students-title {
     font-size: 1.5rem;
     font-weight: 700;
-    color: #ffd700;
+    color: #ffcc00b2;
     text-align: center;
     margin-bottom: 10px;
     padding: 0 10px;
@@ -1442,7 +1479,7 @@ tbody tr:nth-child(odd) {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     /* justify-content: flex-start; */
     gap: 10px;
     /* width: 100%; */
@@ -1455,7 +1492,7 @@ tbody tr:nth-child(odd) {
 .school-top-students-title {
     font-size: 1.1rem;
     font-weight: 700;
-    color: #ffd900a6;
+    color: #00ff22a6;
     text-align: center;
     margin-bottom: 4px;
     padding: 0 4px;
@@ -1473,6 +1510,8 @@ tbody tr:nth-child(odd) {
     padding: 0;
     background: none;
     border-radius: 6px;
+    overflow-y: auto;
+    max-height: 40vh;
 }
 
 .school-topper-student {

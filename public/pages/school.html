@@ -65,48 +65,32 @@
                     justify-content: center;
                 }
             </style>
-            <!-- <div class="school-rank-container">
-                    <div class="school-chart-name">Overall Rank</div>
-                    <div class="school-rank-details">
-                        <div class="school-rank-details-item">Rank: <span id="school-overall-rank"
-                                class="school-rank-value"></span></div>
-                        <div class="school-rank-details-item">Total schools: <span id="school-total-overall-count"
-                                class="school-rank-value"></span></div>
-                        <div class="school-rank-details-item">Total schools Ahead of you: <span
-                                id="school-total-overall-ahead-count" class="school-rank-value"></span></div>
-                        <div class="school-rank-details-item">Total schools Behind you: <span
-                                id="school-total-overall-behind-count" class="school-rank-value"></span></div>
-                        <div class="school-rank-details-item">Total schools same as you: <span
-                                id="school-total-overall-same-count" class="school-rank-value"></span></div>
-                    </div>
-                </div> -->
-            <!-- <div class="school-pass-percent-chart">
-                    <div id="chart_div_school_page" class="chart-only"></div>
-                </div> -->
         </div>
-        <div class="result-section" id="resultSection">
-            <table>
-                <thead>
-                    <tr>
-                        <th class="result-table-header first-header">Reg No</th>
-                        <th class="result-table-header">Name</th>
-                        <th class="result-table-header">Group</th>
-                        <th class="result-table-header">Subject-1</th>
-                        <th class="result-table-header">Subject-2</th>
-                        <th class="result-table-header">Subject-3</th>
-                        <th class="result-table-header">Subject-4</th>
-                        <th class="result-table-header">Subject-5</th>
-                        <th class="result-table-header">Subject-6</th>
-                        <th class="result-table-header last-header">Result</th>
-                        <style>
 
-                        </style>
-                    </tr>
-                </thead>
-                <tbody id="resultTableBody">
-                    {{ .TableRows }}
-                </tbody>
-            </table>
+        <div class="school-main-result">
+            <div class="school-main-result-title">School Results</div>
+            <div id="resultSection">
+                <div class="school-table-head">
+                    <div class="result-table-header first-header">Reg No</div>
+                    <div class="result-table-header">Name</div>
+                    <div class="result-table-header">Group</div>
+                    <div class="result-table-header">Subject-1</div>
+                    <div class="result-table-header">Subject-2</div>
+                    <div class="result-table-header">Subject-3</div>
+                    <div class="result-table-header">Subject-4</div>
+                    <div class="result-table-header">Subject-5</div>
+                    <div class="result-table-header">Subject-6</div>
+                    <div class="result-table-header last-header">Result</div>
+                </div>
+                <div class="result-section">
+                    <table>
+
+                        <tbody id="resultTableBody">
+                            {{ .TableRows }}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
         <div class="school-result-analysis-section">
             <div class="school-rank-container">
@@ -159,35 +143,28 @@
             </div>
         </div>
 
-        <div id="resultRankSection" class="result-section {{ .DisplayRank }}">
-            <div class="school-rank-list-title">Rank List</div>
-            <table>
-                <thead>
-                    <tr>
-                        <th class="result-table-header first-header">Reg No</th>
-                        <th class="result-table-header">Name</th>
-                        <th class="result-table-header">Group</th>
-                        <th class="result-table-header">Total Marks</th>
-                        <th class="result-table-header">Rank</th>
-                        <th class="result-table-header last-header">Result</th>
-                    </tr>
-                </thead>
-                <tbody id="rankResultTableBody">
-                    {{ .RankTableRows }}
-                </tbody>
-            </table>
-        </div>
-        <!-- <div class="student-rank-container">
-            <div class="student-chart-name">School Wise Rank</div>
-            <div class="student-rank-details">
-                <div class="student-rank-details-item">Total Students: <span id="student-total-school-count"
-                        class="student-rank-value"></span>
+        <div class="school-main-result {{ .DisplayRank }}">
+            <div class="school-main-result-title">School Rank List</div>
+
+            <div id="resultRankSection">
+                <div class="school-table-head">
+                    <div class="result-table-header first-header">Reg No</div>
+                    <div class="result-table-header">Name</div>
+                    <div class="result-table-header">Group</div>
+                    <div class="result-table-header">Total Marks</div>
+                    <div class="result-table-header">Rank</div>
+                    <div class="result-table-header last-header">Result</div>
+                </div>
+                <div class="result-section">
+                    <table>
+
+                        <tbody id="rankResultTableBody">
+                            {{ .RankTableRows }}
+                        </tbody>
+                    </table>
                 </div>
             </div>
-            <div class="school-student-chart-section">
-                <div id="chart_div_school" class="school-chart-only"></div>
-            </div>
-        </div> -->
+        </div>
         <script>
             function loadScript(src, callback) {
                 if (document.querySelector(`script[src="${src}"]`)) {
@@ -207,38 +184,7 @@
                 window.onload = () => adjustZoom(["resultSection", "resultRankSection"]);
                 window.onresize = () => adjustZoom(["resultSection", "resultRankSection"]);
                 adjustZoom(["resultSection", "resultRankSection"]);
-
-                // const schoolResult = JSON.parse('{{ .SchoolResult }}');
-                // const tableBody = document.getElementById("resultTableBody");
-                // if (!schoolResult || schoolResult.length === 0) {
-                //     tableBody.innerHTML = "<tr><td colspan='10'>No data available</td></tr>";
-                //     return;
-                // }
-                // schoolResult.forEach((student, index) => {
-                //     const row = document.createElement("tr");
-                //     row.className = index % 2 === 0 ? "even-row" : "odd-row";
-                //     row.innerHTML = `
-                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.rollNo}</td>
-                //     <td class="school-student-redirect" hx-get=/{{ .MainRoute }}/search/student/${student.rollNo} hx-swap="outerHTML" hx-target="#school-page" hx-select="#students-page" hx-push-url="true">${student.name}</td>
-                //     <td>${student.group}</td>
-                //     ${student.subjects.map((subject, index) => {
-                //         return `<td>${subject.name ? `${subject.name}: <span class='marks'>${!subject.marks ? "" : subject.marks}</span> (<span class='grade'>${subject.grade}</span>)` : ''}</td>`;
-                //     }).join('')}
-                //     <td class="${student.result === 'EHS' ? 'pass' : 'fail'}">${student.result}</td>
-                // `;
-                //     tableBody.appendChild(row);
-                // });
-                // htmx.process(document.getElementById("resultTableBody"));
             };
-
-            // loadScript('https://www.gstatic.com/charts/loader.js', async function () {
-            //     loadScript('/static/js/main.js', async function () {
-
-            //     console.log('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-            //     await loadGoogleCharts('{{ .PassPercentage }}', '{{ .MainRoute }}', 'passPercentageCount', "chart_div_school_page")
-            //     zoomFn()
-            //     });
-            // });
 
             loadScript('https://www.gstatic.com/charts/loader.js', async function () {
                 loadScript('/static/js/main.js', async function () {

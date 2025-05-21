@@ -15,9 +15,17 @@
 
 <body>
     <div id="index-page">
-        <div id="available-results" hx-get="/09052024P2/search" hx-swap="outerHTML" hx-target="#index-page"
+        <div class="available-results available-results-new">
+            <div class="coming-soon-tag">
+                Coming Soon
+            </div>
+            <h3 class="available-results-title">
+                DHSE Plus Two Results May 2025
+            </h3>
+        </div>
+        <div class="available-results" hx-get="/09052024P2/search" hx-swap="outerHTML" hx-target="#index-page"
             hx-select="#search-page" hx-push-url="/09052024P2/search">
-            <h3 id="available-results-title">DHSE Plus Two Results May 2024</h3>
+            <h3 class="available-results-title">DHSE Plus Two Results May 2024</h3>
         </div>
     </div>
 
